@@ -25,7 +25,8 @@ The site's domain setup script identifies account `d8fb623c7f273b6064d02b397751d
 - Consent is remembered for 180 days and can be changed through the settings
   button on any page. Withdrawal disables measurement, clears the two GA4
   cookies and reloads the page to unload the SDK.
-- Only known public marketing routes are measured. Checkout, gift redemption,
+- Only known public marketing routes and the existing campaign landing pages
+  (`/ru/start`, `/tr/start`, `/de/start`, `/en/start`, `/ar/start`) are measured. Checkout, gift redemption,
   codes, unknown routes and legal documents are excluded.
 - Events: `page_view`, one `scroll` at 90% per public page, and `app_store_click`
   for this app's App Store links. Sessions and approximate geography are GA4
@@ -68,8 +69,18 @@ git pull --ff-only
 NODE_OPTIONS=--dns-result-order=ipv4first pnpm run deploy
 ```
 
-After publishing, open a public page, opt in and inspect GA4 Realtime / DebugView
-or the browser's Google Analytics collection requests. Before opting in, and
+After publishing, open a public page, opt in and inspect GA4 Realtime or the
+browser's Google Analytics collection requests. DebugView requires an enabled
+debug session, such as Tag Assistant. Before opting in, and
 after declining, there must be no analytics requests. Check the page URL and
 click destination parameters contain no query strings or codes. Standard
 reports populate after processing; an empty report before deployment is expected.
+Filter reports by Platform = Web or stream ID `16341022098` to keep website
+visits separate from the iOS stream in the same property.
+
+The new privacy edition (`2026-11-14`) is also sent in checkout's existing
+`terms.privacy` field. The backend source is not available in this checkout or
+through the connected repositories. Before deployment, its maintainer should
+confirm that `/v1/web/orders` accepts that edition (or update any exact-version
+validation there). No production purchase, payment or customer message was
+created to test this.

@@ -24,8 +24,9 @@ export function saveAnalyticsChoice(storage: Pick<Storage, 'setItem'>, choice: A
 
 // Only public marketing routes are measured. Gift codes, checkout, support
 // form values, URL queries and fragments never become event parameters.
-export function publicAnalyticsPath(pathname: string, basePaths: readonly string[], locales: readonly string[]): string | null {
+export function publicAnalyticsPath(pathname: string, basePaths: readonly string[], locales: readonly string[], additionalPaths: readonly string[] = []): string | null {
   const path = pathname.replace(/\/$/, '') || '/';
+  if (additionalPaths.includes(path)) return path;
   const parts = path.split('/');
   const localized = locales.includes(parts[1]);
   const base = localized ? '/' + parts.slice(2).join('/') : path;
@@ -37,6 +38,7 @@ type Settings = {
   appStoreId: string;
   basePaths: readonly string[];
   locales: readonly string[];
+  additionalPaths?: readonly string[];
 };
 type AnalyticsWindow = Window & {
   dataLayer?: IArguments[];
@@ -69,7 +71,7 @@ export function createAnalyticsClient(browser: AnalyticsWindow, doc: Document, s
   }
 
   function update(pathname: string, consent: boolean) {
-    const path = publicAnalyticsPath(pathname, settings.basePaths, settings.locales);
+    const path = publicAnalyticsPath(pathname, settings.basePaths, settings.locales, settings.additionalPaths);
     if (!consent || !path || browser.location.hostname !== new URL(origin).hostname) {
       disable();
       if (!consent) clearCookies();
@@ -87,7 +89,7 @@ export function createAnalyticsClient(browser: AnalyticsWindow, doc: Document, s
         const url = new URL(doc.referrer);
         if (!['http:', 'https:'].includes(url.protocol)) return '';
         if (url.origin !== origin) return url.origin + '/';
-        const safePath = publicAnalyticsPath(url.pathname, settings.basePaths, settings.locales);
+        const safePath = publicAnalyticsPath(url.pathname, settings.basePaths, settings.locales, settings.additionalPaths);
         return safePath ? origin + safePath : '';
       } catch { return ''; }
     })();

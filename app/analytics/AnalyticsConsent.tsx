@@ -10,6 +10,7 @@ type Props = {
   siteUrl: string;
   appStoreId: string;
   basePaths: string[];
+  additionalPaths: string[];
   locales: string[];
   privacyPath: string;
 };
@@ -62,7 +63,7 @@ export function AnalyticsConsent({ copy, privacyPath, ...settings }: Props) {
   }
 
   if (!ready) return null;
-  const publicPage = publicAnalyticsPath(pathname, settings.basePaths, settings.locales);
+  const publicPage = publicAnalyticsPath(pathname, settings.basePaths, settings.locales, settings.additionalPaths);
   const visible = editing || (publicPage && choice === null);
   const button = 'min-h-10 rounded-full border border-[#818CF8]/50 px-5 py-2 text-sm font-semibold transition hover:-translate-y-0.5 hover:border-white focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-white';
 

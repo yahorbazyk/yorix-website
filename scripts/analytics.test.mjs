@@ -9,6 +9,7 @@ const settings = {
   siteUrl: 'https://yorix-app.com', appStoreId: '6788705252',
   basePaths: ['/', '/guides', '/support', '/4-month-old-sleep-schedule'],
   locales: ['ru', 'ar', 'fr'],
+  additionalPaths: ['/ru/start', '/ar/start', '/en/start'],
 };
 
 function fixture(hostname = 'yorix-app.com') {
@@ -48,11 +49,11 @@ test('consent is optional, expiring, and resilient to unavailable browser storag
 });
 
 test('only known public pages are measured, including their translations', () => {
-  for (const path of ['/', '/ru', '/ar/guides', '/fr/4-month-old-sleep-schedule']) {
-    assert.equal(publicAnalyticsPath(path, settings.basePaths, settings.locales), path);
+  for (const path of ['/', '/ru', '/ar/guides', '/fr/4-month-old-sleep-schedule', '/en/start', '/ru/start']) {
+    assert.equal(publicAnalyticsPath(path, settings.basePaths, settings.locales, settings.additionalPaths), path);
   }
-  for (const path of ['/gift/PRIVATE-CODE', '/ru/gift/PRIVATE-CODE', '/subscription', '/support/private', '/unknown']) {
-    assert.equal(publicAnalyticsPath(path, settings.basePaths, settings.locales), null);
+  for (const path of ['/gift/PRIVATE-CODE', '/ru/gift/PRIVATE-CODE', '/subscription', '/support/private', '/unknown', '/fr/start', '/en/guides']) {
+    assert.equal(publicAnalyticsPath(path, settings.basePaths, settings.locales, settings.additionalPaths), null);
   }
 });
 
@@ -69,11 +70,13 @@ test('one page view per public navigation, without duplicate tags or advertising
   f.client.update('/ru/guides', true);
   f.client.update('/ru/guides', true);
   f.client.update('/fr/4-month-old-sleep-schedule', true);
+  f.client.update('/en/start', true);
   assert.equal(f.scripts.length, 1);
   assert.equal(f.scripts[0].nonce, 'trusted-nonce');
   assert.match(f.scripts[0].src, /gtag\/js\?id=G-NBZ2G9XC1E$/);
-  assert.deepEqual(f.events().map(args => args[1]), ['page_view', 'page_view']);
+  assert.deepEqual(f.events().map(args => args[1]), ['page_view', 'page_view', 'page_view']);
   assert.equal(f.events()[1][2].page_location, 'https://yorix-app.com/fr/4-month-old-sleep-schedule');
+  assert.equal(f.events()[2][2].page_location, 'https://yorix-app.com/en/start');
   assert.equal(f.events()[0][2].page_referrer, 'https://www.google.com/');
   const config = f.commands().find(args => args[0] === 'config')[2];
   assert.equal(config.send_page_view, false);

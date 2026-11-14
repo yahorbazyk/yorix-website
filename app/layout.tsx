@@ -3,6 +3,7 @@ import { headers } from 'next/headers';
 import { appStoreId, siteUrl, topicPages } from './content';
 import { DOCUMENT_LOCALE_HEADER, isLocale, localeAlternates, locales } from './locales';
 import { siteCopy } from './i18n';
+import { campaignLocales } from './i18n/campaigns/instagram';
 import { AnalyticsConsent } from './analytics/AnalyticsConsent';
 import { Spotlight } from './subscription/Spotlight';
 import { SmoothScroll } from './SmoothScroll';
@@ -71,6 +72,7 @@ export default async function RootLayout({
         <Spotlight />
         {children}
         <AnalyticsConsent
+          additionalPaths={campaignLocales.map((language) => `/${language}/start`)}
           appStoreId={appStoreId}
           basePaths={['/', '/guides', '/about', '/support', ...topicPages.map((page) => `/${page.slug}`)]}
           copy={siteCopy(locale).analyticsConsent}
