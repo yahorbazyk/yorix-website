@@ -16,6 +16,7 @@
     "test:content": "python3 -B -m unittest discover -s scripts -p test_content_unicode.py",
     "format": "oxfmt",
     "qr": "node scripts/make-app-qr.mjs",
+    "check": "node --experimental-strip-types --test scripts/analytics.test.mjs && tsc --noEmit && python3 -B scripts/content_unicode.py check",
     "deploy": "vinext build && wrangler deploy --config dist/server/wrangler.json --name yorix-website"
   },
   "dependencies": {

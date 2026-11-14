@@ -12,11 +12,14 @@ worker actually does — when the two disagree, the worker is right.
 ## Working agreement
 
 - **The working branch is `premium-web-payments`.** `main` follows it by
-  fast-forward — the two were levelled and pushed on 2026-09-21. Move `main`
-  up when a batch is done; never force-push and never let them diverge.
+  fast-forward and is what is live: every push to `main` publishes the site
+  (see Deploy). Move `main` up only when a batch is ready to publish; never
+  force-push and never let them diverge.
 - Commit every verified change. No Claude/Anthropic attribution in commit
   messages or anywhere else that leaves the machine.
-- **Do not deploy per change.** Accumulate, then deploy when asked.
+- **Do not publish per change.** Accumulate on `premium-web-payments`, then
+  fast-forward `main` when asked to publish. Each push to `main` costs one
+  Cloudflare build.
 - Keep scope tied to the request; make routine reversible calls yourself.
 
 ## Single sources — do not create a second copy
@@ -77,7 +80,16 @@ kill a gift already paid for. Hide the links to it, never the page.
 
 ## Deploy
 
+Cloudflare Workers Builds (account `d8fb623c7f273b6064d02b397751d0f5`,
+Worker `yorix-website` → Settings → Builds) builds every push to `main`:
+`pnpm run check` (analytics tests, TypeScript, content check) and, only if
+it passes, `pnpm run deploy`, with `NODE_VERSION=22.16.0`. Builds run on Cloudflare,
+not GitHub Actions; other branches do not build. Pushes that touch only
+Markdown or `tasks/` are skipped by the build watch paths. Publishing = fast-forward `main` and
+push; check the build in the dashboard's Deployments tab.
+
 `pnpm run deploy` = `vinext build && wrangler deploy --config
-dist/server/wrangler.json --name yorix-website`. Write `run`: bare
-`pnpm deploy` is pnpm's own command and fails with
-`ERR_PNPM_INVALID_DEPLOY_TARGET`. Only on an explicit request. Say afterwards what is committed but not yet live.
+dist/server/wrangler.json --name yorix-website`. Run it by hand only when
+Builds is unavailable. Write `run`: bare `pnpm deploy` is pnpm's own command
+and fails with `ERR_PNPM_INVALID_DEPLOY_TARGET`. Say afterwards what is
+committed but not yet live.

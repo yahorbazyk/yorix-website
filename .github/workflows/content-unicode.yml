@@ -3,14 +3,29 @@ name: Content Unicode hygiene
 on:
   push:
     branches: [main, premium-web-payments]
+    paths:
+      - 'app/**'
+      - 'scripts/content_unicode.py'
+      - 'scripts/test_content_unicode.py'
+      - '.github/workflows/content-unicode.yml'
   pull_request:
+    paths:
+      - 'app/**'
+      - 'scripts/content_unicode.py'
+      - 'scripts/test_content_unicode.py'
+      - '.github/workflows/content-unicode.yml'
 
 permissions:
   contents: read
 
+concurrency:
+  group: content-unicode-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   content-unicode:
     runs-on: ubuntu-24.04
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
       - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
