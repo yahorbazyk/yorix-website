@@ -8,6 +8,15 @@ const sentence = 'This guide helps you understand your baby’s real rhythm and 
 
 // The English source. Every translation mirrors this object.
 export const translation: SiteTranslation = {
+  analyticsConsent: {
+    title: "Optional analytics",
+    body: "With your permission, Google Analytics measures page visits and App Store clicks. You can decline or change your choice at any time.",
+    accept: "Allow analytics",
+    reject: "Decline",
+    settings: "Analytics settings",
+    privacy: "Privacy policy",
+    close: "Close",
+  },
   home: {
     nav: { plan: 'Plan', features: 'Features', guides: 'Guides', faq: 'FAQ', download: 'Get the app' },
     hero: {

@@ -4,6 +4,15 @@ const sentence = 'यह गाइड आपके शिशु की असल
 const footer = 'Yorix आपके शिशु की दिनचर्या में मदद करता है और चिकित्सा देखभाल नहीं देता।';
 
 export const translation: SiteTranslation = {
+  analyticsConsent: {
+    title: "वैकल्पिक विश्लेषण",
+    body: "आपकी अनुमति से Google Analytics पेज विज़िट और App Store पर जाने वाले क्लिक मापता है। आप मना कर सकते हैं या कभी भी अपना विकल्प बदल सकते हैं।",
+    accept: "विश्लेषण की अनुमति दें",
+    reject: "मना करें",
+    settings: "विश्लेषण सेटिंग",
+    privacy: "गोपनीयता नीति",
+    close: "बंद करें",
+  },
   home: {
     nav: { plan: 'योजना', features: 'फ़ीचर्स', guides: 'गाइड', faq: 'सवाल-जवाब', download: 'ऐप डाउनलोड करें' },
     hero: {

@@ -3,6 +3,15 @@ import type { SiteTranslation } from './types';
 const sentence = 'Tento průvodce ti pomůže pochopit skutečný rytmus tvého miminka a plánovat den bez zbytečného hádání.';
 
 export const translation: SiteTranslation = {
+  analyticsConsent: {
+    title: "Volitelná analytika",
+    body: "S vaším souhlasem Google Analytics měří návštěvy stránek a kliknutí do App Storu. Můžete odmítnout nebo svou volbu kdykoli změnit.",
+    accept: "Povolit analytiku",
+    reject: "Odmítnout",
+    settings: "Nastavení analytiky",
+    privacy: "Zásady ochrany soukromí",
+    close: "Zavřít",
+  },
   home: {
     nav: { plan: 'Plán', features: 'Funkce', guides: 'Články', faq: 'FAQ', download: 'Stáhnout aplikaci' },
     hero: {

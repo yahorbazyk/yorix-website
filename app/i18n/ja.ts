@@ -4,6 +4,15 @@ const sentence = 'このガイドは、赤ちゃんの本当のリズムを理�
 const footer = 'Yorixは赤ちゃんのルーティンを手助けするアプリで、医療行為は行いません。';
 
 export const translation: SiteTranslation = {
+  analyticsConsent: {
+    title: "任意のアクセス解析",
+    body: "同意いただいた場合、Google Analyticsでページの閲覧とApp Storeへのクリックを計測します。拒否したり、いつでも選択を変更したりできます。",
+    accept: "解析を許可",
+    reject: "拒否する",
+    settings: "アクセス解析の設定",
+    privacy: "プライバシーポリシー",
+    close: "閉じる",
+  },
   home: {
     nav: { plan: 'プラン', features: '機能', guides: 'ガイド', faq: 'よくある質問', download: 'アプリを入手' },
     hero: {

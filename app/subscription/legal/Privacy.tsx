@@ -131,6 +131,12 @@ function ru({ operator, offer, contact }: Ctx): LegalSection[] {
                 'IP-адрес и журналы запросов — до 30 дней; ключ — пока используется установка Приложения',
               ],
               [
+                'Необязательная аналитика Сайта (Google Analytics 4)',
+                'Псевдонимный идентификатор браузера, страна и сведения об устройстве и браузере, просмотры общедоступных страниц, прокрутки и переходы в App Store. В события не включаются данные форм, сведения о ребёнке, коды подарков, параметры URL и платёжные данные',
+                'Согласие через настройки аналитики на Сайте; отказ не ограничивает использование Сайта',
+                'Выбор и аналитические cookie — до 180 дней; хранение отдельных событий — по настройкам ресурса GA4',
+              ],
+              [
                 'Работа Сайта',
                 'Выбранный язык (cookie yorix-lang); данные входа (Firebase Authentication), ссылки и ключи купленных подарков, код подарка до активации, отметки в чек-листах статей — в хранилище браузера',
                 'Договор; технические данные, без которых Сайт не работает',
@@ -160,6 +166,7 @@ function ru({ operator, offer, contact }: Ctx): LegalSection[] {
             rows: [
               ['Apple Inc.', 'США', 'Вход через Apple; ваша частная база iCloud и совместный доступ (у Оператора нет к ним доступа); покупки в App Store и уведомления о них; с вашего согласия — сведения об использовании покупки, если вы попросите Apple вернуть деньги (раздел 3); координаты для прогноза погоды; проверка подлинности Приложения', 'Вход, хранение и синхронизация дневника, покупки и возвраты, погода, защита'],
               ['Google LLC (Firebase)', 'США', 'Вход через Apple и Google: идентификатор аккаунта, e-mail, имя, способ входа. Аналитика: идентификатор аккаунта, события запуска, онбординга, регистрации, пробного периода, покупок, экрана подписки и просмотров экранов, возраст ребёнка в месяцах, статус подписки, язык; рекламный идентификатор и рекламные сигналы Google Ads — только с вашего разрешения отслеживания', 'Вход, аналитика, атрибуция рекламы'],
+              ['Google LLC (Google Analytics 4)', 'США', 'После согласия: псевдонимный идентификатор браузера, сведения об устройстве и браузере, примерная страна, общедоступные страницы, прокрутки и переходы в App Store; без содержимого форм, параметров URL, кодов подарков и платёжных данных', 'Статистика посещений Сайта без рекламных сигналов'],
               ['Cloudflare, Inc.', 'США; серверы по всему миру', 'Данные, которые проходят через наш сервер: заказы, диалоги с Коучем, обращения, отчёты о сбоях, журналы запросов; текст вопроса Коучу — для поиска по статьям (Workers AI)', 'Размещение Сайта и сервера, поиск по статьям'],
               ['UpCloud Ltd', 'Нидерланды', 'IP-адрес и данные, которые проходят через наш сервер', 'Ретрансляция соединений с Сайтом и сервером для сетей, где Cloudflare недоступен'],
               ['DeepInfra', 'США', 'Сообщения Коучу, реплики диалога за день, сведения о ребёнке и сводка из дневника (раздел 7)', 'Ответы Коуча (модель DeepSeek, размещённая на серверах DeepInfra; разработчику модели данные не передаются); резервная проверка безопасности'],
@@ -208,8 +215,8 @@ function ru({ operator, offer, contact }: Ctx): LegalSection[] {
     {
       title: '8. Cookie, хранилище браузера и отслеживание',
       blocks: [
-        '8.1. Сайт не использует рекламные и аналитические cookie, пиксели и счётчики.',
-        '8.2. Сайт использует только технические средства: cookie yorix-lang с выбранным языком и хранилище браузера, в котором Firebase Authentication хранит данные входа, а Сайт — ссылки и ключи купленных подарков, код подарка до активации и отметки в чек-листах статей. Без них Сайт не работает, поэтому согласия на них не требуется. Вы можете удалить их в настройках браузера.',
+        '8.1. Сайт не использует рекламные cookie. Google Analytics 4 загружается только после вашего согласия в настройках аналитики. Мы измеряем посещения общедоступных страниц, прокрутки и переходы в App Store; рекламные сигналы и персонализация рекламы отключены. Без согласия тег Google не загружается и события аналитики не отправляются.',
+        '8.2. Технические средства Сайта: cookie yorix-lang с выбранным языком и хранилище браузера, в котором Firebase Authentication хранит данные входа, а Сайт — ссылки и ключи купленных подарков, код подарка до активации и отметки в чек-листах статей. Настройка yorix-analytics-consent-v1 сохраняет ваш выбор аналитики на 180 дней. Если вы разрешили аналитику, Google устанавливает cookie _ga и _ga_* сроком до 180 дней. Изменить выбор и отозвать согласие можно через кнопку настроек аналитики на любой странице; при отзыве сбор прекращается, а эти аналитические cookie удаляются. Хранилище можно очистить и в настройках браузера.',
         '8.3. **Отслеживание в Приложении.** Приложение показывает системный запрос Apple на отслеживание (App Tracking Transparency). Только если вы его разрешите, Приложение передаёт Meta события установки, запуска, регистрации, пробного периода и покупок, Meta и Google — рекламный идентификатор устройства для атрибуции рекламы, а Google — рекламные сигналы (Google Ads). Если вы откажете, Приложение работает так же: Meta не получает ничего, Google — только аналитику использования (Firebase Analytics) без рекламного идентификатора и рекламных сигналов, а Apple SKAdNetwork сообщает рекламным сетям только обезличенные сводные данные.',
         '8.4. Изменить решение можно в любой момент: Настройки iOS → Конфиденциальность и безопасность → Отслеживание.',
       ],
@@ -378,6 +385,12 @@ function en({ operator, offer, contact }: Ctx): LegalSection[] {
                 'IP address and request logs — up to 30 days; key — while the App installation is in use',
               ],
               [
+                'Optional Website analytics (Google Analytics 4)',
+                'A pseudonymous browser identifier, country and device/browser information, public page views, scrolling and App Store clicks. Events exclude form contents, child information, gift codes, URL query parameters and payment details',
+                'Consent through the Website analytics settings; declining does not restrict use of the Website',
+                'Choice and analytics cookies — up to 180 days; individual event retention follows the GA4 property setting',
+              ],
+              [
                 'Running the Website',
                 'Chosen language (yorix-lang cookie); in browser storage — sign-in data (Firebase Authentication), links and keys of gifts you bought, a gift code awaiting redemption, ticks in article checklists',
                 'Contract; technical data the Website cannot work without',
@@ -407,6 +420,7 @@ function en({ operator, offer, contact }: Ctx): LegalSection[] {
             rows: [
               ['Apple Inc.', 'USA', 'Sign in with Apple; your private iCloud database and sharing (the Operator has no access); App Store purchases and notices about them; with your consent, how a purchase was used when you ask Apple for a refund (section 3); coordinates for the weather forecast; App attestation', 'Sign-in, storing and syncing the diary, purchases and refunds, weather, security'],
               ['Google LLC (Firebase)', 'USA', 'Sign-in with Apple and Google: account identifier, e-mail, name, sign-in method. Analytics: account identifier, launch, onboarding, sign-up, trial, purchase, subscription screen and screen view events, the child’s age in months, subscription status, language; the advertising identifier and Google Ads advertising signals — only if you allow tracking', 'Sign-in, analytics, advertising attribution'],
+              ['Google LLC (Google Analytics 4)', 'USA', 'After consent: a pseudonymous browser identifier, device/browser information, approximate country, public pages, scrolling and App Store clicks; no form contents, URL query parameters, gift codes or payment details', 'Website usage statistics without advertising signals'],
               ['Cloudflare, Inc.', 'USA; servers worldwide', 'Data passing through our server: orders, Coach conversations, requests, crash reports, request logs; the text of a question to the Coach — to search the articles (Workers AI)', 'Hosting the Website and the server, article search'],
               ['UpCloud Ltd', 'Netherlands', 'IP address and data passing through our server', 'Relaying connections to the Website and the server for networks that cannot reach Cloudflare'],
               ['DeepInfra', 'USA', 'Messages to the Coach, the day’s conversation, information about the child and the diary summary (section 7)', 'Coach answers (the DeepSeek model hosted on DeepInfra’s servers; nothing is sent to the model’s developer); backup safety checks'],
@@ -455,8 +469,8 @@ function en({ operator, offer, contact }: Ctx): LegalSection[] {
     {
       title: '8. Cookies, browser storage and tracking',
       blocks: [
-        '8.1. The Website uses no advertising or analytics cookies, pixels or counters.',
-        '8.2. The Website uses only technical means: the yorix-lang cookie with the chosen language and browser storage, where Firebase Authentication keeps sign-in data and the Website keeps the links and keys of gifts you bought, a gift code awaiting redemption and ticks in article checklists. The Website cannot work without them, so no consent is needed. You can delete them in your browser settings.',
+        '8.1. The Website uses no advertising cookies. Google Analytics 4 loads only after you agree in the analytics settings. We measure public page visits, scrolling and App Store clicks; advertising signals and ad personalization are disabled. Without consent, the Google tag is not loaded and analytics events are not sent.',
+        '8.2. Technical Website storage includes the yorix-lang language cookie and browser storage, where Firebase Authentication keeps sign-in data and the Website keeps purchased gift links and keys, a gift code awaiting redemption and article checklist selections. The yorix-analytics-consent-v1 setting remembers your analytics choice for 180 days. If you allow analytics, Google sets _ga and _ga_* cookies for up to 180 days. You can change your choice or withdraw consent through the analytics settings button on any page; withdrawal stops collection and deletes these analytics cookies. You can also clear browser storage in your browser settings.',
         '8.3. **Tracking in the App.** The App shows Apple’s system tracking prompt (App Tracking Transparency). Only if you allow it does the App send Meta install, launch, sign-up, trial and purchase events, pass the device advertising identifier to Meta and Google for advertising attribution, and send Google advertising signals (Google Ads). If you decline, the App works the same: Meta receives nothing, Google receives only usage analytics (Firebase Analytics) without the advertising identifier or advertising signals, and Apple SKAdNetwork reports only anonymous aggregate data to ad networks.',
         '8.4. You can change your choice at any time in iOS Settings → Privacy & Security → Tracking.',
       ],

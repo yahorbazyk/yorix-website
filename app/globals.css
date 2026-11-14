@@ -1,4 +1,5 @@
 @import 'tailwindcss';
+
 /* shadcn's 60 components are installed but nothing in app/ renders one, and
    Tailwind generates a utility for every class it finds. Scanning them cost
    more CSS than the whole site uses. Delete this line the day one is used. */
@@ -607,4 +608,9 @@ details[open] > .faq-answer {
     letter-spacing: 0.02em;
     color: #64748b;
   }
+}
+
+@keyframes yorix-consent-in {
+  from { opacity: 0; transform: translateY(0.5rem); }
+  to { opacity: 1; transform: translateY(0); }
 }

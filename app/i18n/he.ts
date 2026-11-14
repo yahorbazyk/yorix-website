@@ -3,6 +3,15 @@ import type { SiteTranslation } from './types';
 const sentence = 'המדריך הזה עוזר להבין את הקצב האמיתי של התינוק ולתכנן את היום עם פחות ניחושים.';
 
 export const translation: SiteTranslation = {
+  analyticsConsent: {
+    title: "ניתוח שימוש אופציונלי",
+    body: "בהסכמתך, Google Analytics מודד ביקורים בדפים ולחיצות למעבר ל-App Store. אפשר לסרב או לשנות את הבחירה בכל עת.",
+    accept: "לאפשר ניתוח שימוש",
+    reject: "לסרב",
+    settings: "הגדרות ניתוח שימוש",
+    privacy: "מדיניות פרטיות",
+    close: "סגירה",
+  },
   home: {
     nav: { plan: 'תוכנית', features: 'יכולות', guides: 'מדריכים', faq: 'שאלות', download: 'להורדת האפליקציה' },
     hero: {

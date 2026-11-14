@@ -3,6 +3,15 @@ import type { SiteTranslation } from './types';
 const sentence = 'Dieser Ratgeber hilft dir, den echten Rhythmus deines Babys zu verstehen und den Tag mit weniger Rätselraten zu planen.';
 
 export const translation: SiteTranslation = {
+  analyticsConsent: {
+    title: "Optionale Analyse",
+    body: "Mit Ihrer Zustimmung misst Google Analytics Seitenbesuche und Klicks zum App Store. Sie können ablehnen oder Ihre Auswahl jederzeit ändern.",
+    accept: "Analyse erlauben",
+    reject: "Ablehnen",
+    settings: "Analyse-Einstellungen",
+    privacy: "Datenschutzerklärung",
+    close: "Schließen",
+  },
   home: {
     nav: { plan: 'Plan', features: 'Funktionen', guides: 'Ratgeber', faq: 'FAQ', download: 'App laden' },
     hero: {

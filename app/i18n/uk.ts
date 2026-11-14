@@ -3,6 +3,15 @@ import type { SiteTranslation } from './types';
 const sentence = 'Цей гайд допомагає зрозуміти справжній ритм вашого малюка й планувати день із меншою кількістю здогадок.';
 
 export const translation: SiteTranslation = {
+  analyticsConsent: {
+    title: "Необов’язкова аналітика",
+    body: "З вашого дозволу Google Analytics вимірює відвідування сторінок і переходи в App Store. Ви можете відмовитися або змінити свій вибір у будь-який час.",
+    accept: "Дозволити аналітику",
+    reject: "Відхилити",
+    settings: "Налаштування аналітики",
+    privacy: "Політика конфіденційності",
+    close: "Закрити",
+  },
   home: {
     nav: { plan: 'План', features: 'Можливості', guides: 'Гайди', faq: 'Запитання', download: 'Завантажити застосунок' },
     hero: {

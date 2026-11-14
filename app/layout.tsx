@@ -1,7 +1,9 @@
 import type { Metadata } from 'next';
 import { headers } from 'next/headers';
-import { siteUrl } from './content';
-import { DOCUMENT_LOCALE_HEADER, isLocale, localeAlternates } from './locales';
+import { appStoreId, siteUrl, topicPages } from './content';
+import { DOCUMENT_LOCALE_HEADER, isLocale, localeAlternates, locales } from './locales';
+import { siteCopy } from './i18n';
+import { AnalyticsConsent } from './analytics/AnalyticsConsent';
 import { Spotlight } from './subscription/Spotlight';
 import { SmoothScroll } from './SmoothScroll';
 import './globals.css';
@@ -68,6 +70,14 @@ export default async function RootLayout({
         <SmoothScroll />
         <Spotlight />
         {children}
+        <AnalyticsConsent
+          appStoreId={appStoreId}
+          basePaths={['/', '/guides', '/about', '/support', ...topicPages.map((page) => `/${page.slug}`)]}
+          copy={siteCopy(locale).analyticsConsent}
+          locales={[...locales]}
+          privacyPath={locale === 'ru' ? '/ru/subscription/privacy' : '/subscription/privacy'}
+          siteUrl={siteUrl}
+        />
       </body>
     </html>
   );

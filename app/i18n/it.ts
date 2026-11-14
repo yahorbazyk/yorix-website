@@ -3,6 +3,15 @@ import type { SiteTranslation } from './types';
 const sentence = 'Questa guida ti aiuta a capire il vero ritmo del tuo bambino e a pianificare la giornata con meno incertezze.';
 
 export const translation: SiteTranslation = {
+  analyticsConsent: {
+    title: "Statistiche facoltative",
+    body: "Con il tuo consenso, Google Analytics misura le visite alle pagine e i clic verso l’App Store. Puoi rifiutare o cambiare la tua scelta in qualsiasi momento.",
+    accept: "Consenti le statistiche",
+    reject: "Rifiuta",
+    settings: "Impostazioni statistiche",
+    privacy: "Informativa sulla privacy",
+    close: "Chiudi",
+  },
   home: {
     nav: { plan: 'Piano', features: 'Funzioni', guides: 'Guide', faq: 'FAQ', download: 'Scarica l’app' },
     hero: {

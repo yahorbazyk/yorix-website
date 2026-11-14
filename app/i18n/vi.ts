@@ -3,6 +3,15 @@ import type { SiteTranslation } from './types';
 const sentence = 'Hướng dẫn này giúp bạn hiểu nhịp sinh hoạt thật của bé và lên kế hoạch cho cả ngày mà không phải đoán nhiều.';
 
 export const translation: SiteTranslation = {
+  analyticsConsent: {
+    title: "Phân tích tùy chọn",
+    body: "Khi bạn cho phép, Google Analytics đo lượt truy cập trang và lượt nhấp đến App Store. Bạn có thể từ chối hoặc thay đổi lựa chọn bất cứ lúc nào.",
+    accept: "Cho phép phân tích",
+    reject: "Từ chối",
+    settings: "Cài đặt phân tích",
+    privacy: "Chính sách quyền riêng tư",
+    close: "Đóng",
+  },
   home: {
     nav: { plan: 'Kế hoạch', features: 'Tính năng', guides: 'Hướng dẫn', faq: 'Câu hỏi', download: 'Tải ứng dụng' },
     hero: {

@@ -3,6 +3,15 @@ import type { SiteTranslation } from './types';
 const sentence = 'Deze gids helpt je het echte ritme van je baby te begrijpen en de dag met minder giswerk te plannen.';
 
 export const translation: SiteTranslation = {
+  analyticsConsent: {
+    title: "Optionele statistieken",
+    body: "Met uw toestemming meet Google Analytics paginabezoeken en klikken naar de App Store. U kunt weigeren of uw keuze op elk moment wijzigen.",
+    accept: "Statistieken toestaan",
+    reject: "Weigeren",
+    settings: "Statistiekinstellingen",
+    privacy: "Privacybeleid",
+    close: "Sluiten",
+  },
   home: {
     nav: { plan: 'Plan', features: 'Functies', guides: 'Gidsen', faq: 'FAQ', download: 'Download de app' },
     hero: {

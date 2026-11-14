@@ -3,6 +3,15 @@ import type { SiteTranslation } from './types';
 const sentence = 'Denne guide hjælper dig med at forstå din babys faktiske rytme og planlægge dagen med mindre gætteri.';
 
 export const translation: SiteTranslation = {
+  analyticsConsent: {
+    title: "Valgfri statistik",
+    body: "Med dit samtykke måler Google Analytics sidebesøg og klik til App Store. Du kan afvise eller ændre dit valg når som helst.",
+    accept: "Tillad statistik",
+    reject: "Afvis",
+    settings: "Statistikindstillinger",
+    privacy: "Privatlivspolitik",
+    close: "Luk",
+  },
   home: {
     nav: { plan: 'Plan', features: 'Funktioner', guides: 'Guider', faq: 'FAQ', download: 'Hent appen' },
     hero: {

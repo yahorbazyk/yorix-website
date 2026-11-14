@@ -3,6 +3,15 @@ import type { SiteTranslation } from './types';
 const sentence = 'Panduan ini membantu anda memahami rentak sebenar bayi dan merancang hari dengan kurang meneka.';
 
 export const translation: SiteTranslation = {
+  analyticsConsent: {
+    title: "Analitik pilihan",
+    body: "Dengan kebenaran anda, Google Analytics mengukur lawatan halaman dan klik ke App Store. Anda boleh menolak atau menukar pilihan pada bila-bila masa.",
+    accept: "Benarkan analitik",
+    reject: "Tolak",
+    settings: "Tetapan analitik",
+    privacy: "Dasar privasi",
+    close: "Tutup",
+  },
   home: {
     nav: { plan: 'Pelan', features: 'Ciri', guides: 'Panduan', faq: 'Soalan lazim', download: 'Muat turun aplikasi' },
     hero: {

@@ -4,6 +4,15 @@ const sentence = 'คู่มือนี้ช่วยให้คุณเ�
 const footer = 'Yorix ช่วยเรื่องกิจวัตรของลูก และไม่ได้ให้บริการทางการแพทย์';
 
 export const translation: SiteTranslation = {
+  analyticsConsent: {
+    title: "การวิเคราะห์ที่เลือกได้",
+    body: "เมื่อคุณอนุญาต Google Analytics จะวัดการเข้าชมหน้าเว็บและการคลิกไปยัง App Store คุณสามารถปฏิเสธหรือเปลี่ยนตัวเลือกได้ทุกเมื่อ",
+    accept: "อนุญาตการวิเคราะห์",
+    reject: "ปฏิเสธ",
+    settings: "การตั้งค่าการวิเคราะห์",
+    privacy: "นโยบายความเป็นส่วนตัว",
+    close: "ปิด",
+  },
   home: {
     nav: { plan: 'แผน', features: 'ฟีเจอร์', guides: 'คู่มือ', faq: 'คำถามที่พบบ่อย', download: 'ดาวน์โหลดแอป' },
     hero: {

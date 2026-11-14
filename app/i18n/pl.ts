@@ -3,6 +3,15 @@ import type { SiteTranslation } from './types';
 const sentence = 'Ten poradnik pomoże Ci zrozumieć prawdziwy rytm dziecka i planować dzień, mniej zgadując.';
 
 export const translation: SiteTranslation = {
+  analyticsConsent: {
+    title: "Opcjonalna analityka",
+    body: "Za Twoją zgodą Google Analytics mierzy wizyty na stronach i kliknięcia prowadzące do App Store. Możesz odmówić lub zmienić wybór w dowolnej chwili.",
+    accept: "Zezwól na analitykę",
+    reject: "Odrzuć",
+    settings: "Ustawienia analityki",
+    privacy: "Polityka prywatności",
+    close: "Zamknij",
+  },
   home: {
     nav: { plan: 'Plan', features: 'Funkcje', guides: 'Poradniki', faq: 'FAQ', download: 'Pobierz aplikację' },
     hero: {

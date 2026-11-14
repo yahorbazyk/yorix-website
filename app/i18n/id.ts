@@ -3,6 +3,15 @@ import type { SiteTranslation } from './types';
 const sentence = 'Panduan ini membantu Anda memahami ritme si kecil yang sebenarnya dan merencanakan hari tanpa banyak menebak.';
 
 export const translation: SiteTranslation = {
+  analyticsConsent: {
+    title: "Analitik opsional",
+    body: "Dengan izin Anda, Google Analytics mengukur kunjungan halaman dan klik ke App Store. Anda dapat menolak atau mengubah pilihan kapan saja.",
+    accept: "Izinkan analitik",
+    reject: "Tolak",
+    settings: "Pengaturan analitik",
+    privacy: "Kebijakan privasi",
+    close: "Tutup",
+  },
   home: {
     nav: { plan: 'Rencana', features: 'Fitur', guides: 'Panduan', faq: 'FAQ', download: 'Unduh aplikasi' },
     hero: {

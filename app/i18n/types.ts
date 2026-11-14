@@ -84,6 +84,7 @@ export type AboutCopy = {
 };
 
 export type SiteTranslation = {
+  analyticsConsent: { title: string; body: string; accept: string; reject: string; settings: string; privacy: string; close: string };
   home: HomeCopy;
   guides: { eyebrow: string; title: string; body: string };
   articleUi: ArticleUiCopy;

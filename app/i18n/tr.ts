@@ -3,6 +3,15 @@ import type { SiteTranslation } from './types';
 const sentence = 'Bu rehber, bebeğinizin gerçek ritmini anlamanıza ve günü daha az tahminle planlamanıza yardımcı olur.';
 
 export const translation: SiteTranslation = {
+  analyticsConsent: {
+    title: "İsteğe bağlı analiz",
+    body: "İzninizle Google Analytics sayfa ziyaretlerini ve App Store bağlantısı tıklamalarını ölçer. Reddedebilir veya tercihinizi istediğiniz zaman değiştirebilirsiniz.",
+    accept: "Analize izin ver",
+    reject: "Reddet",
+    settings: "Analiz ayarları",
+    privacy: "Gizlilik politikası",
+    close: "Kapat",
+  },
   home: {
     nav: { plan: 'Plan', features: 'Özellikler', guides: 'Rehberler', faq: 'SSS', download: 'Uygulamayı indir' },
     hero: {

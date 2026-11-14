@@ -3,6 +3,15 @@ import type { SiteTranslation } from './types';
 const sentence = 'يساعدك هذا الدليل على فهم الإيقاع الحقيقي لطفلك وتخطيط اليوم بتخمين أقل.';
 
 export const translation: SiteTranslation = {
+  analyticsConsent: {
+    title: "تحليلات اختيارية",
+    body: "بموافقتك، تقيس Google Analytics زيارات الصفحات والنقرات المؤدية إلى App Store. يمكنك الرفض أو تغيير اختيارك في أي وقت.",
+    accept: "السماح بالتحليلات",
+    reject: "رفض",
+    settings: "إعدادات التحليلات",
+    privacy: "سياسة الخصوصية",
+    close: "إغلاق",
+  },
   home: {
     nav: { plan: 'الخطة', features: 'المزايا', guides: 'الأدلة', faq: 'الأسئلة', download: 'تنزيل التطبيق' },
     hero: {
