@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import { siteUrl, topicPages } from '../content';
 import { siteCopy } from '../i18n';
 import { GuidesIndex } from '../home/GuidesIndex';
+import { localeAlternates } from '../locales';
 
 export const metadata: Metadata = {
   title: 'Baby Sleep Guides and Parenting Blog',
@@ -9,6 +10,7 @@ export const metadata: Metadata = {
     'Research-backed baby sleep guides about newborn sleep, wake windows, night wakings, feeding routines, white noise, sleep regressions, and sleep training.',
   alternates: {
     canonical: '/guides',
+    languages: { 'x-default': '/guides', en: '/guides', ...localeAlternates('/guides') },
   },
   openGraph: {
     title: 'Baby Sleep Guides and Parenting Blog | Yorix',

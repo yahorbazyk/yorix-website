@@ -36,6 +36,14 @@ export function isLocale(value: string): value is Locale {
   return locales.includes(value as Locale);
 }
 
+// Set by middleware from the URL, never from a visitor's language preference.
+export const DOCUMENT_LOCALE_HEADER = 'x-yorix-document-locale';
+
+export function documentLocale(pathname: string): Locale | 'en' {
+  const prefix = pathname.split('/')[1];
+  return isLocale(prefix) ? prefix : 'en';
+}
+
 export function localeAlternates(path = '') {
   return Object.fromEntries(
     locales.map((locale) => [locale, `/${locale}${path}`]),

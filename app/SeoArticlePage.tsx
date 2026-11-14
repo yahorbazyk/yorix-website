@@ -11,6 +11,7 @@ import { CtaBand } from './home/CtaBand';
 import { type Locale } from './locales';
 import { SellerFooter } from './SellerFooter';
 import { SiteHeader } from './SiteHeader';
+import { articleLanguages } from './article-metadata';
 import { Parallax } from './subscription/Parallax';
 import { Reveal } from './subscription/Reveal';
 import { ScrollProgress } from './subscription/ScrollProgress';
@@ -106,7 +107,7 @@ export function SeoArticlePage({ page, locale, ui = getArticleUiCopy(locale) }: 
       <meta content={banner} name="apple-itunes-app" />
       <ScrollProgress />
       <StarField />
-      <SiteHeader locale={locale ?? 'en'} />
+      <SiteHeader locale={locale ?? 'en'} languagePaths={articleLanguages(page.slug)} />
 
       <div className="relative mx-auto grid max-w-7xl gap-10 px-5 pb-6 pt-2 sm:px-8 lg:grid-cols-[minmax(0,1fr)_340px] lg:px-10">
         <article className="min-w-0">

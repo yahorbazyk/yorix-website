@@ -1,6 +1,6 @@
 import { ArrowRight } from 'lucide-react';
 import { formatArticleDate } from '../article-ui';
-import type { Locale } from '../locales';
+import { localeAlternates, type Locale } from '../locales';
 import { SellerFooter } from '../SellerFooter';
 import { SiteHeader } from '../SiteHeader';
 import { Reveal } from '../subscription/Reveal';
@@ -37,7 +37,7 @@ export function GuidesIndex({
     <main className="home-page relative flex min-h-screen flex-col overflow-hidden text-white" dir={rtl ? 'rtl' : undefined} lang={locale}>
       <StarField />
       <div className="relative z-10 flex flex-1 flex-col">
-        <SiteHeader locale={locale} />
+        <SiteHeader locale={locale} languagePaths={{ en: '/guides', ...localeAlternates('/guides') }} />
 
         <section className="relative mx-auto grid max-w-7xl items-center gap-6 px-5 pb-8 pt-4 sm:px-8 lg:grid-cols-[1.2fr_0.8fr] lg:px-10">
           <div>

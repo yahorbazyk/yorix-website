@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
+import { headers } from 'next/headers';
 import { siteUrl } from './content';
-import { localeAlternates } from './locales';
+import { DOCUMENT_LOCALE_HEADER, isLocale, localeAlternates } from './locales';
 import { Spotlight } from './subscription/Spotlight';
 import { SmoothScroll } from './SmoothScroll';
 import './globals.css';
@@ -40,9 +41,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary',
-    title: 'Baby Schedule App | Calm Nap and Feeding Routine',
-    description:
-      'Track sleep, feeds, diapers, and daily rhythm to create a baby schedule that follows your real day.',
+    // Inherit each page's localized Open Graph title and description.
     images: ['/og.png'],
   },
   icons: {
@@ -56,13 +55,15 @@ export const metadata: Metadata = {
   },
 };
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  const value = (await headers()).get(DOCUMENT_LOCALE_HEADER) ?? 'en';
+  const locale = isLocale(value) ? value : 'en';
   return (
-    <html lang="en">
+    <html lang={locale} dir={locale === 'ar' || locale === 'he' ? 'rtl' : 'ltr'}>
       <body>
         <SmoothScroll />
         <Spotlight />

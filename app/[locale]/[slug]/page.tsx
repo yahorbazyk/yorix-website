@@ -4,12 +4,11 @@ import {
   getLocalizedTopicPage,
   getTranslatedLocalesForArticle,
   isTranslatedArticleSlug,
-  translatedArticleAlternates,
   translatedArticleSlugs,
 } from '../../article-localizations';
 import { SeoArticlePage } from '../../SeoArticlePage';
-import { siteUrl } from '../../content';
-import { isLocale, localeCopy, type Locale } from '../../locales';
+import { articleMetadata } from '../../article-metadata';
+import { isLocale, type Locale } from '../../locales';
 
 type LocalizedArticleRouteProps = {
   params: {
@@ -35,25 +34,7 @@ export function generateMetadata({ params }: LocalizedArticleRouteProps): Metada
     return {};
   }
 
-  return {
-    title: page.title,
-    description: page.description,
-    alternates: {
-      canonical: `/${params.locale}/${page.slug}`,
-      languages: {
-        'x-default': `/${page.slug}`,
-        en: `/${page.slug}`,
-        ...translatedArticleAlternates(page.slug),
-      },
-    },
-    openGraph: {
-      title: page.title,
-      description: page.description,
-      url: `${siteUrl}/${params.locale}/${page.slug}`,
-      type: 'article',
-      locale: localeCopy[params.locale].ogLocale,
-    },
-  };
+  return articleMetadata(page, params.locale);
 }
 
 export default function LocalizedArticleRoute({ params }: LocalizedArticleRouteProps) {

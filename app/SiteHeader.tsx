@@ -18,12 +18,14 @@ export async function SiteHeader({
   current,
   page = '',
   giftPaths,
+  languagePaths,
 }: {
   locale: SiteLocale;
   current?: 'subscription' | 'support' | 'about';
   page?: SubscriptionPage;
   // The redeem pages (/gift, /gift/<code>) live outside /subscription.
   giftPaths?: { en: string; ru: string };
+  languagePaths?: Partial<Record<SiteLocale, string>>;
 }) {
   const isRoot = locale === 'en';
   const site = siteCopy(locale);
@@ -34,15 +36,15 @@ export async function SiteHeader({
   const gift = subscriptionPath(docsLang(locale), '/gift');
   const samePage = (lang: 'en' | 'ru') => giftPaths?.[lang] ?? subscriptionPath(lang, page);
   const onGift = current === 'subscription' && (page === '/gift' || giftPaths !== undefined);
-  // On a subscription page the language links keep the visitor on the same
-  // document; everywhere else they go to that language's home. `?lang=` makes
+  // Keep the current article, index or document when a translation exists.
+  // Otherwise use that language's home. `?lang=` makes
   // the choice stick over the automatic one (see proxy.ts).
   const languages: LanguageItem[] = [
-    { code: 'en', label: 'English', href: `${current === 'subscription' ? samePage('en') : current ? `/${current}` : '/'}?lang=en` },
+    { code: 'en', label: 'English', href: `${languagePaths?.en ?? (current === 'subscription' ? samePage('en') : current ? `/${current}` : '/')}?lang=en` },
     ...locales.map((code) => ({
       code,
       label: localeCopy[code].nativeName,
-      href: `${current === 'subscription' && code === 'ru' ? samePage('ru') : current && current !== 'subscription' ? `/${code}/${current}` : `/${code}`}?lang=${code}`,
+      href: `${languagePaths?.[code] ?? (current === 'subscription' && code === 'ru' ? samePage('ru') : current && current !== 'subscription' ? `/${code}/${current}` : `/${code}`)}?lang=${code}`,
     })),
   ];
   const links = [

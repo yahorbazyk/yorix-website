@@ -5,6 +5,7 @@ import { currencyForVisitor, sellsOnWeb } from './app/subscription/currency';
 import { codeFromInput, formatGiftCode } from './app/subscription/gift/code';
 import { API_BASE } from './app/subscription/config';
 import { visitorCountry } from './app/visitor';
+import { DOCUMENT_LOCALE_HEADER, documentLocale } from './app/locales';
 
 // The storefront's own API address, so the policy can never drift from the calls it allows.
 const apiHost = API_BASE;
@@ -165,7 +166,10 @@ export function proxy(request: NextRequest) {
   const redirect = shortGiftRedirect(request) ?? salesRedirect(request) ?? languageRedirect(request);
   if (redirect) return withSecurityHeaders(redirect);
 
-  return withSecurityHeaders(NextResponse.next());
+  const requestHeaders = new Headers(request.headers);
+  // Overwrite any caller-supplied value before the server renders <html>.
+  requestHeaders.set(DOCUMENT_LOCALE_HEADER, documentLocale(pathname));
+  return withSecurityHeaders(NextResponse.next({ request: { headers: requestHeaders } }));
 }
 
 export const config = {

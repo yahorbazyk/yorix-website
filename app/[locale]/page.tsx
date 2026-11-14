@@ -6,6 +6,7 @@ import { getTopicPage, siteUrl, topicPages } from '../content';
 import { siteCopy } from '../i18n';
 import { isLocale, localeAlternates, localeCopy, locales } from '../locales';
 import { researchGuides } from '../research-guides';
+import { articleMetadata } from '../article-metadata';
 
 type ArticleRouteProps = {
   params: {
@@ -51,19 +52,7 @@ export function generateMetadata({ params }: ArticleRouteProps): Metadata {
     return {};
   }
 
-  return {
-    title: page.title,
-    description: page.description,
-    alternates: {
-      canonical: `/${page.slug}`,
-    },
-    openGraph: {
-      title: page.title,
-      description: page.description,
-      url: `${siteUrl}/${page.slug}`,
-      type: 'article',
-    },
-  };
+  return articleMetadata(page);
 }
 
 export default function ArticleRoute({ params }: ArticleRouteProps) {
