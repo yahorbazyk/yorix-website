@@ -1,0 +1,15 @@
+{
+  "repository": "https://github.com/guillaumemeyer/watermarks-remover",
+  "commit": "5a62be6338d2812372b1da440e55c82922f97d53",
+  "license": "MIT",
+  "files": {
+    "text_unicode.py": {
+      "source": "service/scripts/text_unicode.py",
+      "sha256": "ed86ed9715f40e306371731f97bf6f2a63f6a7719674630afac89eb3741bc6fd"
+    },
+    "LICENSE": {
+      "source": "LICENSE",
+      "sha256": "7b238ac3774945dae85fad6e83819b43f7d5f48c181ecb4d005e5e91fe7e0ec1"
+    }
+  }
+}

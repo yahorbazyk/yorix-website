@@ -1,0 +1,16 @@
+{
+  "include": [
+    "app/content.ts",
+    "app/research-guides.ts",
+    "app/article-localizations.ts",
+    "app/article-ui.ts",
+    "app/home/copy.ts",
+    "app/i18n/**/*.ts",
+    "app/i18n/**/*.json"
+  ],
+  "exclude": [
+    "app/i18n/index.ts",
+    "app/i18n/types.ts",
+    "app/i18n/wire.ts"
+  ]
+}
