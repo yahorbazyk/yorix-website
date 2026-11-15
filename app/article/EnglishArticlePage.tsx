@@ -42,6 +42,7 @@ export function EnglishArticlePage({ slug }: { slug: string }) {
         <SiteHeader locale="en" languagePaths={articleLanguages(article.slug)} />
         <div className="mx-auto max-w-7xl px-5 pb-16 sm:px-8 lg:px-10">
           <nav aria-label="Breadcrumb" className="mb-7 text-sm leading-7 text-[#C7D2FE]">
+            {/* Match body links: this pinned runtime uses document navigation. */}
             <ol className="flex flex-wrap items-center gap-x-2">
               <li><Link href="/" prefetch={false} target="_top">Home</Link></li><li aria-hidden="true">/</li>
               <li><Link href="/guides" prefetch={false} target="_top">Guides</Link></li><li aria-hidden="true">/</li>
