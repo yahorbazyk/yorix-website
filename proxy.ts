@@ -6,6 +6,8 @@ import { codeFromInput, formatGiftCode } from './app/subscription/gift/code';
 import { API_BASE } from './app/subscription/config';
 import { visitorCountry } from './app/visitor';
 import { DOCUMENT_LOCALE_HEADER, documentLocale } from './app/locales';
+import { articleMerges } from './app/article/merges';
+import { isLocale } from './app/locales';
 
 // The storefront's own API address, so the policy can never drift from the calls it allows.
 const apiHost = API_BASE;
@@ -161,6 +163,15 @@ export function proxy(request: NextRequest) {
     url.protocol = 'https:';
     url.port = '';
     return withSecurityHeaders(NextResponse.redirect(url, 308));
+  }
+
+  const segments = pathname.split('/').filter(Boolean);
+  const mergedSlug = segments.at(-1) ?? '';
+  if (Object.hasOwn(articleMerges, mergedSlug) &&
+      (segments.length === 1 || segments.length === 2 && isLocale(segments[0]))) {
+    const url = request.nextUrl.clone();
+    url.pathname = `${segments.length === 2 ? `/${segments[0]}` : ''}/${articleMerges[mergedSlug]}`;
+    return withSecurityHeaders(NextResponse.redirect(url, 301));
   }
 
   const redirect = shortGiftRedirect(request) ?? salesRedirect(request) ?? languageRedirect(request);

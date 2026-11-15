@@ -145,90 +145,6 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://yorix-app.com/baby-nap-schedule-by-age</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yorix-app.com/newborn-sleep-schedule</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yorix-app.com/4-month-old-sleep-schedule</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yorix-app.com/baby-feeding-schedule</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yorix-app.com/wake-windows-by-age</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yorix-app.com/survive-night-wakings-new-parents</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yorix-app.com/white-noise-for-baby-sleep</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yorix-app.com/ferber-method-baby-sleep</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yorix-app.com/sleep-training-methods-explained</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yorix-app.com/newborn-sleep-first-28-days</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yorix-app.com/3-month-old-sleep-schedule</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yorix-app.com/5-month-old-sleep-schedule</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yorix-app.com/10-month-old-sleep-schedule</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yorix-app.com/baby-sleep-parent-stress</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://yorix-app.com/tr/guides</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -415,12 +331,6 @@
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://yorix-app.com/tr/newborn-sleep-first-28-days</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
     <loc>https://yorix-app.com/tr/3-month-old-sleep-schedule</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -434,12 +344,6 @@
   </url>
   <url>
     <loc>https://yorix-app.com/tr/10-month-old-sleep-schedule</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://yorix-app.com/tr/baby-sleep-parent-stress</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.75</priority>
@@ -499,12 +403,6 @@
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://yorix-app.com/fr/newborn-sleep-first-28-days</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
     <loc>https://yorix-app.com/fr/3-month-old-sleep-schedule</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -518,12 +416,6 @@
   </url>
   <url>
     <loc>https://yorix-app.com/fr/10-month-old-sleep-schedule</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://yorix-app.com/fr/baby-sleep-parent-stress</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.75</priority>
@@ -583,12 +475,6 @@
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://yorix-app.com/de/newborn-sleep-first-28-days</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
     <loc>https://yorix-app.com/de/3-month-old-sleep-schedule</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -602,12 +488,6 @@
   </url>
   <url>
     <loc>https://yorix-app.com/de/10-month-old-sleep-schedule</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://yorix-app.com/de/baby-sleep-parent-stress</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.75</priority>
@@ -667,12 +547,6 @@
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://yorix-app.com/ru/newborn-sleep-first-28-days</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
     <loc>https://yorix-app.com/ru/3-month-old-sleep-schedule</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -686,12 +560,6 @@
   </url>
   <url>
     <loc>https://yorix-app.com/ru/10-month-old-sleep-schedule</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://yorix-app.com/ru/baby-sleep-parent-stress</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.75</priority>
@@ -751,12 +619,6 @@
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://yorix-app.com/nl/newborn-sleep-first-28-days</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
     <loc>https://yorix-app.com/nl/3-month-old-sleep-schedule</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -770,12 +632,6 @@
   </url>
   <url>
     <loc>https://yorix-app.com/nl/10-month-old-sleep-schedule</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://yorix-app.com/nl/baby-sleep-parent-stress</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.75</priority>
@@ -835,12 +691,6 @@
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://yorix-app.com/it/newborn-sleep-first-28-days</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
     <loc>https://yorix-app.com/it/3-month-old-sleep-schedule</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -854,12 +704,6 @@
   </url>
   <url>
     <loc>https://yorix-app.com/it/10-month-old-sleep-schedule</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://yorix-app.com/it/baby-sleep-parent-stress</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.75</priority>
@@ -919,12 +763,6 @@
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://yorix-app.com/pt/newborn-sleep-first-28-days</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
     <loc>https://yorix-app.com/pt/3-month-old-sleep-schedule</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -938,12 +776,6 @@
   </url>
   <url>
     <loc>https://yorix-app.com/pt/10-month-old-sleep-schedule</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://yorix-app.com/pt/baby-sleep-parent-stress</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.75</priority>
@@ -1003,12 +835,6 @@
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://yorix-app.com/es/newborn-sleep-first-28-days</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
     <loc>https://yorix-app.com/es/3-month-old-sleep-schedule</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -1022,12 +848,6 @@
   </url>
   <url>
     <loc>https://yorix-app.com/es/10-month-old-sleep-schedule</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://yorix-app.com/es/baby-sleep-parent-stress</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.75</priority>
@@ -1087,12 +907,6 @@
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://yorix-app.com/th/newborn-sleep-first-28-days</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
     <loc>https://yorix-app.com/th/3-month-old-sleep-schedule</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -1106,12 +920,6 @@
   </url>
   <url>
     <loc>https://yorix-app.com/th/10-month-old-sleep-schedule</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://yorix-app.com/th/baby-sleep-parent-stress</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.75</priority>
@@ -1171,12 +979,6 @@
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://yorix-app.com/sv/newborn-sleep-first-28-days</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
     <loc>https://yorix-app.com/sv/3-month-old-sleep-schedule</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -1190,12 +992,6 @@
   </url>
   <url>
     <loc>https://yorix-app.com/sv/10-month-old-sleep-schedule</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://yorix-app.com/sv/baby-sleep-parent-stress</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.75</priority>
@@ -1255,12 +1051,6 @@
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://yorix-app.com/id/newborn-sleep-first-28-days</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
     <loc>https://yorix-app.com/id/3-month-old-sleep-schedule</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -1274,12 +1064,6 @@
   </url>
   <url>
     <loc>https://yorix-app.com/id/10-month-old-sleep-schedule</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://yorix-app.com/id/baby-sleep-parent-stress</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.75</priority>
@@ -1339,12 +1123,6 @@
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://yorix-app.com/ja/newborn-sleep-first-28-days</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
     <loc>https://yorix-app.com/ja/3-month-old-sleep-schedule</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -1358,12 +1136,6 @@
   </url>
   <url>
     <loc>https://yorix-app.com/ja/10-month-old-sleep-schedule</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://yorix-app.com/ja/baby-sleep-parent-stress</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.75</priority>
@@ -1423,12 +1195,6 @@
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://yorix-app.com/pl/newborn-sleep-first-28-days</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
     <loc>https://yorix-app.com/pl/3-month-old-sleep-schedule</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -1442,12 +1208,6 @@
   </url>
   <url>
     <loc>https://yorix-app.com/pl/10-month-old-sleep-schedule</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://yorix-app.com/pl/baby-sleep-parent-stress</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.75</priority>
@@ -1507,12 +1267,6 @@
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://yorix-app.com/cs/newborn-sleep-first-28-days</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
     <loc>https://yorix-app.com/cs/3-month-old-sleep-schedule</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -1526,12 +1280,6 @@
   </url>
   <url>
     <loc>https://yorix-app.com/cs/10-month-old-sleep-schedule</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://yorix-app.com/cs/baby-sleep-parent-stress</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.75</priority>
@@ -1591,12 +1339,6 @@
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://yorix-app.com/no/newborn-sleep-first-28-days</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
     <loc>https://yorix-app.com/no/3-month-old-sleep-schedule</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -1610,12 +1352,6 @@
   </url>
   <url>
     <loc>https://yorix-app.com/no/10-month-old-sleep-schedule</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://yorix-app.com/no/baby-sleep-parent-stress</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.75</priority>
@@ -1675,12 +1411,6 @@
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://yorix-app.com/ar/newborn-sleep-first-28-days</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
     <loc>https://yorix-app.com/ar/3-month-old-sleep-schedule</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -1694,12 +1424,6 @@
   </url>
   <url>
     <loc>https://yorix-app.com/ar/10-month-old-sleep-schedule</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://yorix-app.com/ar/baby-sleep-parent-stress</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.75</priority>
@@ -1759,12 +1483,6 @@
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://yorix-app.com/da/newborn-sleep-first-28-days</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
     <loc>https://yorix-app.com/da/3-month-old-sleep-schedule</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -1778,12 +1496,6 @@
   </url>
   <url>
     <loc>https://yorix-app.com/da/10-month-old-sleep-schedule</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://yorix-app.com/da/baby-sleep-parent-stress</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.75</priority>
@@ -1843,12 +1555,6 @@
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://yorix-app.com/he/newborn-sleep-first-28-days</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
     <loc>https://yorix-app.com/he/3-month-old-sleep-schedule</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -1862,12 +1568,6 @@
   </url>
   <url>
     <loc>https://yorix-app.com/he/10-month-old-sleep-schedule</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://yorix-app.com/he/baby-sleep-parent-stress</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.75</priority>
@@ -1927,12 +1627,6 @@
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://yorix-app.com/uk/newborn-sleep-first-28-days</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
     <loc>https://yorix-app.com/uk/3-month-old-sleep-schedule</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -1946,12 +1640,6 @@
   </url>
   <url>
     <loc>https://yorix-app.com/uk/10-month-old-sleep-schedule</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://yorix-app.com/uk/baby-sleep-parent-stress</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.75</priority>
@@ -2011,12 +1699,6 @@
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://yorix-app.com/vi/newborn-sleep-first-28-days</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
     <loc>https://yorix-app.com/vi/3-month-old-sleep-schedule</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -2030,12 +1712,6 @@
   </url>
   <url>
     <loc>https://yorix-app.com/vi/10-month-old-sleep-schedule</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://yorix-app.com/vi/baby-sleep-parent-stress</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.75</priority>
@@ -2095,12 +1771,6 @@
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://yorix-app.com/ms/newborn-sleep-first-28-days</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
     <loc>https://yorix-app.com/ms/3-month-old-sleep-schedule</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -2114,12 +1784,6 @@
   </url>
   <url>
     <loc>https://yorix-app.com/ms/10-month-old-sleep-schedule</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://yorix-app.com/ms/baby-sleep-parent-stress</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.75</priority>
@@ -2179,12 +1843,6 @@
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://yorix-app.com/hi/newborn-sleep-first-28-days</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
     <loc>https://yorix-app.com/hi/3-month-old-sleep-schedule</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -2198,12 +1856,6 @@
   </url>
   <url>
     <loc>https://yorix-app.com/hi/10-month-old-sleep-schedule</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://yorix-app.com/hi/baby-sleep-parent-stress</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.75</priority>
@@ -2363,5 +2015,209 @@
   </url>
   <url>
     <loc>https://yorix-app.com/ru/subscription/terms</loc>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/10-month-old-sleep-schedule</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/3-month-old-sleep-schedule</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/4-month-old-sleep-schedule</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/5-month-old-sleep-schedule</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/baby-feeding-schedule</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/baby-nap-schedule-by-age</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/ferber-method-baby-sleep</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/newborn-sleep-schedule</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/sleep-training-methods-explained</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/survive-night-wakings-new-parents</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/wake-windows-by-age</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/white-noise-for-baby-sleep</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/1-month-old-sleep-schedule</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/11-month-old-sleep-schedule</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/12-month-old-sleep-schedule</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/15-month-old-sleep-schedule</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/2-month-old-sleep-schedule</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/6-month-old-sleep-schedule</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/7-month-old-sleep-schedule</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/8-month-old-sleep-schedule</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/9-month-old-sleep-schedule</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/baby-waking-every-hour</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/contact-naps</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/cry-it-out-method</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/dream-feed</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/early-morning-waking</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/false-starts</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/newborn-grunting-in-sleep</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/short-naps</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/sleep-regression/12-months</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/sleep-regression/18-months</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/sleep-regression/2-years</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/sleep-regression/3-months</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/sleep-regression/6-months</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/sleep-regression/8-months</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/sleep-regression</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/split-nights</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/when-to-start-sleep-training</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/yorix-vs-huckleberry</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/yorix-vs-napper</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/12-month-milestones</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/4-month-milestones</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/6-month-milestones</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/9-month-milestones</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/baby-led-weaning</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/colic</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/introducing-allergens</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/teething-symptoms</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/tummy-time</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/when-to-start-solids</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://yorix-app.com/sleep-regression/4-months</loc>
+    <lastmod>2026-11-15</lastmod>
   </url>
 </urlset>

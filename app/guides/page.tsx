@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
-import { siteUrl, topicPages } from '../content';
+import { siteUrl } from '../content';
+import { englishGuideCards } from '../article/english-catalog';
 import { siteCopy } from '../i18n';
 import { GuidesIndex } from '../home/GuidesIndex';
 import { localeAlternates } from '../locales';
@@ -29,7 +30,7 @@ export default function GuidesPage() {
       cta={copy.home.cta}
       eyebrow={copy.guides.eyebrow}
       footer={copy.home.footer}
-      guides={topicPages.map((page) => ({ ...page, href: `/${page.slug}` }))}
+      guides={englishGuideCards}
       home="/"
       locale="en"
       title={copy.guides.title}

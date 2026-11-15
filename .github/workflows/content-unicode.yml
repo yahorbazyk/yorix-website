@@ -5,12 +5,22 @@ on:
     branches: [main, premium-web-payments]
     paths:
       - 'app/**'
+      - 'content/**'
+      - 'content-unicode.config.json'
+      - 'tools/watermarks-remover/**'
+      - 'scripts/prepare-english-articles.py'
+      - 'scripts/test_english_articles.py'
       - 'scripts/content_unicode.py'
       - 'scripts/test_content_unicode.py'
       - '.github/workflows/content-unicode.yml'
   pull_request:
     paths:
       - 'app/**'
+      - 'content/**'
+      - 'content-unicode.config.json'
+      - 'tools/watermarks-remover/**'
+      - 'scripts/prepare-english-articles.py'
+      - 'scripts/test_english_articles.py'
       - 'scripts/content_unicode.py'
       - 'scripts/test_content_unicode.py'
       - '.github/workflows/content-unicode.yml'
@@ -35,3 +45,5 @@ jobs:
         run: python3 -B -m unittest discover -s scripts -p test_content_unicode.py
       - name: Check article and localization sources without changing them
         run: python3 -B scripts/content_unicode.py check
+      - name: Verify approved English package and route manifest
+        run: python3 -B -m unittest discover -s scripts -p test_english_articles.py

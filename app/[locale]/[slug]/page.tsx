@@ -9,6 +9,7 @@ import {
 import { SeoArticlePage } from '../../SeoArticlePage';
 import { articleMetadata } from '../../article-metadata';
 import { isLocale, type Locale } from '../../locales';
+import { isRetiredArticle } from '../../article/merges';
 
 type LocalizedArticleRouteProps = {
   params: {
@@ -18,7 +19,7 @@ type LocalizedArticleRouteProps = {
 };
 
 export function generateStaticParams() {
-  return translatedArticleSlugs.flatMap((slug) =>
+  return translatedArticleSlugs.filter((slug) => !isRetiredArticle(slug)).flatMap((slug) =>
     getTranslatedLocalesForArticle(slug).map((locale) => ({ locale, slug })),
   );
 }

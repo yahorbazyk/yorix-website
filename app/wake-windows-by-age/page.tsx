@@ -1,12 +1,11 @@
 import type { Metadata } from 'next';
-import { SeoArticlePage } from '../SeoArticlePage';
-import { getTopicPage } from '../content';
-import { articleMetadata } from '../article-metadata';
+import { EnglishArticlePage } from '../article/EnglishArticlePage';
+import { getEnglishArticle, englishArticleMetadata } from '../article/english-catalog';
 
-const page = getTopicPage('wake-windows-by-age');
+const page = getEnglishArticle('wake-windows-by-age');
 
-export const metadata: Metadata = articleMetadata(page!);
+export const metadata: Metadata = englishArticleMetadata(page!);
 
 export default function WakeWindowsByAgePage() {
-  return <SeoArticlePage page={page!} />;
+  return <EnglishArticlePage slug={page!.slug} />;
 }

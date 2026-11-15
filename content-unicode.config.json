@@ -1,5 +1,7 @@
 {
   "include": [
+    "content/en/articles/*.md",
+    "app/article/english-articles.generated.json",
     "app/content.ts",
     "app/research-guides.ts",
     "app/article-localizations.ts",

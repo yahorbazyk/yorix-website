@@ -1,12 +1,11 @@
 import type { Metadata } from 'next';
-import { SeoArticlePage } from '../SeoArticlePage';
-import { getTopicPage } from '../content';
-import { articleMetadata } from '../article-metadata';
+import { EnglishArticlePage } from '../article/EnglishArticlePage';
+import { getEnglishArticle, englishArticleMetadata } from '../article/english-catalog';
 
-const page = getTopicPage('baby-feeding-schedule');
+const page = getEnglishArticle('baby-feeding-schedule');
 
-export const metadata: Metadata = articleMetadata(page!);
+export const metadata: Metadata = englishArticleMetadata(page!);
 
 export default function BabyFeedingSchedulePage() {
-  return <SeoArticlePage page={page!} />;
+  return <EnglishArticlePage slug={page!.slug} />;
 }

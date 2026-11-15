@@ -14,9 +14,10 @@
     "content:inspect": "python3 -B scripts/content_unicode.py inspect",
     "content:clean": "python3 -B scripts/content_unicode.py clean",
     "test:content": "python3 -B -m unittest discover -s scripts -p test_content_unicode.py",
+    "test:articles": "python3 -B -m unittest discover -s scripts -p test_english_articles.py",
     "format": "oxfmt",
     "qr": "node scripts/make-app-qr.mjs",
-    "check": "node --experimental-strip-types --test scripts/analytics.test.mjs && tsc --noEmit && python3 -B scripts/content_unicode.py check",
+    "check": "node --experimental-strip-types --test scripts/analytics.test.mjs && tsc --noEmit && python3 -B scripts/content_unicode.py check && python3 -B -m unittest discover -s scripts -p test_english_articles.py",
     "deploy": "vinext build && wrangler deploy --config dist/server/wrangler.json --name yorix-website"
   },
   "dependencies": {
@@ -38,9 +39,11 @@
     "react": "19.2.6",
     "react-day-picker": "9.8.1",
     "react-dom": "19.2.6",
+    "react-markdown": "10.1.0",
     "react-resizable-panels": "4.5.8",
     "react-server-dom-webpack": "19.2.6",
     "recharts": "3.8.0",
+    "remark-gfm": "4.0.1",
     "shadcn": "4.18.0",
     "tailwind-merge": "3.6.0",
     "tw-animate-css": "1.4.0",

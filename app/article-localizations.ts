@@ -2,6 +2,7 @@ import { itemIcon } from './article-ui';
 import { type TopicPage, getTopicPage } from './content';
 import { siteCopy } from './i18n';
 import { type Locale, locales } from './locales';
+import { isRetiredArticle } from './article/merges';
 
 export const translatedArticleSlugs = [
   'baby-nap-schedule-by-age',
@@ -238,6 +239,7 @@ export function getLocalizedTopicPage(locale: Locale, slug: string): TopicPage |
 
 export function getLocalizedTopicPages(locale: Locale) {
   return translatedArticleSlugs
+    .filter((slug) => !isRetiredArticle(slug))
     .map((slug) => getLocalizedTopicPage(locale, slug))
     .filter((page): page is TopicPage => Boolean(page));
 }
@@ -247,7 +249,7 @@ export function isTranslatedArticleSlug(value: string): value is TranslatedArtic
 }
 
 export function translatedArticleAlternates(slug: string) {
-  if (!isTranslatedArticleSlug(slug)) {
+  if (!isTranslatedArticleSlug(slug) || isRetiredArticle(slug)) {
     return {};
   }
 

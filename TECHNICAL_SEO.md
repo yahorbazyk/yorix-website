@@ -1,5 +1,14 @@
 # Technical SEO maintenance
 
+## November 15, 2026 English package
+
+The owner-approved package publishes 51 English articles (12 replacements and
+39 new pages). Two old slugs merge with direct 301s in all 23 languages. The
+maps now contain 411 URLs: the 46 retired addresses are removed and 39 English
+addresses added. Existing translations retain their original text; new pages
+do not acquire invented translations. See `content/en/README.md` for source
+fidelity, dates, rendering and verification.
+
 ## November 14, 2026 batch
 
 - Render the document language and direction from the URL on the server.
@@ -47,8 +56,9 @@ language switches and social metadata. It also checks that region-restricted
 purchase pages still redirect outside supported countries, remain accessible
 in Belarus, and do not restrict public legal or gift-redemption pages.
 
-Stop the local server after checking. Deployment is a separate explicit action
-under `AGENTS.md`; committing or pushing this batch does not deploy it.
+Stop the local server after checking. Keep preparation on `premium-web-payments`;
+when publication is authorized, fast-forward and push `main`. Cloudflare Workers
+Builds now checks and publishes every qualifying push to `main`.
 
 ## Search Console
 

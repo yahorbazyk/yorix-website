@@ -98,6 +98,7 @@ def check_page(base, url):
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--base', default='http://localhost:3002')
+    parser.add_argument('--public-only', action='store_true', help='Skip simulated country headers at the real Cloudflare edge')
     args = parser.parse_args()
     maps = [ET.parse(ROOT / 'public' / name) for name in ('sitemap.xml', 'sitemap-pages.xml')]
     lists = [[node.text for node in tree.findall('s:url/s:loc', NAMESPACE)] for tree in maps]
@@ -117,14 +118,18 @@ def main():
         assert status == 200 and 'xml' in headers.get('Content-Type', ''), name
         assert ET.tostring(ET.fromstring(xml)) == ET.tostring(ET.parse(ROOT / 'public' / name).getroot()), name
     with ThreadPoolExecutor(max_workers=3) as pool:
-        results = dict(pool.map(lambda url: check_page(args.base, url), urls))
+        results = {}
+        for index, (url, languages) in enumerate(pool.map(lambda url: check_page(args.base, url), urls), 1):
+            results[url] = languages
+            if index % 50 == 0:
+                print(f'Checked {index}/{len(urls)} public URLs', flush=True)
     for url, languages in results.items():
         for language, alternate in languages.items():
             assert alternate in results, f'{url}: alternate missing from sitemap: {alternate}'
             assert results[alternate] == languages, f'{url}: missing hreflang return links ({language})'
     # Public discovery must not weaken the purchase gate or block gift redemption.
-    for path in ('/subscription', '/subscription/offer', '/subscription/payment',
-                 '/ru/subscription', '/ru/subscription/offer', '/ru/subscription/payment'):
+    for path in (() if args.public_only else ('/subscription', '/subscription/offer', '/subscription/payment',
+                 '/ru/subscription', '/ru/subscription/offer', '/ru/subscription/payment')):
         status, _, _ = request(args.base, path, {'CF-IPCountry': 'US'})
         assert status == 302, f'Purchase gate changed: {path}'
         status, _, _ = request(args.base, path, {'CF-IPCountry': 'BY'})

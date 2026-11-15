@@ -5,6 +5,8 @@ import { DOCUMENT_LOCALE_HEADER, isLocale, localeAlternates, locales } from './l
 import { siteCopy } from './i18n';
 import { campaignLocales } from './i18n/campaigns/instagram';
 import { AnalyticsConsent } from './analytics/AnalyticsConsent';
+import { englishArticles } from './article/english-catalog';
+import { isRetiredArticle } from './article/merges';
 import { Spotlight } from './subscription/Spotlight';
 import { SmoothScroll } from './SmoothScroll';
 import './globals.css';
@@ -74,7 +76,7 @@ export default async function RootLayout({
         <AnalyticsConsent
           additionalPaths={campaignLocales.map((language) => `/${language}/start`)}
           appStoreId={appStoreId}
-          basePaths={['/', '/guides', '/about', '/support', ...topicPages.map((page) => `/${page.slug}`)]}
+          basePaths={['/', '/guides', '/about', '/support', ...topicPages.filter((page) => !isRetiredArticle(page.slug)).map((page) => `/${page.slug}`), ...englishArticles.map((article) => article.path)]}
           copy={siteCopy(locale).analyticsConsent}
           locales={[...locales]}
           privacyPath={locale === 'ru' ? '/ru/subscription/privacy' : '/subscription/privacy'}

@@ -1,12 +1,11 @@
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { HomeLanding } from '../home/HomeLanding';
-import { SeoArticlePage } from '../SeoArticlePage';
-import { getTopicPage, siteUrl, topicPages } from '../content';
+import { EnglishArticlePage } from '../article/EnglishArticlePage';
+import { englishArticles, englishArticleMetadata, getEnglishArticle } from '../article/english-catalog';
+import { siteUrl } from '../content';
 import { siteCopy } from '../i18n';
 import { isLocale, localeAlternates, localeCopy, locales } from '../locales';
-import { researchGuides } from '../research-guides';
-import { articleMetadata } from '../article-metadata';
 
 type ArticleRouteProps = {
   params: {
@@ -16,7 +15,7 @@ type ArticleRouteProps = {
 
 export function generateStaticParams() {
   return [
-    ...researchGuides.map((page) => ({ locale: page.slug })),
+    ...englishArticles.filter((article) => !article.slug.includes('/')).map((article) => ({ locale: article.slug })),
     ...locales.map((locale) => ({ locale })),
   ];
 }
@@ -46,13 +45,13 @@ export function generateMetadata({ params }: ArticleRouteProps): Metadata {
     };
   }
 
-  const page = getTopicPage(params.locale);
+  const page = getEnglishArticle(params.locale);
 
   if (!page) {
     return {};
   }
 
-  return articleMetadata(page);
+  return englishArticleMetadata(page);
 }
 
 export default function ArticleRoute({ params }: ArticleRouteProps) {
@@ -60,11 +59,11 @@ export default function ArticleRoute({ params }: ArticleRouteProps) {
     return <HomeLanding locale={params.locale} />;
   }
 
-  const page = getTopicPage(params.locale);
+  const page = getEnglishArticle(params.locale);
 
   if (!page) {
     notFound();
   }
 
-  return <SeoArticlePage page={page} />;
+  return <EnglishArticlePage slug={page.slug} />;
 }

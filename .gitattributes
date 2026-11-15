@@ -1,0 +1,3 @@
+# Preserve the supplied package: Markdown hard line breaks and source CSV CRLF.
+content/en/articles/*.md whitespace=-blank-at-eol,-blank-at-eof,cr-at-eol
+content/en/*.csv whitespace=cr-at-eol

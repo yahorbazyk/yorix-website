@@ -32,6 +32,9 @@ export function GuidesIndex({
   footer: string;
 }) {
   const rtl = locale === 'ar' || locale === 'he';
+  const categories = ['Sleep schedules by month', 'Sleep regressions', 'Sleep problems & methods', 'Development & feeding', 'Comparisons'];
+  const groups = locale === 'en' ? categories.map((category) => ({ category, guides: guides.filter((guide) => guide.category === category) })) : [{ category: '', guides }];
+  const CardHeading = locale === 'en' ? 'h3' : 'h2';
 
   return (
     <main className="home-page relative flex min-h-screen flex-col overflow-hidden text-white" dir={rtl ? 'rtl' : undefined} lang={locale}>
@@ -68,9 +71,12 @@ export function GuidesIndex({
           </div>
         </section>
 
-        <section className="mx-auto max-w-7xl px-5 pb-6 sm:px-8 lg:px-10">
+        <div className="mx-auto w-full max-w-7xl px-5 pb-6 sm:px-8 lg:px-10">
+          {locale === 'en' && <nav aria-label="Guide topics" className="mb-9 flex flex-wrap gap-3">{categories.map((category, index) => <a className="rounded-full border border-white/20 px-4 py-2 text-sm text-[#C7D2FE] transition hover:bg-white/10" href={`#guide-group-${index}`} key={category}>{category}</a>)}</nav>}
+          {groups.map((group, groupIndex) => <section className="mb-12 scroll-mt-8" id={`guide-group-${groupIndex}`} key={group.category}>
+          {group.category && <h2 className="mb-6 text-2xl font-semibold text-white">{group.category}</h2>}
           <div className="grid gap-5 md:grid-cols-2 lg:grid-cols-3">
-            {guides.map((guide, index) => (
+            {group.guides.map((guide, index) => (
               <Reveal className="flex" delay={(index % 3) * 90} key={guide.slug}>
                 <a className="group flex w-full flex-col overflow-hidden rounded-[1.75rem] border border-white/12 bg-white/[0.06] backdrop-blur-xl transition hover:-translate-y-1 hover:border-white/25" href={guide.href}>
                   <div className={`relative h-36 overflow-hidden bg-gradient-to-br ${guide.coverClass}`}>
@@ -81,7 +87,7 @@ export function GuidesIndex({
                     <p className="text-sm text-white/55">
                       {formatArticleDate(guide.date, locale === 'en' ? undefined : locale)} · {guide.readTime}
                     </p>
-                    <h2 className="mt-3 text-xl font-semibold leading-tight text-white">{guide.title}</h2>
+                    <CardHeading className="mt-3 text-xl font-semibold leading-tight text-white">{guide.title}</CardHeading>
                     <p className="mt-3 text-sm leading-6 text-white/65">{guide.description}</p>
                     <span className="mt-auto flex justify-end pt-4">
                       <span className="grid h-9 w-9 place-items-center rounded-full bg-white/10 text-white/80 transition group-hover:bg-white group-hover:text-[#1E1B4B]">
@@ -93,7 +99,8 @@ export function GuidesIndex({
               </Reveal>
             ))}
           </div>
-        </section>
+          </section>)}
+        </div>
 
         <CtaBand action={cta.action} body={cta.body} title={cta.title} />
         <SellerFooter home={home} locale={locale} note={footer} />
