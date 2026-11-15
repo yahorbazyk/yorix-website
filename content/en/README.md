@@ -51,3 +51,10 @@ The inherited example-day template still appears on the Russian nap chart
 (`/ru/baby-nap-schedule-by-age`). It is intentionally unchanged in this English
 batch. New English pages render only their authored Markdown tables, with no
 generated schedule blocks.
+
+Internal article links use Next Link without automatic prefetch and with
+`target="_top"` for normal document navigation. The pinned Vinext beta's RSC
+prefetch and client-navigation exports fail in the production browser bundle.
+Document navigation was verified by clicking both breadcrumbs and article-body
+links in a production preview; it preserves real, crawlable hrefs and avoids
+that framework path without changing site-wide routing or dependencies.

@@ -143,7 +143,10 @@ def main():
     assert status == 302 and urlsplit(headers['Location']).path == path.split('?')[0], path
     assert 'yorix-lang=ru' in headers.get('Set-Cookie', ''), 'Language preference was not saved'
     print(f'PASS: {len(urls)} sitemap URLs; reciprocal hreflang, canonical, document language,')
-    print('language switches, social metadata, regional purchase gates and public legal/gift routes.')
+    if args.public_only:
+        print('language switches, social metadata and public legal/gift routes. Country-header simulation skipped at the real edge.')
+    else:
+        print('language switches, social metadata, regional purchase gates and public legal/gift routes.')
 
 
 if __name__ == '__main__':

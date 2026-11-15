@@ -43,9 +43,9 @@ export function EnglishArticlePage({ slug }: { slug: string }) {
         <div className="mx-auto max-w-7xl px-5 pb-16 sm:px-8 lg:px-10">
           <nav aria-label="Breadcrumb" className="mb-7 text-sm leading-7 text-[#C7D2FE]">
             <ol className="flex flex-wrap items-center gap-x-2">
-              <li><Link href="/">Home</Link></li><li aria-hidden="true">/</li>
-              <li><Link href="/guides">Guides</Link></li><li aria-hidden="true">/</li>
-              {regressionChild && <><li><Link href="/sleep-regression">Sleep regression ages</Link></li><li aria-hidden="true">/</li></>}
+              <li><Link href="/" prefetch={false} target="_top">Home</Link></li><li aria-hidden="true">/</li>
+              <li><Link href="/guides" prefetch={false} target="_top">Guides</Link></li><li aria-hidden="true">/</li>
+              {regressionChild && <><li><Link href="/sleep-regression" prefetch={false} target="_top">Sleep regression ages</Link></li><li aria-hidden="true">/</li></>}
               <li aria-current="page" className="text-white/65">{article.heading}</li>
             </ol>
           </nav>
@@ -60,7 +60,9 @@ export function EnglishArticlePage({ slug }: { slug: string }) {
                   h2: ({ children }) => <h2 id={headingId(plainText(children))}>{children}</h2>,
                   h3: ({ children }) => <h3 id={headingId(plainText(children))}>{children}</h3>,
                   a: ({ href, children }) => href?.startsWith('/')
-                    ? <Link href={href}>{children}</Link>
+                    // Vinext beta's RSC navigation exports fail in production.
+                    // Keep Next Link semantics with normal document navigation.
+                    ? <Link href={href} prefetch={false} target="_top">{children}</Link>
                     : <a href={href} rel="noopener">{children}</a>,
                   table: ({ children }) => (
                     // eslint-disable-next-line jsx-a11y/no-noninteractive-tabindex -- Keyboard users must be able to scroll a wide table.
