@@ -103,6 +103,9 @@ Pillows stay out of infant cribs. For a toddler in a bed, follow the dentist- an
 
 ## Related reading
 
+- [Potty Training and Sleep: Night Dryness Is a Later Skill](/potty-training-and-sleep)
+- [Toddler Sleep After a New Baby: Expect Disruption, Not a Named Regression](/toddler-sleep-after-a-new-baby)
+
 - [Fear of the Dark and Other Nighttime Fears](/fear-of-the-dark)
 - [Toddler Bedtime Battles: Stalling, Not a Regression](/toddler-bedtime-battles)
 - [Toddler Won't Stay in Bed: After Lights Out](/toddler-wont-stay-in-bed)

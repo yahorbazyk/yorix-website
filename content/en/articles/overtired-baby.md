@@ -81,6 +81,9 @@ Usually the opposite: a slightly earlier bedtime until they recover.
 **Is "overtired" the same as a sleep regression?**  
 No. A [regression](/sleep-regression) is a stretch of disrupted sleep often tied to development. Overtiredness can happen on a single afternoon. They can overlap, because missed naps during a bumpy week create more overtired evenings.
 
+**Why does my baby arch their back when sleeping or when I try to put them down?**
+It can be reflux, tiredness, ordinary stretching, or protest. It is not a diagnosis on its own. If there are feeding-pain signs, frequent vomiting, or poor weight gain, use [reflux and baby sleep](/reflux-and-baby-sleep) and call. If the picture is a “second wind” at bedtime, see [overtired baby](/overtired-baby) and [why does my baby fight sleep](/why-does-my-baby-fight-sleep).
+
 ## See the day that led to the hard night (Yorix)
 
 **Yorix** starts a wake-window timer when you log the end of a nap, and it shows you the 24-hour total, so you can see whether a late bedtime followed a day of short naps. You can also log symptoms if you are trying to sort tiredness from illness. It is a support for tired parents, not a medical device and not a diagnosis.

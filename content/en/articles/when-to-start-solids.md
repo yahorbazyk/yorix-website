@@ -153,6 +153,9 @@ No. The NHS says starting solids won't make a baby more likely to sleep through.
 **How much solid food should a 6 month old eat?**  
 At first just a teaspoon or two once a day. Milk is still the main food; follow your baby's hunger and fullness cues.
 
+**Can starting solids affect sleep?**
+Solids often start around the same weeks as other 6-month changes, so nights can look bumpier at the same time. We do not have an official AAP figure for hours of sleep gained or lost from the first spoons. Do not drop night milk feeds just because solids have started, unless your pediatrician has already agreed a plan. See [6 month old sleep schedule](/6-month-old-sleep-schedule).
+
 ## Log first foods next to milk feeds (Yorix)
 
 **Yorix** lets you note each new food next to milk feeds and sleep, so you can see when you introduced something and whether anything changed afterwards. It is a support for parents, not a medical device and not a diagnosis.

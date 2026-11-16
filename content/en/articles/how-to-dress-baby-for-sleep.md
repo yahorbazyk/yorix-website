@@ -74,6 +74,8 @@ A damp scalp is a common reason parents add — or remove — a layer. Heads she
 
 A room fan can make a warm room more comfortable. Keep cords out of reach and do not point a strong airflow at a newborn’s face. A fan is **not** a SIDS-prevention device and does not replace the safer-sleep steps on [safe sleep](/safe-sleep-for-babies). For how warm a wearable blanket should feel, including TOG labels, see [sleep sacks](/sleep-sacks).
 
+For the difference between ordinary sweating and signs to discuss with your pediatrician, see [baby sweating in sleep](/baby-sweating-in-sleep).
+
 ## Blankets, sleep sacks, swaddles, and what stays out of the crib
 
 For the first year, AAP safe-sleep advice is to keep loose blankets, pillows, quilts, and stuffed toys out of the crib. Warmth should come from clothes or a wearable blanket that cannot ride up over the face. That is the job of a [sleep sack](/sleep-sacks). A [swaddle](/how-to-swaddle-a-baby) is a newborn option only, and it has to stop when rolling starts.
@@ -106,6 +108,9 @@ Lighter layers, a cooler room if you can, and extra attention to sweating. A fan
 
 **Are fleece pajamas enough on their own?**  
 In a cool room, often yes, sometimes with a light sack. Fleece plus a heavy sack plus a hat is usually too much.
+
+**Can eczema wreck my baby’s sleep?**
+Itch can make nights miserable. Treat the skin with your clinician’s plan, not with a sleep product. Do not add loose blankets, pillows, or unprescribed creams into an infant’s crib. Dress in a comfortable layer — see [how to dress baby for sleep](/how-to-dress-baby-for-sleep) and [baby sweating in sleep](/baby-sweating-in-sleep) — and use [sick baby sleep](/sick-baby-sleep) for illness-night logistics.
 
 ## Log the room and the layers (Yorix)
 

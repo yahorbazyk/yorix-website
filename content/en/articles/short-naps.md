@@ -156,6 +156,8 @@ Often, yes, as a single cycle. The lengthening plan on this page is aimed at lat
 
 ## Related reading
 
+- [Should You Wake a Baby From a Nap? Daytime Caps Are Not Night Feeds](/should-you-wake-a-baby-from-a-nap)
+
 - [Baby Sleep Cycles: Why They Wake After One Cycle](/baby-sleep-cycles)
 - [Overtired Baby: Signs, Why It Happens, and What Helps](/overtired-baby)
 - [Sleep Associations: What They Are and How to Change Them](/sleep-associations)

@@ -172,6 +172,9 @@ A 20–30 minute routine in the same order every night: feed, bath or wash, teet
 **Is 6 months a good age for a sleep plan?**  
 Yes, many families start one now. KidsHealth describes a gentle drowsy-but-awake approach for 4–7 months.
 
+**Can starting solids affect sleep?**
+Solids often start around the same weeks as other 6-month changes, so nights can look bumpier at the same time. We do not have an official AAP figure for hours of sleep gained or lost from the first spoons. Do not drop night milk feeds just because solids have started, unless your pediatrician has already agreed a plan. See [6 month old sleep schedule](/6-month-old-sleep-schedule).
+
 ## If you searched for 24 week old baby sleep
 
 Twenty-four weeks is the usual "6 months" mark. There is no official week-24 sleep total. This page is the month view: AASM still recommends **12–16 hours** in 24 hours at 4–12 months. Nap count, wake windows, and night feeds are already covered above.

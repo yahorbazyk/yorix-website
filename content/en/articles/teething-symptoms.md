@@ -164,6 +164,9 @@ In the main study, symptoms were concentrated in about 8 days around each tooth.
 **Are teething gels safe?**  
 The FDA says benzocaine and lidocaine products should not be used for teething.
 
+**Is there a teething sleep regression?**
+There is no official teething regression age. Teething can coincide with bumpier nights; how much sleep it explains is already the conflict on [teething symptoms](/teething-symptoms) (NHS, Macknin, and Cleveland Clinic do not all say the same thing — we do not average them). Weeks of broken sleep, a new snore, poor feeding, or a baby who seems unwell should not be waved away as “just teeth.” Use [sleep regression](/sleep-regression) for the named age clusters, and call if you are worried.
+
 ## Spot the pattern (Yorix)
 
 **Yorix** lets you note "teething?" on a day and see it next to naps, night wakings, and feeds, so you can tell whether a rough night was a one-off around a new tooth or part of a longer change. It is a support for parents, not a medical device; it doesn't measure temperature or diagnose illness.

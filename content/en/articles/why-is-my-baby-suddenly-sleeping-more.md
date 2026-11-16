@@ -60,6 +60,11 @@ Use this page's table, plus [6 week old baby sleep](/6-week-old-baby-sleep) or [
 **Can teething or a cold do this?**  
 Illness can increase sleep *and* can be dangerous if the baby is not waking to feed. Teething is over-used as a catch-all; if you are unsure, call.
 
+**Can vaccines affect my baby’s sleep?**
+They can, for a short time. NHS inform (babies and children up to 3 years 4 months) lists being **sleepy**, irritable, upset, or less hungry than usual as common side effects after a vaccine; these usually pass within a couple of days. The Lullaby Trust: after vaccinations some babies may feel irritable and unwell, and may develop a fever; **dress them for the environment and do not wrap them in extra clothes and blankets**. The Lullaby Trust also states that vaccinations do **not** increase the risk of SIDS, and that babies who are up to date with vaccinations have a **lower** risk of SIDS.
+
+Call your pediatrician or local urgent line if you cannot rouse them, if they seem significantly unwell, or if you are worried about a fever — especially under 3 months. Do not add loose blankets to the crib. See also [sick baby sleep](/sick-baby-sleep) and [baby sweating in sleep](/baby-sweating-in-sleep).
+
 ## See when the extra sleep actually started (Yorix)
 
 **Yorix** can help you see whether sleep jumped after a fussy spell or a vaccine day, and whether feeds kept up. The app cannot tell illness from catch-up and is not a medical device.
@@ -81,6 +86,11 @@ All pages below were opened and checked on 15 November 2026.
 1. National Sleep Foundation panel (Hirshkowitz et al., 2015), as quoted by Nemours KidsHealth. 14–17 hours in 24 hours at 0–3 months — a wide band, so "more than yesterday" is not, by itself, a diagnosis. Accessed 15 November 2026.
 2. Nemours KidsHealth and HealthyChildren.org wake-to-feed and wet-diaper figures, as used on our should-you-wake and too-much-sleep pages. A suddenly sleepier baby still needs those checks. Accessed 15 November 2026.
 3. The Lullaby Trust, "Vaccinations and SIDS," and our sick-baby-sleep after-vaccine note: some sleepiness after immunizations can happen; dress for the room and do not over-bundle; call if you are worried. Accessed 15 November 2026.
+
+4. [NHS inform. “What to expect after immunisation: babies and children up to 3 years 4 months.”](https://www.nhsinform.scot/healthy-living/immunisation/why-immunise/what-to-expect-after-immunisation-babies-and-children-up-to-3-years-4-months/)
+
+5. [The Lullaby Trust. “Vaccinations and SIDS.”](https://www.lullabytrust.org.uk/baby-safety/infection-and-illness/vaccinations-and-sids/)
+
 
 ```json
 {

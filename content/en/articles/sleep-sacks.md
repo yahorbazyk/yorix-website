@@ -103,6 +103,8 @@ TOG is a lab insulation number used on many UK and European bags, not an AAP, NH
 
 ## Related reading
 
+- [Startle Reflex and Sleep: A Wake-Up, Not a Training Problem](/startle-reflex-and-sleep)
+
 - [Crib to Toddler Bed: When and How to Switch](/crib-to-toddler-bed)
 - [When Can a Baby Sleep With a Blanket or Lovey?](/when-can-baby-sleep-with-a-blanket)
 

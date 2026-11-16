@@ -145,6 +145,8 @@ The paper method above works for most families. Apps such as Yorix can do the co
 
 ## Related reading
 
+- [Eat Play Sleep: A Popular Pattern, Not an Official AAP Schedule](/eat-play-sleep)
+
 - [The 3-to-2 Nap Transition: A Practical Plan](/3-to-2-nap-transition)
 - [Baby Sleep Cues: How to Read Sleepy Signs](/baby-sleep-cues)
 - [Baby Won't Nap: What to Try When Naps Fail](/baby-wont-nap)

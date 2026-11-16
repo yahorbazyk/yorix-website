@@ -59,6 +59,8 @@ Other practical reasons:
 
 Waking a sleeping baby to "practice" independent sleep, or to keep a rigid timetable at 3 weeks, is not what the sources above describe.
 
+The daytime decision is covered in [should you wake a baby from a nap](/should-you-wake-a-baby-from-a-nap).
+
 ## When you should let them sleep
 
 Once feeding and weight are on track, a baby who has fallen asleep in a **safe** place — their own firm, flat crib or bassinet, on their back — can usually be left. Do not wake them just because a relative said you should not "spoil" a nap, and do not wake them at night for a social reason.
@@ -91,6 +93,9 @@ There is no official 6-week limit. In the first weeks, KidsHealth says to wake a
 
 **Can I let a newborn sleep through the night?**
 Not as a default in the first days. Use the wake-to-feed rules already on this page, then ask your pediatrician when a longer stretch is all right. "Through the night" at 1–3 months often means about 5–6 hours (KidsHealth), not 12 hours.
+
+**Can a 6 month old (or 4, 8, 12 month old) sleep through the night without feeding?**
+“Through the night” at 1–3 months often means about **5–6 hours** (KidsHealth), not a 12-hour stretch. Whether a later baby can go longer without a night feed is a weight-gain and feeding question for your pediatrician, not a search-result rule. Use this page, [night weaning](/night-weaning), and [should you wake a sleeping baby](/should-you-wake-a-sleeping-baby). Do not drop a needed night feed because a blog said “6 months.”
 
 ## Log stretches, then ask the doctor (Yorix)
 

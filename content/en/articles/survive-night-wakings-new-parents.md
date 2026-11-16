@@ -153,6 +153,9 @@ If you can't sleep even when your baby sleeps, or you feel hopeless or unable to
 **Why is a 6–8 week old waking so often at night?**
 Frequent night waking is still typical at this age. Hunger, cluster feeding, and the 6–8 week fuss peak described for Period of PURPLE Crying (NCSBS) often travel together. Use [cluster feeding](/cluster-feeding) for bunched evening feeds, [6 week old baby sleep](/6-week-old-baby-sleep) for the week snapshot, and [6 week sleep regression](/6-week-sleep-regression) for that popular name. Do not start a formal training plan at 6–8 weeks (Sleep Foundation generally discusses readiness around 4–6 months).
 
+**Why does my baby wake up at 2 a.m. or 3 a.m.?**
+There is no official 2 a.m. or 3 a.m. event. A waking in the middle of the night is usually a night waking or a [split night](/split-nights) — a long stretch of being awake between two sleeps — not a separate diagnosis. If the clock is closer to morning, [why does my baby wake up at 4am](/why-does-my-baby-wake-up-at-4am) and [early morning waking](/early-morning-waking) are the closer pages. For getting through the night as a parent, see [survive night wakings](/survive-night-wakings-new-parents).
+
 ## Nights, made a little more predictable (Yorix)
 
 **Yorix** records every night waking and feed, so you can spot patterns (for example, wakings that cluster after a late nap) and share the log with a partner who takes the next shift. It is a support for tired parents, not a medical device and not a diagnosis.

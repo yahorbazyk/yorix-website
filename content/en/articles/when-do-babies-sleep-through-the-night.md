@@ -83,6 +83,9 @@ Sometimes it shifts the first waking later; it does not rewrite biology. See [dr
 **Should I let my baby "cry it out" so they will sleep through?**  
 That is a method choice with a right age and family fit, not a requirement for the milestone. See [when to start sleep training](/when-to-start-sleep-training) and [cry it out](/cry-it-out-method).
 
+**Can a 6 month old (or 4, 8, 12 month old) sleep through the night without feeding?**
+“Through the night” at 1–3 months often means about **5–6 hours** (KidsHealth), not a 12-hour stretch. Whether a later baby can go longer without a night feed is a weight-gain and feeding question for your pediatrician, not a search-result rule. Use this page, [night weaning](/night-weaning), and [should you wake a sleeping baby](/should-you-wake-a-sleeping-baby). Do not drop a needed night feed because a blog said “6 months.”
+
 ## See the stretch you are actually getting (Yorix)
 
 **Yorix** logs night sleeps so you can see whether the first stretch is growing from three hours to five or six, which is easy to miss when you are exhausted. You can also log feeds to tell a hunger waking from a brief rouse. The app is a support for tired parents, not a medical device and not a diagnosis.

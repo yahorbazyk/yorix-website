@@ -74,6 +74,9 @@ Not as a newborn, and not as a substitute for checking needs. A short pause in a
 **What does “drowsy but awake” mean?**  
 It is a phrase, not a separate method and not an official AAP protocol. It means putting a baby down when they are clearly ready for sleep but still awake, so that the crib or cot is part of falling asleep — the same idea already discussed on this page and on [when to start sleep training](/when-to-start-sleep-training). It is not a rule for a newborn, and it is not a reason to leave a distressed young baby to cry. Caring for Kids describes putting a baby down drowsy but awake as one healthy-sleep habit in the first year, with more emphasis later; Cleveland Clinic advises waiting until at least 3 months before even beginning to teach self-soothing. We already refuse to average those clocks. If you want a named settling approach, see [responsive settling](/responsive-settling) or the [methods](/sleep-training-methods-explained) page rather than turning this phrase into a third plan.
 
+**What if “drowsy but awake” does not work?**
+It is a popular phrase, not an official AAP protocol, and it does not work for every baby or every night. If they cry as soon as they hit the mattress, you are in [sleep associations](/sleep-associations) and [baby won't sleep in crib](/baby-wont-sleep-in-crib) territory. If you are considering a formal plan, see [when to start sleep training](/when-to-start-sleep-training) and [is sleep training harmful](/is-sleep-training-harmful).
+
 ## See whether resettling is actually starting (Yorix)
 
 **Yorix** can show how long a waking lasts and whether some stretches already end without a feed, which is the practical picture of this skill. The app cannot teach a baby to settle and is not a medical device.

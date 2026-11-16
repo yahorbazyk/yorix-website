@@ -102,6 +102,9 @@ Often by about 12 to 14 months (NIDDK) or around the first birthday (NHS). Mayo 
 **Is reflux the same as colic?**  
 No. Ordinary spit-up is often painless. Persistent, hard-to-soothe crying has its own page: [colic](/colic). Some babies have both issues; only a clinician can sort the cause.
 
+**Why does my baby arch their back when sleeping or when I try to put them down?**
+It can be reflux, tiredness, ordinary stretching, or protest. It is not a diagnosis on its own. If there are feeding-pain signs, frequent vomiting, or poor weight gain, use [reflux and baby sleep](/reflux-and-baby-sleep) and call. If the picture is a “second wind” at bedtime, see [overtired baby](/overtired-baby) and [why does my baby fight sleep](/why-does-my-baby-fight-sleep).
+
 ## Note spit-up nights without changing the crib (Yorix)
 
 **Yorix** can help you log feeds, spit-up episodes, and sleep stretches so you have a clear picture for the pediatrician. The app cannot diagnose GERD, and it is not a reason to use a wedge, incline, or sitting device for sleep. Yorix is not a medical device.

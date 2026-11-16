@@ -176,6 +176,9 @@ Week 18 is still this 4-month page. Short naps at this age are already covered i
 **What about 19 week old baby sleep?**
 Week 19 is the late side of the 4-month window, just short of 5 months. Stay on this page for the 12–16 hour band and the 3- or 4-nap day already shown here. For the 5-month view — including the 4-to-3 nap shift — use [5 month old sleep schedule](/5-month-old-sleep-schedule).
 
+**Can a 4 month old sleep on their stomach if they roll over?**
+Start every sleep on the back. If they roll to the tummy and can roll both ways, the rule already on [baby sleeping on stomach](/baby-sleeping-on-stomach) applies: leave them if the crib is clear, and stop swaddling. That is not a reason to *place* them on the tummy.
+
 ## Plan the day around your real baby (Yorix)
 
 **Yorix** turns the naps and feeds you log into a day plan that adjusts after every short nap, with a predicted next sleep window and bedtime. The in-app AI coach can explain why today's plan moved. It is a support for tired parents, not a medical device and not a diagnosis.

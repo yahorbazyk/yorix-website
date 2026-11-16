@@ -84,6 +84,12 @@ After the first birthday, Sleep Foundation and NICHD-aligned advice say you no l
 **I found my 2 week old sleeping on their side. Is that all right?**
 Start every sleep on the back. If you find them on their side and they cannot yet roll both ways, return them to their back. The week-2 snapshot is on [2 week old baby sleep](/2-week-old-baby-sleep). Side-sleep is not a "newborn exception."
 
+**Why does my baby sleep with their bum in the air?**
+It is a common rolled position, not a separate diagnosis. Always **start** on the back, on a firm, flat, clear surface. If they can roll both ways and they get themselves into a rump-up position, the same rolling rule already on this page applies: you usually leave them if the space is clear and there are no loose blankets or pillows. If they cannot roll both ways yet, or the space is not clear, follow the stomach-sleeping advice above and talk to your pediatrician if you are unsure.
+
+**Can a 4 month old sleep on their stomach if they roll over?**
+Start every sleep on the back. If they roll to the tummy and can roll both ways, the rule already on [baby sleeping on stomach](/baby-sleeping-on-stomach) applies: leave them if the crib is clear, and stop swaddling. That is not a reason to *place* them on the tummy.
+
 ## Note when rolling started (Yorix)
 
 **Yorix** can store a short note or symptom entry when you first see a roll in the crib, which is useful when you are deciding whether to stop a swaddle or stop turning them. The app cannot judge sleep position and is not a medical device.

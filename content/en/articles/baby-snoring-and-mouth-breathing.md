@@ -82,6 +82,9 @@ No. Sleep stays flat, on the back, in a clear crib or bassinet. See [sick baby s
 **My 2 week old sleeps with their mouth open. Is that normal?**
 A briefly open mouth in active sleep can happen. If the baby is congested, having trouble feeding, or you hear regular snoring or pauses, use the advice already on this page and [sick baby sleep](/sick-baby-sleep). Newborns with persistent mouth breathing or poor feeding should be discussed with the pediatrician, not diagnosed from a photo.
 
+**When should I see a sleep specialist or ask for a sleep study?**
+Start with your pediatrician. This page already lists breathing, snoring, and unusual-event reasons to call. A specialist or a study is their referral, not a parent DIY step . If the issue is nightmares, sleepwalking, or sleep talking rather than breathing, see [night terrors](/night-terrors), which already compares those events.
+
 ## Log which nights are noisy, and how (Yorix)
 
 **Yorix** can help you note which nights sounded congested, whether the mouth was open, and whether you heard pauses — the kind of log a pediatrician may find useful. The app cannot diagnose sleep apnea and is not a medical device or a monitor.

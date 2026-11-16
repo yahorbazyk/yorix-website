@@ -161,6 +161,8 @@ For the difference between an awake hold and a safe sleep space, see [bed-sharin
 
 ## Related reading
 
+- [Baby Sweating in Sleep: Check the Chest, Not Only the Hair](/baby-sweating-in-sleep)
+
 - [Baby Sleep and Travel: Planes, Hotels, and Jet Lag](/baby-sleep-and-travel)
 - [Baby Sleeping in a Car Seat, Swing, or Lounger](/baby-sleeping-in-car-seat)
 - [Baby Sleeping on the Stomach: When It Is and Isn't Safe](/baby-sleeping-on-stomach)

@@ -138,6 +138,12 @@ Practice sitting down during the day, then at night calmly lay them down with th
 **Is my 10 month old ready for one nap?**  
 Most babies are not. Mayo Clinic says the morning nap is often dropped at 10–12 months, while Boys Town gives 15–18 months.
 
+**My 8, 9, 10, or 12 month old won’t nap. Does that mean they should drop a nap?**
+Not automatically. Use this page and the matching month schedule. At this age a two-nap day is still common; dropping to one nap too early can look like “they won’t nap.” See [baby nap schedule by age](/baby-nap-schedule-by-age) and, when the one-nap transition is actually close, [when do toddlers stop napping](/when-do-toddlers-stop-napping).
+
+**Is it normal for a 10 month old to sleep 12 hours?**
+Some babies at that age do have a long night; others do not. There is no official “must sleep 12 hours” target. Use the 24-hour bands on this page (they do not all agree — we do not average them) and the matching month schedule.
+
 ## Two naps, tracked over time (Yorix)
 
 **Yorix** records naps and night wakings and suggests the next nap window from your baby's recent days. That can help you see whether a skipped morning nap is a one-off or a pattern. It is a support for tired parents, not a medical device and not a diagnosis.
