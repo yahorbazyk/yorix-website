@@ -87,6 +87,9 @@ it passes, `pnpm run deploy`, with `NODE_VERSION=22.16.0`. Builds run on Cloudfl
 not GitHub Actions; other branches do not build. Pushes that touch only
 Markdown or `tasks/` are skipped by the build watch paths. Publishing = fast-forward `main` and
 push; check the build in the dashboard's Deployments tab.
+Workers Builds installs with pnpm 9.10, which rejects a `pnpm-workspace.yaml`
+without `packages:` — keep `packages: ['.']` there even though local pnpm 12
+does not need it.
 
 `pnpm run deploy` = `vinext build && wrangler deploy --config
 dist/server/wrangler.json --name yorix-website`. Run it by hand only when
