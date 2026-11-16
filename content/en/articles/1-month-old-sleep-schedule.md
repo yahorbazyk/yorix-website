@@ -142,6 +142,8 @@ Yes, if you'd like. Keep it short and calm; it becomes more useful as the body c
 
 ## Related reading
 
+- [Baby Sleep by Week (Weeks 1–15)](/baby-sleep-by-week)
+
 - [6 Week Old Baby Sleep: The Fussy, Hungry Middle of the Early Weeks](/6-week-old-baby-sleep)
 
 - [Bedtime Routine for Baby: A Simple, Evidence-Backed Wind-Down](/bedtime-routine-for-baby)

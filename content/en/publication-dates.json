@@ -117,7 +117,7 @@
   },
   "sleep-regression/12-months": {
     "published": "2026-11-15",
-    "updated": "2026-11-15"
+    "updated": "2026-11-16"
   },
   "sleep-regression/18-months": {
     "published": "2026-11-15",
@@ -133,7 +133,7 @@
   },
   "sleep-regression/6-months": {
     "published": "2026-11-15",
-    "updated": "2026-11-15"
+    "updated": "2026-11-16"
   },
   "sleep-regression/8-months": {
     "published": "2026-11-15",
@@ -492,6 +492,54 @@
     "updated": "2026-11-16"
   },
   "why-is-my-baby-suddenly-sleeping-more": {
+    "published": "2026-11-16",
+    "updated": "2026-11-16"
+  },
+  "1-week-old-baby-sleep": {
+    "published": "2026-11-16",
+    "updated": "2026-11-16"
+  },
+  "10-week-old-baby-sleep": {
+    "published": "2026-11-16",
+    "updated": "2026-11-16"
+  },
+  "11-week-old-baby-sleep": {
+    "published": "2026-11-16",
+    "updated": "2026-11-16"
+  },
+  "13-week-old-baby-sleep": {
+    "published": "2026-11-16",
+    "updated": "2026-11-16"
+  },
+  "14-week-old-baby-sleep": {
+    "published": "2026-11-16",
+    "updated": "2026-11-16"
+  },
+  "15-week-old-baby-sleep": {
+    "published": "2026-11-16",
+    "updated": "2026-11-16"
+  },
+  "3-week-old-baby-sleep": {
+    "published": "2026-11-16",
+    "updated": "2026-11-16"
+  },
+  "4-week-old-baby-sleep": {
+    "published": "2026-11-16",
+    "updated": "2026-11-16"
+  },
+  "5-week-old-baby-sleep": {
+    "published": "2026-11-16",
+    "updated": "2026-11-16"
+  },
+  "7-week-old-baby-sleep": {
+    "published": "2026-11-16",
+    "updated": "2026-11-16"
+  },
+  "9-week-old-baby-sleep": {
+    "published": "2026-11-16",
+    "updated": "2026-11-16"
+  },
+  "baby-sleep-by-week": {
     "published": "2026-11-16",
     "updated": "2026-11-16"
   }

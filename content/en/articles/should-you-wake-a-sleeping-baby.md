@@ -98,6 +98,8 @@ Not as a default in the first days. Use the wake-to-feed rules already on this p
 
 ## Related reading
 
+- [1 Week Old Baby Sleep: The First Nights at Home](/1-week-old-baby-sleep)
+
 - [2 Week Old Baby Sleep: Pieces, Feeds, and 'Sleeping All Day'](/2-week-old-baby-sleep)
 - [Can a Newborn Sleep Too Much? Long Sleep vs Hard to Wake](/can-a-newborn-sleep-too-much)
 

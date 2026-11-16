@@ -69,6 +69,9 @@ It can start in the same season. The regression page is for a time-limited bump 
 **What if they get out of bed after I leave?**  
 That is the stay-in-bed problem. Walk them back calmly if they have a bed they can leave; see [crib to toddler bed](/crib-to-toddler-bed) if the crib is no longer safe. We are not expanding that how-to here.
 
+**Are 18-month bedtime battles different from 2-year ones?**
+The repeatable evening plan on this page is the same. The month view changes. Use [18 month old sleep schedule](/18-month-old-sleep-schedule) and, if you are using that name, [sleep regression at 18 months](/sleep-regression/18-months) around the one-nap, more-verbal stage. Use [2 year old sleep schedule](/2-year-old-sleep-schedule) and [sleep regression at 2 years](/sleep-regression/2-years) for stalling, calling out, and crib-to-bed questions.
+
 ## See how long the evening is actually taking (Yorix)
 
 **Yorix** can show when the routine starts and when sleep actually begins, which is a clearer picture than a single loud night. The app cannot run bedtime for you and is not a medical device.

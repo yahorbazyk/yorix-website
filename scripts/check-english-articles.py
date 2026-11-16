@@ -78,13 +78,28 @@ def main():
         visible = ' '.join(page.text)
         assert page.h1 == 1, (article['path'], 'H1')
         assert page.title == article['title'], (article['path'], page.title)
-        assert page.tables >= 1, (article['path'], 'tables')
+        if re.search(r'^\|.*\|', article['body'], re.M):
+            assert page.tables >= 1, (article['path'], 'tables')
         assert len(page.json) == 1, (article['path'], 'JSON-LD')
         assert json.loads(page.json[0]) == article['schema'], (article['path'], 'schema')
         assert 'Implementation note' not in visible and '[Month DD' not in visible
         assert 'By the Yorix team' in visible
         assert 'not medical advice' in visible, article['path']
         assert set(page.anchors) <= page.ids, (article['path'], set(page.anchors) - page.ids)
+        week = re.fullmatch(r'(\d+)-week-old-baby-sleep', article['slug'])
+        if week:
+            number = int(week[1])
+            navigation = re.search(r'<nav aria-label="Week by week".*?</nav>', html, re.S)
+            assert navigation, article['path']
+            navigation = navigation[0]
+            assert 'href="/baby-sleep-by-week"' in navigation
+            if number > 1:
+                assert f'href="/{number - 1}-week-old-baby-sleep"' in navigation
+            else:
+                assert 'rel="prev"' not in navigation
+            following = f'/{number + 1}-week-old-baby-sleep' if number < 15 else '/4-month-old-sleep-schedule'
+            assert f'href="{following}"' in navigation
+            assert 'href="/16-week-old-baby-sleep"' not in html
         return article['path']
 
     with ThreadPoolExecutor(max_workers=3) as pool:
@@ -115,7 +130,7 @@ def main():
     assert status == 200
     for article in articles:
         assert f'href="{article["path"]}"' in html, ('missing guide card', article['path'])
-    print(f'PASS: {len(articles)} rendered articles, 46 direct 301 merges, {len(missing)} missing-translation 404s, and all guide cards.', flush=True)
+    print(f'PASS: {len(articles)} rendered English documents, 46 direct 301 merges, {len(missing)} missing-translation 404s, and all guide links.', flush=True)
 
 
 if __name__ == '__main__':

@@ -172,6 +172,12 @@ A 20–30 minute routine in the same order every night: feed, bath or wash, teet
 **Is 6 months a good age for a sleep plan?**  
 Yes, many families start one now. KidsHealth describes a gentle drowsy-but-awake approach for 4–7 months.
 
+## If you searched for 24 week old baby sleep
+
+Twenty-four weeks is the usual "6 months" mark. There is no official week-24 sleep total. This page is the month view: AASM still recommends **12–16 hours** in 24 hours at 4–12 months. Nap count, wake windows, and night feeds are already covered above.
+
+If you arrived because nights or naps suddenly got harder at "24 weeks," use [sleep regression at 6 months](/sleep-regression/6-months) for that named discussion. The week-by-week series stops at [15 week old baby sleep](/15-week-old-baby-sleep); weeks 16–23 belong on the 4- and 5-month pages.
+
 ## Let the schedule adjust itself (Yorix)
 
 **Yorix** suggests the next nap from your baby's real day: log a short nap and it moves the rest of the day's windows and bedtime. You can see whether three or two naps is working better across the week. It is a support for tired parents, not a medical device and not a diagnosis.

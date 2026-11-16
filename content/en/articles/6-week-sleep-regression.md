@@ -63,8 +63,8 @@ Call if feeding or wet diapers are off, if the baby is unusually hard to wake, i
 **Is the 6 week sleep regression real?**  
 The *name* is popular. A documented, clockwork sleep-regression event at 6 weeks is not what the clinical sources describe.
 
-**Is the 8 week sleep regression different?**  
-Usually no. Use this page, plus [8 week old baby sleep](/8-week-old-baby-sleep) for the week snapshot.
+**Is there an 8 week sleep regression?**
+There is no official one. The popular "6 week" name, and the 6–8 week fuss peak described for Period of PURPLE Crying (NCSBS), are already discussed on this page. For the week-8 sleep snapshot — including short bassinet naps — use [8 week old baby sleep](/8-week-old-baby-sleep) and [8 week old short naps](/8-week-old-short-naps). 
 
 **Should I sleep-train to get through it?**  
 Usually not at this age. See the readiness page.
@@ -74,6 +74,9 @@ Usually not at this age. See the readiness page.
 **Yorix** can help you see whether nights shortened for a few days or for weeks. The app cannot diagnose a regression and is not a medical device.
 
 ## Related reading
+
+- [5 Week Old Baby Sleep: When a Longer Stretch Slips](/5-week-old-baby-sleep)
+- [7 Week Old Baby Sleep: Almost Two Months, Still No Timetable](/7-week-old-baby-sleep)
 
 - [6 week old baby sleep](/6-week-old-baby-sleep)
 - [Sleep regression](/sleep-regression)

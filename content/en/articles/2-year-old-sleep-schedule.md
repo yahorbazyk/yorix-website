@@ -83,6 +83,9 @@ Sleep can wobble at this age. We treat that as a separate question: [2-year slee
 **Should I move them to a toddler bed at 2?**  
 Only if the crib is no longer safe or they are clearly ready. See [crib to toddler bed](/crib-to-toddler-bed).
 
+**I have a 19–23 month old. Is this page too late?**
+Use [18 month old sleep schedule](/18-month-old-sleep-schedule) if they are still squarely in the one-nap 18-month picture. Use this page as you approach the second birthday, especially for nap refusals, bedtime stalling, and crib-to-bed questions.
+
 ## Check the 24-hour total (Yorix)
 
 **Yorix** can add the nap and the night so you can see whether you are inside the 11–14 hour range. The app cannot pick a bedtime and is not a medical device.

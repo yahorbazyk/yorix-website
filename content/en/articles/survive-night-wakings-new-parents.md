@@ -150,6 +150,9 @@ Rest when your baby sleeps, share the night with a partner or helper, go to bed 
 **When is tiredness a sign of postnatal depression?**  
 If you can't sleep even when your baby sleeps, or you feel hopeless or unable to cope, speak to a doctor (NHS).
 
+**Why is a 6–8 week old waking so often at night?**
+Frequent night waking is still typical at this age. Hunger, cluster feeding, and the 6–8 week fuss peak described for Period of PURPLE Crying (NCSBS) often travel together. Use [cluster feeding](/cluster-feeding) for bunched evening feeds, [6 week old baby sleep](/6-week-old-baby-sleep) for the week snapshot, and [6 week sleep regression](/6-week-sleep-regression) for that popular name. Do not start a formal training plan at 6–8 weeks (Sleep Foundation generally discusses readiness around 4–6 months).
+
 ## Nights, made a little more predictable (Yorix)
 
 **Yorix** records every night waking and feed, so you can spot patterns (for example, wakings that cluster after a late nap) and share the log with a partner who takes the next shift. It is a support for tired parents, not a medical device and not a diagnosis.

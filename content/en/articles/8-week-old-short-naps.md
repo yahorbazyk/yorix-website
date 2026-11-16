@@ -69,6 +69,10 @@ Not as a week-8 rule. See [contact naps](/contact-naps).
 
 ## Related reading
 
+- [10 Week Old Baby Sleep: Still Pieces, Even If Nights Look Better](/10-week-old-baby-sleep)
+- [7 Week Old Baby Sleep: Almost Two Months, Still No Timetable](/7-week-old-baby-sleep)
+- [9 Week Old Baby Sleep: The First Week After the Clock May Start](/9-week-old-baby-sleep)
+
 - [8 week old baby sleep](/8-week-old-baby-sleep)
 - [Short naps](/short-naps)
 - [Contact naps](/contact-naps)

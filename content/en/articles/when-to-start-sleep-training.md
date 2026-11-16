@@ -148,6 +148,9 @@ Usually not. Sleep Foundation generally discusses readiness around 4–6 months.
 
 ## Related reading
 
+- [15 Week Old Baby Sleep: The Week Before 4 Months, Not a Second 4-Month Page](/15-week-old-baby-sleep)
+- [4 Week Old Baby Sleep: A Week-4 Snapshot, Not the Month Plan](/4-week-old-baby-sleep)
+
 - [12 Week Old Baby Sleep: Longer Nights for Some, Still Not a Timetable](/12-week-old-baby-sleep)
 
 - [Responsive Settling: Help That Can Fade, Not a Second Methods Table](/responsive-settling)

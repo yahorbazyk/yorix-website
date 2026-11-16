@@ -1,0 +1,614 @@
+{
+  "phase": 4,
+  "candidateDate": "2026-11-16",
+  "newSlugs": [
+    "1-week-old-baby-sleep",
+    "10-week-old-baby-sleep",
+    "11-week-old-baby-sleep",
+    "13-week-old-baby-sleep",
+    "14-week-old-baby-sleep",
+    "15-week-old-baby-sleep",
+    "3-week-old-baby-sleep",
+    "4-week-old-baby-sleep",
+    "5-week-old-baby-sleep",
+    "7-week-old-baby-sleep",
+    "9-week-old-baby-sleep",
+    "baby-sleep-by-week"
+  ],
+  "newArticleSlugs": [
+    "1-week-old-baby-sleep",
+    "10-week-old-baby-sleep",
+    "11-week-old-baby-sleep",
+    "13-week-old-baby-sleep",
+    "14-week-old-baby-sleep",
+    "15-week-old-baby-sleep",
+    "3-week-old-baby-sleep",
+    "4-week-old-baby-sleep",
+    "5-week-old-baby-sleep",
+    "7-week-old-baby-sleep",
+    "9-week-old-baby-sleep"
+  ],
+  "hubSlug": "baby-sleep-by-week",
+  "modifiedExistingFiles": [
+    "1-month-old-sleep-schedule.md",
+    "12-month-old-sleep-schedule.md",
+    "12-week-old-baby-sleep.md",
+    "12-week-old-false-starts.md",
+    "15-month-old-sleep-schedule.md",
+    "18-month-old-sleep-schedule.md",
+    "2-month-old-sleep-schedule.md",
+    "2-to-1-nap-transition.md",
+    "2-week-old-baby-sleep.md",
+    "2-year-old-sleep-schedule.md",
+    "3-month-old-sleep-schedule.md",
+    "4-month-old-sleep-schedule.md",
+    "5-month-old-sleep-schedule.md",
+    "6-month-old-sleep-schedule.md",
+    "6-week-old-baby-sleep.md",
+    "6-week-sleep-regression.md",
+    "8-week-old-baby-sleep.md",
+    "8-week-old-short-naps.md",
+    "baby-waking-every-hour.md",
+    "baby-wont-nap.md",
+    "can-a-newborn-sleep-too-much.md",
+    "cluster-feeding.md",
+    "daycare-and-baby-sleep.md",
+    "early-morning-waking.md",
+    "false-starts.md",
+    "newborn-day-night-confusion.md",
+    "newborn-sleep-schedule.md",
+    "short-naps.md",
+    "should-you-wake-a-sleeping-baby.md",
+    "sleep-regression-12-months.md",
+    "sleep-regression-3-months.md",
+    "sleep-regression-4-months.md",
+    "sleep-regression-6-months.md",
+    "sleep-regression-8-months.md",
+    "split-nights.md",
+    "survive-night-wakings-new-parents.md",
+    "toddler-bedtime-battles.md",
+    "when-do-toddlers-stop-napping.md",
+    "when-to-start-sleep-training.md",
+    "witching-hour.md"
+  ],
+  "inboundRequirements": {
+    "/1-month-old-sleep-schedule": [
+      "/baby-sleep-by-week"
+    ],
+    "/1-week-old-baby-sleep": [
+      "/baby-sleep-by-week"
+    ],
+    "/10-week-old-baby-sleep": [
+      "/baby-sleep-by-week"
+    ],
+    "/11-week-old-baby-sleep": [
+      "/baby-sleep-by-week"
+    ],
+    "/12-week-old-baby-sleep": [
+      "/baby-sleep-by-week"
+    ],
+    "/12-week-old-false-starts": [
+      "/11-week-old-baby-sleep",
+      "/13-week-old-baby-sleep"
+    ],
+    "/13-week-old-baby-sleep": [
+      "/baby-sleep-by-week"
+    ],
+    "/14-week-old-baby-sleep": [
+      "/baby-sleep-by-week"
+    ],
+    "/15-week-old-baby-sleep": [
+      "/baby-sleep-by-week"
+    ],
+    "/2-month-old-sleep-schedule": [
+      "/baby-sleep-by-week"
+    ],
+    "/2-week-old-baby-sleep": [
+      "/baby-sleep-by-week"
+    ],
+    "/3-month-old-sleep-schedule": [
+      "/baby-sleep-by-week"
+    ],
+    "/3-week-old-baby-sleep": [
+      "/baby-sleep-by-week"
+    ],
+    "/4-month-old-sleep-schedule": [
+      "/15-week-old-baby-sleep"
+    ],
+    "/4-week-old-baby-sleep": [
+      "/baby-sleep-by-week"
+    ],
+    "/5-week-old-baby-sleep": [
+      "/baby-sleep-by-week"
+    ],
+    "/6-week-old-baby-sleep": [
+      "/baby-sleep-by-week"
+    ],
+    "/6-week-sleep-regression": [
+      "/5-week-old-baby-sleep",
+      "/7-week-old-baby-sleep"
+    ],
+    "/7-week-old-baby-sleep": [
+      "/baby-sleep-by-week"
+    ],
+    "/8-week-old-baby-sleep": [
+      "/baby-sleep-by-week"
+    ],
+    "/8-week-old-short-naps": [
+      "/10-week-old-baby-sleep",
+      "/7-week-old-baby-sleep",
+      "/9-week-old-baby-sleep"
+    ],
+    "/9-week-old-baby-sleep": [
+      "/baby-sleep-by-week"
+    ],
+    "/can-a-newborn-sleep-too-much": [
+      "/1-week-old-baby-sleep"
+    ],
+    "/cluster-feeding": [
+      "/1-week-old-baby-sleep"
+    ],
+    "/false-starts": [
+      "/11-week-old-baby-sleep"
+    ],
+    "/newborn-sleep-schedule": [
+      "/baby-sleep-by-week"
+    ],
+    "/should-you-wake-a-sleeping-baby": [
+      "/1-week-old-baby-sleep"
+    ],
+    "/sleep-regression/3-months": [
+      "/11-week-old-baby-sleep",
+      "/13-week-old-baby-sleep"
+    ],
+    "/sleep-regression/4-months": [
+      "/15-week-old-baby-sleep"
+    ],
+    "/when-to-start-sleep-training": [
+      "/12-week-old-baby-sleep",
+      "/15-week-old-baby-sleep",
+      "/4-week-old-baby-sleep"
+    ],
+    "/witching-hour": [
+      "/5-week-old-baby-sleep",
+      "/7-week-old-baby-sleep"
+    ]
+  },
+  "addedRelatedLinks": 26,
+  "approvedInsertions": [
+    {
+      "slug": "4-month-old-sleep-schedule",
+      "section": "What can make a 4 month schedule harder",
+      "firstLine": "## If you searched for 16 week old baby sleep"
+    },
+    {
+      "slug": "sleep-regression/4-months",
+      "section": "Frequently asked questions",
+      "firstLine": "**Is there a 16 week sleep regression?**"
+    },
+    {
+      "slug": "4-month-old-sleep-schedule",
+      "section": "Frequently asked questions",
+      "firstLine": "**What about 17 week old baby sleep?**"
+    },
+    {
+      "slug": "4-month-old-sleep-schedule",
+      "section": "Frequently asked questions",
+      "firstLine": "**What about 18 week old baby sleep?**"
+    },
+    {
+      "slug": "4-month-old-sleep-schedule",
+      "section": "Frequently asked questions",
+      "firstLine": "**What about 19 week old baby sleep?**"
+    },
+    {
+      "slug": "5-month-old-sleep-schedule",
+      "section": "Is there a 5 month sleep regression?",
+      "firstLine": "## If you searched for 20 week old baby sleep"
+    },
+    {
+      "slug": "5-month-old-sleep-schedule",
+      "section": "Frequently asked questions",
+      "firstLine": "**What about 21 week old baby sleep?**"
+    },
+    {
+      "slug": "5-month-old-sleep-schedule",
+      "section": "Frequently asked questions",
+      "firstLine": "**What about 22 week old baby sleep?**"
+    },
+    {
+      "slug": "5-month-old-sleep-schedule",
+      "section": "Frequently asked questions",
+      "firstLine": "**What about 23 week old baby sleep?**"
+    },
+    {
+      "slug": "6-month-old-sleep-schedule",
+      "section": "Frequently asked questions",
+      "firstLine": "## If you searched for 24 week old baby sleep"
+    },
+    {
+      "slug": "sleep-regression/6-months",
+      "section": "Frequently asked questions",
+      "firstLine": "**Is there a 24 week sleep regression?**"
+    },
+    {
+      "slug": "12-month-old-sleep-schedule",
+      "section": "What can make a one-year-old's schedule harder",
+      "firstLine": "## If you searched for a 13 month old sleep schedule"
+    },
+    {
+      "slug": "15-month-old-sleep-schedule",
+      "section": "Frequently asked questions",
+      "firstLine": "**I have a 13 month old. Should I use this page?**"
+    },
+    {
+      "slug": "sleep-regression/12-months",
+      "section": "Frequently asked questions",
+      "firstLine": "**Is there a 13 month sleep regression?**"
+    },
+    {
+      "slug": "12-month-old-sleep-schedule",
+      "section": "Frequently asked questions",
+      "firstLine": "**What about a 14 month old sleep schedule?**"
+    },
+    {
+      "slug": "15-month-old-sleep-schedule",
+      "section": "Frequently asked questions",
+      "firstLine": "**I have a 14 month old. Is this the one-nap page already?**"
+    },
+    {
+      "slug": "2-to-1-nap-transition",
+      "section": "Frequently asked questions",
+      "firstLine": "## If you searched for a 16 month old sleep schedule"
+    },
+    {
+      "slug": "15-month-old-sleep-schedule",
+      "section": "Frequently asked questions",
+      "firstLine": "**What about 16 months?**"
+    },
+    {
+      "slug": "15-month-old-sleep-schedule",
+      "section": "Frequently asked questions",
+      "firstLine": "**What about a 17 month old sleep schedule?**"
+    },
+    {
+      "slug": "18-month-old-sleep-schedule",
+      "section": "Frequently asked questions",
+      "firstLine": "**I have a 17 month old. Should I use the 18-month page already?**"
+    },
+    {
+      "slug": "18-month-old-sleep-schedule",
+      "section": "Frequently asked questions",
+      "firstLine": "## If you searched for a 19, 20, 21, 22, or 23 month sleep schedule"
+    },
+    {
+      "slug": "2-year-old-sleep-schedule",
+      "section": "Frequently asked questions",
+      "firstLine": "**I have a 19–23 month old. Is this page too late?**"
+    },
+    {
+      "slug": "6-week-sleep-regression",
+      "section": "Frequently asked questions",
+      "firstLine": "**Is there an 8 week sleep regression?**",
+      "replacement": true
+    },
+    {
+      "slug": "sleep-regression/3-months",
+      "section": "Frequently asked questions",
+      "firstLine": "**Is there a 12 week sleep regression?**"
+    },
+    {
+      "slug": "newborn-day-night-confusion",
+      "section": "How long does it last?",
+      "firstLine": "## Early wakings at 6–12 weeks"
+    },
+    {
+      "slug": "survive-night-wakings-new-parents",
+      "section": "Frequently asked questions",
+      "firstLine": "**Why is a 6–8 week old waking so often at night?**"
+    },
+    {
+      "slug": "baby-wont-nap",
+      "section": "Frequently asked questions",
+      "firstLine": "**My 6, 8, or 12 week old \"won't nap.\"**"
+    },
+    {
+      "slug": "short-naps",
+      "section": "Short naps by age",
+      "firstLine": "### 3–7 months"
+    },
+    {
+      "slug": "early-morning-waking",
+      "section": "Early waking by age",
+      "firstLine": "### 4–12 months (including \"8 month old early waking at 5am\")"
+    },
+    {
+      "slug": "false-starts",
+      "section": "Frequently asked questions",
+      "firstLine": "## False starts at 4, 8, and 12 months"
+    },
+    {
+      "slug": "split-nights",
+      "section": "Split nights by age",
+      "firstLine": "### 8–18 months (including \"12 month old split nights\")"
+    },
+    {
+      "slug": "toddler-bedtime-battles",
+      "section": "Frequently asked questions",
+      "firstLine": "**Are 18-month bedtime battles different from 2-year ones?**"
+    },
+    {
+      "slug": "when-do-toddlers-stop-napping",
+      "section": "Frequently asked questions",
+      "firstLine": "**My 18 month old or 2 year old won't nap. Is it time to drop it?**"
+    },
+    {
+      "slug": "daycare-and-baby-sleep",
+      "section": "Frequently asked questions",
+      "firstLine": "**Daycare dropped the nap at 18 months or 2 years, and nights are a mess.**"
+    },
+    {
+      "slug": "newborn-sleep-schedule",
+      "section": "Newborn sleep week by week (what to expect)",
+      "firstLine": "A '2 week sleep regression' search belongs on [2 week old baby sleep](/2-week-old-baby-sleep)."
+    },
+    {
+      "slug": "baby-waking-every-hour",
+      "section": "Frequently asked questions",
+      "firstLine": "**Why does my 8 month old (or 10–12 month old) wake up every hour at night?**"
+    },
+    {
+      "slug": "sleep-regression/8-months",
+      "section": "Frequently asked questions",
+      "firstLine": "**My 8 month old is waking every hour. Is that the regression?**"
+    }
+  ],
+  "originalSourceHashes": {
+    "1-week-old-baby-sleep.md": "22db7a0467ce18d35e6c01c2409b753dc4e6cc5963b00d4db64c1d609b0eb3f9",
+    "10-week-old-baby-sleep.md": "373a01d7de050e5d53995a099b8e2f68fe30e2c35fad7368a21b75927d1e5e4c",
+    "11-week-old-baby-sleep.md": "9b615b74b327c2e122e04e4c702d59a806cf10f5b3eeb2bef8ae7c30ac4fbb77",
+    "13-week-old-baby-sleep.md": "a09065551a9b6ec98bba665a1b86d98c33eb6c563f9ec22a6873146d2e1077ee",
+    "14-week-old-baby-sleep.md": "ea87721f139ee1a2075d2ab9030099d73b2e086a194d8a4d1760b84982fa070e",
+    "15-week-old-baby-sleep.md": "b68a45573bbd9f94e9ba9ca41fa682b8864359e54dbdea10f2ae539a259e589f",
+    "3-week-old-baby-sleep.md": "8a6137a95069f53204f6970c3e03234afd226df82fa9ba9602f93e128e9181cd",
+    "4-week-old-baby-sleep.md": "d7cb360f6305d2354907f8815602b0069706c674988b9065a1ad96bcf869aad3",
+    "5-week-old-baby-sleep.md": "651efcc40427295e7f8544e8aaf7d3406f0ee24328d9de3914891804b74c2ab8",
+    "7-week-old-baby-sleep.md": "4e9654976298f05ef17efad6ebb0056e9d6cac36e7655d2942a2c1c60ffbc421",
+    "9-week-old-baby-sleep.md": "f0a233a4a6d36ab7242b1db843368deda0cfcb825683fa592d5d744db41c1f8a",
+    "baby-sleep-by-week.md": "55aef16b67bcd4acd030c060bede363ba5ae5f7f9a6456d321faf5115ad8bf08"
+  },
+  "editorialNotesOmittedOrAdapted": [
+    {
+      "where": "baby-sleep-by-week",
+      "text": "last week URL",
+      "replacement": "last week snapshot"
+    },
+    {
+      "where": "baby-sleep-by-week",
+      "text": "week article",
+      "replacement": "weekly overview"
+    },
+    {
+      "where": "baby-sleep-by-week",
+      "text": "Month views stay on the month URLs.",
+      "replacement": "Month views stay in the month guides."
+    },
+    {
+      "where": "baby-sleep-by-week",
+      "text": "Weeks 25–52 are not published as week URLs.",
+      "replacement": "For later ages, use the month guides."
+    },
+    {
+      "where": "merge-1-0",
+      "text": "Do not start a new week-16 URL or a second timetable. "
+    },
+    {
+      "where": "merge-1-1",
+      "text": "not a separate week-16 URL",
+      "replacement": "alongside the 4-month schedule"
+    },
+    {
+      "where": "merge-5-0",
+      "text": "Do not publish a `/20-week-old-baby-sleep` URL."
+    },
+    {
+      "where": "merge-7-0",
+      "text": "the next month URL, not a week-22 page",
+      "replacement": "the next month view"
+    },
+    {
+      "where": "merge-9-0",
+      "text": "Do not publish a `/24-week-old-baby-sleep` URL."
+    },
+    {
+      "where": "merge-9-1",
+      "text": "not a separate week-24 URL",
+      "replacement": "alongside the 6-month schedule"
+    },
+    {
+      "where": "merge-10-0",
+      "text": "no separate official 13-month timetable, and we will not publish one",
+      "replacement": "no separate official 13-month timetable"
+    },
+    {
+      "where": "merge-10-1",
+      "text": "There is no separate 13-month URL."
+    },
+    {
+      "where": "merge-11-0",
+      "text": "There is no official 14-month regression and no 14-month URL."
+    },
+    {
+      "where": "merge-11-1",
+      "text": "Do not publish a 14-month URL."
+    },
+    {
+      "where": "merge-12-0",
+      "text": "not a reason to invent a new month URL",
+      "replacement": "not a reason to use a different age band"
+    },
+    {
+      "where": "merge-12-0",
+      "text": "there is no official 16-month event, and we will not add a 16-month row as if there were one.",
+      "replacement": "there is no official 16-month event."
+    },
+    {
+      "where": "merge-12-1",
+      "text": "There is no separate 16-month schedule URL."
+    },
+    {
+      "where": "merge-13-1",
+      "text": "There is no 17-month URL."
+    },
+    {
+      "where": "merge-14-0",
+      "text": "We will not publish a separate official timetable for each month. ",
+      "replacement": ""
+    },
+    {
+      "where": "merge-14-0",
+      "text": "not on a new 20-month URL",
+      "replacement": "alongside this sleep-schedule guide"
+    },
+    {
+      "where": "merge-14-1",
+      "text": "There are no separate 19–23 month schedule URLs."
+    },
+    {
+      "where": "merge-19-0",
+      "text": "Do not create `/8-week-sleep-regression`."
+    },
+    {
+      "where": "merge-19-0",
+      "text": "Do not create `/8-week-sleep-regression`."
+    },
+    {
+      "where": "merge-20-0",
+      "text": "not a new `/12-week-sleep-regression` URL",
+      "replacement": "not a separate weekly diagnosis"
+    },
+    {
+      "where": "merge-21-0",
+      "text": " — do not paste that full plan here",
+      "replacement": ""
+    },
+    {
+      "where": "merge-22-0",
+      "text": "Do not create a `/6-week-night-wakings` URL."
+    },
+    {
+      "where": "merge-23-0",
+      "text": "Do not create `/6-week-old-wont-nap`."
+    },
+    {
+      "where": "merge-24-0",
+      "text": "rather than a new `/3-month-old-short-naps` URL",
+      "replacement": "for the age you are in"
+    },
+    {
+      "where": "merge-24-0",
+      "text": "Do not paste that early-weeks advice as if it were a 6-month lengthening plan.",
+      "replacement": "That early-weeks advice differs from a 6-month lengthening plan."
+    },
+    {
+      "where": "merge-24-0",
+      "text": "for the age you are in for the age you are in",
+      "replacement": "for the age you are in"
+    },
+    {
+      "where": "merge-25-0",
+      "text": "There is no need for a separate 8-month or 12-month early-waking URL. "
+    },
+    {
+      "where": "merge-27-0",
+      "text": "Do not publish `/12-month-old-false-starts`, `/8-month-old-false-starts`, or `/4-month-old-false-starts`."
+    },
+    {
+      "where": "merge-27-0",
+      "text": "Do not paste that early triage onto a 12-month problem.",
+      "replacement": "The advice for those early weeks differs from a 12-month problem."
+    },
+    {
+      "where": "merge-28-0",
+      "text": "not a new age URL",
+      "replacement": "rather than a separate age-specific condition"
+    },
+    {
+      "where": "merge-29-0",
+      "text": "Do not create `/18-month-bedtime-battles`."
+    },
+    {
+      "where": "merge-30-0",
+      "text": "Do not create `/18-month-old-wont-nap`."
+    },
+    {
+      "where": "merge-32-0",
+      "text": "not a new `/8-month-waking-every-hour` URL",
+      "replacement": "rather than a separate age-specific problem"
+    },
+    {
+      "where": "merge-32-1",
+      "text": "Do not start a second 8-month hourly-waking URL."
+    },
+    {
+      "where": "11-week-old-baby-sleep",
+      "text": "the 12-week and 3-month URLs",
+      "replacement": "the 12-week and 3-month guides"
+    },
+    {
+      "where": "15-week-old-baby-sleep",
+      "text": "From week 16, week-by-week intent merges into those month URLs.",
+      "replacement": "From week 16, use those month guides."
+    },
+    {
+      "where": "15-week-old-baby-sleep",
+      "text": "points to the right month URLs",
+      "replacement": "points to the relevant month guides"
+    },
+    {
+      "where": "15-week-old-baby-sleep",
+      "text": "This is the last standalone week URL in the series. Week 16–24 queries merge into the 4-, 5-, and 6-month schedules",
+      "replacement": "This is the last weekly snapshot in the series. For weeks 16–24, use the 4-, 5-, and 6-month schedules"
+    },
+    {
+      "where": "4-week-old-baby-sleep",
+      "text": "Use that URL for \"1 month old sleep schedule\" intent. Use this URL for \"4 week old baby sleep.\"",
+      "replacement": "Use that guide for the month view and this page for the week-four snapshot."
+    }
+  ],
+  "skippedPreviouslyAppliedMergeNumbers": [
+    26,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43
+  ],
+  "weeklyNavigationSlugs": [
+    "1-week-old-baby-sleep",
+    "2-week-old-baby-sleep",
+    "3-week-old-baby-sleep",
+    "4-week-old-baby-sleep",
+    "5-week-old-baby-sleep",
+    "6-week-old-baby-sleep",
+    "7-week-old-baby-sleep",
+    "8-week-old-baby-sleep",
+    "9-week-old-baby-sleep",
+    "10-week-old-baby-sleep",
+    "11-week-old-baby-sleep",
+    "12-week-old-baby-sleep",
+    "13-week-old-baby-sleep",
+    "14-week-old-baby-sleep",
+    "15-week-old-baby-sleep"
+  ],
+  "retainedExistingPilotAnswers": [
+    "2-week-old-baby-sleep: Is there a 2 week sleep regression?",
+    "12-week-old-baby-sleep: Is this the 12 week sleep regression?"
+  ]
+}

@@ -27,9 +27,11 @@ class EnglishArticlesTests(unittest.TestCase):
         self.assertEqual(self.catalog, [{k: v for k, v in a.items() if k not in ('body', 'schema')} for a in expected])
 
     def test_counts_and_english_only_scope(self):
-        self.assertEqual(len(self.articles), 124)
+        self.assertEqual(len(self.articles), 136)
+        self.assertEqual(sum(a['kind'] == 'article' for a in self.articles), 135)
+        self.assertEqual(sum(a['kind'] == 'hub' for a in self.articles), 1)
         self.assertEqual(sum(a['replaces'] for a in self.articles), 12)
-        self.assertEqual(len({a['path'] for a in self.articles}), 124)
+        self.assertEqual(len({a['path'] for a in self.articles}), 136)
         self.assertEqual(sum(a['path'].startswith('/sleep-regression/') for a in self.articles), 7)
 
     def test_dates_hidden_notes_and_schema(self):
@@ -47,7 +49,9 @@ class EnglishArticlesTests(unittest.TestCase):
                 self.assertEqual(article['dateModified'], a['updated'])
                 self.assertEqual(article['author']['name'], 'Yorix')
                 self.assertEqual(graph[1]['itemListElement'][-1]['item'], a['canonical'])
-                self.assertIn('|', a['body'])
+                if a['kind'] == 'article':
+                    self.assertIn('## Short answer', a['body'])
+                    self.assertTrue('|' in a['body'] or len(re.findall(r'^- \*\*', a['body'], re.M)) >= 3, a['slug'])
         replaced = next(a for a in self.articles if a['slug'] == 'newborn-sleep-schedule')
         self.assertEqual(replaced['published'], '2026-09-03')
         special = next(a for a in self.articles if a['slug'] == 'sleep-regression/4-months')
@@ -104,8 +108,7 @@ class EnglishArticlesTests(unittest.TestCase):
         articles = {a['path']: a for a in self.articles}
         self.assertEqual(len(release['newSlugs']), 10)
         self.assertEqual(len(release['approvedFaqInsertions']), 13)
-        self.assertEqual(sum(a['category'] == 'Sleep by week' for a in self.articles), 4)
-        self.assertNotIn('/baby-sleep-by-week', articles)
+        self.assertTrue(all(articles['/' + slug]['category'] == 'Sleep by week' for slug in release['newSlugs'] if re.fullmatch(r'\d+-week-old-baby-sleep', slug)))
         for insertion in release['approvedFaqInsertions']:
             body = articles['/' + insertion['slug']]['body']
             for question in insertion['questions']:
@@ -125,13 +128,35 @@ class EnglishArticlesTests(unittest.TestCase):
         self.assertEqual(first, (ROOT / 'public/sitemap-pages.xml').read_bytes())
         tree = ET.fromstring(first)
         urls = {u.find('s:loc', ns).text: u.find('s:lastmod', ns) for u in tree}
-        self.assertEqual(len(urls), 484)
+        self.assertEqual(len(urls), 496)
         for url in urls:
             self.assertNotIn(url.rsplit('/', 1)[-1], prepare.MERGES)
         for a in self.articles:
             self.assertEqual(urls[a['canonical']].text, a['updated'])
             if not a['replaces']:
                 self.assertFalse(any(url.endswith(a['path']) and url != a['canonical'] for url in urls))
+
+    def test_phase_four_week_hub_and_no_duplicate_pilot_faqs(self):
+        release = json.loads((ROOT / 'content/en/releases/phase-4/summary.json').read_text())
+        articles = {a['path']: a for a in self.articles}
+        self.assertEqual(len(release['newArticleSlugs']), 11)
+        self.assertEqual(articles['/baby-sleep-by-week']['kind'], 'hub')
+        self.assertEqual(sum(a['category'] == 'Sleep by week' for a in self.articles), 16)
+        for week in range(1, 16):
+            path = f'/{week}-week-old-baby-sleep'
+            self.assertIn(path, articles)
+            self.assertIn(f']({path})', articles['/baby-sleep-by-week']['body'])
+            self.assertIn('](/baby-sleep-by-week)', articles[path]['body'])
+        self.assertFalse(any(re.fullmatch(r'/(?:1[6-9]|[2-9]\d)-week-old-baby-sleep', path) for path in articles))
+        for source, targets in release['inboundRequirements'].items():
+            links = re.findall(r'\]\((/[^)]+)\)', articles[source]['body'])
+            for target in targets:
+                if target.split('#')[0] != source:
+                    self.assertTrue(any(link.split('#')[0] == target.split('#')[0] for link in links), (source, target))
+        pilot = json.loads((ROOT / 'content/en/releases/phase-3/summary.json').read_text())
+        for insertion in pilot['approvedFaqInsertions']:
+            for question in insertion['questions']:
+                self.assertEqual(articles['/' + insertion['slug']]['body'].count('**' + question + '**'), 1)
 
 
 if __name__ == '__main__':

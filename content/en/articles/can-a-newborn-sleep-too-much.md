@@ -68,6 +68,8 @@ Only if your pediatrician still wants that. The rules live on the wake-to-feed p
 
 ## Related reading
 
+- [1 Week Old Baby Sleep: The First Nights at Home](/1-week-old-baby-sleep)
+
 - [Should you wake a sleeping baby](/should-you-wake-a-sleeping-baby)
 - [2 week old baby sleep](/2-week-old-baby-sleep)
 - [Newborn sleep schedule](/newborn-sleep-schedule)
