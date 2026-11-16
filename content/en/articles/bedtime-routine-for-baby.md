@@ -93,6 +93,9 @@ No. NHS includes a bath as an option, not a requirement.
 **Can I use the same routine when we travel?**  
 Yes, and that is one of its strengths. A book and the same song still work in a pack-and-play. Keep the [safe sleep](/safe-sleep-for-babies) rules wherever you are.
 
+**What is a good bedtime for a 12 week old?**
+There is no official AAP clock. The week-12 snapshot is on [12 week old baby sleep](/12-week-old-baby-sleep). A short, same-order routine matters more than a 7:00 p.m. target.
+
 ## Keep the timing honest (Yorix)
 
 **Yorix** can show you when the last nap ended and when night sleep actually started, which makes it obvious if the "routine" is starting so late that your baby is already overtired. You can also log the night itself to see whether a slightly earlier start helped. It is a support for tired parents, not a medical device and not a diagnosis.

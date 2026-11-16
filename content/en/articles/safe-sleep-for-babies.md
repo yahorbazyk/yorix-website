@@ -152,6 +152,9 @@ No. Breast milk is protective, but a breastfed baby still needs back sleeping, a
 **Will back-sleeping flatten my baby’s head?**  
 It can leave a soft spot, called positional plagiocephaly. The answer is supervised [tummy time](/tummy-time) when the baby is awake, not stomach sleep at night.
 
+**Can I let my newborn sleep on my chest?**
+For the difference between an awake hold and a safe sleep space, see [bed-sharing and co-sleeping](/bed-sharing-and-co-sleeping).
+
 ## Keep a simple safe-sleep log (Yorix)
 
 **Yorix** is a place to log sleep, feeds, and symptoms, which can help you notice whether nights are getting longer and whether a cold or a growth spurt lines up with a bump in waking. It does not diagnose SIDS risk and it is not a medical device. Safe sleep still depends on the crib and the habits in this article, not on an app.

@@ -94,6 +94,9 @@ Walk them back the same way each time, stay calm, and keep the room safe. This i
 **Can I wait until after a vacation or a new baby?**  
 If the crib is still safe, yes. Cleveland Clinic prefers not to stack big changes. If they are climbing, safety wins.
 
+**Can a toddler sleep with a pillow, or on a mattress on the floor?**
+Pillows stay out of infant cribs. For a toddler in a bed, follow the dentist- and pediatrician-advised, age-appropriate bedding already discussed with your clinician, and keep the space clear of hanging cords and top-heavy furniture. A mattress on the floor is a household setup, not an AAP "floor bed" protocol; if you use one, it still needs a clear, smoke-free, safe room (no adult pillows piled as bumpers). This is not a product review.
+
 ## Log the move, then give it a week (Yorix)
 
 **Yorix** can show whether nights changed after the date you switched beds. The app cannot tell you that a crib is still safe, and it is not a medical device. Recheck the rail and the room.

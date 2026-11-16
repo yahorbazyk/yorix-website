@@ -1,0 +1,222 @@
+{
+  "phase": 3,
+  "candidateDate": "2026-11-16",
+  "newSlugs": [
+    "12-week-old-baby-sleep",
+    "12-week-old-false-starts",
+    "2-week-old-baby-sleep",
+    "6-week-old-baby-sleep",
+    "6-week-sleep-regression",
+    "8-week-old-baby-sleep",
+    "8-week-old-short-naps",
+    "can-a-newborn-sleep-too-much",
+    "why-does-my-baby-wake-up-at-4am",
+    "why-is-my-baby-suddenly-sleeping-more"
+  ],
+  "modifiedExistingFiles": [
+    "1-month-old-sleep-schedule.md",
+    "2-month-old-sleep-schedule.md",
+    "3-month-old-sleep-schedule.md",
+    "baby-sleeping-in-car-seat.md",
+    "baby-sleeping-on-stomach.md",
+    "baby-snoring-and-mouth-breathing.md",
+    "baby-wont-nap.md",
+    "bed-sharing-and-co-sleeping.md",
+    "bedtime-routine-for-baby.md",
+    "cluster-feeding.md",
+    "contact-naps.md",
+    "crib-to-toddler-bed.md",
+    "early-morning-waking.md",
+    "false-starts.md",
+    "naps-on-the-go.md",
+    "newborn-day-night-confusion.md",
+    "newborn-sleep-schedule.md",
+    "safe-sleep-for-babies.md",
+    "short-naps.md",
+    "should-you-wake-a-sleeping-baby.md",
+    "sick-baby-sleep.md",
+    "sleep-regression-3-months.md",
+    "sleep-regression.md",
+    "split-nights.md",
+    "when-to-start-sleep-training.md",
+    "witching-hour.md"
+  ],
+  "inboundRequirements": {
+    "/1-month-old-sleep-schedule": [
+      "/6-week-old-baby-sleep"
+    ],
+    "/2-month-old-sleep-schedule": [
+      "/8-week-old-baby-sleep",
+      "/8-week-old-short-naps"
+    ],
+    "/3-month-old-sleep-schedule": [
+      "/12-week-old-baby-sleep",
+      "/12-week-old-false-starts"
+    ],
+    "/baby-wont-nap": [
+      "/8-week-old-short-naps"
+    ],
+    "/cluster-feeding": [
+      "/6-week-old-baby-sleep",
+      "/6-week-sleep-regression"
+    ],
+    "/contact-naps": [
+      "/8-week-old-short-naps"
+    ],
+    "/early-morning-waking": [
+      "/why-does-my-baby-wake-up-at-4am"
+    ],
+    "/false-starts": [
+      "/12-week-old-false-starts"
+    ],
+    "/newborn-day-night-confusion": [
+      "/2-week-old-baby-sleep",
+      "/8-week-old-baby-sleep"
+    ],
+    "/newborn-sleep-schedule": [
+      "/2-week-old-baby-sleep",
+      "/can-a-newborn-sleep-too-much"
+    ],
+    "/short-naps": [
+      "/8-week-old-short-naps"
+    ],
+    "/should-you-wake-a-sleeping-baby": [
+      "/2-week-old-baby-sleep",
+      "/can-a-newborn-sleep-too-much"
+    ],
+    "/sick-baby-sleep": [
+      "/8-week-old-baby-sleep",
+      "/why-is-my-baby-suddenly-sleeping-more"
+    ],
+    "/sleep-regression": [
+      "/6-week-sleep-regression"
+    ],
+    "/sleep-regression/3-months": [
+      "/12-week-old-baby-sleep"
+    ],
+    "/split-nights": [
+      "/why-does-my-baby-wake-up-at-4am"
+    ],
+    "/when-to-start-sleep-training": [
+      "/12-week-old-baby-sleep"
+    ],
+    "/witching-hour": [
+      "/6-week-old-baby-sleep",
+      "/6-week-sleep-regression"
+    ]
+  },
+  "addedRelatedLinks": 23,
+  "approvedFaqInsertions": [
+    {
+      "slug": "should-you-wake-a-sleeping-baby",
+      "questions": [
+        "How long can a 6 week old sleep at night without eating?",
+        "Can I let a newborn sleep through the night?"
+      ]
+    },
+    {
+      "slug": "baby-sleeping-in-car-seat",
+      "questions": [
+        "Can a baby nap in a swing, bouncer, or \"only if I am watching\"?"
+      ]
+    },
+    {
+      "slug": "naps-on-the-go",
+      "questions": [
+        "Can a baby nap in a swing, bouncer, or \"only if I am watching\"?"
+      ]
+    },
+    {
+      "slug": "bed-sharing-and-co-sleeping",
+      "questions": [
+        "Can I let my newborn sleep on my chest?"
+      ]
+    },
+    {
+      "slug": "safe-sleep-for-babies",
+      "questions": [
+        "Can I let my newborn sleep on my chest?"
+      ]
+    },
+    {
+      "slug": "short-naps",
+      "questions": [
+        "Is a 30-minute nap enough at 8 weeks?"
+      ]
+    },
+    {
+      "slug": "bedtime-routine-for-baby",
+      "questions": [
+        "What is a good bedtime for a 12 week old?"
+      ]
+    },
+    {
+      "slug": "when-to-start-sleep-training",
+      "questions": [
+        "Should I start sleep training at 8 or 12 weeks?"
+      ]
+    },
+    {
+      "slug": "baby-sleeping-on-stomach",
+      "questions": [
+        "I found my 2 week old sleeping on their side. Is that all right?"
+      ]
+    },
+    {
+      "slug": "baby-snoring-and-mouth-breathing",
+      "questions": [
+        "My 2 week old sleeps with their mouth open. Is that normal?"
+      ]
+    },
+    {
+      "slug": "crib-to-toddler-bed",
+      "questions": [
+        "Can a toddler sleep with a pillow, or on a mattress on the floor?"
+      ]
+    },
+    {
+      "slug": "early-morning-waking",
+      "questions": [
+        "Why does my baby wake up at 4am?"
+      ]
+    },
+    {
+      "slug": "split-nights",
+      "questions": [
+        "Why does my baby wake up at 4am?"
+      ]
+    }
+  ],
+  "originalSourceHashes": {
+    "12-week-old-baby-sleep.md": "ca3e3ff081f14cc3ad0ff7599e01020572cc060e34936c339ada47ec96252dfa",
+    "12-week-old-false-starts.md": "8cd77a7ee2312e8a61df6d4aa4775c496689430b6f2c747701c5f466ea24fa04",
+    "2-week-old-baby-sleep.md": "5e627111d11b00b2ef4508d2bc70aeb0d766f815eb618575bf9993602842ba1f",
+    "6-week-old-baby-sleep.md": "6a34e7a460b5618766340a9251490e7bed54c6837c27f13472e1970183a1b7e6",
+    "6-week-sleep-regression.md": "26760cfdf802d62728a8735207ee183645f026a01eb596e3c36429a9d4b2f9e4",
+    "8-week-old-baby-sleep.md": "d24bac1f2e66a78a066904fcba7f7385da27338e79e50629eb15c40af4e1738e",
+    "8-week-old-short-naps.md": "6317af234f5b597fe15cefdab883c24cae79708e41679fd37000de4215ca0ae5",
+    "can-a-newborn-sleep-too-much.md": "b9aaecdc86db55093e30686ce1a01967cd7344809b9bd7eeec4fcc0a2c52d5e7",
+    "why-does-my-baby-wake-up-at-4am.md": "6fbe11156755a88e05e5cda79ec9f873305a463dca3f7993479966f5c0293fb3",
+    "why-is-my-baby-suddenly-sleeping-more.md": "5af76464193bfac5554fbde2d62cc3967670700cf3050ded36c2b612c502d091"
+  },
+  "editorialRouteNotesRemoved": {
+    "12-week-old-baby-sleep": [
+      " We will not create `/12-week-sleep-regression`."
+    ],
+    "2-week-old-baby-sleep": [
+      " (that popular name is a merge onto the newborn page and this one)"
+    ],
+    "6-week-sleep-regression": [
+      " We will not publish `/8-week-sleep-regression`; week 8 queries belong here."
+    ],
+    "8-week-old-baby-sleep": [
+      " (we will not publish a second 8-week regression URL)"
+    ]
+  },
+  "alreadyCoveredFaqs": [
+    "12-week-old-baby-sleep",
+    "8-week-old-short-naps",
+    "6-week-sleep-regression"
+  ],
+  "weekHubAndNavigationDeferredToPhase": 4
+}

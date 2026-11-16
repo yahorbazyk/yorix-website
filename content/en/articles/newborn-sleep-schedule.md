@@ -170,6 +170,9 @@ Very common in the early weeks (Tresillian). Hold your baby while you are awake,
 
 ## Related reading
 
+- [2 Week Old Baby Sleep: Pieces, Feeds, and 'Sleeping All Day'](/2-week-old-baby-sleep)
+- [Can a Newborn Sleep Too Much? Long Sleep vs Hard to Wake](/can-a-newborn-sleep-too-much)
+
 - [Baby Sleep Cues: How to Read Sleepy Signs](/baby-sleep-cues)
 - [Bedtime Routine for Baby: A Simple, Evidence-Backed Wind-Down](/bedtime-routine-for-baby)
 - [How Much Sleep Does a Baby Need? A Chart From Newborn to Age 5](/how-much-sleep-does-a-baby-need)

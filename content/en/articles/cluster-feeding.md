@@ -69,6 +69,9 @@ No, not as a first response, and not in the newborn days. Night weaning is a lat
 
 ## Related reading
 
+- [6 Week Old Baby Sleep: The Fussy, Hungry Middle of the Early Weeks](/6-week-old-baby-sleep)
+- [6 Week Sleep Regression: A Popular Name, Not a Documented Event](/6-week-sleep-regression)
+
 - [Newborn sleep schedule](/newborn-sleep-schedule)
 - [Reverse cycling](/reverse-cycling)
 - [Night weaning](/night-weaning)

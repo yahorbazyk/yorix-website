@@ -86,11 +86,20 @@ If weight, diapers, and the doctor's last advice are all fine, a long stretch ca
 **Does "never wake a sleeping baby" apply to twins?**  
 The same feeding and safety rules apply to each baby. See [twins and sleep](/twins-and-sleep) for logistics; do not skip a needed feed because the other twin is still asleep.
 
+**How long can a 6 week old sleep at night without eating?**
+There is no official 6-week limit. In the first weeks, KidsHealth says to wake about every 3–4 hours until weight gain is going well; HealthyChildren.org's formula Q&A says to wake a formula-fed baby in the first month if they sleep more than 4–5 hours. By 6 weeks, many babies with good weight gain are allowed a longer stretch — but only if your pediatrician has already said so. The 6-week snapshot is on [6 week old baby sleep](/6-week-old-baby-sleep).
+
+**Can I let a newborn sleep through the night?**
+Not as a default in the first days. Use the wake-to-feed rules already on this page, then ask your pediatrician when a longer stretch is all right. "Through the night" at 1–3 months often means about 5–6 hours (KidsHealth), not 12 hours.
+
 ## Log stretches, then ask the doctor (Yorix)
 
 **Yorix** can show how many hours passed between feeds, which is the number your pediatrician often wants. The app cannot decide whether to wake your baby and is not a medical device.
 
 ## Related reading
+
+- [2 Week Old Baby Sleep: Pieces, Feeds, and 'Sleeping All Day'](/2-week-old-baby-sleep)
+- [Can a Newborn Sleep Too Much? Long Sleep vs Hard to Wake](/can-a-newborn-sleep-too-much)
 
 - [Baby Crying in Their Sleep: When to Step In](/baby-crying-in-sleep)
 - [Reverse Cycling: Nights Get Busier When Days Are Underfed](/reverse-cycling)

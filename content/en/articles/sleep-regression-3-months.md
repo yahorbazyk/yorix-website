@@ -126,6 +126,8 @@ It's generally considered too early. Sleep Foundation places readiness later, ar
 
 ## Related reading
 
+- [12 Week Old Baby Sleep: Longer Nights for Some, Still Not a Timetable](/12-week-old-baby-sleep)
+
 - [Sleep regression ages](/sleep-regression)
 - [4 month sleep regression](/sleep-regression/4-months)
 - [3 month old sleep schedule](/3-month-old-sleep-schedule)

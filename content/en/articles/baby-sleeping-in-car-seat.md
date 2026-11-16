@@ -86,6 +86,9 @@ The baby is no longer in a moving car. Treat it like an indoor seat: move them t
 **Do inclined "sleepers" count if the box said they were for sleep?**  
 In the United States, inclined sleepers greater than 10 degrees are banned. Even before the ban, the AAP said those products were unsafe. Do not use one.
 
+**Can a baby nap in a swing, bouncer, or "only if I am watching"?**
+A swing or bouncer is not an approved sleep space. If they doze there, move them to a firm, flat, on-the-back surface as soon as you can — the same rule as a car seat after you arrive. Supervised does not make an incline safe for sleep. See also [naps on the go](/naps-on-the-go).
+
 ## Track naps, not the seat (Yorix)
 
 **Yorix** can log when a nap started and whether it was short or long, which helps you see motion-only patterns. It cannot tell you that a seat or swing is a safe sleep space, and it is not a medical device.

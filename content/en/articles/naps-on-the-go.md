@@ -61,6 +61,9 @@ Use the car for journeys. Practice one nap at home on a flat surface. The safety
 **Can they nap in a wrap all afternoon?**  
 Not as an unsupervised or all-afternoon bed. Supervised carrying with TICKS is one thing; a sleep surface is another.
 
+**Can a baby nap in a swing, bouncer, or "only if I am watching"?**
+Use the same move-to-a-safe-sleep-space rule as [baby sleeping in a car seat](/baby-sleeping-in-car-seat). Supervised does not make an incline safe for sleep.
+
 ## See which naps actually happened on the go (Yorix)
 
 **Yorix** can help you tag whether a nap was in the crib, the stroller, or the car, so you can see how often motion is doing the work. The app cannot judge a carrier fit and is not a medical device.

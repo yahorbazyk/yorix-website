@@ -79,6 +79,9 @@ Usually not. Grunting, especially in the first weeks, often has a different rhyt
 **Can I use a wedge or a car seat so they breathe better?**  
 No. Sleep stays flat, on the back, in a clear crib or bassinet. See [sick baby sleep](/sick-baby-sleep) and [baby sleeping in a car seat](/baby-sleeping-in-car-seat).
 
+**My 2 week old sleeps with their mouth open. Is that normal?**
+A briefly open mouth in active sleep can happen. If the baby is congested, having trouble feeding, or you hear regular snoring or pauses, use the advice already on this page and [sick baby sleep](/sick-baby-sleep). Newborns with persistent mouth breathing or poor feeding should be discussed with the pediatrician, not diagnosed from a photo.
+
 ## Log which nights are noisy, and how (Yorix)
 
 **Yorix** can help you note which nights sounded congested, whether the mouth was open, and whether you heard pauses — the kind of log a pediatrician may find useful. The app cannot diagnose sleep apnea and is not a medical device or a monitor.

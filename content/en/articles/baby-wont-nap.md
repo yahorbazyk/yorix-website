@@ -87,6 +87,8 @@ An occasional on-the-go nap happens. It is not a replacement for a safe, flat sl
 
 ## Related reading
 
+- [8 Week Old Short Naps: Thirty Minutes Can Still Be a Nap](/8-week-old-short-naps)
+
 - [Daycare and Baby Sleep: A Context Page, Not a New Regression](/daycare-and-baby-sleep)
 - [Naps on the Go: Stroller, Car, and Wrap — Lifestyle, Then a Flat Surface](/naps-on-the-go)
 

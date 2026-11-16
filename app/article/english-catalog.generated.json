@@ -424,7 +424,7 @@
     "description": "Is the 3 month sleep regression real? How it relates to the 4 month shift, how to tell it from normal 3-month sleep, what to rule out first, and what helps.",
     "category": "Sleep regressions",
     "published": "2026-11-15",
-    "updated": "2026-11-15",
+    "updated": "2026-11-16",
     "readTime": "9 min read",
     "replaces": false
   },
@@ -490,7 +490,7 @@
     "category": "Sleep problems & methods",
     "published": "2026-11-15",
     "updated": "2026-11-16",
-    "readTime": "9 min read",
+    "readTime": "10 min read",
     "replaces": false
   },
   {
@@ -802,7 +802,7 @@
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
     "updated": "2026-11-16",
-    "readTime": "7 min read",
+    "readTime": "8 min read",
     "replaces": false
   },
   {
@@ -828,7 +828,7 @@
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
     "updated": "2026-11-16",
-    "readTime": "7 min read",
+    "readTime": "8 min read",
     "replaces": false
   },
   {
@@ -880,7 +880,7 @@
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
     "updated": "2026-11-16",
-    "readTime": "9 min read",
+    "readTime": "10 min read",
     "replaces": false
   },
   {
@@ -1010,7 +1010,7 @@
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
     "updated": "2026-11-16",
-    "readTime": "5 min read",
+    "readTime": "6 min read",
     "replaces": false
   },
   {
@@ -1192,7 +1192,7 @@
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
     "updated": "2026-11-16",
-    "readTime": "6 min read",
+    "readTime": "7 min read",
     "replaces": false
   },
   {
@@ -1479,6 +1479,136 @@
     "published": "2026-11-16",
     "updated": "2026-11-16",
     "readTime": "5 min read",
+    "replaces": false
+  },
+  {
+    "slug": "12-week-old-baby-sleep",
+    "path": "/12-week-old-baby-sleep",
+    "canonical": "https://yorix-app.com/12-week-old-baby-sleep",
+    "title": "12 Week Old Baby Sleep: Stretches, Not a Schedule | Yorix",
+    "heading": "12 Week Old Baby Sleep: Longer Nights for Some, Still Not a Timetable",
+    "description": "12 week old baby sleep: the 14–17 hour band, 5–6 hour night stretches for some, early bedtime false starts, and how this differs from a 3-month schedule.",
+    "category": "Sleep by week",
+    "published": "2026-11-16",
+    "updated": "2026-11-16",
+    "readTime": "5 min read",
+    "replaces": false
+  },
+  {
+    "slug": "12-week-old-false-starts",
+    "path": "/12-week-old-false-starts",
+    "canonical": "https://yorix-app.com/12-week-old-false-starts",
+    "title": "12 Week Old False Starts: Up 30 Minutes After Bed | Yorix",
+    "heading": "12 Week Old False Starts: Up Again Before the Night Has Begun",
+    "description": "False starts at 12 weeks: waking 30–45 minutes after bedtime is common. Why a formal wake-window plan is usually still early.",
+    "category": "Sleep problems & methods",
+    "published": "2026-11-16",
+    "updated": "2026-11-16",
+    "readTime": "5 min read",
+    "replaces": false
+  },
+  {
+    "slug": "2-week-old-baby-sleep",
+    "path": "/2-week-old-baby-sleep",
+    "canonical": "https://yorix-app.com/2-week-old-baby-sleep",
+    "title": "2 Week Old Baby Sleep: What's Normal | Yorix",
+    "heading": "2 Week Old Baby Sleep: Pieces, Feeds, and 'Sleeping All Day'",
+    "description": "2 week old baby sleep: 14–17 hours in pieces, whether to wake for feeds, 'sleeping all day,' and why this is not a month schedule.",
+    "category": "Sleep by week",
+    "published": "2026-11-16",
+    "updated": "2026-11-16",
+    "readTime": "6 min read",
+    "replaces": false
+  },
+  {
+    "slug": "6-week-old-baby-sleep",
+    "path": "/6-week-old-baby-sleep",
+    "canonical": "https://yorix-app.com/6-week-old-baby-sleep",
+    "title": "6 Week Old Baby Sleep: Fuss, Feeds, Naps | Yorix",
+    "heading": "6 Week Old Baby Sleep: The Fussy, Hungry Middle of the Early Weeks",
+    "description": "6 week old baby sleep: the 14–17 hour band, evening fuss and cluster feeds, short naps, and how this week differs from a 1-month schedule.",
+    "category": "Sleep by week",
+    "published": "2026-11-16",
+    "updated": "2026-11-16",
+    "readTime": "5 min read",
+    "replaces": false
+  },
+  {
+    "slug": "6-week-sleep-regression",
+    "path": "/6-week-sleep-regression",
+    "canonical": "https://yorix-app.com/6-week-sleep-regression",
+    "title": "6 Week Sleep Regression: A Popular Name | Yorix",
+    "heading": "6 Week Sleep Regression: A Popular Name, Not a Documented Event",
+    "description": "6 week sleep regression is a popular name, not a documented event. What is usually going on: growth, cluster feeds, and a fussy peak.",
+    "category": "Sleep problems & methods",
+    "published": "2026-11-16",
+    "updated": "2026-11-16",
+    "readTime": "5 min read",
+    "replaces": false
+  },
+  {
+    "slug": "8-week-old-baby-sleep",
+    "path": "/8-week-old-baby-sleep",
+    "canonical": "https://yorix-app.com/8-week-old-baby-sleep",
+    "title": "8 Week Old Baby Sleep: Short Naps, Longer Nights | Yorix",
+    "heading": "8 Week Old Baby Sleep: When the Clock Stirs and Naps Stay Short",
+    "description": "8 week old baby sleep: 14–17 hours, 30-minute bassinet naps, a body clock that may be starting, and how this differs from a 2-month schedule.",
+    "category": "Sleep by week",
+    "published": "2026-11-16",
+    "updated": "2026-11-16",
+    "readTime": "5 min read",
+    "replaces": false
+  },
+  {
+    "slug": "8-week-old-short-naps",
+    "path": "/8-week-old-short-naps",
+    "canonical": "https://yorix-app.com/8-week-old-short-naps",
+    "title": "8 Week Old Short Naps: Why 30 Minutes Is Common | Yorix",
+    "heading": "8 Week Old Short Naps: Thirty Minutes Can Still Be a Nap",
+    "description": "8 week old 30-minute naps are often one sleep cycle, not a failed schedule. Why the usual 'lengthen the nap' plan is too early.",
+    "category": "Sleep problems & methods",
+    "published": "2026-11-16",
+    "updated": "2026-11-16",
+    "readTime": "5 min read",
+    "replaces": false
+  },
+  {
+    "slug": "can-a-newborn-sleep-too-much",
+    "path": "/can-a-newborn-sleep-too-much",
+    "canonical": "https://yorix-app.com/can-a-newborn-sleep-too-much",
+    "title": "Can a Newborn Sleep Too Much? When to Worry | Yorix",
+    "heading": "Can a Newborn Sleep Too Much? Long Sleep vs Hard to Wake",
+    "description": "Can a 2 week old sleep too much? Long sleep can be normal. When to wake for feeds, and red flags such as a baby who is hard to rouse.",
+    "category": "Sleep problems & methods",
+    "published": "2026-11-16",
+    "updated": "2026-11-16",
+    "readTime": "5 min read",
+    "replaces": false
+  },
+  {
+    "slug": "why-does-my-baby-wake-up-at-4am",
+    "path": "/why-does-my-baby-wake-up-at-4am",
+    "canonical": "https://yorix-app.com/why-does-my-baby-wake-up-at-4am",
+    "title": "Why Does My Baby Wake Up at 4am? | Yorix",
+    "heading": "Why Does My Baby Wake Up at 4am? Still Night, Not Morning",
+    "description": "Why does my baby wake up at 4am? This is often still night, not the start of the day. How it differs from 5am early rising and from a split night.",
+    "category": "Sleep problems & methods",
+    "published": "2026-11-16",
+    "updated": "2026-11-16",
+    "readTime": "5 min read",
+    "replaces": false
+  },
+  {
+    "slug": "why-is-my-baby-suddenly-sleeping-more",
+    "path": "/why-is-my-baby-suddenly-sleeping-more",
+    "canonical": "https://yorix-app.com/why-is-my-baby-suddenly-sleeping-more",
+    "title": "Why Is My Baby Suddenly Sleeping More? | Yorix",
+    "heading": "Why Is My Baby Suddenly Sleeping More? Catch-Up vs a Warning",
+    "description": "Why is my baby suddenly sleeping more? Catch-up after a fussy spell can be normal. When extra sleep is a reason to call the pediatrician.",
+    "category": "Sleep problems & methods",
+    "published": "2026-11-16",
+    "updated": "2026-11-16",
+    "readTime": "4 min read",
     "replaces": false
   }
 ]

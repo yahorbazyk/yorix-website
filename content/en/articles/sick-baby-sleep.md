@@ -101,6 +101,9 @@ If you already use one and they will take it, the usual [pacifier and sleep](/pa
 
 ## Related reading
 
+- [8 Week Old Baby Sleep: When the Clock Stirs and Naps Stay Short](/8-week-old-baby-sleep)
+- [Why Is My Baby Suddenly Sleeping More? Catch-Up vs a Warning](/why-is-my-baby-suddenly-sleeping-more)
+
 - [Baby Snoring and Sleeping With the Mouth Open](/baby-snoring-and-mouth-breathing)
 - [Reflux and Baby Sleep: Why the Back Still Comes First](/reflux-and-baby-sleep)
 

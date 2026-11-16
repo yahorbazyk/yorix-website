@@ -122,6 +122,8 @@ No. Sleep Foundation notes that many babies don't have a 6-, 8-, 12-, or 18-mont
 
 ## Related reading
 
+- [6 Week Sleep Regression: A Popular Name, Not a Documented Event](/6-week-sleep-regression)
+
 - [4 Year Old Sleep Schedule: The Preschool Day, With or Without a Nap](/4-year-old-sleep-schedule)
 
 - [Daycare and Baby Sleep: A Context Page, Not a New Regression](/daycare-and-baby-sleep)

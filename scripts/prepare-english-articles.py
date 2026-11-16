@@ -98,6 +98,8 @@ def compile_articles(deploy_date):
             group = 'Development & feeding'
         elif slug.startswith('sleep-regression'):
             group = 'Sleep regressions'
+        elif re.fullmatch(r'\d+-week-old-baby-sleep', slug):
+            group = 'Sleep by week'
         elif 'sleep-schedule' in slug or slug in ('baby-nap-schedule-by-age', 'wake-windows-by-age'):
             group = 'Sleep schedules by month'
         else:

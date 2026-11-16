@@ -147,6 +147,8 @@ Carrying is soothing, but NICHD says carriers and slings shouldn't be used for r
 
 ## Related reading
 
+- [8 Week Old Short Naps: Thirty Minutes Can Still Be a Nap](/8-week-old-short-naps)
+
 - [Baby Sleeping in a Car Seat, Swing, or Lounger](/baby-sleeping-in-car-seat)
 - [Baby Won't Sleep in the Bassinet or Crib](/baby-wont-sleep-in-crib)
 - [Naps on the Go: Stroller, Car, and Wrap — Lifestyle, Then a Flat Surface](/naps-on-the-go)

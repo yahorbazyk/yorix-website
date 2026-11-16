@@ -101,6 +101,9 @@ The AAP says no, including with twins. Lullaby Trust advises against bed-sharing
 **Are in-bed sleepers or "sidecar" cribs a loophole?**  
 The AAP has said it cannot recommend for or against some bedside or in-bed products until more research is done. If you use a product, it still needs to meet current safety standards and must not become a soft, inclined, or cluttered nest. When in doubt, a standalone, approved bassinet or crib is the clearer choice.
 
+**Can I let my newborn sleep on my chest?**
+A hold while you are awake and watching is comfort, not a sleep space. If you fall asleep with a baby on your chest on a sofa or armchair, the risk is higher than in a clear crib. Put them on their back, in their own firm, flat space, when you need to sleep. This page already explains room-sharing without bed-sharing (AAP) and the UK overlap.
+
 ## Log nights without turning them into a verdict (Yorix)
 
 **Yorix** can record night feeds and wakings, which is useful when you are discussing sleep with your pediatrician. It cannot tell you that a shared bed is safe, and it is not a medical device. Safe sleep still depends on the surface and the habits, not on an app.
