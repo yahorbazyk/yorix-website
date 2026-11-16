@@ -124,6 +124,22 @@ These findings apply to healthy, typically developing babies. Sleep Foundation a
 
 Sleep Foundation also reminds parents that rough nights happen, especially with travel, illness, or teething, and that keeping a sleep diary can help you stay on track.
 
+## Why naps are often harder than nights
+
+Parents often ask for a separate "nap training" method. There isn't a second official toolkit. The methods in the table above are the same ones families try at nap time, but **naps are usually harder** than the night stretch, and it is reasonable to start with bedtime first.
+
+Why naps lag:
+
+- A nap is a short window. There is less time for a baby to wind down, and a missed or skipped attempt runs into the next wake period.
+- Daytime has more light, noise, and household traffic than 8 p.m.
+- Some babies still need a feed-to-sleep, a motion nap, or a contact nap in the day for longer than they do at night. That is a [sleep association](/sleep-associations) or a [contact nap](/contact-naps) question, not a reason to invent a new named method.
+- A nap that ends after one cycle is [short naps](/short-naps), not a failed training program.
+- A nap that will not start at all is [baby won't nap](/baby-wont-nap). Use that page for timing, the room, and when to switch to quiet time.
+
+Practical order, not a new protocol: get a consistent bedtime plan first (and only if your baby is in the age range discussed under "Is your baby ready?"). Then pick **one** daytime nap — often the first nap of the day — to practice the same plan, while the other naps can stay more supported for a while. If you are mid a [3-to-2](/3-to-2-nap-transition) or [2-to-1](/2-to-1-nap-transition) drop, solve the transition before you layer on a training plan.
+
+There is no AAP or NHS protocol that says "train nights for two weeks, then train naps." The order above is practical sequencing, and we mark it as such.
+
 ## When to talk to your pediatrician
 
 Talk to your pediatrician before starting if your baby was premature, has a medical condition, snores loudly, or has feeding or weight concerns. Also check in if a method isn't helping after a fair trial, or if you are feeling low, hopeless, or unable to cope.
@@ -153,6 +169,11 @@ Many families start with bedtime and nights first, then apply the same responses
 **Yorix** logs bedtimes, how long settling takes, and night wakings, so you can compare week one with week two instead of relying on memory. It is a support for tired parents, not a medical device and not a diagnosis.
 
 ## Related reading
+
+- [Bedtime Routine for Baby: A Simple, Evidence-Backed Wind-Down](/bedtime-routine-for-baby)
+- [Gentle Sleep Training: Chair, Fading, and Pick Up / Put Down](/gentle-sleep-training)
+- [Self-Soothing: A Skill That Grows, Not a Method](/self-soothing)
+- [When Do Babies Sleep Through the Night — and What Does That Phrase Mean?](/when-do-babies-sleep-through-the-night)
 
 - [The Ferber method: chart and steps](/ferber-method-baby-sleep)
 - [Wake windows by age](/wake-windows-by-age)

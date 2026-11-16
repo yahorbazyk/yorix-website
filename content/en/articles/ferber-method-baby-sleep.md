@@ -145,6 +145,9 @@ No. Cry it out has no check-ins; Ferber adds timed reassurance visits (Cleveland
 
 ## Related reading
 
+- [Gentle Sleep Training: Chair, Fading, and Pick Up / Put Down](/gentle-sleep-training)
+- [Self-Soothing: A Skill That Grows, Not a Method](/self-soothing)
+
 - [Sleep training methods explained](/sleep-training-methods-explained)
 - [10 month old sleep schedule](/10-month-old-sleep-schedule)
 - [Surviving night wakings](/survive-night-wakings-new-parents)

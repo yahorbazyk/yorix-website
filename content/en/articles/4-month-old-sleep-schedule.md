@@ -81,6 +81,8 @@ Rough total: about 3 hours 35 minutes of naps, plus about 11 hours of actual sle
 
 Look at nap *length*, not the calendar. If most naps end at 30–45 minutes, your baby builds up sleepiness again sooner and usually needs a fourth nap to reach bedtime without a meltdown. If one or two naps reliably run over an hour, three naps tend to fit. Many babies switch back and forth for a few weeks, and a mix of 3-nap and 4-nap days in the same week is normal.
 
+If the fourth nap is starting to fail or to push bedtime late, see the 4-to-3 process on [baby nap schedule by age](/baby-nap-schedule-by-age#the-4-to-3-nap-transition) rather than forcing a late catnap. The [5 month old sleep schedule](/5-month-old-sleep-schedule) has a signs table for the same switch.
+
 ## 4 month old wake windows
 
 How long can a 4 month old stay awake? Cleveland Clinic gives **1.25–2.5 hours** for 3–4 months, and Sleep Foundation gives **1–3 hours** for 1–4 months. Start at the shorter end, especially for the first window of the day and after a short nap. Watch for yawning, eye rubbing, staring off, or fussing, and begin your wind-down then.
@@ -164,6 +166,15 @@ When your baby starts trying to roll (HealthyChildren.org / AAP).
 **Yorix** turns the naps and feeds you log into a day plan that adjusts after every short nap, with a predicted next sleep window and bedtime. The in-app AI coach can explain why today's plan moved. It is a support for tired parents, not a medical device and not a diagnosis.
 
 ## Related reading
+
+- [Baby Sleep Cycles: Why They Wake After One Cycle](/baby-sleep-cycles)
+- [Baby Sleeping on the Stomach: When It Is and Isn't Safe](/baby-sleeping-on-stomach)
+- [Bedtime Routine for Baby: A Simple, Evidence-Backed Wind-Down](/bedtime-routine-for-baby)
+- [How Much Sleep Does a Baby Need? A Chart From Newborn to Age 5](/how-much-sleep-does-a-baby-need)
+- [Overtired Baby: Signs, Why It Happens, and What Helps](/overtired-baby)
+- [Sleep Associations: What They Are and How to Change Them](/sleep-associations)
+- [When Do Babies Sleep Through the Night — and What Does That Phrase Mean?](/when-do-babies-sleep-through-the-night)
+- [When to Move Your Baby From Bassinet to Crib](/when-to-move-baby-to-crib)
 
 - [4 month milestones](/4-month-milestones)
 - [Wake windows by age](/wake-windows-by-age)

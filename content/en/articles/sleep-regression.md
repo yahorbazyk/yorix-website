@@ -116,6 +116,10 @@ No. Sleep Foundation notes that many babies don't have a 6-, 8-, 12-, or 18-mont
 
 ## Related reading
 
+- [Daycare and Baby Sleep: A Context Page, Not a New Regression](/daycare-and-baby-sleep)
+- [When Do Babies Sleep Through the Night — and What Does That Phrase Mean?](/when-do-babies-sleep-through-the-night)
+- [Why Won't My Baby Sleep? Start Here, Then Follow One Link](/why-wont-my-baby-sleep)
+
 - [3 month sleep regression](/sleep-regression/3-months)
 - [4 month sleep regression](/sleep-regression/4-months)
 - [6 month sleep regression](/sleep-regression/6-months)

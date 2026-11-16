@@ -159,6 +159,15 @@ Once your baby starts trying to roll over (KidsHealth).
 
 ## Related reading
 
+- [Baby Sleep Cycles: Why They Wake After One Cycle](/baby-sleep-cycles)
+- [Baby Sleeping on the Stomach: When It Is and Isn't Safe](/baby-sleeping-on-stomach)
+- [Bedtime Routine for Baby: A Simple, Evidence-Backed Wind-Down](/bedtime-routine-for-baby)
+- [How Much Sleep Does a Baby Need? A Chart From Newborn to Age 5](/how-much-sleep-does-a-baby-need)
+- [Overtired Baby: Signs, Why It Happens, and What Helps](/overtired-baby)
+- [Sleep Associations: What They Are and How to Change Them](/sleep-associations)
+- [When Do Babies Sleep Through the Night — and What Does That Phrase Mean?](/when-do-babies-sleep-through-the-night)
+- [When to Move Your Baby From Bassinet to Crib](/when-to-move-baby-to-crib)
+
 - [Newborn sleep schedule](/newborn-sleep-schedule)
 - [4 month old sleep schedule](/4-month-old-sleep-schedule)
 - [Wake windows by age](/wake-windows-by-age)

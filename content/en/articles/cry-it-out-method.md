@@ -146,6 +146,9 @@ A looser approach: allow fussing, go in for real distress. It hasn't been studie
 
 ## Related reading
 
+- [Gentle Sleep Training: Chair, Fading, and Pick Up / Put Down](/gentle-sleep-training)
+- [Self-Soothing: A Skill That Grows, Not a Method](/self-soothing)
+
 - [Sleep training methods explained](/sleep-training-methods-explained)
 - [The Ferber method](/ferber-method-baby-sleep)
 - [When to start sleep training](/when-to-start-sleep-training)

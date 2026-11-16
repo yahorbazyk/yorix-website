@@ -145,6 +145,12 @@ Huckleberry (app example) says waking every 30 minutes without longer stretches 
 
 ## Related reading
 
+- [Baby Sleep Cycles: Why They Wake After One Cycle](/baby-sleep-cycles)
+- [Night Weaning: When Night Feeds Can Stop, and How to Ease Them Out](/night-weaning)
+- [Sleep Associations: What They Are and How to Change Them](/sleep-associations)
+- [When Do Babies Sleep Through the Night — and What Does That Phrase Mean?](/when-do-babies-sleep-through-the-night)
+- [Why Won't My Baby Sleep? Start Here, Then Follow One Link](/why-wont-my-baby-sleep)
+
 - [Surviving night wakings](/survive-night-wakings-new-parents)
 - [Split nights](/split-nights)
 - [False starts](/false-starts)

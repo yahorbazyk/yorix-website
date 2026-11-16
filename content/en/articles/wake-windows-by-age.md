@@ -145,6 +145,14 @@ The paper method above works for most families. Apps such as Yorix can do the co
 
 ## Related reading
 
+- [The 3-to-2 Nap Transition: A Practical Plan](/3-to-2-nap-transition)
+- [Baby Sleep Cues: How to Read Sleepy Signs](/baby-sleep-cues)
+- [Baby Won't Nap: What to Try When Naps Fail](/baby-wont-nap)
+- [Bedtime Routine for Baby: A Simple, Evidence-Backed Wind-Down](/bedtime-routine-for-baby)
+- [How Much Sleep Does a Baby Need? A Chart From Newborn to Age 5](/how-much-sleep-does-a-baby-need)
+- [Overtired Baby: Signs, Why It Happens, and What Helps](/overtired-baby)
+- [When Do Babies Sleep Through the Night — and What Does That Phrase Mean?](/when-do-babies-sleep-through-the-night)
+
 - [Baby nap schedule by age](/baby-nap-schedule-by-age)
 - Month-by-month schedules: [newborn](/newborn-sleep-schedule) · [1 month](/1-month-old-sleep-schedule) · [2 months](/2-month-old-sleep-schedule) · [3 months](/3-month-old-sleep-schedule) · [4 months](/4-month-old-sleep-schedule) · [5 months](/5-month-old-sleep-schedule) · [6 months](/6-month-old-sleep-schedule) · [7 months](/7-month-old-sleep-schedule) · [8 months](/8-month-old-sleep-schedule) · [9 months](/9-month-old-sleep-schedule) · [10 months](/10-month-old-sleep-schedule) · [11 months](/11-month-old-sleep-schedule) · [12 months](/12-month-old-sleep-schedule) · [15 months](/15-month-old-sleep-schedule)
 - [Sleep regression ages](/sleep-regression)

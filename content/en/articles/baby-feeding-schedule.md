@@ -176,6 +176,9 @@ Yes. For most healthy, full-term babies, HealthyChildren.org recommends followin
 
 ## Related reading
 
+- [Night Weaning: When Night Feeds Can Stop, and How to Ease Them Out](/night-weaning)
+- [Should You Wake a Sleeping Baby?](/should-you-wake-a-sleeping-baby)
+
 - [Newborn sleep schedule](/newborn-sleep-schedule)
 - [Surviving night wakings](/survive-night-wakings-new-parents)
 - [3 month old sleep schedule](/3-month-old-sleep-schedule)

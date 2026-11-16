@@ -148,6 +148,11 @@ No. Not all babies have one (Sleep Foundation), and research has not shown a clo
 
 ## Related reading
 
+- [Baby Sleep Cycles: Why They Wake After One Cycle](/baby-sleep-cycles)
+- [Baby Sleeping on the Stomach: When It Is and Isn't Safe](/baby-sleeping-on-stomach)
+- [Sleep Associations: What They Are and How to Change Them](/sleep-associations)
+- [When to Move Your Baby From Bassinet to Crib](/when-to-move-baby-to-crib)
+
 - [Sleep regression ages](/sleep-regression)
 - [6 month sleep regression](/sleep-regression/6-months)
 - [3 month old sleep schedule](/3-month-old-sleep-schedule)

@@ -90,7 +90,7 @@ def main():
     with ThreadPoolExecutor(max_workers=3) as pool:
         for index, path in enumerate(pool.map(check, articles), 1):
             if index % 10 == 0:
-                print(f'Rendered article check: {index}/51', flush=True)
+                print(f'Rendered article check: {index}/{len(articles)}', flush=True)
     merges = {
         'newborn-sleep-first-28-days': 'newborn-sleep-schedule',
         'baby-sleep-parent-stress': 'survive-night-wakings-new-parents',
@@ -115,7 +115,7 @@ def main():
     assert status == 200
     for article in articles:
         assert f'href="{article["path"]}"' in html, ('missing guide card', article['path'])
-    print(f'PASS: 51 rendered articles, 486 source links to valid package routes, 46 direct 301 merges, {len(missing)} missing-translation 404s, and all guide cards.', flush=True)
+    print(f'PASS: {len(articles)} rendered articles, 46 direct 301 merges, {len(missing)} missing-translation 404s, and all guide cards.', flush=True)
 
 
 if __name__ == '__main__':

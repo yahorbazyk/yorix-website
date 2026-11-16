@@ -33,6 +33,12 @@ A 30–45 minute nap usually equals **one sleep cycle**. Young babies tend to wa
 | Typical by 6–9 months | 2 naps of at least an hour | Huckleberry (app example) |
 | Does one short nap mean overtired? | No; many things can cut a single nap short | Tiny Sleep Studio |
 
+If the question is "should I use a sleep-training method on naps?", see [sleep training methods explained](/sleep-training-methods-explained#why-naps-are-often-harder-than-nights) — naps are usually harder than nights, and a 30-minute nap is not automatically a failed program.
+
+## Catnapping is the same problem
+
+"Catnapping" is a popular name for the same pattern this page is about: a nap that ends after one short sleep cycle, often around 30 to 45 minutes, instead of a separate diagnosis. If someone says your baby is a catnapper, stay on this page. For a baby who will not *start* the nap at all, see [baby won't nap](/baby-wont-nap). For a nap that is disappearing because of a scheduled drop, see [3-to-2 nap transition](/3-to-2-nap-transition) or [2-to-1 nap transition](/2-to-1-nap-transition).
+
 ## Why naps end after one sleep cycle
 
 Sleep runs in cycles of lighter and deeper stages. At the end of each cycle everyone (adults included) surfaces briefly. Adults roll over and keep sleeping; babies often wake up completely.
@@ -136,6 +142,10 @@ No. A false start is when a baby wakes within about an hour after bedtime at nig
 **Yorix** records every nap and recalculates the next sleep window after each one, so after a few days you can see whether a 30-minute nap follows a short or a long wake window. It is a support for tired parents, not a medical device and not a diagnosis.
 
 ## Related reading
+
+- [Baby Sleep Cycles: Why They Wake After One Cycle](/baby-sleep-cycles)
+- [Overtired Baby: Signs, Why It Happens, and What Helps](/overtired-baby)
+- [Sleep Associations: What They Are and How to Change Them](/sleep-associations)
 
 - [Wake windows by age](/wake-windows-by-age)
 - [Baby nap schedule by age](/baby-nap-schedule-by-age)

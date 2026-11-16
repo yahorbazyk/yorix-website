@@ -102,9 +102,18 @@ KidsHealth suggests a soothing routine, such as a warm bath followed by stories 
 
 Keep the routine short (Cleveland Clinic suggests 20–30 minutes), and keep the last steps in the bedroom (Nationwide Children's Hospital).
 
-## A safer crib for a mover
+## Standing in the crib, and a safer space for a mover
 
-Many 8-month-olds crawl, sit up by themselves, and start pulling up (the CDC's 9-month milestones include getting to a sitting position without help). KidsHealth suggests checking what your baby can reach from a sitting or standing position in the crib, such as cords, curtains, or wall hangings. Nationwide Children's Hospital says to take down mobiles by about 5 months, when babies begin pulling up. What to do when your baby stands up in the crib at night is covered on our [10 month old sleep schedule](/10-month-old-sleep-schedule) page.
+Many 8-month-olds crawl, sit up by themselves, and start pulling up (the CDC's 9-month milestones include getting to a sitting position without help). KidsHealth suggests checking what your baby can reach from a sitting or standing position in the crib, such as cords, curtains, or wall hangings. Nationwide Children's Hospital says to take down mobiles by about 5 months, when babies begin pulling up.
+
+If they have started pulling to stand at night:
+
+1. **Practice sitting back down during the day**, at a low table or the crib rail, so they are less stuck at 2 a.m.
+2. **Keep the mattress at the safe height** the crib manual specifies for a baby who can sit or pull up — usually the lowest setting once they can get up.
+3. **At night, guide rather than entertain.** Tresillian suggests a calm, short phrase such as "time to lie down," then helping them down and leaving. The fuller night-by-night version is on our [10 month old sleep schedule](/10-month-old-sleep-schedule).
+4. **Do not add pillows, bumpers, or extra bedding** to cushion a fall. That creates a suffocation risk. If they are climbing *out*, the crib may no longer be the safe option — see [crib to toddler bed](/crib-to-toddler-bed) (most 8-month-olds are not there yet).
+
+Sleep can wobble when this skill arrives; that bump is also discussed on [8 month sleep regression](/sleep-regression/8-months).
 
 ## What can make an 8 month schedule harder
 
@@ -139,6 +148,17 @@ About 24 ounces a day of breast milk or formula, according to HealthyChildren.or
 **Yorix** predicts the next nap from your baby's last wake-up and moves bedtime when a nap runs short. Meals and milk feeds can sit in the same log. It is a support for tired parents, not a medical device and not a diagnosis.
 
 ## Related reading
+
+- [The 3-to-2 Nap Transition: A Practical Plan](/3-to-2-nap-transition)
+- [The 5 S's for Soothing a Crying Baby (Product-Neutral)](/5-s-soothing-a-crying-baby)
+- [Bedtime Routine for Baby: A Simple, Evidence-Backed Wind-Down](/bedtime-routine-for-baby)
+- [How Much Sleep Does a Baby Need? A Chart From Newborn to Age 5](/how-much-sleep-does-a-baby-need)
+- [Overtired Baby: Signs, Why It Happens, and What Helps](/overtired-baby)
+- [How to Help a Sick Baby Sleep Safely](/sick-baby-sleep)
+- [When Do Babies Sleep Through the Night — and What Does That Phrase Mean?](/when-do-babies-sleep-through-the-night)
+- [When to Move Your Baby to Their Own Room](/when-to-move-baby-to-own-room)
+- [Why Won't My Baby Sleep? Start Here, Then Follow One Link](/why-wont-my-baby-sleep)
+- [The Witching Hour: When Evenings Get Fussy](/witching-hour)
 
 - [8 month sleep regression](/sleep-regression/8-months)
 - [7 month old sleep schedule](/7-month-old-sleep-schedule)

@@ -145,6 +145,12 @@ Track settling time and night wakings for a week. If there's no progress after o
 
 ## Related reading
 
+- [Bedtime Routine for Baby: A Simple, Evidence-Backed Wind-Down](/bedtime-routine-for-baby)
+- [Gentle Sleep Training: Chair, Fading, and Pick Up / Put Down](/gentle-sleep-training)
+- [Self-Soothing: A Skill That Grows, Not a Method](/self-soothing)
+- [Sleep Associations: What They Are and How to Change Them](/sleep-associations)
+- [When Do Babies Sleep Through the Night — and What Does That Phrase Mean?](/when-do-babies-sleep-through-the-night)
+
 - [Sleep training methods explained](/sleep-training-methods-explained)
 - [Cry it out method](/cry-it-out-method)
 - [The Ferber method](/ferber-method-baby-sleep)

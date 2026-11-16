@@ -72,6 +72,16 @@ Every baby moves at their own pace. Use these stages as rough landmarks, not dea
 
 **Weeks 9–12: longer night stretches for some.** Newcastle Hospitals NHS says that by 3 months some babies skip a night feed and sleep around 5 hours at a time. The Sydney Children's Hospitals Network says many babies around 3 months stay awake longer in the day and sleep longer at night. Others take longer, and that is normal too.
 
+## The "second night" (a popular name, not a diagnosis)
+
+Some hospital leaflets and parent articles call the stretch around **24 hours after birth** "second night syndrome." It is **not a formal medical diagnosis** and it is not a reason to invent a new schedule.
+
+A Norfolk and Norwich University Hospitals NHS leaflet written for breastfeeding families on baby's second day (adapted from Lactation Education Resources, 2019) describes a familiar picture: a baby who may want to feed very often, may be harder to settle, and may cluster at the breast while parents are exhausted. The useful response is the ordinary newborn one, not a special protocol: **skin-to-skin**, frequent feeds, and asking for help so you can rest between them. Do not try to "stretch" feeds to teach a day-old baby a schedule — this page already says newborns are not ready for one.
+
+This spell often lasts **a night, or a few nights**, and then blends into the frequent day-and-night feeding of weeks 1–2. Frequent feeding is common. It is not, by itself, a guarantee that intake is adequate. If your baby will not wake to feed, is too sleepy to feed, has fewer wet or dirty nappies than your midwife or pediatrician expects, is hard to rouse, or shows the warning signs already listed under "Red flags: when sleepiness is not normal" later on this page, seek clinical care rather than waiting for the "second night" to pass.
+
+Do not confuse this early-days bump with [reverse cycling](/reverse-cycling) (nights getting heavier because days are underfed later on) or with [witching hour](/witching-hour).
+
 ## A flexible newborn day (example only)
 
 Instead of clock times, think in loops. One loop is roughly: **feed → short awake time → sleep**. A newborn might repeat it 8–12 times in 24 hours.
@@ -154,6 +164,21 @@ Very common in the early weeks (Tresillian). Hold your baby while you are awake,
 
 ## Related reading
 
+- [Baby Sleep Cues: How to Read Sleepy Signs](/baby-sleep-cues)
+- [Bedtime Routine for Baby: A Simple, Evidence-Backed Wind-Down](/bedtime-routine-for-baby)
+- [How Much Sleep Does a Baby Need? A Chart From Newborn to Age 5](/how-much-sleep-does-a-baby-need)
+- [How to Swaddle a Baby Safely — and When to Stop](/how-to-swaddle-a-baby)
+- [Newborn Day-Night Confusion: How to Reset It](/newborn-day-night-confusion)
+- [Overtired Baby: Signs, Why It Happens, and What Helps](/overtired-baby)
+- [Pacifier and Sleep: When to Start, How It Relates to SIDS, and When to Stop](/pacifier-and-sleep)
+- [Preemie Sleep: Use Due Date, Not Just Birthday](/preemie-sleep)
+- [Safe Sleep for Babies: How to Lower the Risk of SIDS](/safe-sleep-for-babies)
+- [Should You Wake a Sleeping Baby?](/should-you-wake-a-sleeping-baby)
+- [Sleep Sacks: A Safer Alternative to a Loose Blanket](/sleep-sacks)
+- [When Do Babies Sleep Through the Night — and What Does That Phrase Mean?](/when-do-babies-sleep-through-the-night)
+- [When to Move Your Baby From Bassinet to Crib](/when-to-move-baby-to-crib)
+- [Why Won't My Baby Sleep? Start Here, Then Follow One Link](/why-wont-my-baby-sleep)
+
 - [1 month old sleep schedule](/1-month-old-sleep-schedule) (a closer look at weeks 4–7)
 - [2 month old sleep schedule](/2-month-old-sleep-schedule)
 - [Wake windows by age](/wake-windows-by-age)
@@ -186,6 +211,9 @@ All pages below were opened and checked on 15 November 2026.
 16. Cleveland Clinic. "Wake Windows by Age." <https://health.clevelandclinic.org/wake-windows-by-age>.
 17. Tresillian. "3-6 Month Baby Sleep." <https://www.tresillian.org.au/baby/sleep/3-to-6-months/>.
 18. American Academy of Sleep Medicine. "Recharge with sleep" (recommendations begin at 4 months). <https://aasm.org/recharge-with-sleep-pediatric-sleep-recommendations-promoting-optimal-health/>.
+
+19. [Norfolk and Norwich University Hospitals NHS Foundation Trust. Information for breastfeeding families: baby’s second day (adapted from Lactation Education Resources, 2019).](https://www.nnuh.nhs.uk/publication/download/information-for-breastfeeding-families-baby-s-second-day-v4/)
+
 
 ```json
 {

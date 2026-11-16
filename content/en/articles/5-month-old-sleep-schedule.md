@@ -76,6 +76,8 @@ You will probably not need to "decide" this. Your baby's day tends to make it ob
 
 Huckleberry (app example) links the switch to babies managing about 2–3 hours of awake time. Cleveland Clinic's wake window range for 5–7 months is 2–4 hours. Our [wake windows guide](/wake-windows-by-age) shows the full chart.
 
+For a slightly fuller process (what to do on mixed days, and why this is not the later 3-to-2 drop), see [baby nap schedule by age](/baby-nap-schedule-by-age#the-4-to-3-nap-transition) and, when that later drop arrives, [3-to-2 nap transition](/3-to-2-nap-transition).
+
 ## Is 3 to 2 naps too early at 5 months?
 
 For most babies, yes. Mayo Clinic suggests two naps (for example, around 9 a.m. and 1 p.m.) from 4 months to a year, and puts the loss of the third nap at about 9 months. App guidance from Huckleberry suggests the 3-to-2 transition by about 8 months. If a 5-month-old seems to "refuse" the third nap, look first at whether the nap is simply scheduled too close to the second one or too close to bedtime.
@@ -155,6 +157,15 @@ Usually not. The third nap typically goes at about 9 months (Mayo Clinic).
 **Yorix** logs naps, night wakings, and feeds, then suggests the next nap window based on your baby's recent days. That can make the move from four naps to three easier to see. It is a support for tired parents, not a medical device and not a diagnosis.
 
 ## Related reading
+
+- [Baby Sleep Cycles: Why They Wake After One Cycle](/baby-sleep-cycles)
+- [Baby Sleeping on the Stomach: When It Is and Isn't Safe](/baby-sleeping-on-stomach)
+- [Bedtime Routine for Baby: A Simple, Evidence-Backed Wind-Down](/bedtime-routine-for-baby)
+- [How Much Sleep Does a Baby Need? A Chart From Newborn to Age 5](/how-much-sleep-does-a-baby-need)
+- [Overtired Baby: Signs, Why It Happens, and What Helps](/overtired-baby)
+- [Sleep Associations: What They Are and How to Change Them](/sleep-associations)
+- [When Do Babies Sleep Through the Night — and What Does That Phrase Mean?](/when-do-babies-sleep-through-the-night)
+- [When to Move Your Baby From Bassinet to Crib](/when-to-move-baby-to-crib)
 
 - [4 month old sleep schedule](/4-month-old-sleep-schedule)
 - [6 month old sleep schedule](/6-month-old-sleep-schedule)

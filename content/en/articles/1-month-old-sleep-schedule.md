@@ -142,6 +142,18 @@ Yes, if you'd like. Keep it short and calm; it becomes more useful as the body c
 
 ## Related reading
 
+- [Bedtime Routine for Baby: A Simple, Evidence-Backed Wind-Down](/bedtime-routine-for-baby)
+- [How Much Sleep Does a Baby Need? A Chart From Newborn to Age 5](/how-much-sleep-does-a-baby-need)
+- [How to Swaddle a Baby Safely — and When to Stop](/how-to-swaddle-a-baby)
+- [Newborn Day-Night Confusion: How to Reset It](/newborn-day-night-confusion)
+- [Overtired Baby: Signs, Why It Happens, and What Helps](/overtired-baby)
+- [Pacifier and Sleep: When to Start, How It Relates to SIDS, and When to Stop](/pacifier-and-sleep)
+- [Safe Sleep for Babies: How to Lower the Risk of SIDS](/safe-sleep-for-babies)
+- [Should You Wake a Sleeping Baby?](/should-you-wake-a-sleeping-baby)
+- [Sleep Sacks: A Safer Alternative to a Loose Blanket](/sleep-sacks)
+- [When Do Babies Sleep Through the Night — and What Does That Phrase Mean?](/when-do-babies-sleep-through-the-night)
+- [When to Move Your Baby From Bassinet to Crib](/when-to-move-baby-to-crib)
+
 - [Newborn sleep schedule](/newborn-sleep-schedule)
 - [2 month old sleep schedule](/2-month-old-sleep-schedule)
 - [Wake windows by age](/wake-windows-by-age)

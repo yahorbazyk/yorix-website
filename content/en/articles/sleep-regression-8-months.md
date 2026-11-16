@@ -113,6 +113,10 @@ For standing in the crib, our [10 month old sleep schedule](/10-month-old-sleep-
 - Remove anything reachable from sitting or standing, such as mobiles, cords, and wall hangings (KidsHealth).
 - Keep the crib bare: no pillows, bumpers, or blankets in the first year (HealthyChildren.org / AAP).
 
+## Standing up in the crib at night
+
+Pulling to stand is a common reason an 8- to 10-month-old suddenly seems "worse" at night: they can get up and cannot always get down. This is a skill problem as much as a "regression." Practice sitting down during the day, keep the crib clear of cords and mobiles, put the mattress at the correct height, and use a short, boring response when you lay them back down. Step-by-step wording is on the [8 month old sleep schedule](/8-month-old-sleep-schedule) and the [10 month old sleep schedule](/10-month-old-sleep-schedule). Do not add loose bedding to soften the crib.
+
 ## When to talk to your pediatrician
 
 Sleep Foundation advises talking to your child's doctor if sleep problems continue. Call sooner if your baby has a fever, pulls at an ear and seems in pain, snores loudly or pauses in breathing, or is eating much less.
@@ -139,6 +143,8 @@ No. Sleep Foundation says not all babies do.
 **Yorix** logs night wakings and naps and suggests the next nap window as awake periods lengthen, which can make the 3-to-2 nap switch easier to see. It is a support for tired parents, not a medical device and not a diagnosis.
 
 ## Related reading
+
+- [Separation Anxiety and Sleep: A Longer Arc Than One Regression](/separation-anxiety-and-sleep)
 
 - [Sleep regression ages](/sleep-regression)
 - [6 month sleep regression](/sleep-regression/6-months)
