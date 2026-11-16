@@ -85,6 +85,8 @@ Yes, especially in the first months. If the pause does not settle the cry and a 
 
 ## Related reading
 
+- [Baby Sleeping With Eyes Open: Usually Active Sleep, Not a Trick](/baby-sleeping-with-eyes-open)
+
 - [Baby sleep cycles](/baby-sleep-cycles)
 - [Baby twitching in sleep](/baby-twitching-in-sleep)
 - [Newborn grunting in sleep](/newborn-grunting-in-sleep)

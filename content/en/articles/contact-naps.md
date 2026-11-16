@@ -141,6 +141,9 @@ Gradually: start with one crib nap, keep a short routine, practice drowsy-but-aw
 **Can my baby nap in a carrier?**  
 Carrying is soothing, but NICHD says carriers and slings shouldn't be used for regular sleep. Move your baby to a safe sleep space when you can.
 
+**How do I stop contact naps at 6 or 9 months?**
+There is no official week when contact naps must end. If you want more crib naps, the practical home is [baby won't sleep in crib](/baby-wont-sleep-in-crib). Keep every sleep you do get onto a safe surface if you need to put them down; a sofa or an armchair is still not a safe sleep space. Later-month contact naps are a habit and a logistics question, not a new medical event.
+
 ## See how naps are going (Yorix)
 
 **Yorix** lets you log each nap in one tap, so over a couple of weeks you can see how your baby's naps are changing. It also suggests the next sleep window from your baby's day. It is a support for tired parents, not a medical device and not a diagnosis.

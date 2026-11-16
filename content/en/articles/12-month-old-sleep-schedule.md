@@ -137,6 +137,9 @@ KidsHealth says a light blanket and a small lovey are OK after the first birthda
 **What about a 14 month old sleep schedule?**
 Fourteen months still sits between this page and [15 month old sleep schedule](/15-month-old-sleep-schedule). Keep the 11–14 hour AASM 1–2 year band. Two naps are still typical for many children; use the 15-month page and [the 2-to-1 nap transition](/2-to-1-nap-transition) only if readiness signs are actually present. There is no official 14-month regression.
 
+**My 8, 9, 10, or 12 month old won’t nap. Does that mean they should drop a nap?**
+Not automatically. Use this page and the matching month schedule. At this age a two-nap day is still common; dropping to one nap too early can look like “they won’t nap.” See [baby nap schedule by age](/baby-nap-schedule-by-age) and, when the one-nap transition is actually close, [when do toddlers stop napping](/when-do-toddlers-stop-napping).
+
 ## Watch the nap pattern before you change it (Yorix)
 
 **Yorix** lets you look back over a week or two of naps at once. If the morning nap keeps getting shorter while the afternoon nap holds, that's a pattern worth seeing before you drop a nap. It is a support for tired parents, not a medical device and not a diagnosis.

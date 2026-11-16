@@ -125,6 +125,9 @@ Separation anxiety is common between 8 months and 1 year (KidsHealth). Keep good
 **Should a 9 month old still wake to feed?**  
 Some do. Nationwide Children's says 25–50% of babies still wake after 6 months. Ask your pediatrician before night weaning.
 
+**My 8, 9, 10, or 12 month old won’t nap. Does that mean they should drop a nap?**
+Not automatically. Use this page and the matching month schedule. At this age a two-nap day is still common; dropping to one nap too early can look like “they won’t nap.” See [baby nap schedule by age](/baby-nap-schedule-by-age) and, when the one-nap transition is actually close, [when do toddlers stop napping](/when-do-toddlers-stop-napping).
+
 ## Two-nap days at a glance (Yorix)
 
 **Yorix** shows how long each wake window actually ran, so you can see whether 3 hours or 3.5 hours before the afternoon nap gives a better sleep. It also flags days when bedtime should come earlier. It is a support for tired parents, not a medical device and not a diagnosis.

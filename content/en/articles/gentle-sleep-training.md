@@ -92,6 +92,8 @@ Naps are often harder. A short, consistent try at the same approach can be reaso
 
 ## Related reading
 
+- [Is Sleep Training Harmful? What the Trials Show — and What They Don't](/is-sleep-training-harmful)
+
 - [Responsive Settling: Help That Can Fade, Not a Second Methods Table](/responsive-settling)
 
 - [Self-Soothing: A Skill That Grows, Not a Method](/self-soothing)

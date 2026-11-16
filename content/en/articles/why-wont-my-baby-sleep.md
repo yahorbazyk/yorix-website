@@ -72,6 +72,8 @@ Only if the change is a time-limited bump around a typical age or skill. Use the
 
 ## Related reading
 
+- [Why Does My Baby Fight Sleep? A Triage, Not a New Regression](/why-does-my-baby-fight-sleep)
+
 - [Autism and Sleep: Common Patterns, Not a Treatment Protocol](/autism-and-sleep)
 - [Baby Head Banging and Body Rocking: Usually a Rhythm, Not a Diagnosis](/baby-head-banging-and-body-rocking)
 - [Cluster Feeding: Not Reverse Cycling, Not a Witching-Hour Diagnosis](/cluster-feeding)

@@ -95,6 +95,14 @@ Yes, if it is out of reach, cleaned, and filled with fresh water as directed.
 **Should I still offer a pacifier?**  
 If you already use one and they will take it, the usual [pacifier and sleep](/pacifier-and-sleep) advice still applies. A blocked nose may make it harder for them to keep it in.
 
+**Can vaccines affect my baby’s sleep?**
+They can, for a short time. NHS inform (babies and children up to 3 years 4 months) lists being **sleepy**, irritable, upset, or less hungry than usual as common side effects after a vaccine; these usually pass within a couple of days. The Lullaby Trust: after vaccinations some babies may feel irritable and unwell, and may develop a fever; **dress them for the environment and do not wrap them in extra clothes and blankets**. The Lullaby Trust also states that vaccinations do **not** increase the risk of SIDS, and that babies who are up to date with vaccinations have a **lower** risk of SIDS.
+
+Call your pediatrician or local urgent line if you cannot rouse them, if they seem significantly unwell, or if you are worried about a fever — especially under 3 months. Do not add loose blankets to the crib. See also [sick baby sleep](/sick-baby-sleep) and [baby sweating in sleep](/baby-sweating-in-sleep).
+
+**Can eczema wreck my baby’s sleep?**
+Itch can make nights miserable. Treat the skin with your clinician’s plan, not with a sleep product. Do not add loose blankets, pillows, or unprescribed creams into an infant’s crib. Dress in a comfortable layer — see [how to dress baby for sleep](/how-to-dress-baby-for-sleep) and [baby sweating in sleep](/baby-sweating-in-sleep) — and use [sick baby sleep](/sick-baby-sleep) for illness-night logistics.
+
 ## Log symptoms, not just sleep (Yorix)
 
 **Yorix** can track sleep and symptoms (for example, a note that this was a congested night), which is useful at a sick visit. The app cannot tell you that a wedge is safe, and it is not a medical device. If breathing looks wrong, call a clinician or emergency services.
@@ -128,6 +136,9 @@ All pages below were opened and checked on 15 November 2026.
 5. [HealthyChildren.org (AAP), Rachel Moon, MD, FAAP. “My baby has a stuffy nose. How can I help them sleep safely?” Already the source for the congestion sections on this page; use it also for “no side-sleep, no sitting up.”](https://www.healthychildren.org/English/tips-tools/ask-the-pediatrician/Pages/my-baby-has-a-stuffy-nose-how-can-I-help-them-sleep-safely.aspx)
 
 6. [The Lullaby Trust. “Vaccinations and SIDS.” After vaccinations some babies are irritable or may have a fever; dress for the environment, do not wrap more than usual.](https://www.lullabytrust.org.uk/baby-safety/infection-and-illness/vaccinations-and-sids/)
+
+
+7. [NHS inform. “What to expect after immunisation: babies and children up to 3 years 4 months.”](https://www.nhsinform.scot/healthy-living/immunisation/why-immunise/what-to-expect-after-immunisation-babies-and-children-up-to-3-years-4-months/)
 
 
 ```json

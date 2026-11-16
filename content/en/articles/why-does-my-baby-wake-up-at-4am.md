@@ -70,6 +70,9 @@ Sometimes a slightly later bedtime helps; sometimes it produces a more overtired
 **Should I just start the day at 4?**  
 You can, but you will usually regret it by afternoon. Protect a realistic morning if you can.
 
+**Why does my baby wake up at 2 a.m. or 3 a.m.?**
+There is no official 2 a.m. or 3 a.m. event. A waking in the middle of the night is usually a night waking or a [split night](/split-nights) — a long stretch of being awake between two sleeps — not a separate diagnosis. If the clock is closer to morning, [why does my baby wake up at 4am](/why-does-my-baby-wake-up-at-4am) and [early morning waking](/early-morning-waking) are the closer pages. For getting through the night as a parent, see [survive night wakings](/survive-night-wakings-new-parents).
+
 ## See whether 4 a.m. is a blip or the new morning (Yorix)
 
 **Yorix** can help you see whether the baby went back to sleep after 4 a.m., or whether the day began there. The app cannot reset a body clock and is not a medical device.

@@ -69,6 +69,8 @@ Usually no. Stagger the routines so one child's settle is not the other's party.
 
 ## Related reading
 
+- [Toddler Sleep After a New Baby: Expect Disruption, Not a Named Regression](/toddler-sleep-after-a-new-baby)
+
 - [Sleep After Separation or Divorce: Two Homes, One Predictable Night](/sleep-after-separation-or-divorce)
 
 - [When to move baby to their own room](/when-to-move-baby-to-own-room)

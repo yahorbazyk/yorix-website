@@ -89,6 +89,9 @@ HealthyChildren.org places night terrors mostly in toddlers and preschoolers. Ve
 **Do they mean my child is anxious or traumatized?**  
 Not by themselves. Tiredness, illness, and family history are common contributors (NHS). Recurring nightmares after a scary event are a reason to call the doctor.
 
+**When should I see a sleep specialist or ask for a sleep study?**
+Start with your pediatrician. This page already lists breathing, snoring, and unusual-event reasons to call. A specialist or a study is their referral, not a parent DIY step . If the issue is nightmares, sleepwalking, or sleep talking rather than breathing, see [night terrors](/night-terrors), which already compares those events.
+
 ## Note the clock time (Yorix)
 
 **Yorix** can log the hour an episode started, which helps you see whether it is an early-night pattern and whether the NHS timed-waking idea even applies. The app cannot diagnose a night terror or a seizure, and it is not a medical device.

@@ -145,6 +145,8 @@ No. Cry it out has no check-ins; Ferber adds timed reassurance visits (Cleveland
 
 ## Related reading
 
+- [Is Sleep Training Harmful? What the Trials Show — and What They Don't](/is-sleep-training-harmful)
+
 - [Responsive Settling: Help That Can Fade, Not a Second Methods Table](/responsive-settling)
 
 - [Gentle Sleep Training: Chair, Fading, and Pick Up / Put Down](/gentle-sleep-training)

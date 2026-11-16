@@ -72,6 +72,8 @@ It will not, by itself, fix [hourly waking](/baby-waking-every-hour), [false sta
 
 A popular daytime slogan, **eat–play–sleep** (or feed–play–sleep), is the same idea in a different order of the day: a flexible, cue-led pattern, not a rigid law, and not a newborn schedule. The longer caveat lives on [newborn sleep schedule](/newborn-sleep-schedule).
 
+The daytime pattern has its own guide: [eat, play, sleep](/eat-play-sleep). For the evening clock, see [what time should a baby go to bed](/what-time-should-baby-go-to-bed).
+
 ## When to talk to your pediatrician
 
 If bedtime is a nightly battle despite a consistent, short routine, or if your baby seems in pain, has noisy breathing, or cannot settle in a way that feels new and extreme, ask for help. A routine is a habit, not a treatment for illness or a medical sleep disorder.
@@ -101,6 +103,8 @@ There is no official AAP clock. The week-12 snapshot is on [12 week old baby sle
 **Yorix** can show you when the last nap ended and when night sleep actually started, which makes it obvious if the "routine" is starting so late that your baby is already overtired. You can also log the night itself to see whether a slightly earlier start helped. It is a support for tired parents, not a medical device and not a diagnosis.
 
 ## Related reading
+
+- [Screens and Toddler Sleep: Keep the Bedroom and the Wind-Down Clear](/screens-and-toddler-sleep)
 
 - [4 Year Old Sleep Schedule: The Preschool Day, With or Without a Nap](/4-year-old-sleep-schedule)
 - [Cluster Feeding: Not Reverse Cycling, Not a Witching-Hour Diagnosis](/cluster-feeding)

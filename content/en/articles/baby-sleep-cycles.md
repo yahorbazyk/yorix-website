@@ -47,6 +47,8 @@ What that active-sleep picture does mean, practically: lids may not look tightly
 
 Talk to your pediatrician sooner if the eyes look red, dry, cloudy, or sticky, if one eye will not close when the baby is awake, or if you notice new facial asymmetry. Those are eye or nerve questions, not a sleep-cycle tweak.
 
+For the focused eye-care question, see [baby sleeping with eyes open](/baby-sleeping-with-eyes-open).
+
 ## Why babies smile or laugh in their sleep
 
 A grin or a short laugh during sleep is usually part of **active (REM) sleep**, not proof that they are dreaming in the adult sense, and not a review of your parenting. Sleep Foundation describes active sleep as a stage with eye movements, twitches, irregular breathing, and mouth movement; smiles fit that picture. Brief sounds can appear in the same stage — see [baby crying in their sleep](/baby-crying-in-sleep) if the sound is a whimper rather than a smile.

@@ -152,6 +152,8 @@ A looser approach: allow fussing, go in for real distress. It hasn't been studie
 
 ## Related reading
 
+- [Is Sleep Training Harmful? What the Trials Show — and What They Don't](/is-sleep-training-harmful)
+
 - [Gentle Sleep Training: Chair, Fading, and Pick Up / Put Down](/gentle-sleep-training)
 - [Self-Soothing: A Skill That Grows, Not a Method](/self-soothing)
 

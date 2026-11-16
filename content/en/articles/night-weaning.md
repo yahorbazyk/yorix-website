@@ -92,6 +92,9 @@ Not reliably. HealthyChildren.org notes that solids do not increase sleeping thr
 **Can I night-wean during a regression or an illness?**  
 It is usually a poor time. Wait for a calmer week.
 
+**Can a 6 month old (or 4, 8, 12 month old) sleep through the night without feeding?**
+“Through the night” at 1–3 months often means about **5–6 hours** (KidsHealth), not a 12-hour stretch. Whether a later baby can go longer without a night feed is a weight-gain and feeding question for your pediatrician, not a search-result rule. Use this page, [night weaning](/night-weaning), and [should you wake a sleeping baby](/should-you-wake-a-sleeping-baby). Do not drop a needed night feed because a blog said “6 months.”
+
 ## See whether nights are actually changing (Yorix)
 
 **Yorix** logs each feed and each night waking, so you can see whether a 2 a.m. feed is getting shorter, or whether dropping it moved the next waking earlier. You can also log daytime feeds to check that calories have shifted. The app is a support for tired parents, not a medical device and not a diagnosis. It cannot tell you whether your baby still needs night calories — that is a question for your pediatrician.

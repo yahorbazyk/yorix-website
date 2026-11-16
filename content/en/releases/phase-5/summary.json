@@ -1,0 +1,724 @@
+{
+  "phase": 5,
+  "candidateDate": "2026-11-16",
+  "newSlugs": [
+    "baby-sleeping-with-eyes-open",
+    "baby-sweating-in-sleep",
+    "eat-play-sleep",
+    "is-sleep-training-harmful",
+    "potty-training-and-sleep",
+    "screens-and-toddler-sleep",
+    "should-you-wake-a-baby-from-a-nap",
+    "startle-reflex-and-sleep",
+    "toddler-sleep-after-a-new-baby",
+    "what-time-should-baby-go-to-bed",
+    "why-does-my-baby-fight-sleep"
+  ],
+  "modifiedExistingFiles": [
+    "10-month-old-sleep-schedule.md",
+    "12-month-old-sleep-schedule.md",
+    "4-month-old-sleep-schedule.md",
+    "6-month-old-sleep-schedule.md",
+    "8-month-old-sleep-schedule.md",
+    "9-month-old-sleep-schedule.md",
+    "baby-crying-in-sleep.md",
+    "baby-sleep-cycles.md",
+    "baby-sleeping-on-stomach.md",
+    "baby-snoring-and-mouth-breathing.md",
+    "baby-twitching-in-sleep.md",
+    "baby-wont-nap.md",
+    "baby-wont-sleep-in-crib.md",
+    "bedtime-routine-for-baby.md",
+    "contact-naps.md",
+    "crib-to-toddler-bed.md",
+    "cry-it-out-method.md",
+    "daycare-and-baby-sleep.md",
+    "ferber-method-baby-sleep.md",
+    "gentle-sleep-training.md",
+    "how-much-sleep-does-a-baby-need.md",
+    "how-to-dress-baby-for-sleep.md",
+    "how-to-swaddle-a-baby.md",
+    "newborn-sleep-schedule.md",
+    "night-terrors.md",
+    "night-weaning.md",
+    "overtired-baby.md",
+    "reflux-and-baby-sleep.md",
+    "safe-sleep-for-babies.md",
+    "self-soothing.md",
+    "short-naps.md",
+    "should-you-wake-a-sleeping-baby.md",
+    "siblings-sharing-a-room.md",
+    "sick-baby-sleep.md",
+    "sleep-associations.md",
+    "sleep-regression.md",
+    "sleep-sacks.md",
+    "sleep-training-methods-explained.md",
+    "split-nights.md",
+    "survive-night-wakings-new-parents.md",
+    "teething-symptoms.md",
+    "toddler-bedtime-battles.md",
+    "wake-windows-by-age.md",
+    "when-do-babies-sleep-through-the-night.md",
+    "when-to-start-sleep-training.md",
+    "when-to-start-solids.md",
+    "why-does-my-baby-wake-up-at-4am.md",
+    "why-is-my-baby-suddenly-sleeping-more.md",
+    "why-wont-my-baby-sleep.md"
+  ],
+  "inboundRequirements": {
+    "/baby-crying-in-sleep": [
+      "/baby-sleeping-with-eyes-open"
+    ],
+    "/baby-twitching-in-sleep": [
+      "/baby-sleeping-with-eyes-open",
+      "/startle-reflex-and-sleep"
+    ],
+    "/baby-wont-nap": [
+      "/should-you-wake-a-baby-from-a-nap"
+    ],
+    "/bedtime-routine-for-baby": [
+      "/eat-play-sleep",
+      "/screens-and-toddler-sleep",
+      "/what-time-should-baby-go-to-bed"
+    ],
+    "/crib-to-toddler-bed": [
+      "/potty-training-and-sleep",
+      "/toddler-sleep-after-a-new-baby"
+    ],
+    "/cry-it-out-method": [
+      "/is-sleep-training-harmful"
+    ],
+    "/ferber-method-baby-sleep": [
+      "/is-sleep-training-harmful"
+    ],
+    "/gentle-sleep-training": [
+      "/is-sleep-training-harmful"
+    ],
+    "/how-much-sleep-does-a-baby-need": [
+      "/what-time-should-baby-go-to-bed"
+    ],
+    "/how-to-dress-baby-for-sleep": [
+      "/baby-sweating-in-sleep"
+    ],
+    "/how-to-swaddle-a-baby": [
+      "/startle-reflex-and-sleep"
+    ],
+    "/overtired-baby": [
+      "/why-does-my-baby-fight-sleep"
+    ],
+    "/safe-sleep-for-babies": [
+      "/baby-sweating-in-sleep"
+    ],
+    "/short-naps": [
+      "/should-you-wake-a-baby-from-a-nap"
+    ],
+    "/should-you-wake-a-sleeping-baby": [
+      "/should-you-wake-a-baby-from-a-nap"
+    ],
+    "/siblings-sharing-a-room": [
+      "/toddler-sleep-after-a-new-baby"
+    ],
+    "/sick-baby-sleep": [
+      "/baby-sweating-in-sleep"
+    ],
+    "/sleep-sacks": [
+      "/startle-reflex-and-sleep"
+    ],
+    "/sleep-training-methods-explained": [
+      "/is-sleep-training-harmful"
+    ],
+    "/toddler-bedtime-battles": [
+      "/screens-and-toddler-sleep",
+      "/toddler-sleep-after-a-new-baby",
+      "/why-does-my-baby-fight-sleep"
+    ],
+    "/wake-windows-by-age": [
+      "/eat-play-sleep"
+    ],
+    "/when-to-start-sleep-training": [
+      "/is-sleep-training-harmful"
+    ],
+    "/why-wont-my-baby-sleep": [
+      "/why-does-my-baby-fight-sleep"
+    ]
+  },
+  "addedRelatedLinks": 21,
+  "approvedInsertions": [
+    {
+      "slug": "how-to-swaddle-a-baby",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Should I stop the swaddle cold turkey or take one arm out first?",
+        "They still startle after we stopped the swaddle. Can we wrap again?"
+      ],
+      "firstLine": "**Should I stop the swaddle cold turkey or take one arm out first?**"
+    },
+    {
+      "slug": "why-is-my-baby-suddenly-sleeping-more",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Can vaccines affect my baby’s sleep?"
+      ],
+      "firstLine": "**Can vaccines affect my baby’s sleep?**"
+    },
+    {
+      "slug": "sick-baby-sleep",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Can vaccines affect my baby’s sleep?"
+      ],
+      "firstLine": "**Can vaccines affect my baby’s sleep?**"
+    },
+    {
+      "slug": "teething-symptoms",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Is there a teething sleep regression?"
+      ],
+      "firstLine": "**Is there a teething sleep regression?**"
+    },
+    {
+      "slug": "sleep-regression",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Is there a teething sleep regression?"
+      ],
+      "firstLine": "**Is there a teething sleep regression?**"
+    },
+    {
+      "slug": "split-nights",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Why does my baby wake up at 2 a.m. or 3 a.m.?"
+      ],
+      "firstLine": "**Why does my baby wake up at 2 a.m. or 3 a.m.?**"
+    },
+    {
+      "slug": "why-does-my-baby-wake-up-at-4am",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Why does my baby wake up at 2 a.m. or 3 a.m.?"
+      ],
+      "firstLine": "**Why does my baby wake up at 2 a.m. or 3 a.m.?**"
+    },
+    {
+      "slug": "survive-night-wakings-new-parents",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Why does my baby wake up at 2 a.m. or 3 a.m.?"
+      ],
+      "firstLine": "**Why does my baby wake up at 2 a.m. or 3 a.m.?**"
+    },
+    {
+      "slug": "sleep-regression",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Is there a 5, 7, 9, 10, or 11 month sleep regression?"
+      ],
+      "firstLine": "**Is there a 5, 7, 9, 10, or 11 month sleep regression?**"
+    },
+    {
+      "slug": "baby-wont-nap",
+      "section": "Frequently asked questions",
+      "questions": [
+        "My 8, 9, 10, or 12 month old won’t nap. Does that mean they should drop a nap?"
+      ],
+      "firstLine": "**My 8, 9, 10, or 12 month old won’t nap. Does that mean they should drop a nap?**"
+    },
+    {
+      "slug": "8-month-old-sleep-schedule",
+      "section": "Frequently asked questions",
+      "questions": [
+        "My 8, 9, 10, or 12 month old won’t nap. Does that mean they should drop a nap?"
+      ],
+      "firstLine": "**My 8, 9, 10, or 12 month old won’t nap. Does that mean they should drop a nap?**"
+    },
+    {
+      "slug": "9-month-old-sleep-schedule",
+      "section": "Frequently asked questions",
+      "questions": [
+        "My 8, 9, 10, or 12 month old won’t nap. Does that mean they should drop a nap?"
+      ],
+      "firstLine": "**My 8, 9, 10, or 12 month old won’t nap. Does that mean they should drop a nap?**"
+    },
+    {
+      "slug": "10-month-old-sleep-schedule",
+      "section": "Frequently asked questions",
+      "questions": [
+        "My 8, 9, 10, or 12 month old won’t nap. Does that mean they should drop a nap?"
+      ],
+      "firstLine": "**My 8, 9, 10, or 12 month old won’t nap. Does that mean they should drop a nap?**"
+    },
+    {
+      "slug": "12-month-old-sleep-schedule",
+      "section": "Frequently asked questions",
+      "questions": [
+        "My 8, 9, 10, or 12 month old won’t nap. Does that mean they should drop a nap?"
+      ],
+      "firstLine": "**My 8, 9, 10, or 12 month old won’t nap. Does that mean they should drop a nap?**"
+    },
+    {
+      "slug": "when-do-babies-sleep-through-the-night",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Can a 6 month old (or 4, 8, 12 month old) sleep through the night without feeding?"
+      ],
+      "firstLine": "**Can a 6 month old (or 4, 8, 12 month old) sleep through the night without feeding?**"
+    },
+    {
+      "slug": "night-weaning",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Can a 6 month old (or 4, 8, 12 month old) sleep through the night without feeding?"
+      ],
+      "firstLine": "**Can a 6 month old (or 4, 8, 12 month old) sleep through the night without feeding?**"
+    },
+    {
+      "slug": "should-you-wake-a-sleeping-baby",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Can a 6 month old (or 4, 8, 12 month old) sleep through the night without feeding?"
+      ],
+      "firstLine": "**Can a 6 month old (or 4, 8, 12 month old) sleep through the night without feeding?**"
+    },
+    {
+      "slug": "when-to-start-solids",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Can starting solids affect sleep?"
+      ],
+      "firstLine": "**Can starting solids affect sleep?**"
+    },
+    {
+      "slug": "6-month-old-sleep-schedule",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Can starting solids affect sleep?"
+      ],
+      "firstLine": "**Can starting solids affect sleep?**"
+    },
+    {
+      "slug": "baby-sleeping-on-stomach",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Why does my baby sleep with their bum in the air?"
+      ],
+      "firstLine": "**Why does my baby sleep with their bum in the air?**"
+    },
+    {
+      "slug": "contact-naps",
+      "section": "Frequently asked questions",
+      "questions": [
+        "How do I stop contact naps at 6 or 9 months?"
+      ],
+      "firstLine": "**How do I stop contact naps at 6 or 9 months?**"
+    },
+    {
+      "slug": "baby-wont-sleep-in-crib",
+      "section": "Frequently asked questions",
+      "questions": [
+        "How do I stop contact naps at 6 or 9 months?"
+      ],
+      "firstLine": "**How do I stop contact naps at 6 or 9 months?**"
+    },
+    {
+      "slug": "baby-wont-sleep-in-crib",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Why does my 4 month old (or older baby) wake when put down?"
+      ],
+      "firstLine": "**Why does my 4 month old (or older baby) wake when put down?**"
+    },
+    {
+      "slug": "sleep-associations",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Why does my 4 month old (or older baby) wake when put down?"
+      ],
+      "firstLine": "**Why does my 4 month old (or older baby) wake when put down?**"
+    },
+    {
+      "slug": "self-soothing",
+      "section": "Frequently asked questions",
+      "questions": [
+        "What if “drowsy but awake” does not work?"
+      ],
+      "firstLine": "**What if “drowsy but awake” does not work?**"
+    },
+    {
+      "slug": "sleep-associations",
+      "section": "Frequently asked questions",
+      "questions": [
+        "What if “drowsy but awake” does not work?"
+      ],
+      "firstLine": "**What if “drowsy but awake” does not work?**"
+    },
+    {
+      "slug": "when-to-start-sleep-training",
+      "section": "Frequently asked questions",
+      "questions": [
+        "What if “drowsy but awake” does not work?"
+      ],
+      "firstLine": "**What if “drowsy but awake” does not work?**"
+    },
+    {
+      "slug": "baby-sleeping-on-stomach",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Can a 4 month old sleep on their stomach if they roll over?"
+      ],
+      "firstLine": "**Can a 4 month old sleep on their stomach if they roll over?**"
+    },
+    {
+      "slug": "4-month-old-sleep-schedule",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Can a 4 month old sleep on their stomach if they roll over?"
+      ],
+      "firstLine": "**Can a 4 month old sleep on their stomach if they roll over?**"
+    },
+    {
+      "slug": "sleep-regression",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Is a Wonder Weeks leap a sleep regression?"
+      ],
+      "firstLine": "**Is a Wonder Weeks leap a sleep regression?**"
+    },
+    {
+      "slug": "sick-baby-sleep",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Can eczema wreck my baby’s sleep?"
+      ],
+      "firstLine": "**Can eczema wreck my baby’s sleep?**"
+    },
+    {
+      "slug": "how-to-dress-baby-for-sleep",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Can eczema wreck my baby’s sleep?"
+      ],
+      "firstLine": "**Can eczema wreck my baby’s sleep?**"
+    },
+    {
+      "slug": "reflux-and-baby-sleep",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Why does my baby arch their back when sleeping or when I try to put them down?"
+      ],
+      "firstLine": "**Why does my baby arch their back when sleeping or when I try to put them down?**"
+    },
+    {
+      "slug": "overtired-baby",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Why does my baby arch their back when sleeping or when I try to put them down?"
+      ],
+      "firstLine": "**Why does my baby arch their back when sleeping or when I try to put them down?**"
+    },
+    {
+      "slug": "baby-twitching-in-sleep",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Why does my baby kick their legs in sleep?"
+      ],
+      "firstLine": "**Why does my baby kick their legs in sleep?**"
+    },
+    {
+      "slug": "how-much-sleep-does-a-baby-need",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Is it normal for a 10 month old to sleep 12 hours?"
+      ],
+      "firstLine": "**Is it normal for a 10 month old to sleep 12 hours?**"
+    },
+    {
+      "slug": "10-month-old-sleep-schedule",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Is it normal for a 10 month old to sleep 12 hours?"
+      ],
+      "firstLine": "**Is it normal for a 10 month old to sleep 12 hours?**"
+    },
+    {
+      "slug": "daycare-and-baby-sleep",
+      "section": "Frequently asked questions",
+      "questions": [
+        "What if grandparents or a nanny wreck the schedule?"
+      ],
+      "firstLine": "**What if grandparents or a nanny wreck the schedule?**"
+    },
+    {
+      "slug": "baby-snoring-and-mouth-breathing",
+      "section": "Frequently asked questions",
+      "questions": [
+        "When should I see a sleep specialist or ask for a sleep study?"
+      ],
+      "firstLine": "**When should I see a sleep specialist or ask for a sleep study?**"
+    },
+    {
+      "slug": "night-terrors",
+      "section": "Frequently asked questions",
+      "questions": [
+        "When should I see a sleep specialist or ask for a sleep study?"
+      ],
+      "firstLine": "**When should I see a sleep specialist or ask for a sleep study?**"
+    },
+    {
+      "slug": "baby-sleep-cycles",
+      "section": "Sleeping with eyes partly open",
+      "questions": [],
+      "firstLine": "For the focused eye-care question, see [baby sleeping with eyes open](/baby-sleeping-with-eyes-open)."
+    },
+    {
+      "slug": "how-to-dress-baby-for-sleep",
+      "section": "A sweaty head, and a fan in the room",
+      "questions": [],
+      "firstLine": "For the difference between ordinary sweating and signs to discuss with your pediatrician, see [baby sweating in sleep](/baby-sweating-in-sleep)."
+    },
+    {
+      "slug": "newborn-sleep-schedule",
+      "section": "“Eat, play, sleep” — a flexible pattern, not a law",
+      "questions": [],
+      "firstLine": "For a closer look at this flexible pattern, see [eat, play, sleep](/eat-play-sleep)."
+    },
+    {
+      "slug": "bedtime-routine-for-baby",
+      "section": "A routine is not a whole sleep plan",
+      "questions": [],
+      "firstLine": "The daytime pattern has its own guide: [eat, play, sleep](/eat-play-sleep). For the evening clock, see [what time should a baby go to bed](/what-time-should-baby-go-to-bed)."
+    },
+    {
+      "slug": "how-to-swaddle-a-baby",
+      "section": "“Wrapping,” the startle (Moro), and arms-up sleep",
+      "questions": [],
+      "firstLine": "For the reflex itself and how its timeline differs from safe swaddling limits, see [startle reflex and sleep](/startle-reflex-and-sleep)."
+    },
+    {
+      "slug": "sleep-regression",
+      "section": "When a new sibling arrives",
+      "questions": [],
+      "firstLine": "For practical routines when the family changes, see [toddler sleep after a new baby](/toddler-sleep-after-a-new-baby)."
+    },
+    {
+      "slug": "should-you-wake-a-sleeping-baby",
+      "section": "When you might wake them from a nap",
+      "questions": [],
+      "firstLine": "The daytime decision is covered in [should you wake a baby from a nap](/should-you-wake-a-baby-from-a-nap)."
+    }
+  ],
+  "skippedExistingQuestions": [],
+  "originalSourceHashes": {
+    "baby-sleeping-with-eyes-open.md": "5483a914774041ee54ba0cdfcc050d309d2edbb62c9be413548a6a417250f1d2",
+    "baby-sweating-in-sleep.md": "37ba22f10a0b8e6a8d2df9bbcd152322efc8396df6e99613e185ad3b5623ef27",
+    "eat-play-sleep.md": "19689726899d35ddd4c4cb21636c8e05ec0faf9083b43f81334adb64389b2c7f",
+    "is-sleep-training-harmful.md": "1fc3bd67625426c9858e1aa0307db13db8527bfe75d71cfbbb56ece1b2866975",
+    "potty-training-and-sleep.md": "61b34801b029a98d57553d00117b27e10b07208dfac682b86a653f18817f0edd",
+    "screens-and-toddler-sleep.md": "c8902f018b081284a677ed44af8ab0c14e39d7883721f9da945dc374f1ca1b95",
+    "should-you-wake-a-baby-from-a-nap.md": "1f6fd81c9be68c5be47e8ba0c8fdc1be7da0e1f62916133dd4cd578aca7fd2de",
+    "startle-reflex-and-sleep.md": "8955dc8dc9f3510c5c3d85eb6fee441cffafaf845312f43ef687235ee1fa50a1",
+    "toddler-sleep-after-a-new-baby.md": "a4f9124d249faccd94263b758a57faffdd082447227330fd50a16411674f01c5",
+    "what-time-should-baby-go-to-bed.md": "2e0b408c44bc433e729e1f7a9367cae79d2e4f31a1b0bad4b8297a6b44ce3549",
+    "why-does-my-baby-fight-sleep.md": "3bb0687aaad816bf1b607934bed6bc19ed26603632b81ec6357d19a7c6bf97ae"
+  },
+  "editorialNotesOmittedOrAdapted": [
+    {
+      "where": "potty-training-and-sleep",
+      "original": "stays on its own URL",
+      "replacement": "has its own guide"
+    },
+    {
+      "where": "should-you-wake-a-baby-from-a-nap",
+      "original": " Keep the two questions on their own URLs.",
+      "replacement": ""
+    },
+    {
+      "where": "should-you-wake-a-baby-from-a-nap",
+      "original": "Health Canada",
+      "replacement": "HealthyChildren.org (AAP)",
+      "reason": "Attribution corrected against the official formula-feeding Q&A."
+    },
+    {
+      "where": "what-time-should-baby-go-to-bed",
+      "original": "Open this page, not a new clock URL",
+      "replacement": "Read the relevant guide"
+    },
+    {
+      "where": "merge-4",
+      "original": ", and we will not add a new clock URL for each hour",
+      "replacement": ""
+    },
+    {
+      "where": "merge-4",
+      "original": ", and we will not add a new clock URL for each hour",
+      "replacement": ""
+    },
+    {
+      "where": "merge-4",
+      "original": ", and we will not add a new clock URL for each hour",
+      "replacement": ""
+    },
+    {
+      "where": "merge-5",
+      "original": "Use the nearest page instead of a new URL:",
+      "replacement": "Use the nearest age guide:"
+    },
+    {
+      "where": "merge-5",
+      "original": " if you have that URL",
+      "replacement": ""
+    },
+    {
+      "where": "merge-6",
+      "original": "Is that a new page?",
+      "replacement": "Does that mean they should drop a nap?"
+    },
+    {
+      "where": "merge-6",
+      "original": "No. Stay on this page and the matching month schedule.",
+      "replacement": "Not automatically. Use this page and the matching month schedule."
+    },
+    {
+      "where": "merge-6",
+      "original": "Is that a new page?",
+      "replacement": "Does that mean they should drop a nap?"
+    },
+    {
+      "where": "merge-6",
+      "original": "No. Stay on this page and the matching month schedule.",
+      "replacement": "Not automatically. Use this page and the matching month schedule."
+    },
+    {
+      "where": "merge-6",
+      "original": "Is that a new page?",
+      "replacement": "Does that mean they should drop a nap?"
+    },
+    {
+      "where": "merge-6",
+      "original": "No. Stay on this page and the matching month schedule.",
+      "replacement": "Not automatically. Use this page and the matching month schedule."
+    },
+    {
+      "where": "merge-6",
+      "original": "Is that a new page?",
+      "replacement": "Does that mean they should drop a nap?"
+    },
+    {
+      "where": "merge-6",
+      "original": "No. Stay on this page and the matching month schedule.",
+      "replacement": "Not automatically. Use this page and the matching month schedule."
+    },
+    {
+      "where": "merge-6",
+      "original": "Is that a new page?",
+      "replacement": "Does that mean they should drop a nap?"
+    },
+    {
+      "where": "merge-6",
+      "original": "No. Stay on this page and the matching month schedule.",
+      "replacement": "Not automatically. Use this page and the matching month schedule."
+    },
+    {
+      "where": "merge-10",
+      "original": ", not a new URL",
+      "replacement": ""
+    },
+    {
+      "where": "merge-10",
+      "original": ", not a new URL",
+      "replacement": ""
+    },
+    {
+      "where": "merge-11",
+      "original": ", not a new age URL",
+      "replacement": ""
+    },
+    {
+      "where": "merge-11",
+      "original": ", not a new age URL",
+      "replacement": ""
+    },
+    {
+      "where": "merge-12",
+      "original": " — those pages, not a new “drowsy but awake failed” URL",
+      "replacement": ""
+    },
+    {
+      "where": "merge-12",
+      "original": " — those pages, not a new “drowsy but awake failed” URL",
+      "replacement": ""
+    },
+    {
+      "where": "merge-12",
+      "original": " — those pages, not a new “drowsy but awake failed” URL",
+      "replacement": ""
+    },
+    {
+      "where": "merge-17",
+      "original": ", not a new kicking URL",
+      "replacement": ""
+    },
+    {
+      "where": "merge-18",
+      "original": ", not a new “12 hours official” URL",
+      "replacement": ""
+    },
+    {
+      "where": "merge-18",
+      "original": ", not a new “12 hours official” URL",
+      "replacement": ""
+    },
+    {
+      "where": "merge-19",
+      "original": " and not a reason for a new URL",
+      "replacement": ""
+    },
+    {
+      "where": "merge-20",
+      "original": "and not a new Yorix URL",
+      "replacement": ""
+    },
+    {
+      "where": "merge-20",
+      "original": "and not a new Yorix URL",
+      "replacement": ""
+    },
+    {
+      "where": "baby-sleeping-with-eyes-open",
+      "original": "Suggest queries show the same scare",
+      "replacement": "Parents ask the same question"
+    }
+  ],
+  "sourceAttributionCorrection": {
+    "slug": "should-you-wake-a-baby-from-a-nap",
+    "from": "Health Canada",
+    "to": "HealthyChildren.org (AAP)",
+    "verifiedUrl": "https://www.healthychildren.org/English/tips-tools/ask-the-pediatrician/Pages/How-much-formula-does-my-baby-need.aspx"
+  },
+  "newSourceUrls": [
+    "https://www.nhsinform.scot/healthy-living/immunisation/why-immunise/what-to-expect-after-immunisation-babies-and-children-up-to-3-years-4-months/",
+    "https://www.lullabytrust.org.uk/baby-safety/infection-and-illness/vaccinations-and-sids/"
+  ],
+  "safetyQualifierClarifications": {
+    "changes": [
+      {
+        "slug": "baby-sleeping-on-stomach",
+        "old": "and can roll, the rule",
+        "new": "and can roll both ways, the rule"
+      },
+      {
+        "slug": "4-month-old-sleep-schedule",
+        "old": "and can roll, the rule",
+        "new": "and can roll both ways, the rule"
+      },
+      {
+        "slug": "baby-sleeping-on-stomach",
+        "old": "If they can roll and they get themselves",
+        "new": "If they can roll both ways and they get themselves"
+      }
+    ],
+    "source": "https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/a-parents-guide-to-safe-sleep.aspx",
+    "reason": "Keep the both-directions rolling qualifier consistent with the existing safe-sleep guidance."
+  }
+}

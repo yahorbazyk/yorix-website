@@ -70,6 +70,9 @@ Ask for the safe-sleep basics even if the clock is different. You can return to 
 **Daycare dropped the nap at 18 months or 2 years, and nights are a mess.**
 This page is the "two rooms, one child" discussion. Whether they are actually ready to stop napping belongs on [when do toddlers stop napping](/when-do-toddlers-stop-napping).
 
+**What if grandparents or a nanny wreck the schedule?**
+Two rooms, one baby: the same idea as a daycare day that does not match home. Keep safe-sleep rules in every house (back, firm, flat, clear). A slightly different nap day is usually recoverable with the usual wind-down; it is not a new official problem.
+
 ## See how daycare days change the night (Yorix)
 
 **Yorix** can show whether naps at care are shorter than naps at home, and whether bedtime moved in response. The app cannot set a classroom schedule and is not a medical device.

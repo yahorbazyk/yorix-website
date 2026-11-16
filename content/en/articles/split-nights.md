@@ -150,6 +150,9 @@ Yes. Practicing crawling or standing can disrupt a night. Give plenty of practic
 **Why does my baby wake up at 4am?**
 Four a.m. is often still night, not the start of the day. Treat it as a boring night waking first. This page covers a long stretch awake in the middle of the night. If 4–5 a.m. has become their morning, see [early morning waking](/early-morning-waking). The dedicated clock-time page is [why does my baby wake up at 4am](/why-does-my-baby-wake-up-at-4am).
 
+**Why does my baby wake up at 2 a.m. or 3 a.m.?**
+There is no official 2 a.m. or 3 a.m. event. A waking in the middle of the night is usually a night waking or a [split night](/split-nights) — a long stretch of being awake between two sleeps — not a separate diagnosis. If the clock is closer to morning, [why does my baby wake up at 4am](/why-does-my-baby-wake-up-at-4am) and [early morning waking](/early-morning-waking) are the closer pages. For getting through the night as a parent, see [survive night wakings](/survive-night-wakings-new-parents).
+
 ## See the hours in bed at a glance (Yorix)
 
 **Yorix** shows naps, bedtime, and night wakings on one daily timeline and recalculates the next sleep window after each nap, so you can see how many hours your baby is spending in bed and whether a later bedtime closes the 2 a.m. gap. It is a support for tired parents, not a medical device and not a diagnosis.

@@ -103,6 +103,8 @@ Some parent sites, including Raising Children Network, describe a **feed, play, 
 
 Newborns on this page are **not** ready for a fixed three-step law. They need frequent feeds, including at night, and they often fall asleep at the breast or bottle — that is ordinary, not a failed routine. If a popular graphic tells you to “never feed to sleep” in week one, ignore the graphic and stay with the flexible day already sketched above. For a later bedtime pattern, see [bedtime routine for baby](/bedtime-routine-for-baby). For frequent evening feeds, see [cluster feeding](/cluster-feeding).
 
+For a closer look at this flexible pattern, see [eat, play, sleep](/eat-play-sleep).
+
 ## Helping your newborn tell day from night
 
 You can't speed up the body clock, but you can give it clear signals. NHS advice:

@@ -10,7 +10,7 @@
     "category": "Sleep schedules by month",
     "published": "2026-09-03",
     "updated": "2026-11-16",
-    "readTime": "9 min read",
+    "readTime": "10 min read",
     "replaces": true
   },
   {
@@ -38,7 +38,7 @@
     "category": "Sleep schedules by month",
     "published": "2026-09-03",
     "updated": "2026-11-16",
-    "readTime": "12 min read",
+    "readTime": "13 min read",
     "replaces": true
   },
   {
@@ -276,7 +276,7 @@
     "category": "Sleep schedules by month",
     "published": "2026-11-15",
     "updated": "2026-11-16",
-    "readTime": "9 min read",
+    "readTime": "10 min read",
     "replaces": false
   },
   {
@@ -290,7 +290,7 @@
     "category": "Sleep schedules by month",
     "published": "2026-11-15",
     "updated": "2026-11-16",
-    "readTime": "8 min read",
+    "readTime": "9 min read",
     "replaces": false
   },
   {
@@ -500,7 +500,7 @@
     "category": "Sleep regressions",
     "published": "2026-11-15",
     "updated": "2026-11-16",
-    "readTime": "10 min read",
+    "readTime": "11 min read",
     "replaces": false
   },
   {
@@ -695,7 +695,7 @@
     "description": "When can babies start eating food? The 4–6 month rule, readiness signs, first purees, infant cereal and rice arsenic, a first-weeks plan, and what to avoid.",
     "category": "Development & feeding",
     "published": "2026-11-15",
-    "updated": "2026-11-15",
+    "updated": "2026-11-16",
     "readTime": "10 min read",
     "replaces": false
   },
@@ -878,7 +878,7 @@
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
     "updated": "2026-11-16",
-    "readTime": "7 min read",
+    "readTime": "8 min read",
     "replaces": false
   },
   {
@@ -934,7 +934,7 @@
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
     "updated": "2026-11-16",
-    "readTime": "6 min read",
+    "readTime": "7 min read",
     "replaces": false
   },
   {
@@ -1074,7 +1074,7 @@
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
     "updated": "2026-11-16",
-    "readTime": "9 min read",
+    "readTime": "10 min read",
     "replaces": false
   },
   {
@@ -1172,7 +1172,7 @@
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
     "updated": "2026-11-16",
-    "readTime": "8 min read",
+    "readTime": "9 min read",
     "replaces": false
   },
   {
@@ -1256,7 +1256,7 @@
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
     "updated": "2026-11-16",
-    "readTime": "6 min read",
+    "readTime": "7 min read",
     "replaces": false
   },
   {
@@ -1284,7 +1284,7 @@
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
     "updated": "2026-11-16",
-    "readTime": "7 min read",
+    "readTime": "8 min read",
     "replaces": false
   },
   {
@@ -1312,7 +1312,7 @@
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
     "updated": "2026-11-16",
-    "readTime": "8 min read",
+    "readTime": "9 min read",
     "replaces": false
   },
   {
@@ -1732,7 +1732,7 @@
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
     "updated": "2026-11-16",
-    "readTime": "4 min read",
+    "readTime": "5 min read",
     "replaces": false
   },
   {
@@ -1901,6 +1901,160 @@
     "published": "2026-11-16",
     "updated": "2026-11-16",
     "readTime": "3 min read",
+    "replaces": false
+  },
+  {
+    "slug": "baby-sleeping-with-eyes-open",
+    "path": "/baby-sleeping-with-eyes-open",
+    "canonical": "https://yorix-app.com/baby-sleeping-with-eyes-open",
+    "kind": "article",
+    "title": "Baby Sleeping With Eyes Open: Is It Normal? | Yorix",
+    "heading": "Baby Sleeping With Eyes Open: Usually Active Sleep, Not a Trick",
+    "description": "Babies may sleep with eyes slightly open in active sleep. What parent-facing sources say, when red or dry eyes are a reason to call, and what not to do.",
+    "category": "Sleep problems & methods",
+    "published": "2026-11-16",
+    "updated": "2026-11-16",
+    "readTime": "5 min read",
+    "replaces": false
+  },
+  {
+    "slug": "baby-sweating-in-sleep",
+    "path": "/baby-sweating-in-sleep",
+    "canonical": "https://yorix-app.com/baby-sweating-in-sleep",
+    "kind": "article",
+    "title": "Baby Sweating in Sleep: What's Normal | Yorix",
+    "heading": "Baby Sweating in Sleep: Check the Chest, Not Only the Hair",
+    "description": "A sweaty head can be ordinary or a sign of overheating. What AAP and KidsHealth say to check, when soaking nights need a call, and what stays out of the crib.",
+    "category": "Sleep problems & methods",
+    "published": "2026-11-16",
+    "updated": "2026-11-16",
+    "readTime": "5 min read",
+    "replaces": false
+  },
+  {
+    "slug": "eat-play-sleep",
+    "path": "/eat-play-sleep",
+    "canonical": "https://yorix-app.com/eat-play-sleep",
+    "kind": "article",
+    "title": "Eat Play Sleep: What It Is and What It Isn't | Yorix",
+    "heading": "Eat Play Sleep: A Popular Pattern, Not an Official AAP Schedule",
+    "description": "Eat-play-sleep is a popular pattern, not an official AAP schedule. How it differs from play-eat-sleep, and why newborns still need night feeds.",
+    "category": "Sleep problems & methods",
+    "published": "2026-11-16",
+    "updated": "2026-11-16",
+    "readTime": "4 min read",
+    "replaces": false
+  },
+  {
+    "slug": "is-sleep-training-harmful",
+    "path": "/is-sleep-training-harmful",
+    "canonical": "https://yorix-app.com/is-sleep-training-harmful",
+    "kind": "article",
+    "title": "Is Sleep Training Harmful? What Research Shows | Yorix",
+    "heading": "Is Sleep Training Harmful? What the Trials Show — and What They Don't",
+    "description": "What Pediatrics trials say about infant sleep training, stress, and attachment — and what those studies do not prove. Not a methods or dosing guide.",
+    "category": "Sleep problems & methods",
+    "published": "2026-11-16",
+    "updated": "2026-11-16",
+    "readTime": "5 min read",
+    "replaces": false
+  },
+  {
+    "slug": "potty-training-and-sleep",
+    "path": "/potty-training-and-sleep",
+    "canonical": "https://yorix-app.com/potty-training-and-sleep",
+    "kind": "article",
+    "title": "Potty Training and Sleep: Nights Stay Separate | Yorix",
+    "heading": "Potty Training and Sleep: Night Dryness Is a Later Skill",
+    "description": "Night dryness usually comes later than daytime potty training. Why night wetting is not a sleep-training failure, and how the crib-to-bed move stays separate.",
+    "category": "Sleep problems & methods",
+    "published": "2026-11-16",
+    "updated": "2026-11-16",
+    "readTime": "5 min read",
+    "replaces": false
+  },
+  {
+    "slug": "screens-and-toddler-sleep",
+    "path": "/screens-and-toddler-sleep",
+    "canonical": "https://yorix-app.com/screens-and-toddler-sleep",
+    "kind": "article",
+    "title": "Screens and Toddler Sleep: Bedtime Without TV | Yorix",
+    "heading": "Screens and Toddler Sleep: Keep the Bedroom and the Wind-Down Clear",
+    "description": "What AAP guidance says about screens near bedtime, keeping devices out of the bedroom, and why this is not a general screen-time lecture.",
+    "category": "Sleep problems & methods",
+    "published": "2026-11-16",
+    "updated": "2026-11-16",
+    "readTime": "6 min read",
+    "replaces": false
+  },
+  {
+    "slug": "should-you-wake-a-baby-from-a-nap",
+    "path": "/should-you-wake-a-baby-from-a-nap",
+    "canonical": "https://yorix-app.com/should-you-wake-a-baby-from-a-nap",
+    "kind": "article",
+    "title": "Should You Wake a Baby From a Nap? | Yorix",
+    "heading": "Should You Wake a Baby From a Nap? Daytime Caps Are Not Night Feeds",
+    "description": "Capping a long daytime nap is different from waking a newborn to feed. When families try it, what sources do not specify, and when not to wake them.",
+    "category": "Sleep problems & methods",
+    "published": "2026-11-16",
+    "updated": "2026-11-16",
+    "readTime": "5 min read",
+    "replaces": false
+  },
+  {
+    "slug": "startle-reflex-and-sleep",
+    "path": "/startle-reflex-and-sleep",
+    "canonical": "https://yorix-app.com/startle-reflex-and-sleep",
+    "kind": "article",
+    "title": "Startle Reflex and Sleep: Why It Wakes Babies | Yorix",
+    "heading": "Startle Reflex and Sleep: A Wake-Up, Not a Training Problem",
+    "description": "The Moro or startle reflex can wake a baby on transfer to the crib. Sources disagree on when it fades, and you still stop swaddling once rolling starts.",
+    "category": "Sleep problems & methods",
+    "published": "2026-11-16",
+    "updated": "2026-11-16",
+    "readTime": "5 min read",
+    "replaces": false
+  },
+  {
+    "slug": "toddler-sleep-after-a-new-baby",
+    "path": "/toddler-sleep-after-a-new-baby",
+    "canonical": "https://yorix-app.com/toddler-sleep-after-a-new-baby",
+    "kind": "article",
+    "title": "Toddler Sleep After a New Baby | Yorix",
+    "heading": "Toddler Sleep After a New Baby: Expect Disruption, Not a Named Regression",
+    "description": "A new sibling can unsettle an older child's bedtime. There is no official 'new baby regression.' What to keep consistent, and how two bedtimes can coexist.",
+    "category": "Sleep problems & methods",
+    "published": "2026-11-16",
+    "updated": "2026-11-16",
+    "readTime": "5 min read",
+    "replaces": false
+  },
+  {
+    "slug": "what-time-should-baby-go-to-bed",
+    "path": "/what-time-should-baby-go-to-bed",
+    "canonical": "https://yorix-app.com/what-time-should-baby-go-to-bed",
+    "kind": "article",
+    "title": "What Time Should a Baby Go to Bed? | Yorix",
+    "heading": "What Time Should a Baby Go to Bed? There Is No Official Clock",
+    "description": "There is no official AAP bedtime clock. How 24-hour sleep bands and a consistent wind-down matter more, with links to the right age schedule.",
+    "category": "Sleep problems & methods",
+    "published": "2026-11-16",
+    "updated": "2026-11-16",
+    "readTime": "4 min read",
+    "replaces": false
+  },
+  {
+    "slug": "why-does-my-baby-fight-sleep",
+    "path": "/why-does-my-baby-fight-sleep",
+    "canonical": "https://yorix-app.com/why-does-my-baby-fight-sleep",
+    "kind": "article",
+    "title": "Why Does My Baby Fight Sleep? | Yorix",
+    "heading": "Why Does My Baby Fight Sleep? A Triage, Not a New Regression",
+    "description": "Fighting sleep often means wired-and-tired, or not tired enough. How to tell the difference, what is not a 'fighting sleep regression,' and when to call.",
+    "category": "Sleep problems & methods",
+    "published": "2026-11-16",
+    "updated": "2026-11-16",
+    "readTime": "4 min read",
     "replaces": false
   }
 ]

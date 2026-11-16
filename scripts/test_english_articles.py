@@ -27,11 +27,11 @@ class EnglishArticlesTests(unittest.TestCase):
         self.assertEqual(self.catalog, [{k: v for k, v in a.items() if k not in ('body', 'schema')} for a in expected])
 
     def test_counts_and_english_only_scope(self):
-        self.assertEqual(len(self.articles), 136)
-        self.assertEqual(sum(a['kind'] == 'article' for a in self.articles), 135)
+        self.assertEqual(len(self.articles), 147)
+        self.assertEqual(sum(a['kind'] == 'article' for a in self.articles), 146)
         self.assertEqual(sum(a['kind'] == 'hub' for a in self.articles), 1)
         self.assertEqual(sum(a['replaces'] for a in self.articles), 12)
-        self.assertEqual(len({a['path'] for a in self.articles}), 136)
+        self.assertEqual(len({a['path'] for a in self.articles}), 147)
         self.assertEqual(sum(a['path'].startswith('/sleep-regression/') for a in self.articles), 7)
 
     def test_dates_hidden_notes_and_schema(self):
@@ -128,7 +128,7 @@ class EnglishArticlesTests(unittest.TestCase):
         self.assertEqual(first, (ROOT / 'public/sitemap-pages.xml').read_bytes())
         tree = ET.fromstring(first)
         urls = {u.find('s:loc', ns).text: u.find('s:lastmod', ns) for u in tree}
-        self.assertEqual(len(urls), 496)
+        self.assertEqual(len(urls), 507)
         for url in urls:
             self.assertNotIn(url.rsplit('/', 1)[-1], prepare.MERGES)
         for a in self.articles:
@@ -157,6 +157,28 @@ class EnglishArticlesTests(unittest.TestCase):
         for insertion in pilot['approvedFaqInsertions']:
             for question in insertion['questions']:
                 self.assertEqual(articles['/' + insertion['slug']]['body'].count('**' + question + '**'), 1)
+
+    def test_phase_five_scope_inbound_links_and_source_correction(self):
+        release = json.loads((ROOT / 'content/en/releases/phase-5/summary.json').read_text())
+        articles = {a['slug']: a for a in self.articles}
+        self.assertEqual(len(release['newSlugs']), 11)
+        for insertion in release['approvedInsertions']:
+            body = articles[insertion['slug']]['body']
+            for question in insertion['questions']:
+                self.assertEqual(body.count('**' + question + '**'), 1, (insertion['slug'], question))
+        for source, targets in release['inboundRequirements'].items():
+            links = re.findall(r'\]\((/[^)]+)\)', articles[source.lstrip('/')]['body'])
+            for target in targets:
+                if target.split('#')[0] != source:
+                    self.assertTrue(any(link.split('#')[0] == target.split('#')[0] for link in links), (source, target))
+        nap = articles['should-you-wake-a-baby-from-a-nap']['body']
+        self.assertNotIn('Health Canada', nap)
+        self.assertIn(release['sourceAttributionCorrection']['verifiedUrl'], nap)
+        for slug in ['baby-sleeping-on-stomach', '4-month-old-sleep-schedule']:
+            body = articles[slug]['body']
+            question = '**Can a 4 month old sleep on their stomach if they roll over?**'
+            answer = body.split(question, 1)[1].split('\n\n', 1)[0]
+            self.assertIn('both ways', answer)
 
 
 if __name__ == '__main__':

@@ -78,6 +78,10 @@ The repeatable evening plan on this page is the same. The month view changes. Us
 
 ## Related reading
 
+- [Screens and Toddler Sleep: Keep the Bedroom and the Wind-Down Clear](/screens-and-toddler-sleep)
+- [Toddler Sleep After a New Baby: Expect Disruption, Not a Named Regression](/toddler-sleep-after-a-new-baby)
+- [Why Does My Baby Fight Sleep? A Triage, Not a New Regression](/why-does-my-baby-fight-sleep)
+
 - [4 Year Old Sleep Schedule: The Preschool Day, With or Without a Nap](/4-year-old-sleep-schedule)
 - [Sleep After Separation or Divorce: Two Homes, One Predictable Night](/sleep-after-separation-or-divorce)
 

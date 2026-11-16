@@ -98,6 +98,12 @@ Yes. The AAP still encourages offering a pacifier at sleep as a SIDS-risk reduce
 **Will this fix short naps?**  
 Sometimes, if the nap ends because they cannot link [cycles](/baby-sleep-cycles) without help. Sometimes the nap is just short. See [short naps](/short-naps).
 
+**Why does my 4 month old (or older baby) wake when put down?**
+That is the transfer problem already described on [baby won't sleep in crib](/baby-wont-sleep-in-crib) and [sleep associations](/sleep-associations). A startle on the way down can add to it — see [startle reflex and sleep](/startle-reflex-and-sleep).
+
+**What if “drowsy but awake” does not work?**
+It is a popular phrase, not an official AAP protocol, and it does not work for every baby or every night. If they cry as soon as they hit the mattress, you are in [sleep associations](/sleep-associations) and [baby won't sleep in crib](/baby-wont-sleep-in-crib) territory. If you are considering a formal plan, see [when to start sleep training](/when-to-start-sleep-training) and [is sleep training harmful](/is-sleep-training-harmful).
+
 ## See what actually happens at sleep onset (Yorix)
 
 **Yorix** can record how a nap or night started (for example, a short note that you rocked to sleep), which makes a pattern easier to discuss. The app cannot change an association for you and is not a medical device.
