@@ -47,6 +47,12 @@ Travel days and the clock change are separate: [baby sleep and travel](/baby-sle
 
 Ask the program if sleep practice there does not match back-to-sleep, a flat crib, or a clear sleep space. Ask the pediatrician if total sleep is regularly short and your child is struggling, if you are unsure whether a remaining day nap should be kept, or if snoring or pauses worry you.
 
+## When a grandparent, babysitter, or other carer has the baby
+
+The same two-environment problem this page already describes at daycare also happens in a relative’s house. Lullaby Trust and Red Nose both publish safer-sleep advice for other carers: everyone who puts the baby down should know **back, firm and flat, clear space, no smoke**, and that sofas and armchairs are not beds. Write it down if that helps. A babysitter does not need a second set of rules.
+
+If the routine falls apart at a grandparent’s house (late nights, a different crib, extra holding), keep your home pattern on the days you have, and ask for the safe-sleep basics even when the schedule slips. Caring for Kids and CFOC material already used on this page still apply in child care; for a one-off evening, the [safe sleep](/safe-sleep-for-babies) list is enough.
+
 ## Frequently asked questions
 
 **Why won't my baby nap at daycare?**  
@@ -57,6 +63,9 @@ Only if your baby's days and nights actually support the drop. Follow the transi
 
 **Is a "daycare sleep regression" real?**  
 The phrase is popular. The useful idea is a context change, not a new developmental stage we have given its own month.
+
+**What if grandparents will not follow our bedtime?**  
+Ask for the safe-sleep basics even if the clock is different. You can return to your usual routine at home. This page is about two environments, not a family argument we can referee.
 
 ## See how daycare days change the night (Yorix)
 
@@ -80,6 +89,9 @@ All pages below were opened and checked on 15 November 2026.
 1. Child Care Technical Assistance Network. *Caring for Our Children* Basics, "3.1.4.1 Safe Sleep Practices and Sudden Unexpected Infant Death Risk Reduction." Accessed 15 November 2026. Written policies; pre-service training; follow AAP 2022: back to sleep, firm flat non-inclined surface, tight fitted sheet. <https://childcareta.acf.hhs.gov/cfoc/basic/chapter/3/3.1.4.1>.
 2. Moon RY, et al. AAP 2022 safe-sleep policy. The same back, bare, flat rules apply for every sleep, including in the care of non-parent caregivers. <https://publications.aap.org/pediatrics/article/150/1/e2022057990/188304/Sleep-Related-Infant-Deaths-Updated-2022>.
 3. Paruthi S, et al. AASM pediatric sleep-duration consensus, 2016. Age totals do not change because a baby is at daycare; used by reference via our how-much-sleep page.
+
+4. [The Lullaby Trust. Safer sleep in childcare: checklist for families.](https://www.lullabytrust.org.uk/baby-safety/being-a-parent-or-caregiver/safer-sleep-in-childcare-checklist-for-families/)
+
 
 ```json
 {

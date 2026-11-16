@@ -70,6 +70,8 @@ If this regularly lasts an hour, shorten it. Sleep Foundation warns that a drawn
 
 It will not, by itself, fix [hourly waking](/baby-waking-every-hour), [false starts](/false-starts), or a bedtime that is two hours too late. It works with [age-appropriate totals](/how-much-sleep-does-a-baby-need), a safe crib, and, if you choose, a settling method you have already read about. It is also not a failure if you skip the bath when you get home late. Do the last two or three steps and start again tomorrow.
 
+A popular daytime slogan, **eat–play–sleep** (or feed–play–sleep), is the same idea in a different order of the day: a flexible, cue-led pattern, not a rigid law, and not a newborn schedule. The longer caveat lives on [newborn sleep schedule](/newborn-sleep-schedule).
+
 ## When to talk to your pediatrician
 
 If bedtime is a nightly battle despite a consistent, short routine, or if your baby seems in pain, has noisy breathing, or cannot settle in a way that feels new and extreme, ask for help. A routine is a habit, not a treatment for illness or a medical sleep disorder.
@@ -96,6 +98,12 @@ Yes, and that is one of its strengths. A book and the same song still work in a 
 **Yorix** can show you when the last nap ended and when night sleep actually started, which makes it obvious if the "routine" is starting so late that your baby is already overtired. You can also log the night itself to see whether a slightly earlier start helped. It is a support for tired parents, not a medical device and not a diagnosis.
 
 ## Related reading
+
+- [4 Year Old Sleep Schedule: The Preschool Day, With or Without a Nap](/4-year-old-sleep-schedule)
+- [Cluster Feeding: Not Reverse Cycling, Not a Witching-Hour Diagnosis](/cluster-feeding)
+- [Melatonin and Children's Sleep: Not a Do-It-Yourself Sleeping Pill](/melatonin-and-childrens-sleep)
+- [Responsive Settling: Help That Can Fade, Not a Second Methods Table](/responsive-settling)
+- [Sleep After Separation or Divorce: Two Homes, One Predictable Night](/sleep-after-separation-or-divorce)
 
 - [Baby Sleep Cues: How to Read Sleepy Signs](/baby-sleep-cues)
 - [Crib to Toddler Bed: When and How to Switch](/crib-to-toddler-bed)

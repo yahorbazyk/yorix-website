@@ -27,9 +27,9 @@ class EnglishArticlesTests(unittest.TestCase):
         self.assertEqual(self.catalog, [{k: v for k, v in a.items() if k not in ('body', 'schema')} for a in expected])
 
     def test_counts_and_english_only_scope(self):
-        self.assertEqual(len(self.articles), 106)
+        self.assertEqual(len(self.articles), 114)
         self.assertEqual(sum(a['replaces'] for a in self.articles), 12)
-        self.assertEqual(len({a['path'] for a in self.articles}), 106)
+        self.assertEqual(len({a['path'] for a in self.articles}), 114)
         self.assertEqual(sum(a['path'].startswith('/sleep-regression/') for a in self.articles), 7)
 
     def test_dates_hidden_notes_and_schema(self):
@@ -71,6 +71,22 @@ class EnglishArticlesTests(unittest.TestCase):
                 if target.split('#')[0] != source:
                     self.assertTrue(any(link.split('#')[0] == target.split('#')[0] for link in links), (source, target))
 
+    def test_phase_two_scope_insertions_and_inbound_requirements(self):
+        release = json.loads((ROOT / 'content/en/releases/phase-2/summary.json').read_text())
+        articles = {a['path']: a for a in self.articles}
+        self.assertEqual(len(release['newSlugs']), 8)
+        self.assertEqual(len(release['approvedInsertions']), 33)
+        for insertion in release['approvedInsertions']:
+            self.assertIn(insertion['heading'], articles['/' + insertion['slug']]['body'])
+        for source, targets in release['inboundRequirements'].items():
+            links = re.findall(r'\]\((/[^)]+)\)', articles[source]['body'])
+            for target in targets:
+                if target.split('#')[0] != source:
+                    self.assertTrue(any(link.split('#')[0] == target.split('#')[0] for link in links), (source, target))
+        for a in self.articles:
+            for note in release['editorialRouteNotesRemoved']:
+                self.assertNotIn(note.strip(), a['body'])
+
     def test_cross_article_heading_anchors(self):
         articles = {a['path']: a for a in self.articles}
         for a in self.articles:
@@ -89,7 +105,7 @@ class EnglishArticlesTests(unittest.TestCase):
         self.assertEqual(first, (ROOT / 'public/sitemap-pages.xml').read_bytes())
         tree = ET.fromstring(first)
         urls = {u.find('s:loc', ns).text: u.find('s:lastmod', ns) for u in tree}
-        self.assertEqual(len(urls), 466)
+        self.assertEqual(len(urls), 474)
         for url in urls:
             self.assertNotIn(url.rsplit('/', 1)[-1], prepare.MERGES)
         for a in self.articles:

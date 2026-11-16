@@ -81,6 +81,8 @@ That preference is common in this phase (HealthyChildren). It is inconvenient, n
 
 ## Related reading
 
+- [Sleep After Separation or Divorce: Two Homes, One Predictable Night](/sleep-after-separation-or-divorce)
+
 - [Self-Soothing: A Skill That Grows, Not a Method](/self-soothing)
 - [Toddler Won't Stay in Bed: After Lights Out](/toddler-wont-stay-in-bed)
 

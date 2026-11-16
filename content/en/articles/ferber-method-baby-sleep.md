@@ -145,6 +145,8 @@ No. Cry it out has no check-ins; Ferber adds timed reassurance visits (Cleveland
 
 ## Related reading
 
+- [Responsive Settling: Help That Can Fade, Not a Second Methods Table](/responsive-settling)
+
 - [Gentle Sleep Training: Chair, Fading, and Pick Up / Put Down](/gentle-sleep-training)
 - [Self-Soothing: A Skill That Grows, Not a Method](/self-soothing)
 

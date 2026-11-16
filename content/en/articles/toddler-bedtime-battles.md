@@ -75,6 +75,9 @@ That is the stay-in-bed problem. Walk them back calmly if they have a bed they c
 
 ## Related reading
 
+- [4 Year Old Sleep Schedule: The Preschool Day, With or Without a Nap](/4-year-old-sleep-schedule)
+- [Sleep After Separation or Divorce: Two Homes, One Predictable Night](/sleep-after-separation-or-divorce)
+
 - [Toddler Won't Stay in Bed: After Lights Out](/toddler-wont-stay-in-bed)
 
 - [2-year sleep regression](/sleep-regression/2-years)

@@ -50,6 +50,18 @@ From Moon's HealthyChildren.org article, in our own words:
 
 We are not recommending menthol rubs, honey (not for children under 1 year), or over-the-counter cold medicines unless a clinician has told you to use a specific product. Those are easy places to go wrong, and they are not in Moon's safe-sleep-and-congestion advice.
 
+## Still on the back — not on the side, not sitting up
+
+The same HealthyChildren.org congestion article already behind “Why propping them up backfires” also rules out the other popular workarounds. A stuffy baby still starts every sleep **on the back**, on a **firm, flat** surface, in an approved crib, bassinet, bedside sleeper, or play yard. Side-sleeping or tummy-sleeping is not a congestion remedy — see [baby sleeping on the stomach](/baby-sleeping-on-stomach). Sitting them up in a swing, car seat, or bouncer so they “can breathe” is the same airway problem as an incline. If they doze in a seat, move them to a dedicated sleep space when you can.
+
+## Eczema or itchy skin at night
+
+Itchy skin can wreck a night. That is a reason to ask the pediatrician for an eczema plan (moisturizer, medicine they name, nails trimmed), not a reason to add loose blankets, pillows, or a nest of towels to the crib. The safe-sleep rules on this page do not change because a baby is scratching. Do not invent a home treatment here.
+
+## After vaccinations
+
+Some babies are sleepier, fussier, or warmer after routine immunizations (Lullaby Trust; NHS advice on what to expect). **Dress them for the room; do not add extra wraps or blankets “because they had a jab.”** Vaccinations do not cause SIDS — that myth is answered on [safe sleep](/safe-sleep-for-babies). If a fever worries you, or the baby is unusually hard to rouse, follow the “When to get help” section below and your pediatrician’s advice.
+
 ## When to get help
 
 **Call 911 if your baby:**
@@ -108,6 +120,11 @@ All pages below were opened and checked on 15 November 2026.
 2. HealthyChildren.org (AAP). "Why Inclined Sleepers, Crib Bumpers, and Other Products Are Bad for Baby." Inclines over 10 degrees; sitting devices are not for sleep.
 3. Moon RY, et al. 2022 AAP policy, *Pediatrics*. Still back-sleeping for babies with GERD except in rare clinician-directed cases.
 4. U.S. Consumer Product Safety Commission / Safe Sleep for Babies Act (2022), as summarized in the HealthyChildren.org articles above.
+
+
+5. [HealthyChildren.org (AAP), Rachel Moon, MD, FAAP. “My baby has a stuffy nose. How can I help them sleep safely?” Already the source for the congestion sections on this page; use it also for “no side-sleep, no sitting up.”](https://www.healthychildren.org/English/tips-tools/ask-the-pediatrician/Pages/my-baby-has-a-stuffy-nose-how-can-I-help-them-sleep-safely.aspx)
+
+6. [The Lullaby Trust. “Vaccinations and SIDS.” After vaccinations some babies are irritable or may have a fever; dress for the environment, do not wrap more than usual.](https://www.lullabytrust.org.uk/baby-safety/infection-and-illness/vaccinations-and-sids/)
 
 
 ```json

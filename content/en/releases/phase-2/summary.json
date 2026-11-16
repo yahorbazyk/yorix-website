@@ -1,0 +1,440 @@
+{
+  "phase": 2,
+  "candidateDate": "2026-11-16",
+  "newSlugs": [
+    "4-year-old-sleep-schedule",
+    "autism-and-sleep",
+    "baby-head-banging-and-body-rocking",
+    "cluster-feeding",
+    "melatonin-and-childrens-sleep",
+    "responsive-settling",
+    "sleep-after-separation-or-divorce",
+    "teeth-grinding-in-sleep"
+  ],
+  "modifiedExistingFiles": [
+    "18-month-old-sleep-schedule.md",
+    "2-year-old-sleep-schedule.md",
+    "3-year-old-sleep-schedule.md",
+    "5-s-soothing-a-crying-baby.md",
+    "baby-sleep-and-travel.md",
+    "baby-sleep-cues.md",
+    "baby-sleep-cycles.md",
+    "baby-sleeping-on-stomach.md",
+    "baby-snoring-and-mouth-breathing.md",
+    "baby-twitching-in-sleep.md",
+    "bed-sharing-and-co-sleeping.md",
+    "bedtime-routine-for-baby.md",
+    "crib-to-toddler-bed.md",
+    "cry-it-out-method.md",
+    "daycare-and-baby-sleep.md",
+    "fear-of-the-dark.md",
+    "ferber-method-baby-sleep.md",
+    "gentle-sleep-training.md",
+    "how-much-sleep-does-a-baby-need.md",
+    "how-to-dress-baby-for-sleep.md",
+    "how-to-swaddle-a-baby.md",
+    "newborn-grunting-in-sleep.md",
+    "newborn-sleep-schedule.md",
+    "night-lights-and-baby-sleep.md",
+    "night-terrors.md",
+    "night-weaning.md",
+    "nursing-to-sleep.md",
+    "pacifier-and-sleep.md",
+    "preemie-sleep.md",
+    "reflux-and-baby-sleep.md",
+    "reverse-cycling.md",
+    "safe-sleep-for-babies.md",
+    "self-soothing.md",
+    "separation-anxiety-and-sleep.md",
+    "siblings-sharing-a-room.md",
+    "sick-baby-sleep.md",
+    "sleep-associations.md",
+    "sleep-regression.md",
+    "sleep-sacks.md",
+    "sleep-training-methods-explained.md",
+    "teething-symptoms.md",
+    "toddler-bedtime-battles.md",
+    "toddler-wont-stay-in-bed.md",
+    "tummy-time.md",
+    "when-do-toddlers-stop-napping.md",
+    "when-to-move-baby-to-crib.md",
+    "when-to-start-sleep-training.md",
+    "why-wont-my-baby-sleep.md",
+    "witching-hour.md"
+  ],
+  "inboundRequirements": {
+    "/18-month-old-sleep-schedule": [
+      "/4-year-old-sleep-schedule"
+    ],
+    "/2-year-old-sleep-schedule": [
+      "/4-year-old-sleep-schedule"
+    ],
+    "/3-year-old-sleep-schedule": [
+      "/4-year-old-sleep-schedule"
+    ],
+    "/5-s-soothing-a-crying-baby": [
+      "/responsive-settling"
+    ],
+    "/baby-sleep-cues": [
+      "/cluster-feeding",
+      "/responsive-settling"
+    ],
+    "/baby-sleep-cycles": [
+      "/baby-head-banging-and-body-rocking"
+    ],
+    "/baby-snoring-and-mouth-breathing": [
+      "/autism-and-sleep",
+      "/teeth-grinding-in-sleep"
+    ],
+    "/baby-twitching-in-sleep": [
+      "/baby-head-banging-and-body-rocking"
+    ],
+    "/bedtime-routine-for-baby": [
+      "/4-year-old-sleep-schedule",
+      "/cluster-feeding",
+      "/melatonin-and-childrens-sleep",
+      "/nursing-to-sleep",
+      "/responsive-settling",
+      "/sleep-after-separation-or-divorce"
+    ],
+    "/cry-it-out-method": [
+      "/ferber-method-baby-sleep",
+      "/responsive-settling"
+    ],
+    "/fear-of-the-dark": [
+      "/4-year-old-sleep-schedule",
+      "/sleep-after-separation-or-divorce"
+    ],
+    "/ferber-method-baby-sleep": [
+      "/responsive-settling"
+    ],
+    "/gentle-sleep-training": [
+      "/ferber-method-baby-sleep",
+      "/responsive-settling"
+    ],
+    "/how-much-sleep-does-a-baby-need": [
+      "/4-year-old-sleep-schedule",
+      "/melatonin-and-childrens-sleep"
+    ],
+    "/how-to-dress-baby-for-sleep": [
+      "/sleep-sacks"
+    ],
+    "/how-to-swaddle-a-baby": [
+      "/baby-sleep-cycles",
+      "/false-starts",
+      "/sleep-sacks"
+    ],
+    "/newborn-sleep-schedule": [
+      "/cluster-feeding"
+    ],
+    "/night-lights-and-baby-sleep": [
+      "/melatonin-and-childrens-sleep"
+    ],
+    "/night-terrors": [
+      "/baby-head-banging-and-body-rocking",
+      "/fear-of-the-dark",
+      "/teeth-grinding-in-sleep"
+    ],
+    "/night-weaning": [
+      "/cluster-feeding"
+    ],
+    "/nursing-to-sleep": [
+      "/cluster-feeding",
+      "/responsive-settling"
+    ],
+    "/reverse-cycling": [
+      "/cluster-feeding"
+    ],
+    "/safe-sleep-for-babies": [
+      "/newborn-grunting-in-sleep",
+      "/preemie-sleep"
+    ],
+    "/self-soothing": [
+      "/responsive-settling",
+      "/when-to-start-sleep-training"
+    ],
+    "/separation-anxiety-and-sleep": [
+      "/sleep-after-separation-or-divorce"
+    ],
+    "/siblings-sharing-a-room": [
+      "/sleep-after-separation-or-divorce"
+    ],
+    "/sleep-associations": [
+      "/cluster-feeding",
+      "/responsive-settling"
+    ],
+    "/sleep-regression": [
+      "/4-year-old-sleep-schedule"
+    ],
+    "/sleep-training-methods-explained": [
+      "/ferber-method-baby-sleep",
+      "/responsive-settling"
+    ],
+    "/teething-symptoms": [
+      "/teeth-grinding-in-sleep"
+    ],
+    "/toddler-bedtime-battles": [
+      "/4-year-old-sleep-schedule",
+      "/sleep-after-separation-or-divorce"
+    ],
+    "/toddler-wont-stay-in-bed": [
+      "/4-year-old-sleep-schedule",
+      "/sleep-after-separation-or-divorce"
+    ],
+    "/when-do-toddlers-stop-napping": [
+      "/4-year-old-sleep-schedule"
+    ],
+    "/when-to-start-sleep-training": [
+      "/responsive-settling",
+      "/self-soothing"
+    ],
+    "/why-wont-my-baby-sleep": [
+      "/autism-and-sleep",
+      "/baby-head-banging-and-body-rocking",
+      "/cluster-feeding",
+      "/melatonin-and-childrens-sleep"
+    ],
+    "/witching-hour": [
+      "/cluster-feeding"
+    ]
+  },
+  "addedRelatedLinks": 45,
+  "approvedInsertions": [
+    {
+      "slug": "safe-sleep-for-babies",
+      "at": "Other steps that lower risk",
+      "before": false,
+      "heading": "## Home apnea monitors and consumer “SIDS monitors”"
+    },
+    {
+      "slug": "tummy-time",
+      "at": "Tummy time and flat spots on the head",
+      "before": false,
+      "heading": "## What Caring for Kids adds (and one number that does not match the table above)"
+    },
+    {
+      "slug": "baby-sleeping-on-stomach",
+      "at": "Tummy time is still essential — while they are awake",
+      "before": false,
+      "heading": "For the sourced prevention steps (alternating the crib orientation, limiting long stretches in seats, and the Caring for Kids note that a flat spot does not affect brain development), see [tummy time](/tummy-time#tummy-time-and-flat-spots-on-the-head). Do not start nights on the tummy or side to “round out” a head."
+    },
+    {
+      "slug": "safe-sleep-for-babies",
+      "at": "Frequently asked questions",
+      "before": false,
+      "heading": "**Will back-sleeping flatten my baby’s head?**  "
+    },
+    {
+      "slug": "sick-baby-sleep",
+      "at": "What actually helps congestion",
+      "before": false,
+      "heading": "## Still on the back — not on the side, not sitting up"
+    },
+    {
+      "slug": "baby-sleep-cycles",
+      "at": "What active sleep looks like (and why it is not always a wake-up)",
+      "before": false,
+      "heading": "## Sleeping with eyes partly open"
+    },
+    {
+      "slug": "baby-sleep-cycles",
+      "at": "Frequently asked questions",
+      "before": false,
+      "heading": "**Is it normal for a baby to sleep with their eyes open?**  "
+    },
+    {
+      "slug": "how-to-dress-baby-for-sleep",
+      "at": "How to tell if your baby is too hot or too cold",
+      "before": false,
+      "heading": "## A sweaty head, and a fan in the room"
+    },
+    {
+      "slug": "sleep-sacks",
+      "at": "Frequently asked questions",
+      "before": false,
+      "heading": "**What TOG rating should I buy?**  "
+    },
+    {
+      "slug": "night-terrors",
+      "at": "Sleepwalking and sleep talking",
+      "before": false,
+      "heading": "## Nightmares — what to do when they wake"
+    },
+    {
+      "slug": "cry-it-out-method",
+      "at": "\"Fuss it out\": the middle ground",
+      "before": false,
+      "heading": "## “Controlled crying” and “controlled comforting” (UK and AU names)"
+    },
+    {
+      "slug": "sleep-training-methods-explained",
+      "at": "Sleep training methods at a glance",
+      "before": false,
+      "heading": "UK and AU leaflets may say **controlled crying** or **controlled comforting**. Treat those as names for a graduated-interval plan (this table’s extinction / Ferber family), not as a new row that needs its own URL. **Camping out** / “transition settling” stays with the chair method on [gentle sleep training](/gentle-sleep-training). Cue-led **responsive settling** has its own page and is not a third extinction method."
+    },
+    {
+      "slug": "newborn-sleep-schedule",
+      "at": "A flexible newborn day (example only)",
+      "before": false,
+      "heading": "## “Eat, play, sleep” — a flexible pattern, not a law"
+    },
+    {
+      "slug": "bedtime-routine-for-baby",
+      "at": "A routine is not a whole sleep plan",
+      "before": false,
+      "heading": "A popular daytime slogan, **eat–play–sleep** (or feed–play–sleep), is the same idea in a different order of the day: a flexible, cue-led pattern, not a rigid law, and not a newborn schedule. The longer caveat lives on [newborn sleep schedule](/newborn-sleep-schedule)."
+    },
+    {
+      "slug": "baby-snoring-and-mouth-breathing",
+      "at": "Snoring and sleep apnea — stay conservative",
+      "before": false,
+      "heading": "## If the pediatrician mentions a sleep study, or tonsils"
+    },
+    {
+      "slug": "how-to-swaddle-a-baby",
+      "at": "When to stop, and how to come out of the swaddle",
+      "before": false,
+      "heading": "## “Wrapping,” the startle (Moro), and arms-up sleep"
+    },
+    {
+      "slug": "self-soothing",
+      "at": "Frequently asked questions",
+      "before": false,
+      "heading": "**What does “drowsy but awake” mean?**  "
+    },
+    {
+      "slug": "crib-to-toddler-bed",
+      "at": "How to make the switch",
+      "before": false,
+      "heading": "## Bunk beds, bed rails, and why not to use a crib tent"
+    },
+    {
+      "slug": "when-to-move-baby-to-crib",
+      "at": "Why bassinets have a short lifespan",
+      "before": false,
+      "heading": "## Bedside sleepers, Moses baskets, and play yards"
+    },
+    {
+      "slug": "safe-sleep-for-babies",
+      "at": "A firm, flat, approved sleep surface",
+      "before": false,
+      "heading": "A bedside sleeper, Moses basket, or play yard can count only if it is a product intended for infant sleep, meets current standards, and is used with a firm, flat surface and a tight fitted sheet — details on [when to move baby to a crib](/when-to-move-baby-to-crib). In-bed sleepers, nests, and docks stay in the “do not use” group already on this page."
+    },
+    {
+      "slug": "baby-sleep-and-travel",
+      "at": "Hotels and rentals",
+      "before": false,
+      "heading": "## Camping, and very hot or cold nights away from home"
+    },
+    {
+      "slug": "daycare-and-baby-sleep",
+      "at": "Frequently asked questions",
+      "before": true,
+      "heading": "## When a grandparent, babysitter, or other carer has the baby"
+    },
+    {
+      "slug": "daycare-and-baby-sleep",
+      "at": "Frequently asked questions",
+      "before": false,
+      "heading": "**What if grandparents will not follow our bedtime?**  "
+    },
+    {
+      "slug": "reflux-and-baby-sleep",
+      "at": "The sleep rule does not change",
+      "before": false,
+      "heading": "## Arching, and the “they only sleep on their side” story"
+    },
+    {
+      "slug": "newborn-grunting-in-sleep",
+      "at": "How to check your baby's breathing at home",
+      "before": true,
+      "heading": "## Periodic breathing (a normal newborn pattern, not a home diagnosis)"
+    },
+    {
+      "slug": "safe-sleep-for-babies",
+      "at": "Home apnea monitors and consumer “SIDS monitors”",
+      "before": false,
+      "heading": "## Vaccinations do not cause SIDS"
+    },
+    {
+      "slug": "sleep-regression",
+      "at": "What helps at any age",
+      "before": false,
+      "heading": "## When a new sibling arrives"
+    },
+    {
+      "slug": "2-year-old-sleep-schedule",
+      "at": "Bedtime, not a battle plan",
+      "before": false,
+      "heading": "If a new baby has just arrived and nights have gone sideways, that wobble is covered on [sleep regression](/sleep-regression) — it is a context, not a new official schedule or a fourth regression age. The 11–14 hour total on this page does not change."
+    },
+    {
+      "slug": "siblings-sharing-a-room",
+      "at": "Making the share workable",
+      "before": false,
+      "heading": "If the share (or the protest) started because a new baby came home, see [sleep regression](/sleep-regression) for the older child’s wobble. This page stays about two children in one room."
+    },
+    {
+      "slug": "when-do-toddlers-stop-napping",
+      "at": "Frequently asked questions",
+      "before": false,
+      "heading": "**What is “quiet time” if they will not nap?**  "
+    },
+    {
+      "slug": "bed-sharing-and-co-sleeping",
+      "at": "First, get the words straight",
+      "before": false,
+      "heading": "## “Breastsleeping” and the “Safe Sleep Seven”"
+    },
+    {
+      "slug": "pacifier-and-sleep",
+      "at": "Why a pacifier at sleep time is in the safe-sleep list",
+      "before": false,
+      "heading": "## Thumb sucking at sleep time"
+    },
+    {
+      "slug": "preemie-sleep",
+      "at": "Safer sleep after a NICU stay",
+      "before": false,
+      "heading": "## Apnea of prematurity — a clinical issue, not a shopping problem"
+    }
+  ],
+  "sourceUrlsCheckedAtPaste": {
+    "baby-sleep-and-travel": [
+      [
+        "Red Nose Australia. Safe Sleep While Camping.",
+        "https://rednose.org.au/safe-sleep-and-safer-pregnancy/12-months-and-beyond/safe-sleep-while-camping/"
+      ],
+      [
+        "The Lullaby Trust. Safer sleep on holiday.",
+        "https://www.lullabytrust.org.uk/baby-safety/travel-and-weather/safer-sleep-on-holiday/"
+      ],
+      [
+        "The Lullaby Trust. Hot weather.",
+        "https://www.lullabytrust.org.uk/baby-safety/travel-and-weather/hot-weather/"
+      ],
+      [
+        "The Lullaby Trust. Cold weather.",
+        "https://www.lullabytrust.org.uk/baby-safety/travel-and-weather/cold-weather/"
+      ]
+    ],
+    "preemie-sleep": [
+      [
+        "HealthyChildren.org (AAP). Safe Sleep for Babies in the Neonatal Intensive Care Unit.",
+        "https://www.healthychildren.org/English/news/Pages/Safe-Sleep-for-Babies-in-the-Neonatal-Intensive-Care-Unit.aspx"
+      ]
+    ],
+    "daycare-and-baby-sleep": [
+      [
+        "The Lullaby Trust. Safer sleep in childcare: checklist for families.",
+        "https://www.lullabytrust.org.uk/baby-safety/being-a-parent-or-caregiver/safer-sleep-in-childcare-checklist-for-families/"
+      ]
+    ]
+  },
+  "editorialRouteNotesRemoved": [
+    "This is not a reason to invent `/grandparents-and-sleep`. ",
+    "Use this page’s how-to; do not keep a second wrapping URL.",
+    "If the child prefers a thumb, you do not need a second “thumb-sleep” URL. ",
+    " Do not build a separate `/quiet-time` URL."
+  ]
+}

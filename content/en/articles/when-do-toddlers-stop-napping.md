@@ -75,6 +75,9 @@ Common. Keep a consistent home bedtime and a quiet afternoon when you are in cha
 **Will they sleep less overall?**  
 They should not have to. Move the hours to night.
 
+**What is “quiet time” if they will not nap?**  
+It is the same afternoon slot, used for rest rather than sleep: books, puzzles, or a calm room, not a new show or a late car nap (Sleep Foundation; KidsHealth; already in “How to make the change” above). Some days they will still fall asleep; that is all right. The preschool timetable, including quiet time on no-nap days, also lives on [4 year old sleep schedule](/4-year-old-sleep-schedule).
+
 ## Watch nights get longer as naps fade (Yorix)
 
 **Yorix** can show whether an earlier bedtime is actually replacing a dropped nap in the 24-hour total. The app cannot decide that a child is done napping, and it is not a medical device.

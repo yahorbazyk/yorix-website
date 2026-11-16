@@ -145,6 +145,8 @@ Track settling time and night wakings for a week. If there's no progress after o
 
 ## Related reading
 
+- [Responsive Settling: Help That Can Fade, Not a Second Methods Table](/responsive-settling)
+
 - [Bedtime Routine for Baby: A Simple, Evidence-Backed Wind-Down](/bedtime-routine-for-baby)
 - [Gentle Sleep Training: Chair, Fading, and Pick Up / Put Down](/gentle-sleep-training)
 - [Self-Soothing: A Skill That Grows, Not a Method](/self-soothing)

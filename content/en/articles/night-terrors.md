@@ -60,6 +60,14 @@ A consistent, calming [bedtime routine](/bedtime-routine-for-baby), enough total
 
 HealthyChildren.org groups these with night terrors as deep-sleep events. The child may have a blank stare, not respond, and be hard to wake. Most return to bed on their own and do not remember it. Do not try to wake them; gently lead them back. Clear trip hazards, block stairs, and lock outside doors. Sleepwalking can run in families.
 
+## Nightmares — what to do when they wake
+
+Nightmares are scary dreams. As the table above already says, the child usually **wakes**, often later in the night, can often **remember** the dream, and wants comfort. HealthyChildren.org: they may start as early as 6 months and tend to peak between 3 and 12 years. Caring for Kids: talk calmly, cuddle, and reassure; do **not** “search for monsters.” Tell a preschooler, simply, that it was a dream. A brief, boring return to their own bed is the goal, not a new every-night sleepover in yours unless you are choosing that for other reasons (see [fear of the dark](/fear-of-the-dark) and [toddler won't stay in bed](/toddler-wont-stay-in-bed)).
+
+If the same nightmare keeps coming back after a frightening event, or the child cannot settle night after night, talk to the pediatrician. Recurring, very distressing dreams are a reason to ask, not a reason to invent a new diagnosis on this page.
+
+**Sleep talking** (murmurs, odd sentences, even a short shout) often happens in the same family of partial arousals as walking or terrors, or in lighter dream sleep. It is usually harmless and not remembered. You do not need to wake the child or have a conversation. Mention it at a visit if it is new, very frequent, or comes with snoring, unusual daytime sleepiness, or other changes. Confusional arousals (looking awake but not making sense, often early in the night) stay on this page with terrors and walking; they are not a new URL.
+
 ## When to talk to your pediatrician
 
 The NHS suggests seeing a GP if nightmares continue after age 6, are frequent, or follow a frightening event; if night terrors **start after age 5**; or if they **continue after age 12**. HealthyChildren.org is less age-specific and says to talk with the doctor if night terrors keep happening. Use the lower bar if you are worried: frequent, violent, or injurious episodes, breathing pauses or loud snoring between events, or a child who seems unusually sleepy by day all deserve a medical look. This page cannot tell a night terror from a seizure; that is a clinician's job.
@@ -87,6 +95,9 @@ Not by themselves. Tiredness, illness, and family history are common contributor
 
 ## Related reading
 
+- [Baby Head Banging and Body Rocking: Usually a Rhythm, Not a Diagnosis](/baby-head-banging-and-body-rocking)
+- [Teeth Grinding in Sleep: Toddler Bruxism, Not a Second Teething Page](/teeth-grinding-in-sleep)
+
 - [Fear of the Dark and Other Nighttime Fears](/fear-of-the-dark)
 
 - [Baby crying in their sleep](/baby-crying-in-sleep)
@@ -104,6 +115,9 @@ All pages below were opened and checked on 15 November 2026.
 1. HealthyChildren.org (AAP). "Nightmares, Night Terrors & Sleepwalking in Children: How Parents Can Help." Last updated 9/21/2023. <https://www.healthychildren.org/English/ages-stages/preschool/Pages/nightmares-and-night-terrors.aspx>. Nightmare timing and ages; night-terror signs and response; do not wake a sleepwalker; room safety.
 2. NHS. "Night terrors and nightmares." Page last reviewed 24 November 2025. <https://www.nhs.uk/conditions/night-terrors/>. Comparison table; most common at 3–8 years; up to 15 minutes; do not wake; scheduled waking 15 minutes before for 2 weeks; when to see a GP.
 3. Sleep Foundation. "Night Terrors." <https://www.sleepfoundation.org/parasomnias/night-terrors>. NREM vs REM timing (early vs late night). Duration figures on some Sleep Foundation pages differ from NHS and HealthyChildren.org; we rely on NHS and AAP parent pages for what to do, and we do not treat a single maximum length as settled.
+
+
+4. [Canadian Paediatric Society, Caring for Kids. “Healthy sleep for your baby and child.” November 2024. Comfort after nightmares; do not search for monsters.](https://caringforkids.cps.ca/handouts/healthy-living/healthy_sleep_for_your_baby_and_child)
 
 
 ```json

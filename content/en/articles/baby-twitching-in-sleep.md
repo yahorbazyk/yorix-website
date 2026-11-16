@@ -80,6 +80,8 @@ Sleep Foundation reports that children are not generally thought to be at higher
 
 ## Related reading
 
+- [Baby Head Banging and Body Rocking: Usually a Rhythm, Not a Diagnosis](/baby-head-banging-and-body-rocking)
+
 - [Baby sleep cycles](/baby-sleep-cycles)
 - [Baby crying in their sleep](/baby-crying-in-sleep)
 - [Newborn grunting in sleep](/newborn-grunting-in-sleep)

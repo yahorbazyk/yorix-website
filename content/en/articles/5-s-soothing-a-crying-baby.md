@@ -81,6 +81,8 @@ Some do. You can still use holding, sound, motion, and sucking. See "What if my 
 
 ## Related reading
 
+- [Responsive Settling: Help That Can Fade, Not a Second Methods Table](/responsive-settling)
+
 - [How to swaddle a baby](/how-to-swaddle-a-baby)
 - [Safe sleep for babies](/safe-sleep-for-babies)
 - [Pacifier and sleep](/pacifier-and-sleep)

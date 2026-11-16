@@ -84,6 +84,8 @@ Not because of the birthday. See [pacifier and sleep](/pacifier-and-sleep) and [
 
 ## Related reading
 
+- [4 Year Old Sleep Schedule: The Preschool Day, With or Without a Nap](/4-year-old-sleep-schedule)
+
 - [3 Year Old Sleep Schedule: With a Nap, or Without](/3-year-old-sleep-schedule)
 - [Toddler Bedtime Battles: Stalling, Not a Regression](/toddler-bedtime-battles)
 - [Toddler Won't Stay in Bed: After Lights Out](/toddler-wont-stay-in-bed)

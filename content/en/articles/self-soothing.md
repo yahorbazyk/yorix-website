@@ -71,6 +71,9 @@ It can be an early tool (Cleveland Clinic; AAP also lists a pacifier at sleep ti
 **Should I leave them to cry so they learn?**  
 Not as a newborn, and not as a substitute for checking needs. A short pause in an older, well baby is different from a method you have not actually chosen. If you do want a plan, use the readiness and methods pages rather than inventing one at 3 a.m.
 
+**What does “drowsy but awake” mean?**  
+It is a phrase, not a separate method and not an official AAP protocol. It means putting a baby down when they are clearly ready for sleep but still awake, so that the crib or cot is part of falling asleep — the same idea already discussed on this page and on [when to start sleep training](/when-to-start-sleep-training). It is not a rule for a newborn, and it is not a reason to leave a distressed young baby to cry. Caring for Kids describes putting a baby down drowsy but awake as one healthy-sleep habit in the first year, with more emphasis later; Cleveland Clinic advises waiting until at least 3 months before even beginning to teach self-soothing. We already refuse to average those clocks. If you want a named settling approach, see [responsive settling](/responsive-settling) or the [methods](/sleep-training-methods-explained) page rather than turning this phrase into a third plan.
+
 ## See whether resettling is actually starting (Yorix)
 
 **Yorix** can show how long a waking lasts and whether some stretches already end without a feed, which is the practical picture of this skill. The app cannot teach a baby to settle and is not a medical device.

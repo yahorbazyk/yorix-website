@@ -75,6 +75,9 @@ It can be either, or both. Use [2-year sleep regression](/sleep-regression/2-yea
 
 ## Related reading
 
+- [4 Year Old Sleep Schedule: The Preschool Day, With or Without a Nap](/4-year-old-sleep-schedule)
+- [Sleep After Separation or Divorce: Two Homes, One Predictable Night](/sleep-after-separation-or-divorce)
+
 - [Night Lights and Baby Sleep: Color Claims, and What We Can Source](/night-lights-and-baby-sleep)
 - [Toddler Won't Stay in Bed: After Lights Out](/toddler-wont-stay-in-bed)
 

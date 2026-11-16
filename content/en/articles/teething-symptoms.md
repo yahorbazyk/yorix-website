@@ -170,6 +170,8 @@ The FDA says benzocaine and lidocaine products should not be used for teething.
 
 ## Related reading
 
+- [Teeth Grinding in Sleep: Toddler Bruxism, Not a Second Teething Page](/teeth-grinding-in-sleep)
+
 - [How to Help a Sick Baby Sleep Safely](/sick-baby-sleep)
 
 - [Sleep regression ages](/sleep-regression)

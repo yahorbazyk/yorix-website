@@ -49,6 +49,14 @@ The same AAP travel-tips page warns that cribs or play yards provided when you t
 
 A familiar [sleep sack](/sleep-sacks), a small [lovey if they are over 12 months](/when-can-baby-sleep-with-a-blanket), and the usual [bedtime routine](/bedtime-routine-for-baby) are the portable parts of home. A new apartment sofa is not a crib.
 
+## Camping, and very hot or cold nights away from home
+
+Safer sleep does not pause in a tent. Red Nose and the Lullaby Trust both treat sleep away from home as the same rules in a different building (or in no building): **on the back**, on a **firm, flat**, approved surface, with a clear space and no loose adult bedding. A pillow nest on an air mattress, a baby on a quilt between adults, or a car seat left at the edge of a tent is not a campsite exception.
+
+Bring a travel crib, play yard, or other approved product that still fits the baby, and use only its own mattress. Keep the sleep space off a soggy groundsheet and away from heater vents and stove fumes. In hot weather, Red Nose’s summer advice and the Lullaby Trust’s hot-weather pages agree with [how to dress a baby for sleep](/how-to-dress-baby-for-sleep): light layers, no hat for sleep, shade, and a check of the chest — not an extra blanket “in case.” In the cold, add a layer or a well-fitting sleep bag; do not use a hot-water bottle, a heating pad, or a heavy duvet in the baby’s space, and do not bring the baby into an adult sleeping bag.
+
+If the only option looks unsafe, it is better to change the plan than to improvise a nest. Temperature and dressing details stay on the dressing page; this section is the travel-and-camping frame.
+
 ## Planes, cars, and the "they've finally fallen asleep" problem
 
 **Cars.** Use a correctly installed, rear-facing seat for as long as the seat allows (AAP). Stop about every two hours (HealthyChildren.org). Never leave a child alone in a car. If they sleep in the seat, that is a travel nap; when you get there, move them — the full argument is on [baby sleeping in a car seat](/baby-sleeping-in-car-seat).
@@ -108,6 +116,15 @@ All pages below were opened and checked on 15 November 2026.
 2. HealthyChildren.org (AAP). "Hotel Safety Tips for Parents of Young Children." By Claire McCarthy, MD, FAAP. Last updated 6/18/2026. <https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Hotel-Dangers-that-Put-Baby-Safety-at-Risk.aspx>. Do not relax safe sleep; pack-and-play or portable crib; inspect it; never leave a child alone in the room.
 3. HealthyChildren.org (AAP). "How to Keep Your Sleeping Baby Safe" and "Why Inclined Sleepers… Are Bad for Baby." Move a baby who falls asleep in a car seat to a firm, flat surface as soon as you can.
 4. NHS and Lullaby Trust car-seat pages, as cited on [baby sleeping in a car seat](/baby-sleeping-in-car-seat). Travel only; out as soon as you arrive.
+
+
+5. [Red Nose Australia. Safe Sleep While Camping.](https://rednose.org.au/safe-sleep-and-safer-pregnancy/12-months-and-beyond/safe-sleep-while-camping/)
+
+6. [The Lullaby Trust. Safer sleep on holiday.](https://www.lullabytrust.org.uk/baby-safety/travel-and-weather/safer-sleep-on-holiday/)
+
+7. [The Lullaby Trust. Hot weather.](https://www.lullabytrust.org.uk/baby-safety/travel-and-weather/hot-weather/)
+
+8. [The Lullaby Trust. Cold weather.](https://www.lullabytrust.org.uk/baby-safety/travel-and-weather/cold-weather/)
 
 
 ```json

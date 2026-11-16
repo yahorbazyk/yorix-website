@@ -68,6 +68,12 @@ If a baby is too cold, the skin on the chest may feel cool, and they may seem un
 
 If your baby has a fever, ask your pediatrician before you add layers. Over-bundling a feverish baby can make things worse.
 
+## A sweaty head, and a fan in the room
+
+A damp scalp is a common reason parents add — or remove — a layer. Heads shed heat, so a slightly moist hairline is not, by itself, proof that the baby is dangerously hot. Check the **chest or back**, as the section above already says. If that skin is hot, sweaty, or flushed, take off a layer and cool the room. If the chest feels comfortable and the baby is otherwise well, you often need to change nothing. A sweaty head plus fever, unusual sleepiness, or fast breathing belongs in a call to the pediatrician, not in an extra blanket — see [sick baby sleep](/sick-baby-sleep).
+
+A room fan can make a warm room more comfortable. Keep cords out of reach and do not point a strong airflow at a newborn’s face. A fan is **not** a SIDS-prevention device and does not replace the safer-sleep steps on [safe sleep](/safe-sleep-for-babies). For how warm a wearable blanket should feel, including TOG labels, see [sleep sacks](/sleep-sacks).
+
 ## Blankets, sleep sacks, swaddles, and what stays out of the crib
 
 For the first year, AAP safe-sleep advice is to keep loose blankets, pillows, quilts, and stuffed toys out of the crib. Warmth should come from clothes or a wearable blanket that cannot ride up over the face. That is the job of a [sleep sack](/sleep-sacks). A [swaddle](/how-to-swaddle-a-baby) is a newborn option only, and it has to stop when rolling starts.

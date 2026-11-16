@@ -44,6 +44,12 @@ Sleep Foundation's co-sleeping article, medically reviewed in 2025, usefully spl
 
 Lullaby Trust uses "co-sleeping" as an umbrella for bed, sofa, or chair sharing, and treats room-sharing as a separate, recommended practice. When a friend says they "co-sleep," it is worth asking which of these they mean.
 
+## “Breastsleeping” and the “Safe Sleep Seven”
+
+These are **popular parent-education names**, not official AAP, NHS, or Lullaby Trust protocols. **Breastsleeping** is a term some breastfeeding advocates use for sleeping in close contact while nursing. The **“Safe Sleep Seven”** is an unofficial checklist circulated in some parent communities (a list of conditions under which those authors consider bed-sharing lower risk).
+
+We name them here because people search for them. We will not reprint the unofficial list as if it were a medical standard, and we will not average it with the AAP’s advice already in the next section (the AAP recommends room-sharing **without** bed-sharing). UK advice that overlaps — and the places it does not — stays in the UK section already on this page. If a book or a forum says the “seven” make bed-sharing official policy, that is not accurate. Use this page’s sourced comparison, not a third checklist.
+
 ## Why the AAP draws a hard line
 
 The 2022 AAP policy, in parent language on HealthyChildren.org, is unambiguous: based on the evidence, the AAP recommends that parents **avoid bed-sharing**, and it is "unable to recommend bed-sharing under any circumstances." The reasons are suffocation, entrapment, overlay, and a higher rate of sudden unexpected infant death. Pillows, duvets, a soft mattress, and an adult who does not reliably wake all add risk that a bare crib does not.

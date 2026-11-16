@@ -54,6 +54,8 @@ Supervised **tummy time** while the baby is awake is still important for develop
 
 The 2022 AAP update is strict about products that look like sleep spaces but are not: if a product does not meet federal safety standards for cribs, bassinets, portable cribs, or play yards, do not use it for sleep. That includes many inclined sleepers, hammocks, in-bed sleepers, nests, pods, and compact "travel" products that have not been certified. Feeding pillows and infant loungers (HealthyChildren.org and KidsHealth name examples such as Boppy-style pillows and Dock-a-Tot-style loungers) are not sleep products. If your baby falls asleep in a car seat, stroller, swing, or sling, move them to a firm, flat surface on their back as soon as you can.
 
+A bedside sleeper, Moses basket, or play yard can count only if it is a product intended for infant sleep, meets current standards, and is used with a firm, flat surface and a tight fitted sheet — details on [when to move baby to a crib](/when-to-move-baby-to-crib). In-bed sleepers, nests, and docks stay in the “do not use” group already on this page.
+
 ## Crib standards, mattress fit, and recalls
 
 The paragraph above already says to use a product that meets U.S. Consumer Product Safety Commission (CPSC) standards and to check for recalls. This section is the checklist those sentences point to.
@@ -103,6 +105,20 @@ A safe sleep space is the core. These additional steps also have evidence behind
 - **Prenatal care and well-child visits**, including routine immunizations. KidsHealth and NHS both note that vaccines are associated with a lower SIDS risk; they also protect against illnesses that can make a baby more vulnerable.
 - **No gadgets that claim to prevent SIDS.** Home apnea monitors and "SIDS-prevention" positioners have not been shown to do that job, and positioners add a suffocation risk. The AAP and KidsHealth advise against them.
 
+## Home apnea monitors and consumer “SIDS monitors”
+
+Consumer gadgets that claim to watch a baby’s breathing or to “prevent SIDS” are not a substitute for the safer-sleep steps already on this page. HealthyChildren.org’s page on home apnea monitors is direct: **research has not shown a clear link between ordinary apnea and SIDS**, and **home apnea monitors give little or no protection from SIDS**. Brief pauses in a newborn’s breathing can be normal (see [newborn grunting in sleep](/newborn-grunting-in-sleep) for periodic breathing) and are not, by themselves, a SIDS warning. The same HealthyChildren.org page notes that these monitors also produce many **false alarms**, which can add fear and lost sleep.
+
+The American Academy of Pediatrics’ 2022 safe-sleep policy, already the backbone of this article, **does not recommend** using commercial cardiorespiratory monitors as a strategy to reduce the risk of SIDS. Devices marketed to reduce SIDS are not a safer-sleep plan. Lullaby Trust and Red Nose similarly caution families not to treat a gadget as protection.
+
+In **rare** cases a doctor may prescribe a home monitor — HealthyChildren.org names examples such as a baby who needs **home oxygen** or who has **serious breathing problems**. If that happens, use the device as prescribed and still keep the crib rules on this page. Do not buy a consumer sock, camera, or pad in place of back-sleeping, a firm flat surface, a clear crib, and room-sharing.
+
+## Vaccinations do not cause SIDS
+
+They do not. The Lullaby Trust, Red Nose, and the Children’s Hospital of Philadelphia Vaccine Education Center all state that **immunizations do not cause SIDS**. The Lullaby Trust goes further, in line with the research those organizations cite: babies who are **up to date with their vaccinations have a lower risk** of SIDS, not a higher one. Vaccinating on the recommended schedule is part of protecting a baby from serious illness; it is not a SIDS risk.
+
+If a baby is sleepy or a little feverish after a vaccine, dress them for the room and follow [sick baby sleep](/sick-baby-sleep) — do not add extra blankets. For the monitors-and-gadgets question, see the section above.
+
 ## UK advice that lines up — and one number that does not
 
 NHS and Lullaby Trust advice is very close to the AAP's: back to sleep, clear cot, firm flat mattress, same room for at least 6 months, smoke-free, avoid sofas, consider a dummy (pacifier) after breastfeeding is established, keep up with vaccinations. The NHS also describes a **feet-to-foot** position (baby's feet at the bottom of the cot) so the baby cannot wriggle under the bedding, which is a useful extra if you use light, tucked bedding as UK guidance allows.
@@ -132,6 +148,9 @@ The AAP recommends against bed-sharing, including with twins. Each baby needs th
 
 **Does breastfeeding replace the other rules?**  
 No. Breast milk is protective, but a breastfed baby still needs back sleeping, a clear crib, and a smoke-free room.
+
+**Will back-sleeping flatten my baby’s head?**  
+It can leave a soft spot, called positional plagiocephaly. The answer is supervised [tummy time](/tummy-time) when the baby is awake, not stomach sleep at night.
 
 ## Keep a simple safe-sleep log (Yorix)
 
@@ -189,6 +208,16 @@ All pages below were opened and checked on 15 November 2026.
 14. [U.S. Consumer Product Safety Commission. Crib Safety Tips.](https://www.cpsc.gov/safety-education/safety-guides/cribs/crib-safety-tips)
 
 15. [U.S. Consumer Product Safety Commission. SaferProducts.gov recall search.](https://www.saferproducts.gov/)
+
+
+16. [HealthyChildren.org (AAP). “The Truth About Home Apnea Monitors for SIDS.” Last updated 22 August 2017. Little or no protection from SIDS; no clear link between ordinary apnea and SIDS; false alarms; a clinician may recommend a monitor only in uncommon medical situations (for example home oxygen or serious breathing problems).](https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/Home-Apnea-Monitors-for-SIDS.aspx)
+
+
+17. [The Lullaby Trust. “Vaccinations and SIDS.” Vaccinations do not cause SIDS; up-to-date immunizations are associated with a lower SIDS risk; after a vaccine, do not wrap more than usual.](https://www.lullabytrust.org.uk/baby-safety/infection-and-illness/vaccinations-and-sids/)
+
+18. [Red Nose Australia. “Myth bust: vaccinations do not cause SIDS.”](https://rednose.org.au/news/myth-bust-vaccinations-do-not-cause-sids/)
+
+19. [Children’s Hospital of Philadelphia, Vaccine Education Center. “Vaccines and Sudden Infant Death Syndrome (SIDS).”](https://www.chop.edu/vaccine-education-center/vaccine-safety/vaccines-and-other-conditions/sudden-infant-death-syndrome-sids)
 
 
 ```json

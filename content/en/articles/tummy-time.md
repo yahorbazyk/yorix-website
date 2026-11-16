@@ -104,6 +104,14 @@ Back sleeping is non-negotiable, but it can lead to a flat area on the back of t
 
 KidsHealth adds that tummy time is helpful for babies with **torticollis** (tight neck muscles that make it hard to turn the head) together with the exercises your doctor shows you.
 
+## What Caring for Kids adds (and one number that does not match the table above)
+
+Canadian Paediatric Society’s Caring for Kids page on preventing flat heads in babies who sleep on their backs agrees with the section above: a baby’s skull is soft, a preferred head turn can leave a flat spot (**positional plagiocephaly**), and **the answer is not to stop back-sleeping**. A little flattening often improves on its own. More obvious flattening may not disappear completely; Caring for Kids says it **will not affect a baby’s brain or development**. If a flat spot is still there, talk to the pediatrician rather than starting tummy sleep at night.
+
+Caring for Kids also gives a practical crib trick already in the AAP/NIH advice above: alternate which end of the crib the baby’s head points to, so the interesting view (the room, a parent coming in) still draws the face the other way. They mention a mobile on the room-facing side for the same reason; keep it **well out of reach**, and never add loose toys to the sleep space (see [safe sleep](/safe-sleep-for-babies)).
+
+On **how much** awake tummy time, Caring for Kids uses a single early figure: **10 to 15 minutes, at least three times a day**. That is not the same as the age-by-age range in the table earlier on this page (AAP, NIH, KidsHealth, Cleveland Clinic, WHO). We show both. We do not average them into one official daily total. Supervised floor time, started a little and often, matters more than winning a stopwatch argument. Sleep still starts on the back; see [baby sleeping on the stomach](/baby-sleeping-on-stomach).
+
 ## What tummy time is not
 
 - **Not a sleep position.** Babies should sleep on their backs for every nap and every night (AAP). If your baby falls asleep during tummy time, roll them onto their back; Cleveland Clinic says they can stay on the floor if you keep watching.
@@ -170,6 +178,9 @@ All pages below were opened and checked on 15 November 2026. App pages are used 
 9. Cleveland Clinic. "When Do Babies Start To Crawl?" <https://health.clevelandclinic.org/when-do-babies-crawl>.
 10. App example: Huckleberry. "Tummy time chart and positions by age." Updated 3 September 2026. <https://huckleberrycare.com/blog/tummy-time-chart-by-age-and-position>.
 11. App example: Huckleberry. "Tummy time for babies: when, how, and why it matters." Updated 3 September 2026. <https://huckleberrycare.com/blog/tummy-time-for-babies>.
+
+12. [Canadian Paediatric Society, Caring for Kids. “Preventing flat heads in babies who sleep on their backs.” Last updated March 2022. Back sleep in a crib in your room; positional plagiocephaly; flattening does not affect brain or development; alternate crib orientation; supervised tummy time 10–15 minutes at least 3 times a day; call the doctor if flat spots persist.](https://caringforkids.cps.ca/handouts/pregnancy-and-babies/preventing_flat_heads)
+
 
 ```json
 {

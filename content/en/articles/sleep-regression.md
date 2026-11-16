@@ -89,6 +89,12 @@ The specific pages cover age-appropriate details. The principles are the same ac
 5. **Respond calmly and consistently** to night wakings, without introducing new habits you don't want to keep.
 6. **Look after yourself.** Our guide to [night wakings](/survive-night-wakings-new-parents) covers sharing nights and getting help.
 
+## When a new sibling arrives
+
+A toddler’s sleep can wobble when a baby comes home: later bedtimes, more curtain calls, a sudden need to be in your room, or a nap that falls apart. That is a **change in the house**, not a new official “regression month.” Keep the same short routine and the same bed, if you can. Give the older child a little predictable time with you that is not only about the baby. Do not start a second, more complicated sleep-training program on the baby’s first night home unless you were already in the middle of a plan that is still appropriate.
+
+If two children will share a room, use [siblings sharing a room](/siblings-sharing-a-room) (and wait until the infant is ready to leave the parental room). The everyday timetable for this age stays on [2 year old sleep schedule](/2-year-old-sleep-schedule). Night fears and “won’t stay in bed” have their own pages; do not diagnose a new disorder from a few hard weeks.
+
 ## When to talk to your pediatrician
 
 Contact your pediatrician if poor sleep comes with fever or other signs of illness, pain, breathing pauses or loud snoring, poor feeding, or fewer wet diapers. Also call if sleep problems last more than a few weeks or leave you struggling to cope.
@@ -115,6 +121,8 @@ No. Sleep Foundation notes that many babies don't have a 6-, 8-, 12-, or 18-mont
 **Yorix** logs naps and night wakings and follows your baby's development month by month, so you can see whether a bad week lines up with a new skill or a schedule that needs adjusting. It is a support for tired parents, not a medical device and not a diagnosis.
 
 ## Related reading
+
+- [4 Year Old Sleep Schedule: The Preschool Day, With or Without a Nap](/4-year-old-sleep-schedule)
 
 - [Daycare and Baby Sleep: A Context Page, Not a New Regression](/daycare-and-baby-sleep)
 - [When Do Babies Sleep Through the Night — and What Does That Phrase Mean?](/when-do-babies-sleep-through-the-night)

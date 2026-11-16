@@ -100,7 +100,7 @@
     "category": "Sleep schedules by month",
     "published": "2026-09-03",
     "updated": "2026-11-16",
-    "readTime": "12 min read",
+    "readTime": "13 min read",
     "replaces": true
   },
   {
@@ -308,7 +308,7 @@
     "category": "Sleep problems & methods",
     "published": "2026-11-15",
     "updated": "2026-11-16",
-    "readTime": "11 min read",
+    "readTime": "12 min read",
     "replaces": false
   },
   {
@@ -360,7 +360,7 @@
     "category": "Sleep problems & methods",
     "published": "2026-11-15",
     "updated": "2026-11-16",
-    "readTime": "11 min read",
+    "readTime": "13 min read",
     "replaces": false
   },
   {
@@ -464,7 +464,7 @@
     "category": "Sleep regressions",
     "published": "2026-11-15",
     "updated": "2026-11-16",
-    "readTime": "9 min read",
+    "readTime": "10 min read",
     "replaces": false
   },
   {
@@ -633,7 +633,7 @@
     "category": "Development & feeding",
     "published": "2026-11-15",
     "updated": "2026-11-16",
-    "readTime": "10 min read",
+    "readTime": "12 min read",
     "replaces": false
   },
   {
@@ -672,7 +672,7 @@
     "category": "Sleep schedules by month",
     "published": "2026-11-16",
     "updated": "2026-11-16",
-    "readTime": "5 min read",
+    "readTime": "6 min read",
     "replaces": false
   },
   {
@@ -698,7 +698,7 @@
     "category": "Sleep schedules by month",
     "published": "2026-11-16",
     "updated": "2026-11-16",
-    "readTime": "5 min read",
+    "readTime": "6 min read",
     "replaces": false
   },
   {
@@ -763,7 +763,7 @@
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
     "updated": "2026-11-16",
-    "readTime": "6 min read",
+    "readTime": "8 min read",
     "replaces": false
   },
   {
@@ -789,7 +789,7 @@
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
     "updated": "2026-11-16",
-    "readTime": "6 min read",
+    "readTime": "8 min read",
     "replaces": false
   },
   {
@@ -828,7 +828,7 @@
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
     "updated": "2026-11-16",
-    "readTime": "6 min read",
+    "readTime": "7 min read",
     "replaces": false
   },
   {
@@ -906,7 +906,7 @@
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
     "updated": "2026-11-16",
-    "readTime": "7 min read",
+    "readTime": "9 min read",
     "replaces": false
   },
   {
@@ -984,7 +984,7 @@
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
     "updated": "2026-11-16",
-    "readTime": "9 min read",
+    "readTime": "10 min read",
     "replaces": false
   },
   {
@@ -1049,7 +1049,7 @@
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
     "updated": "2026-11-16",
-    "readTime": "6 min read",
+    "readTime": "7 min read",
     "replaces": false
   },
   {
@@ -1101,7 +1101,7 @@
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
     "updated": "2026-11-16",
-    "readTime": "9 min read",
+    "readTime": "10 min read",
     "replaces": false
   },
   {
@@ -1114,7 +1114,7 @@
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
     "updated": "2026-11-16",
-    "readTime": "9 min read",
+    "readTime": "10 min read",
     "replaces": false
   },
   {
@@ -1127,7 +1127,7 @@
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
     "updated": "2026-11-16",
-    "readTime": "9 min read",
+    "readTime": "10 min read",
     "replaces": false
   },
   {
@@ -1153,7 +1153,7 @@
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
     "updated": "2026-11-16",
-    "readTime": "14 min read",
+    "readTime": "17 min read",
     "replaces": false
   },
   {
@@ -1218,7 +1218,7 @@
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
     "updated": "2026-11-16",
-    "readTime": "6 min read",
+    "readTime": "8 min read",
     "replaces": false
   },
   {
@@ -1322,7 +1322,7 @@
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
     "updated": "2026-11-16",
-    "readTime": "5 min read",
+    "readTime": "6 min read",
     "replaces": false
   },
   {
@@ -1335,7 +1335,7 @@
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
     "updated": "2026-11-16",
-    "readTime": "6 min read",
+    "readTime": "7 min read",
     "replaces": false
   },
   {
@@ -1361,7 +1361,7 @@
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
     "updated": "2026-11-16",
-    "readTime": "4 min read",
+    "readTime": "5 min read",
     "replaces": false
   },
   {
@@ -1375,6 +1375,110 @@
     "published": "2026-11-16",
     "updated": "2026-11-16",
     "readTime": "7 min read",
+    "replaces": false
+  },
+  {
+    "slug": "4-year-old-sleep-schedule",
+    "path": "/4-year-old-sleep-schedule",
+    "canonical": "https://yorix-app.com/4-year-old-sleep-schedule",
+    "title": "4 Year Old Sleep Schedule (and Age 5) | Yorix",
+    "heading": "4 Year Old Sleep Schedule: The Preschool Day, With or Without a Nap",
+    "description": "A 4-year-old sleep schedule, including age 5: 10–13 hours in 24 hours, with or without a nap, plus quiet time and a preschool morning.",
+    "category": "Sleep schedules by month",
+    "published": "2026-11-16",
+    "updated": "2026-11-16",
+    "readTime": "6 min read",
+    "replaces": false
+  },
+  {
+    "slug": "autism-and-sleep",
+    "path": "/autism-and-sleep",
+    "canonical": "https://yorix-app.com/autism-and-sleep",
+    "title": "Autism and Sleep: Common Patterns, When to Ask | Yorix",
+    "heading": "Autism and Sleep: Common Patterns, Not a Treatment Protocol",
+    "description": "Autism and sleep: sleep problems are common. Predictable routines, a safer night, and when to ask the pediatrician — not a treatment protocol.",
+    "category": "Sleep problems & methods",
+    "published": "2026-11-16",
+    "updated": "2026-11-16",
+    "readTime": "6 min read",
+    "replaces": false
+  },
+  {
+    "slug": "baby-head-banging-and-body-rocking",
+    "path": "/baby-head-banging-and-body-rocking",
+    "canonical": "https://yorix-app.com/baby-head-banging-and-body-rocking",
+    "title": "Baby Head Banging and Body Rocking in Sleep | Yorix",
+    "heading": "Baby Head Banging and Body Rocking: Usually a Rhythm, Not a Diagnosis",
+    "description": "Baby head banging and body rocking in sleep: usually a self-soothing rhythm, when it is a problem, and how this differs from twitching or night terrors.",
+    "category": "Sleep problems & methods",
+    "published": "2026-11-16",
+    "updated": "2026-11-16",
+    "readTime": "5 min read",
+    "replaces": false
+  },
+  {
+    "slug": "cluster-feeding",
+    "path": "/cluster-feeding",
+    "canonical": "https://yorix-app.com/cluster-feeding",
+    "title": "Cluster Feeding: Short Feeds, Close Together | Yorix",
+    "heading": "Cluster Feeding: Not Reverse Cycling, Not a Witching-Hour Diagnosis",
+    "description": "Cluster feeding is several short feeds close together, often in the early days or evenings — not reverse cycling, the witching hour, or night weaning.",
+    "category": "Sleep problems & methods",
+    "published": "2026-11-16",
+    "updated": "2026-11-16",
+    "readTime": "5 min read",
+    "replaces": false
+  },
+  {
+    "slug": "melatonin-and-childrens-sleep",
+    "path": "/melatonin-and-childrens-sleep",
+    "canonical": "https://yorix-app.com/melatonin-and-childrens-sleep",
+    "title": "Melatonin for Kids: Safety, Timing, and Limits | Yorix",
+    "heading": "Melatonin and Children's Sleep: Not a Do-It-Yourself Sleeping Pill",
+    "description": "Melatonin is not a child's sleeping pill. What HealthyChildren and KidsHealth say about safety, timing, and why a pediatrician decides — not a dosing guide.",
+    "category": "Sleep problems & methods",
+    "published": "2026-11-16",
+    "updated": "2026-11-16",
+    "readTime": "5 min read",
+    "replaces": false
+  },
+  {
+    "slug": "responsive-settling",
+    "path": "/responsive-settling",
+    "canonical": "https://yorix-app.com/responsive-settling",
+    "title": "Responsive Settling: In Arms, Hands-On, Then Less Help | Yorix",
+    "heading": "Responsive Settling: Help That Can Fade, Not a Second Methods Table",
+    "description": "Responsive settling: settling in arms, hands-on settling, and how help can fade as your baby grows — the AU and UK approach, not a second methods table.",
+    "category": "Sleep problems & methods",
+    "published": "2026-11-16",
+    "updated": "2026-11-16",
+    "readTime": "6 min read",
+    "replaces": false
+  },
+  {
+    "slug": "sleep-after-separation-or-divorce",
+    "path": "/sleep-after-separation-or-divorce",
+    "canonical": "https://yorix-app.com/sleep-after-separation-or-divorce",
+    "title": "Sleep After Separation or Divorce: Two Homes | Yorix",
+    "heading": "Sleep After Separation or Divorce: Two Homes, One Predictable Night",
+    "description": "Sleep after a separation or in two homes: keeping a consistent bedtime when a child splits time between households — not a second bedtime-battles guide.",
+    "category": "Sleep problems & methods",
+    "published": "2026-11-16",
+    "updated": "2026-11-16",
+    "readTime": "4 min read",
+    "replaces": false
+  },
+  {
+    "slug": "teeth-grinding-in-sleep",
+    "path": "/teeth-grinding-in-sleep",
+    "canonical": "https://yorix-app.com/teeth-grinding-in-sleep",
+    "title": "Teeth Grinding in Sleep (Bruxism) in Toddlers | Yorix",
+    "heading": "Teeth Grinding in Sleep: Toddler Bruxism, Not a Second Teething Page",
+    "description": "Toddler teeth grinding in sleep (bruxism): why it is common, when to see a dentist, and how it differs from ordinary teething pain.",
+    "category": "Sleep problems & methods",
+    "published": "2026-11-16",
+    "updated": "2026-11-16",
+    "readTime": "5 min read",
     "replaces": false
   }
 ]

@@ -73,6 +73,8 @@ A slightly earlier bedtime and a calmer late afternoon can help an overtired bab
 
 ## Related reading
 
+- [Cluster Feeding: Not Reverse Cycling, Not a Witching-Hour Diagnosis](/cluster-feeding)
+
 - [Colic](/colic)
 - [The 5 S's for soothing a crying baby](/5-s-soothing-a-crying-baby)
 - [Overtired baby](/overtired-baby)

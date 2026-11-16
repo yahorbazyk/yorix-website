@@ -58,6 +58,12 @@ If a hospital used side or tummy positioning for medical reasons, ask the team t
 
 A home cardiorespiratory monitor is not a substitute for a safe sleep space. If your baby was discharged with a monitor, use it as prescribed and keep the crib rules anyway.
 
+## Apnea of prematurity — a clinical issue, not a shopping problem
+
+Some preterm babies have **apnea of prematurity**: pauses in breathing, or shorter pauses with a slow heart rate or low oxygen, because the systems that control breathing are still maturing (Cleveland Clinic; KidsHealth). That is diagnosed and managed in hospital, often in the NICU. It is **not** the same as ordinary [periodic breathing](/newborn-grunting-in-sleep#periodic-breathing-a-normal-newborn-pattern-not-a-home-diagnosis), and it is **not** a reason to buy a consumer “SIDS monitor” on the way home (see [safe sleep](/safe-sleep-for-babies)).
+
+If your team discharges you with a prescribed monitor, use it as they taught you, and still keep the crib rules in the section above. HealthyChildren.org’s NICU safe-sleep advice is the same direction already on this page: units should model **back-sleeping** before discharge, and positioning aids from the hospital are not souvenirs for the home crib unless a clinician has prescribed a specific device and told you how long to use it. We will not write an apnea-treatment protocol here. Ask the neonatology or pediatric team about any pause you see after discharge.
+
 ## Nights often stay broken for longer — and that can still be normal
 
 HealthyChildren's preemie-sleep article recommends the same day-and-night contrast we describe for term newborns, only with more patience: play and talk in the daytime; keep night feeds **quiet, brief, and dimly lit**. It may take several weeks after coming home for days and nights to sort themselves out. That is a longer runway than many term-baby "day-night confusion" timelines, not a different set of tricks — see [newborn day-night confusion](/newborn-day-night-confusion) for the general idea, and do not force a term-baby schedule onto a baby who is still very young by due date.
@@ -108,6 +114,14 @@ All pages below were opened and checked on 15 November 2026.
 2. NHS. "Sudden infant death syndrome (SIDS)." Accessed 15 November 2026. Babies born before 37 weeks or under 2.5 kg are at higher risk; follow safer-sleep advice for a year from the due date. <https://www.nhs.uk/baby/caring-for-a-newborn/sudden-infant-death-syndrome-sids/>.
 3. Moon RY, Carlin RF, Hand I; AAP Task Force on Sudden Infant Death Syndrome and the Committee on Fetus and Newborn. "Sleep-Related Infant Deaths: Updated 2022 Recommendations." *Pediatrics*, 2022. Higher SUID risk in preterm and low-birth-weight infants; supine once stable (often by 32 weeks' gestational age); model safe sleep in the NICU; no head-elevation devices for GER. <https://publications.aap.org/pediatrics/article/150/1/e2022057990/188304/Sleep-Related-Infant-Deaths-Updated-2022>.
 4. HealthyChildren.org (AAP). "Preemie Sleep Patterns." Last updated 21 November 2015. Source: *Newborn Intensive Care: What Every Parent Needs to Know*, 3rd Edition (© 2010 AAP). Later night stretches than term babies; quiet night feeds; corrected age at 6–9 months. Older than the 2022 policy — used for timetable context only. <https://www.healthychildren.org/English/ages-stages/baby/preemie/Pages/preemie-sleep-patterns.aspx>.
+
+5. [Cleveland Clinic. “Apnea of Prematurity.” Clinical definition (pauses of about 15–20 seconds, or shorter pauses with a slow heart rate or low oxygen); diagnosed in the NICU; distinct from periodic breathing.](https://my.clevelandclinic.org/health/diseases/apnea-of-prematurity)
+
+6. [Nemours KidsHealth. “Apnea of Prematurity.” Similar clinical definition; periodic breathing distinguished as short pauses with a return to regular breathing and no color or heart-rate change.](https://kidshealth.org/en/parents/aop.html)
+
+
+7. [HealthyChildren.org (AAP). Safe Sleep for Babies in the Neonatal Intensive Care Unit.](https://www.healthychildren.org/English/news/Pages/Safe-Sleep-for-Babies-in-the-Neonatal-Intensive-Care-Unit.aspx)
+
 
 ```json
 {
