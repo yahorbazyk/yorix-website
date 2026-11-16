@@ -57,9 +57,9 @@ function withSecurityHeaders(response: NextResponse, nonce = newNonce()) {
 // redirected by what their Accept-Language happens to say.
 const CRAWLER = /bot|crawl|spider|slurp|mediapartners|facebookexternalhit|embedly|whatsapp|telegram|vkshare|preview|lighthouse|headless/i;
 
-// English default URLs send the visitor to the same page in their language
-// (browser first, then country — see app/language.ts). A `?lang=` from the
-// header menu is stored and wins from then on, so switching back sticks.
+// Explicit page URLs determine their language. Automatic selection applies
+// only to an initial homepage visit, never to articles or internal navigation.
+// The header menu's `?lang=` choice is still saved for future landing visits.
 function languageRedirect(request: NextRequest): NextResponse | null {
   if (request.method !== 'GET' && request.method !== 'HEAD') return null;
   const url = request.nextUrl;
@@ -73,6 +73,17 @@ function languageRedirect(request: NextRequest): NextResponse | null {
     response.cookies.set(LANG_COOKIE, choice, { path: '/', maxAge: 60 * 60 * 24 * 365, sameSite: 'lax', secure: url.protocol === 'https:' });
     response.headers.set('Cache-Control', 'private, no-store');
     return response;
+  }
+
+  if (url.pathname !== '/') return null;
+  if (request.headers.get('sec-fetch-site') === 'same-origin') return null;
+  const referrer = request.headers.get('referer');
+  if (referrer) {
+    try {
+      if (new URL(referrer).origin === url.origin) return null;
+    } catch {
+      // A malformed optional referrer does not decide the language.
+    }
   }
 
   const saved = request.cookies.get(LANG_COOKIE)?.value;
