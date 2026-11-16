@@ -135,6 +135,19 @@ Colic can wear down even the calmest parent, and Cleveland Clinic notes it has b
 
 Colic spells often land right at bedtime, which makes the early weeks feel like a sleep problem. Keep the basics of safe sleep, use a simple bedtime routine, and expect things to get easier around 3–4 months. See our [newborn sleep schedule](/newborn-sleep-schedule) and [2 month old sleep schedule](/2-month-old-sleep-schedule) for realistic sleep expectations at this age.
 
+## Gas at night
+
+A gassy evening does not automatically mean the crying is caused by gas, and it is not a second diagnosis beside colic. This page already notes that babies often swallow air *while* they cry, so gas can be a result rather than the cause, and that simethicone and gripe water have weak or no good evidence for colic.
+
+If your baby seems uncomfortable with a tight tummy in the evening:
+
+- Offer a burp during and after feeds, and try a slightly more upright hold while they are awake and feeding (not an inclined *sleep* position — they still sleep [flat on their back](/safe-sleep-for-babies)).
+- A diaper change and a brief, calm bicycle-legs or tummy-rub session while they are **awake** is reasonable. Do not put them to sleep on their tummy to "help gas pass."
+- Noisy straining, especially with soft stools, can be ordinary infant dyschezia, not a trapped-gas emergency — see [newborn grunting in sleep](/newborn-grunting-in-sleep).
+- A late, frantic feed can swallow more air. That is a routine and pacing issue, not a reason to prop the mattress.
+
+Call the pediatrician if the belly looks swollen and tender, if there is repeated vomiting, blood in the stool, poor weight gain, or crying that does not fit the usual evening pattern. Those are not "just gas."
+
 ## Frequently asked questions
 
 **What is colic in a baby?**  
@@ -160,6 +173,8 @@ Colic itself doesn't have long-term effects (Cleveland Clinic). The real danger 
 **Yorix** lets you log crying spells next to feeds and naps, so you and your pediatrician can see when they happen, how long they last, and whether they are slowly shrinking. It is a support for tired parents, not a medical device and not a diagnosis.
 
 ## Related reading
+
+- [How to Help a Sick Baby Sleep Safely](/sick-baby-sleep)
 
 - [Newborn sleep schedule](/newborn-sleep-schedule)
 - [Survive night wakings as new parents](/survive-night-wakings-new-parents)

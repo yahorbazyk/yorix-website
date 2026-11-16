@@ -134,6 +134,12 @@ Behavioral approaches can be adapted for toddlers. See our [sleep training metho
 
 ## Related reading
 
+- [18 Month Old Sleep Schedule: Life on One Nap](/18-month-old-sleep-schedule)
+- [The 2-to-1 Nap Transition: How to Make the Switch](/2-to-1-nap-transition)
+- [Fear of the Dark and Other Nighttime Fears](/fear-of-the-dark)
+- [Separation Anxiety and Sleep: A Longer Arc Than One Regression](/separation-anxiety-and-sleep)
+- [Toddler Bedtime Battles: Stalling, Not a Regression](/toddler-bedtime-battles)
+
 - [Sleep regression ages](/sleep-regression)
 - [12 month sleep regression](/sleep-regression/12-months)
 - [15 month old sleep schedule](/15-month-old-sleep-schedule)

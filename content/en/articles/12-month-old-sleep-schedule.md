@@ -134,6 +134,17 @@ KidsHealth says a light blanket and a small lovey are OK after the first birthda
 
 ## Related reading
 
+- [The 2-to-1 Nap Transition: How to Make the Switch](/2-to-1-nap-transition)
+- [The 5 S's for Soothing a Crying Baby (Product-Neutral)](/5-s-soothing-a-crying-baby)
+- [Bedtime Routine for Baby: A Simple, Evidence-Backed Wind-Down](/bedtime-routine-for-baby)
+- [How Much Sleep Does a Baby Need? A Chart From Newborn to Age 5](/how-much-sleep-does-a-baby-need)
+- [Overtired Baby: Signs, Why It Happens, and What Helps](/overtired-baby)
+- [How to Help a Sick Baby Sleep Safely](/sick-baby-sleep)
+- [When Do Babies Sleep Through the Night — and What Does That Phrase Mean?](/when-do-babies-sleep-through-the-night)
+- [When to Move Your Baby to Their Own Room](/when-to-move-baby-to-own-room)
+- [Why Won't My Baby Sleep? Start Here, Then Follow One Link](/why-wont-my-baby-sleep)
+- [The Witching Hour: When Evenings Get Fussy](/witching-hour)
+
 - [12 month milestones](/12-month-milestones)
 - [12 month sleep regression](/sleep-regression/12-months)
 - [11 month old sleep schedule](/11-month-old-sleep-schedule)

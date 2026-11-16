@@ -1,0 +1,646 @@
+{
+  "phase": 1,
+  "candidateDate": "2026-11-16",
+  "newSlugs": [
+    "18-month-old-sleep-schedule",
+    "2-to-1-nap-transition",
+    "2-year-old-sleep-schedule",
+    "3-to-2-nap-transition",
+    "3-year-old-sleep-schedule",
+    "5-s-soothing-a-crying-baby",
+    "baby-crying-in-sleep",
+    "baby-sleep-and-travel",
+    "baby-sleep-cues",
+    "baby-sleep-cycles",
+    "baby-sleeping-in-car-seat",
+    "baby-sleeping-on-stomach",
+    "baby-snoring-and-mouth-breathing",
+    "baby-twitching-in-sleep",
+    "baby-wont-nap",
+    "baby-wont-sleep-in-crib",
+    "bed-sharing-and-co-sleeping",
+    "bedtime-routine-for-baby",
+    "crib-to-toddler-bed",
+    "daycare-and-baby-sleep",
+    "daylight-saving-baby-sleep",
+    "fear-of-the-dark",
+    "gentle-sleep-training",
+    "how-much-sleep-does-a-baby-need",
+    "how-to-dress-baby-for-sleep",
+    "how-to-swaddle-a-baby",
+    "naps-on-the-go",
+    "newborn-day-night-confusion",
+    "night-lights-and-baby-sleep",
+    "night-terrors",
+    "night-weaning",
+    "nursing-to-sleep",
+    "overtired-baby",
+    "pacifier-and-sleep",
+    "preemie-sleep",
+    "reflux-and-baby-sleep",
+    "reverse-cycling",
+    "safe-sleep-for-babies",
+    "self-soothing",
+    "separation-anxiety-and-sleep",
+    "should-you-wake-a-sleeping-baby",
+    "siblings-sharing-a-room",
+    "sick-baby-sleep",
+    "sleep-associations",
+    "sleep-sacks",
+    "toddler-bedtime-battles",
+    "toddler-wont-stay-in-bed",
+    "twins-and-sleep",
+    "when-can-baby-sleep-with-a-blanket",
+    "when-do-babies-sleep-through-the-night",
+    "when-do-toddlers-stop-napping",
+    "when-to-move-baby-to-crib",
+    "when-to-move-baby-to-own-room",
+    "why-wont-my-baby-sleep",
+    "witching-hour"
+  ],
+  "modifiedExistingFiles": [
+    "1-month-old-sleep-schedule.md",
+    "10-month-old-sleep-schedule.md",
+    "11-month-old-sleep-schedule.md",
+    "12-month-old-sleep-schedule.md",
+    "15-month-old-sleep-schedule.md",
+    "2-month-old-sleep-schedule.md",
+    "3-month-old-sleep-schedule.md",
+    "4-month-old-sleep-schedule.md",
+    "5-month-old-sleep-schedule.md",
+    "6-month-old-sleep-schedule.md",
+    "7-month-old-sleep-schedule.md",
+    "8-month-old-sleep-schedule.md",
+    "9-month-old-sleep-schedule.md",
+    "baby-feeding-schedule.md",
+    "baby-nap-schedule-by-age.md",
+    "baby-waking-every-hour.md",
+    "colic.md",
+    "contact-naps.md",
+    "cry-it-out-method.md",
+    "dream-feed.md",
+    "early-morning-waking.md",
+    "false-starts.md",
+    "ferber-method-baby-sleep.md",
+    "newborn-grunting-in-sleep.md",
+    "newborn-sleep-schedule.md",
+    "short-naps.md",
+    "sleep-regression-18-months.md",
+    "sleep-regression-2-years.md",
+    "sleep-regression-4-months.md",
+    "sleep-regression-8-months.md",
+    "sleep-regression.md",
+    "sleep-training-methods-explained.md",
+    "split-nights.md",
+    "survive-night-wakings-new-parents.md",
+    "teething-symptoms.md",
+    "tummy-time.md",
+    "wake-windows-by-age.md",
+    "when-to-start-sleep-training.md",
+    "white-noise-for-baby-sleep.md"
+  ],
+  "inboundRequirements": {
+    "/1-month-old-sleep-schedule": [
+      "/bedtime-routine-for-baby",
+      "/how-much-sleep-does-a-baby-need",
+      "/how-to-swaddle-a-baby",
+      "/newborn-day-night-confusion",
+      "/overtired-baby",
+      "/pacifier-and-sleep",
+      "/safe-sleep-for-babies",
+      "/should-you-wake-a-sleeping-baby",
+      "/sleep-sacks",
+      "/wake-windows-by-age",
+      "/when-do-babies-sleep-through-the-night",
+      "/when-to-move-baby-to-crib"
+    ],
+    "/10-month-old-sleep-schedule": [
+      "/5-s-soothing-a-crying-baby",
+      "/bedtime-routine-for-baby",
+      "/how-much-sleep-does-a-baby-need",
+      "/overtired-baby",
+      "/sick-baby-sleep",
+      "/wake-windows-by-age",
+      "/when-do-babies-sleep-through-the-night",
+      "/when-to-move-baby-to-own-room",
+      "/why-wont-my-baby-sleep",
+      "/witching-hour"
+    ],
+    "/11-month-old-sleep-schedule": [
+      "/5-s-soothing-a-crying-baby",
+      "/bedtime-routine-for-baby",
+      "/how-much-sleep-does-a-baby-need",
+      "/overtired-baby",
+      "/sick-baby-sleep",
+      "/wake-windows-by-age",
+      "/when-do-babies-sleep-through-the-night",
+      "/when-to-move-baby-to-own-room",
+      "/why-wont-my-baby-sleep",
+      "/witching-hour"
+    ],
+    "/12-month-old-sleep-schedule": [
+      "/2-to-1-nap-transition",
+      "/5-s-soothing-a-crying-baby",
+      "/bedtime-routine-for-baby",
+      "/how-much-sleep-does-a-baby-need",
+      "/overtired-baby",
+      "/sick-baby-sleep",
+      "/wake-windows-by-age",
+      "/when-do-babies-sleep-through-the-night",
+      "/when-to-move-baby-to-own-room",
+      "/why-wont-my-baby-sleep",
+      "/witching-hour"
+    ],
+    "/15-month-old-sleep-schedule": [
+      "/18-month-old-sleep-schedule",
+      "/2-to-1-nap-transition",
+      "/5-s-soothing-a-crying-baby",
+      "/bedtime-routine-for-baby",
+      "/how-much-sleep-does-a-baby-need",
+      "/overtired-baby",
+      "/sick-baby-sleep",
+      "/wake-windows-by-age",
+      "/when-do-babies-sleep-through-the-night",
+      "/when-to-move-baby-to-own-room",
+      "/why-wont-my-baby-sleep",
+      "/witching-hour"
+    ],
+    "/18-month-old-sleep-schedule": [
+      "/3-year-old-sleep-schedule",
+      "/toddler-bedtime-battles",
+      "/toddler-wont-stay-in-bed"
+    ],
+    "/2-month-old-sleep-schedule": [
+      "/bedtime-routine-for-baby",
+      "/how-much-sleep-does-a-baby-need",
+      "/how-to-swaddle-a-baby",
+      "/newborn-day-night-confusion",
+      "/overtired-baby",
+      "/pacifier-and-sleep",
+      "/safe-sleep-for-babies",
+      "/should-you-wake-a-sleeping-baby",
+      "/sleep-sacks",
+      "/wake-windows-by-age",
+      "/when-do-babies-sleep-through-the-night",
+      "/when-to-move-baby-to-crib"
+    ],
+    "/2-to-1-nap-transition": [],
+    "/2-year-old-sleep-schedule": [
+      "/3-year-old-sleep-schedule",
+      "/toddler-bedtime-battles",
+      "/toddler-wont-stay-in-bed"
+    ],
+    "/3-month-old-sleep-schedule": [
+      "/baby-sleep-cycles",
+      "/baby-sleeping-on-stomach",
+      "/bedtime-routine-for-baby",
+      "/how-much-sleep-does-a-baby-need",
+      "/overtired-baby",
+      "/sleep-associations",
+      "/wake-windows-by-age",
+      "/when-do-babies-sleep-through-the-night",
+      "/when-to-move-baby-to-crib"
+    ],
+    "/3-year-old-sleep-schedule": [
+      "/toddler-wont-stay-in-bed"
+    ],
+    "/4-month-old-sleep-schedule": [
+      "/baby-sleep-cycles",
+      "/baby-sleeping-on-stomach",
+      "/bedtime-routine-for-baby",
+      "/how-much-sleep-does-a-baby-need",
+      "/overtired-baby",
+      "/sleep-associations",
+      "/wake-windows-by-age",
+      "/when-do-babies-sleep-through-the-night",
+      "/when-to-move-baby-to-crib"
+    ],
+    "/5-month-old-sleep-schedule": [
+      "/baby-sleep-cycles",
+      "/baby-sleeping-on-stomach",
+      "/bedtime-routine-for-baby",
+      "/how-much-sleep-does-a-baby-need",
+      "/overtired-baby",
+      "/sleep-associations",
+      "/wake-windows-by-age",
+      "/when-do-babies-sleep-through-the-night",
+      "/when-to-move-baby-to-crib"
+    ],
+    "/5-s-soothing-a-crying-baby": [],
+    "/6-month-old-sleep-schedule": [
+      "/3-to-2-nap-transition",
+      "/5-s-soothing-a-crying-baby",
+      "/bedtime-routine-for-baby",
+      "/how-much-sleep-does-a-baby-need",
+      "/overtired-baby",
+      "/sick-baby-sleep",
+      "/wake-windows-by-age",
+      "/when-do-babies-sleep-through-the-night",
+      "/when-to-move-baby-to-own-room",
+      "/why-wont-my-baby-sleep",
+      "/witching-hour"
+    ],
+    "/7-month-old-sleep-schedule": [
+      "/3-to-2-nap-transition",
+      "/5-s-soothing-a-crying-baby",
+      "/bedtime-routine-for-baby",
+      "/how-much-sleep-does-a-baby-need",
+      "/overtired-baby",
+      "/sick-baby-sleep",
+      "/wake-windows-by-age",
+      "/when-do-babies-sleep-through-the-night",
+      "/when-to-move-baby-to-own-room",
+      "/why-wont-my-baby-sleep",
+      "/witching-hour"
+    ],
+    "/8-month-old-sleep-schedule": [
+      "/3-to-2-nap-transition",
+      "/5-s-soothing-a-crying-baby",
+      "/bedtime-routine-for-baby",
+      "/how-much-sleep-does-a-baby-need",
+      "/overtired-baby",
+      "/sick-baby-sleep",
+      "/wake-windows-by-age",
+      "/when-do-babies-sleep-through-the-night",
+      "/when-to-move-baby-to-own-room",
+      "/why-wont-my-baby-sleep",
+      "/witching-hour"
+    ],
+    "/9-month-old-sleep-schedule": [
+      "/3-to-2-nap-transition",
+      "/5-s-soothing-a-crying-baby",
+      "/bedtime-routine-for-baby",
+      "/how-much-sleep-does-a-baby-need",
+      "/overtired-baby",
+      "/sick-baby-sleep",
+      "/wake-windows-by-age",
+      "/when-do-babies-sleep-through-the-night",
+      "/when-to-move-baby-to-own-room",
+      "/why-wont-my-baby-sleep",
+      "/witching-hour"
+    ],
+    "/baby-crying-in-sleep": [],
+    "/baby-feeding-schedule": [
+      "/night-weaning",
+      "/should-you-wake-a-sleeping-baby"
+    ],
+    "/baby-nap-schedule-by-age": [
+      "/2-to-1-nap-transition",
+      "/3-to-2-nap-transition",
+      "/baby-wont-nap",
+      "/bedtime-routine-for-baby",
+      "/how-much-sleep-does-a-baby-need",
+      "/overtired-baby",
+      "/wake-windows-by-age",
+      "/when-do-babies-sleep-through-the-night",
+      "/when-do-toddlers-stop-napping"
+    ],
+    "/baby-sleep-and-travel": [
+      "/daycare-and-baby-sleep",
+      "/naps-on-the-go"
+    ],
+    "/baby-sleep-cues": [],
+    "/baby-sleep-cycles": [
+      "/baby-crying-in-sleep",
+      "/baby-twitching-in-sleep"
+    ],
+    "/baby-sleeping-in-car-seat": [
+      "/baby-sleep-and-travel",
+      "/baby-snoring-and-mouth-breathing",
+      "/naps-on-the-go",
+      "/reflux-and-baby-sleep",
+      "/sick-baby-sleep"
+    ],
+    "/baby-sleeping-on-stomach": [
+      "/5-s-soothing-a-crying-baby",
+      "/reflux-and-baby-sleep"
+    ],
+    "/baby-snoring-and-mouth-breathing": [],
+    "/baby-twitching-in-sleep": [],
+    "/baby-waking-every-hour": [
+      "/baby-sleep-cycles",
+      "/night-weaning",
+      "/sleep-associations",
+      "/when-do-babies-sleep-through-the-night",
+      "/why-wont-my-baby-sleep"
+    ],
+    "/baby-wont-nap": [
+      "/daycare-and-baby-sleep",
+      "/naps-on-the-go"
+    ],
+    "/baby-wont-sleep-in-crib": [],
+    "/bed-sharing-and-co-sleeping": [
+      "/baby-sleep-and-travel",
+      "/nursing-to-sleep",
+      "/preemie-sleep",
+      "/reflux-and-baby-sleep",
+      "/siblings-sharing-a-room"
+    ],
+    "/bedtime-routine-for-baby": [
+      "/baby-sleep-cues",
+      "/crib-to-toddler-bed",
+      "/daylight-saving-baby-sleep",
+      "/fear-of-the-dark",
+      "/night-terrors",
+      "/nursing-to-sleep",
+      "/sleep-associations",
+      "/toddler-bedtime-battles",
+      "/toddler-wont-stay-in-bed"
+    ],
+    "/colic": [
+      "/newborn-grunting-in-sleep",
+      "/safe-sleep-for-babies",
+      "/sick-baby-sleep"
+    ],
+    "/contact-naps": [
+      "/baby-sleeping-in-car-seat",
+      "/baby-wont-sleep-in-crib",
+      "/naps-on-the-go",
+      "/safe-sleep-for-babies",
+      "/sleep-associations"
+    ],
+    "/crib-to-toddler-bed": [
+      "/fear-of-the-dark",
+      "/toddler-bedtime-battles",
+      "/toddler-wont-stay-in-bed"
+    ],
+    "/cry-it-out-method": [
+      "/gentle-sleep-training",
+      "/self-soothing"
+    ],
+    "/daycare-and-baby-sleep": [],
+    "/daylight-saving-baby-sleep": [
+      "/baby-sleep-and-travel"
+    ],
+    "/dream-feed": [
+      "/night-weaning",
+      "/nursing-to-sleep",
+      "/reverse-cycling",
+      "/should-you-wake-a-sleeping-baby"
+    ],
+    "/early-morning-waking": [
+      "/daylight-saving-baby-sleep",
+      "/overtired-baby",
+      "/why-wont-my-baby-sleep"
+    ],
+    "/false-starts": [
+      "/baby-sleep-cycles",
+      "/overtired-baby",
+      "/sleep-associations",
+      "/why-wont-my-baby-sleep"
+    ],
+    "/fear-of-the-dark": [
+      "/night-lights-and-baby-sleep",
+      "/toddler-wont-stay-in-bed"
+    ],
+    "/ferber-method-baby-sleep": [
+      "/gentle-sleep-training",
+      "/self-soothing"
+    ],
+    "/gentle-sleep-training": [
+      "/self-soothing",
+      "/sleep-training-methods-explained#why-naps-are-often-harder-than-nights"
+    ],
+    "/how-much-sleep-does-a-baby-need": [
+      "/18-month-old-sleep-schedule",
+      "/2-year-old-sleep-schedule",
+      "/3-year-old-sleep-schedule",
+      "/baby-sleep-cycles",
+      "/daycare-and-baby-sleep",
+      "/preemie-sleep",
+      "/when-do-toddlers-stop-napping"
+    ],
+    "/how-to-dress-baby-for-sleep": [
+      "/sleep-sacks",
+      "/when-can-baby-sleep-with-a-blanket"
+    ],
+    "/how-to-swaddle-a-baby": [
+      "/5-s-soothing-a-crying-baby",
+      "/baby-sleeping-on-stomach",
+      "/baby-wont-sleep-in-crib"
+    ],
+    "/naps-on-the-go": [],
+    "/newborn-day-night-confusion": [
+      "/baby-sleep-cues",
+      "/night-lights-and-baby-sleep",
+      "/preemie-sleep"
+    ],
+    "/newborn-grunting-in-sleep": [
+      "/baby-crying-in-sleep",
+      "/baby-snoring-and-mouth-breathing",
+      "/baby-twitching-in-sleep"
+    ],
+    "/newborn-sleep-schedule": [
+      "/baby-sleep-cues",
+      "/bedtime-routine-for-baby",
+      "/how-much-sleep-does-a-baby-need",
+      "/how-to-swaddle-a-baby",
+      "/newborn-day-night-confusion",
+      "/overtired-baby",
+      "/pacifier-and-sleep",
+      "/preemie-sleep",
+      "/safe-sleep-for-babies",
+      "/should-you-wake-a-sleeping-baby",
+      "/sleep-sacks",
+      "/wake-windows-by-age",
+      "/when-do-babies-sleep-through-the-night",
+      "/when-to-move-baby-to-crib",
+      "/why-wont-my-baby-sleep",
+      "/witching-hour"
+    ],
+    "/night-lights-and-baby-sleep": [],
+    "/night-terrors": [
+      "/fear-of-the-dark"
+    ],
+    "/night-weaning": [
+      "/baby-sleep-cycles",
+      "/reverse-cycling",
+      "/should-you-wake-a-sleeping-baby",
+      "/sleep-associations"
+    ],
+    "/nursing-to-sleep": [
+      "/reverse-cycling"
+    ],
+    "/overtired-baby": [
+      "/2-to-1-nap-transition",
+      "/3-to-2-nap-transition",
+      "/baby-sleep-cues",
+      "/baby-sleep-cycles",
+      "/baby-wont-nap",
+      "/daylight-saving-baby-sleep",
+      "/toddler-bedtime-battles",
+      "/witching-hour"
+    ],
+    "/pacifier-and-sleep": [
+      "/5-s-soothing-a-crying-baby",
+      "/nursing-to-sleep",
+      "/sleep-associations"
+    ],
+    "/preemie-sleep": [],
+    "/reflux-and-baby-sleep": [],
+    "/reverse-cycling": [],
+    "/safe-sleep-for-babies": [
+      "/baby-sleep-and-travel",
+      "/baby-sleeping-in-car-seat",
+      "/baby-sleeping-on-stomach",
+      "/baby-snoring-and-mouth-breathing",
+      "/bed-sharing-and-co-sleeping",
+      "/crib-to-toddler-bed",
+      "/daycare-and-baby-sleep",
+      "/naps-on-the-go",
+      "/preemie-sleep",
+      "/reflux-and-baby-sleep",
+      "/siblings-sharing-a-room",
+      "/sick-baby-sleep",
+      "/twins-and-sleep",
+      "/when-can-baby-sleep-with-a-blanket",
+      "/when-to-move-baby-to-crib",
+      "/when-to-move-baby-to-own-room"
+    ],
+    "/self-soothing": [],
+    "/separation-anxiety-and-sleep": [
+      "/self-soothing",
+      "/toddler-wont-stay-in-bed"
+    ],
+    "/short-naps": [
+      "/baby-sleep-cycles",
+      "/baby-wont-nap",
+      "/overtired-baby",
+      "/sleep-associations"
+    ],
+    "/should-you-wake-a-sleeping-baby": [
+      "/baby-crying-in-sleep",
+      "/reverse-cycling",
+      "/sick-baby-sleep"
+    ],
+    "/siblings-sharing-a-room": [],
+    "/sick-baby-sleep": [
+      "/baby-snoring-and-mouth-breathing",
+      "/reflux-and-baby-sleep"
+    ],
+    "/sleep-associations": [
+      "/baby-wont-sleep-in-crib",
+      "/gentle-sleep-training",
+      "/naps-on-the-go",
+      "/nursing-to-sleep",
+      "/self-soothing"
+    ],
+    "/sleep-regression": [
+      "/daycare-and-baby-sleep",
+      "/when-do-babies-sleep-through-the-night",
+      "/why-wont-my-baby-sleep"
+    ],
+    "/sleep-regression/12-months": [],
+    "/sleep-regression/18-months": [
+      "/18-month-old-sleep-schedule",
+      "/2-to-1-nap-transition",
+      "/fear-of-the-dark",
+      "/separation-anxiety-and-sleep",
+      "/toddler-bedtime-battles"
+    ],
+    "/sleep-regression/2-years": [
+      "/2-year-old-sleep-schedule",
+      "/crib-to-toddler-bed",
+      "/fear-of-the-dark",
+      "/night-terrors",
+      "/separation-anxiety-and-sleep",
+      "/toddler-bedtime-battles",
+      "/when-do-toddlers-stop-napping"
+    ],
+    "/sleep-regression/3-months": [],
+    "/sleep-regression/4-months": [
+      "/baby-sleep-cycles",
+      "/baby-sleeping-on-stomach",
+      "/sleep-associations",
+      "/when-to-move-baby-to-crib"
+    ],
+    "/sleep-regression/6-months": [],
+    "/sleep-regression/8-months": [
+      "/separation-anxiety-and-sleep"
+    ],
+    "/sleep-sacks": [
+      "/crib-to-toddler-bed",
+      "/when-can-baby-sleep-with-a-blanket"
+    ],
+    "/sleep-training-methods-explained": [
+      "/baby-wont-nap",
+      "/bedtime-routine-for-baby",
+      "/gentle-sleep-training",
+      "/self-soothing",
+      "/sleep-associations",
+      "/when-do-babies-sleep-through-the-night"
+    ],
+    "/split-nights": [
+      "/why-wont-my-baby-sleep"
+    ],
+    "/survive-night-wakings-new-parents": [
+      "/baby-crying-in-sleep",
+      "/bedtime-routine-for-baby",
+      "/night-terrors",
+      "/night-weaning",
+      "/should-you-wake-a-sleeping-baby",
+      "/sleep-associations",
+      "/when-do-babies-sleep-through-the-night"
+    ],
+    "/teething-symptoms": [
+      "/sick-baby-sleep"
+    ],
+    "/toddler-bedtime-battles": [
+      "/toddler-wont-stay-in-bed"
+    ],
+    "/toddler-wont-stay-in-bed": [],
+    "/tummy-time": [
+      "/baby-sleeping-on-stomach",
+      "/safe-sleep-for-babies"
+    ],
+    "/twins-and-sleep": [
+      "/siblings-sharing-a-room"
+    ],
+    "/wake-windows-by-age": [
+      "/3-to-2-nap-transition",
+      "/baby-sleep-cues",
+      "/baby-wont-nap",
+      "/bedtime-routine-for-baby",
+      "/how-much-sleep-does-a-baby-need",
+      "/overtired-baby",
+      "/when-do-babies-sleep-through-the-night"
+    ],
+    "/when-can-baby-sleep-with-a-blanket": [
+      "/crib-to-toddler-bed"
+    ],
+    "/when-do-babies-sleep-through-the-night": [
+      "/baby-sleep-cycles",
+      "/preemie-sleep",
+      "/self-soothing",
+      "/should-you-wake-a-sleeping-baby"
+    ],
+    "/when-do-toddlers-stop-napping": [
+      "/3-year-old-sleep-schedule"
+    ],
+    "/when-to-move-baby-to-crib": [
+      "/baby-wont-sleep-in-crib",
+      "/crib-to-toddler-bed"
+    ],
+    "/when-to-move-baby-to-own-room": [
+      "/crib-to-toddler-bed",
+      "/siblings-sharing-a-room"
+    ],
+    "/when-to-start-sleep-training": [
+      "/bedtime-routine-for-baby",
+      "/gentle-sleep-training",
+      "/self-soothing",
+      "/sleep-associations",
+      "/when-do-babies-sleep-through-the-night"
+    ],
+    "/when-to-start-solids": [],
+    "/white-noise-for-baby-sleep": [
+      "/how-to-dress-baby-for-sleep",
+      "/night-lights-and-baby-sleep",
+      "/safe-sleep-for-babies",
+      "/sleep-associations"
+    ],
+    "/why-wont-my-baby-sleep": [],
+    "/witching-hour": []
+  },
+  "addedRelatedLinks": 344
+}

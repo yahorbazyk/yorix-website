@@ -125,6 +125,11 @@ We found no infant study comparing them.
 
 ## Related reading
 
+- [How to Dress a Baby for Sleep: Layers, Heat, and Room Temperature](/how-to-dress-baby-for-sleep)
+- [Night Lights and Baby Sleep: Color Claims, and What We Can Source](/night-lights-and-baby-sleep)
+- [Safe Sleep for Babies: How to Lower the Risk of SIDS](/safe-sleep-for-babies)
+- [Sleep Associations: What They Are and How to Change Them](/sleep-associations)
+
 - [Wake windows by age](/wake-windows-by-age)
 - [Newborn sleep schedule](/newborn-sleep-schedule)
 - [Surviving night wakings](/survive-night-wakings-new-parents)

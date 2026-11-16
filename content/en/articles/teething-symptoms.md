@@ -170,6 +170,8 @@ The FDA says benzocaine and lidocaine products should not be used for teething.
 
 ## Related reading
 
+- [How to Help a Sick Baby Sleep Safely](/sick-baby-sleep)
+
 - [Sleep regression ages](/sleep-regression)
 - [6 month milestones](/6-month-milestones)
 - [12 month milestones](/12-month-milestones)

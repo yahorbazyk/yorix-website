@@ -72,6 +72,8 @@ If the grunting comes in long bouts and ends in a dirty diaper, your baby may ha
 
 The stool is the clue. **Hard or bloody stool points to constipation instead**, and that's worth a call to your pediatrician.
 
+Parents sometimes search this same noise as "gas at night." Ordinary straining with soft stools is often infant dyschezia, not a need for gas drops. For evening crying spells, colic versus gas, and why we do not recommend an inclined sleep position, see [colic](/colic#gas-at-night).
+
 ## Normal grunting vs. grunting that needs attention
 
 | Usually normal | Needs a doctor today or emergency care |
@@ -166,6 +168,10 @@ A consumer app is not a medical device. Use your eyes, ears, and the checks abov
 **Yorix** lets you add a quick note or symptom entry next to the sleep and feeding log, so you can show your pediatrician when the grunting happens and whether it's linked to feeds or diapers. It is a support for tired parents, not a medical device and not a diagnosis, and it can't monitor breathing.
 
 ## Related reading
+
+- [Baby Crying in Their Sleep: When to Step In](/baby-crying-in-sleep)
+- [Baby Snoring and Sleeping With the Mouth Open](/baby-snoring-and-mouth-breathing)
+- [Baby Twitching in Sleep: What Is Normal, and What Is Not](/baby-twitching-in-sleep)
 
 - [Newborn sleep schedule](/newborn-sleep-schedule)
 - [1 month old sleep schedule](/1-month-old-sleep-schedule)

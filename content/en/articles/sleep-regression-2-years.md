@@ -162,6 +162,14 @@ About 11–14 hours in 24 hours, including a nap (AASM; KidsHealth).
 
 ## Related reading
 
+- [2 Year Old Sleep Schedule: Naps, Bedtime, and Totals](/2-year-old-sleep-schedule)
+- [Crib to Toddler Bed: When and How to Switch](/crib-to-toddler-bed)
+- [Fear of the Dark and Other Nighttime Fears](/fear-of-the-dark)
+- [Night Terrors vs Nightmares: How to Tell Them Apart](/night-terrors)
+- [Separation Anxiety and Sleep: A Longer Arc Than One Regression](/separation-anxiety-and-sleep)
+- [Toddler Bedtime Battles: Stalling, Not a Regression](/toddler-bedtime-battles)
+- [When Do Toddlers Stop Napping?](/when-do-toddlers-stop-napping)
+
 - [Sleep regression ages](/sleep-regression)
 - [18 month sleep regression](/sleep-regression/18-months)
 - [Baby nap schedule by age](/baby-nap-schedule-by-age)

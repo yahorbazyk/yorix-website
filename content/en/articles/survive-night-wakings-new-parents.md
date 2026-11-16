@@ -156,6 +156,14 @@ If you can't sleep even when your baby sleeps, or you feel hopeless or unable to
 
 ## Related reading
 
+- [Baby Crying in Their Sleep: When to Step In](/baby-crying-in-sleep)
+- [Bedtime Routine for Baby: A Simple, Evidence-Backed Wind-Down](/bedtime-routine-for-baby)
+- [Night Terrors vs Nightmares: How to Tell Them Apart](/night-terrors)
+- [Night Weaning: When Night Feeds Can Stop, and How to Ease Them Out](/night-weaning)
+- [Should You Wake a Sleeping Baby?](/should-you-wake-a-sleeping-baby)
+- [Sleep Associations: What They Are and How to Change Them](/sleep-associations)
+- [When Do Babies Sleep Through the Night — and What Does That Phrase Mean?](/when-do-babies-sleep-through-the-night)
+
 - [Wake windows by age](/wake-windows-by-age)
 - [Newborn sleep schedule](/newborn-sleep-schedule)
 - [Sleep training methods explained](/sleep-training-methods-explained)

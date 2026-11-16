@@ -74,7 +74,7 @@ export function EnglishArticlePage({ slug }: { slug: string }) {
               <section className="mt-12 rounded-3xl border border-[#818CF8]/40 bg-[#6366F1]/15 p-6 sm:p-8" aria-label="Try Yorix">
                 <BookOpen className="mb-4 h-7 w-7 text-[#C7D2FE]" aria-hidden="true" />
                 <h2 className="text-2xl font-semibold">Put your baby’s day in one place</h2>
-                <p className="mt-3 text-base leading-7 text-white/80">Track sleep, feeds and care with Yorix, and see how the day’s pattern changes over time.</p>
+                <p className="mt-3 text-base leading-7 text-white/80">Track sleep, feeding and symptoms with Yorix, and see how the day’s pattern changes over time.</p>
                 <a className="mt-5 inline-flex min-h-12 items-center gap-3 rounded-full bg-[#6366F1] px-6 py-3 font-semibold text-white transition hover:bg-[#4F46E5]" href={store} rel="noopener noreferrer" target="_blank">Try Yorix on your iPhone <ArrowRight className="h-4 w-4" aria-hidden="true" /></a>
               </section>
             </article>

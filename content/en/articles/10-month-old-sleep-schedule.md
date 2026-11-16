@@ -92,6 +92,8 @@ What can help:
 3. **Keep the response short and the same each time.** Lay them down, say the same phrase, and leave.
 4. **Check the crib.** KidsHealth advises removing hazards your baby could reach from a seated or standing position, such as mobiles, wall hangings, curtains, and blind cords.
 
+If they have started climbing *out* of the crib, even with the mattress at its lowest setting, the safety question changes: see [crib to toddler bed](/crib-to-toddler-bed). Lowering the mattress and clearing cords still comes first for a baby who can stand but cannot get out. A slightly richer "first time they pull up" version of this advice also sits on the [8 month old sleep schedule](/8-month-old-sleep-schedule).
+
 ## Separation anxiety and bedtime
 
 KidsHealth explains that separation anxiety usually appears between 8 months and 1 year, as babies understand that a parent who leaves still exists somewhere else. A baby who slept well may begin calling out or crying in the night and calm down as soon as a parent appears.
@@ -141,6 +143,16 @@ Most babies are not. Mayo Clinic says the morning nap is often dropped at 10–1
 **Yorix** records naps and night wakings and suggests the next nap window from your baby's recent days. That can help you see whether a skipped morning nap is a one-off or a pattern. It is a support for tired parents, not a medical device and not a diagnosis.
 
 ## Related reading
+
+- [The 5 S's for Soothing a Crying Baby (Product-Neutral)](/5-s-soothing-a-crying-baby)
+- [Bedtime Routine for Baby: A Simple, Evidence-Backed Wind-Down](/bedtime-routine-for-baby)
+- [How Much Sleep Does a Baby Need? A Chart From Newborn to Age 5](/how-much-sleep-does-a-baby-need)
+- [Overtired Baby: Signs, Why It Happens, and What Helps](/overtired-baby)
+- [How to Help a Sick Baby Sleep Safely](/sick-baby-sleep)
+- [When Do Babies Sleep Through the Night — and What Does That Phrase Mean?](/when-do-babies-sleep-through-the-night)
+- [When to Move Your Baby to Their Own Room](/when-to-move-baby-to-own-room)
+- [Why Won't My Baby Sleep? Start Here, Then Follow One Link](/why-wont-my-baby-sleep)
+- [The Witching Hour: When Evenings Get Fussy](/witching-hour)
 
 - [Baby nap schedule by age](/baby-nap-schedule-by-age)
 - [Wake windows by age](/wake-windows-by-age)

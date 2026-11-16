@@ -147,6 +147,12 @@ Carrying is soothing, but NICHD says carriers and slings shouldn't be used for r
 
 ## Related reading
 
+- [Baby Sleeping in a Car Seat, Swing, or Lounger](/baby-sleeping-in-car-seat)
+- [Baby Won't Sleep in the Bassinet or Crib](/baby-wont-sleep-in-crib)
+- [Naps on the Go: Stroller, Car, and Wrap — Lifestyle, Then a Flat Surface](/naps-on-the-go)
+- [Safe Sleep for Babies: How to Lower the Risk of SIDS](/safe-sleep-for-babies)
+- [Sleep Associations: What They Are and How to Change Them](/sleep-associations)
+
 - [Newborn sleep schedule](/newborn-sleep-schedule)
 - [Wake windows by age](/wake-windows-by-age)
 - [Baby nap schedule by age](/baby-nap-schedule-by-age)

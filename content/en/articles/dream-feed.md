@@ -157,6 +157,11 @@ Newborns need frequent feeds anyway. A dream feed can fit into that, but it shou
 
 ## Related reading
 
+- [Night Weaning: When Night Feeds Can Stop, and How to Ease Them Out](/night-weaning)
+- [Nursing to Sleep: When It Is Normal, and What to Change Later](/nursing-to-sleep)
+- [Reverse Cycling: Nights Get Busier When Days Are Underfed](/reverse-cycling)
+- [Should You Wake a Sleeping Baby?](/should-you-wake-a-sleeping-baby)
+
 - [2 month old sleep schedule](/2-month-old-sleep-schedule)
 - [6 month old sleep schedule](/6-month-old-sleep-schedule)
 - [Baby feeding schedule](/baby-feeding-schedule)

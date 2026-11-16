@@ -59,6 +59,24 @@ There is no single "right" nap length, and the sources describe a broad spread:
 
 Mayo Clinic suggests letting babies from 4 months to 1 year nap as long as they want, *unless* they then have trouble falling asleep at night. Late-day naps are usually the ones to trim.
 
+## The 4 to 3 nap transition
+
+**When:** There is no official AAP week for this drop. It usually happens in the 4- to 5-month stretch, as wake periods get longer and a fourth nap is squeezed out. Our [4 month old sleep schedule](/4-month-old-sleep-schedule) already shows 3-nap and 4-nap example days; our [5 month old sleep schedule](/5-month-old-sleep-schedule) has a signs table for this same switch. This section is the short process, not a third chart.
+
+**Signs your baby may be ready** (practical signs, aligned with the 5-month page; no clinical body publishes a checklist):
+
+- The last nap of the day is fought or skipped on most days.
+- Bedtime keeps drifting later because that last nap landed too close to night.
+- The first naps of the day are getting a little longer, and your baby is often calm after two hours or more awake.
+
+**How to make the switch:**
+
+1. Let the first three naps be the day's sleep, instead of waking the baby to "fit in" a fourth.
+2. On days without a fourth nap, bring bedtime a little earlier if the late afternoon is long.
+3. Expect mixed 3- and 4-nap days for a week or so. That is the transition, not a failure.
+
+This is not the later [3-to-2 nap transition](/3-to-2-nap-transition). If your 5-month-old is still happy on four short naps, there is no prize for dropping early.
+
 ## The 3 to 2 nap transition
 
 **When:** Mayo Clinic suggests cutting out a late-afternoon third nap at about **9 months**, which helps bring bedtime earlier. As an app example, Huckleberry describes most babies finishing the 3-to-2 switch by 8 months.
@@ -164,6 +182,14 @@ Mayo Clinic says babies get the most out of naps taken at about the same time an
 **Yorix** shows how your baby's naps change week to week, including nap count, total day sleep, and how the last nap affects bedtime. That makes it easier to spot when a nap transition is starting rather than guessing from one bad day. It is a support for tired parents, not a medical device and not a diagnosis.
 
 ## Related reading
+
+- [The 2-to-1 Nap Transition: How to Make the Switch](/2-to-1-nap-transition)
+- [Baby Won't Nap: What to Try When Naps Fail](/baby-wont-nap)
+- [Bedtime Routine for Baby: A Simple, Evidence-Backed Wind-Down](/bedtime-routine-for-baby)
+- [How Much Sleep Does a Baby Need? A Chart From Newborn to Age 5](/how-much-sleep-does-a-baby-need)
+- [Overtired Baby: Signs, Why It Happens, and What Helps](/overtired-baby)
+- [When Do Babies Sleep Through the Night — and What Does That Phrase Mean?](/when-do-babies-sleep-through-the-night)
+- [When Do Toddlers Stop Napping?](/when-do-toddlers-stop-napping)
 
 - [Wake windows by age](/wake-windows-by-age)
 - Month-by-month schedules: [newborn](/newborn-sleep-schedule) · [1 month](/1-month-old-sleep-schedule) · [2 months](/2-month-old-sleep-schedule) · [3 months](/3-month-old-sleep-schedule) · [4 months](/4-month-old-sleep-schedule) · [5 months](/5-month-old-sleep-schedule) · [6 months](/6-month-old-sleep-schedule) · [7 months](/7-month-old-sleep-schedule) · [8 months](/8-month-old-sleep-schedule) · [9 months](/9-month-old-sleep-schedule) · [10 months](/10-month-old-sleep-schedule) · [11 months](/11-month-old-sleep-schedule) · [12 months](/12-month-old-sleep-schedule) · [15 months](/15-month-old-sleep-schedule)

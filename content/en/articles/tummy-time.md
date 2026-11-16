@@ -146,6 +146,9 @@ Brief fussing is common. End the session when your baby is truly upset and try a
 
 ## Related reading
 
+- [Baby Sleeping on the Stomach: When It Is and Isn't Safe](/baby-sleeping-on-stomach)
+- [Safe Sleep for Babies: How to Lower the Risk of SIDS](/safe-sleep-for-babies)
+
 - [4 month milestones](/4-month-milestones)
 - [6 month milestones](/6-month-milestones)
 - [Newborn sleep schedule](/newborn-sleep-schedule)

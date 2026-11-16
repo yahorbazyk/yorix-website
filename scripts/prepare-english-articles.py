@@ -1,6 +1,8 @@
 """Compile the owner-supplied Markdown package without changing its prose.
 
 Usage: python3 scripts/prepare-english-articles.py --date YYYY-MM-DD
+Dates are pinned in publication-dates.json so rebuilding does not redate old pages.
+Use --phase-one-release-date YYYY-MM-DD immediately before the approved release.
 Only quoted JSON-compatible front matter and bare scalar values are accepted.
 No source Markdown, HTML or embedded code is executed.
 """
@@ -34,6 +36,7 @@ def compile_articles(deploy_date):
             previous[slug] = datetime.strptime(published, '%B %d, %Y').date().isoformat()
     articles = []
     checksums = {}
+    publication_dates = json.loads((SOURCE / 'publication-dates.json').read_text())
     for row in rows:
         filename = row['file']
         if Path(filename).name != filename or not filename.endswith('.md'):
@@ -58,6 +61,10 @@ def compile_articles(deploy_date):
         path = canonical.removeprefix('https://yorix-app.com')
         slug = path.removeprefix('/')
         published = previous.get(slug, deploy_date) if row['status'].startswith('REPLACE') else deploy_date
+        dates = publication_dates[slug]
+        published, modified = dates['published'], dates['updated']
+        date.fromisoformat(published)
+        date.fromisoformat(modified)
         body = re.sub(r'^> \*\*Implementation note \(not for publication\):\*\*.*\n?', '', body, flags=re.M)
         match = re.search(r'\n```json\s*\n(.*?)\n```\s*$', body, re.S)
         if not match:
@@ -65,7 +72,7 @@ def compile_articles(deploy_date):
         schema = json.loads(match.group(1))
         body = body[:match.start()].strip()
         published_label = date.fromisoformat(published).strftime('%B %-d, %Y')
-        updated_label = date.fromisoformat(deploy_date).strftime('%B %-d, %Y')
+        updated_label = date.fromisoformat(modified).strftime('%B %-d, %Y')
         body = body.replace('**Published:** [Month DD, YYYY]', f'**Published:** {published_label}')
         body = body.replace('**Updated:** [Month DD, YYYY]', f'**Updated:** {updated_label}')
         title = fields.get('meta_title', fields['title'])
@@ -76,7 +83,7 @@ def compile_articles(deploy_date):
         for item in schema['@graph']:
             if item['@type'] == 'Article':
                 item['datePublished'] = published
-                item['dateModified'] = deploy_date
+                item['dateModified'] = modified
                 if fields.get('meta_title'):
                     item['headline'] = item['name'] = title
                 assert item['url'] == canonical
@@ -98,8 +105,8 @@ def compile_articles(deploy_date):
         articles.append({
             'slug': slug, 'path': path, 'canonical': canonical,
             'title': title, 'heading': headings[0], 'description': fields['meta_description'],
-            'category': group, 'published': published, 'updated': deploy_date,
-            'readTime': f"{max(1, round(int(row['words']) / 225))} min read",
+            'category': group, 'published': published, 'updated': modified,
+            'readTime': f"{max(1, round(len(body.split()) / 225))} min read",
             'replaces': row['status'].startswith('REPLACE'), 'body': body, 'schema': schema,
         })
     paths = {article['path'] for article in articles}
@@ -126,7 +133,7 @@ def write_outputs(deploy_date):
     for article in articles:
         node = ET.SubElement(root, f'{{{NS}}}url')
         ET.SubElement(node, f'{{{NS}}}loc').text = article['canonical']
-        ET.SubElement(node, f'{{{NS}}}lastmod').text = deploy_date
+        ET.SubElement(node, f'{{{NS}}}lastmod').text = article['updated']
     ET.indent(tree, space='  ')
     xml = '<?xml version="1.0" encoding="UTF-8"?>\n' + ET.tostring(root, encoding='unicode') + '\n'
     for name in ('sitemap.xml', 'sitemap-pages.xml'):
@@ -137,4 +144,21 @@ def write_outputs(deploy_date):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--date', required=True)
-    write_outputs(parser.parse_args().date)
+    parser.add_argument('--phase-one-release-date')
+    args = parser.parse_args()
+    if args.phase_one_release_date:
+        release_date = date.fromisoformat(args.phase_one_release_date).isoformat()
+        release_path = SOURCE / 'releases/phase-1/summary.json'
+        release = json.loads(release_path.read_text())
+        dates_path = SOURCE / 'publication-dates.json'
+        dates = json.loads(dates_path.read_text())
+        for slug in release['newSlugs']:
+            dates[slug] = {'published': release_date, 'updated': release_date}
+        with (SOURCE / 'articles-table.csv').open() as table:
+            for row in csv.DictReader(table):
+                if row['file'] in release['modifiedExistingFiles']:
+                    dates[row['url'].removeprefix('https://yorix-app.com/')]['updated'] = release_date
+        dates_path.write_text(json.dumps(dates, indent=2) + '\n')
+        release['candidateDate'] = release_date
+        release_path.write_text(json.dumps(release, indent=2) + '\n')
+    write_outputs(args.date)
