@@ -80,7 +80,9 @@ function languageRedirect(request: NextRequest): NextResponse | null {
   const referrer = request.headers.get('referer');
   if (referrer) {
     try {
-      if (new URL(referrer).origin === url.origin) return null;
+      const sourceOrigin = new URL(referrer).origin;
+      // Production's upstream URL can differ from the public site origin.
+      if (sourceOrigin === url.origin || sourceOrigin === new URL(siteUrl).origin) return null;
     } catch {
       // A malformed optional referrer does not decide the language.
     }
