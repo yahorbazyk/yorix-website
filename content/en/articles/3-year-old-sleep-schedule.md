@@ -94,6 +94,8 @@ Preschool, a bigger imagination, and a fading nap can all make nights uneven. We
 
 ## Related reading
 
+- [4 Year Old Sleep Schedule: The Preschool Day, With or Without a Nap](/4-year-old-sleep-schedule)
+
 - [Toddler Won't Stay in Bed: After Lights Out](/toddler-wont-stay-in-bed)
 
 - [How much sleep a baby needs](/how-much-sleep-does-a-baby-need)

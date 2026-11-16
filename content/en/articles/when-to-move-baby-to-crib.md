@@ -41,6 +41,16 @@ Pushing up on hands and knees is the developmental line CPSC names. Rolling on i
 
 If the bassinet rocks, swings, or has an incline, use it only in the manner the manual allows, and never as a workaround for a baby who only sleeps in motion. See [car seats, swings, and loungers](/baby-sleeping-in-car-seat).
 
+## Bedside sleepers, Moses baskets, and play yards
+
+These are **product categories**, not a reason to skip the move this page describes. If a product is used for sleep, it still has to be a firm, flat, approved sleep space, used as the maker intended, with only a tight fitted sheet.
+
+- **Bedside or “next-to-me” sleepers** that meet current safety standards can be a room-sharing tool, with the baby in their own surface next to your bed. Follow the weight, roll, and assembly limits; do not leave a gap that can trap. This is not a bed-share. When the baby outgrows the product, move to a crib — the point of this article.
+- **Moses baskets** are a short-use bassinet-like space for a young, non-rolling baby. They have a low weight and a short lifespan. Stop when the maker says, or sooner if the baby can roll or push up. Do not put a basket on a pillow, a sofa, or a raised surface where it can fall.
+- **Play yards** (pack-and-plays) can be an approved sleep space when they meet standards and are used with their own firm, flat mattress only. Do not add a second mattress, a quilt, or a travel pillow. They also show up in [baby sleep and travel](/baby-sleep-and-travel).
+
+In-bed sleepers, nests, pods, and docks are **not** an approved infant sleep space on [safe sleep](/safe-sleep-for-babies). Do not treat a bedside sleeper as permission to bring those back in.
+
 ## How to make the switch
 
 You do not need a long, formal program. A few practical steps, drawn from the same safe-sleep logic used on our other pages:

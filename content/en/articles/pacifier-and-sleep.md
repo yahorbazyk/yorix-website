@@ -43,6 +43,12 @@ Two practical implications follow:
 
 The protective association has been observed even in less-than-ideal sleep environments, according to Sleep Foundation's summary, but that is not permission to use a pacifier as a way to make an unsafe setup "OK."
 
+## Thumb sucking at sleep time
+
+Some babies and toddlers soothe themselves with a **thumb or fingers** instead of a pacifier. That habit is common and is not, by itself, a sleep disorder. The AAP’s safer-sleep point about offering a **pacifier** at sleep time is specific to a pacifier; it does not mean you must introduce one, and it does not mean you should pull a comfortable thumb out of a sleeping baby’s mouth.
+
+If you already use a pacifier, stay with the introduction and weaning advice later on this page. Bring dental timing to the dentist: KidsHealth and HealthyChildren.org both discuss pacifiers and thumb sucking as oral habits to review as teeth develop, and the weaning-age disagreement already on this page is about **pacifiers**. Do not invent a new official “stop the thumb at X months” rule here. If the skin is very sore, or you have questions about teeth or a habit that is not fading in the later preschool years, ask the pediatrician or dentist.
+
 ## When and how to introduce one
 
 **If you are breastfeeding.** Wait until the latch is comfortable, milk supply is in, and weight gain is on track. HealthyChildren.org and Sleep Foundation put that at about 3 to 4 weeks. Lullaby Trust says around four weeks, or whenever breastfeeding is well established. "Nipple confusion" is a phrase you will hear; Sleep Foundation notes that evidence for it is mixed, and that the AAP still prefers the wait. In special situations (preterm babies, procedures, certain NICU care), staff may recommend a pacifier earlier; follow that clinical advice.

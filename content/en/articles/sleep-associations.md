@@ -104,6 +104,9 @@ Sometimes, if the nap ends because they cannot link [cycles](/baby-sleep-cycles)
 
 ## Related reading
 
+- [Cluster Feeding: Not Reverse Cycling, Not a Witching-Hour Diagnosis](/cluster-feeding)
+- [Responsive Settling: Help That Can Fade, Not a Second Methods Table](/responsive-settling)
+
 - [Baby Won't Sleep in the Bassinet or Crib](/baby-wont-sleep-in-crib)
 - [Gentle Sleep Training: Chair, Fading, and Pick Up / Put Down](/gentle-sleep-training)
 - [Naps on the Go: Stroller, Car, and Wrap — Lifestyle, Then a Flat Surface](/naps-on-the-go)

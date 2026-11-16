@@ -98,6 +98,8 @@ It is usually a poor time. Wait for a calmer week.
 
 ## Related reading
 
+- [Cluster Feeding: Not Reverse Cycling, Not a Witching-Hour Diagnosis](/cluster-feeding)
+
 - [Baby Sleep Cycles: Why They Wake After One Cycle](/baby-sleep-cycles)
 - [Reverse Cycling: Nights Get Busier When Days Are Underfed](/reverse-cycling)
 - [Should You Wake a Sleeping Baby?](/should-you-wake-a-sleeping-baby)

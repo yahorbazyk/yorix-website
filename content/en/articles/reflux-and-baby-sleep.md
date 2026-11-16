@@ -49,6 +49,14 @@ Elevating the mattress or using a pillow, wedge, or positioner under or over it 
 
 If your baby falls asleep in your arms after a feed, move them to their own firm, flat surface on the back when you can do so safely — the same rule as on our [bed-sharing](/bed-sharing-and-co-sleeping) and [safe sleep](/safe-sleep-for-babies) pages. Being held upright **after a feed, while awake and supervised**, is a different activity from overnight sleep.
 
+## Arching, and the “they only sleep on their side” story
+
+Some babies with uncomfortable reflux **arch** or throw their head back during or after a feed, and some parents then conclude the baby will only sleep on their side or tummy. Arching can be a sign of discomfort, and it is a reason to talk to the pediatrician. It is **not** a reason to start nights on the side. The sleep rule in the section above does not change: **back, firm, flat**, no wedge, no incline.
+
+Questions of the form “can they sleep on their side if they have reflux?” belong on [baby sleeping on the stomach](/baby-sleeping-on-stomach) and [safe sleep](/safe-sleep-for-babies), with the same answer: start on the back. If you find them rolled to the side and they can roll both ways, the stomach-sleeping page already says what to do.
+
+Do not put a **rice bag, bean bag, or heated pack** on a baby’s tummy, and do not prop them on a pillow to “settle the reflux.” HealthyChildren.org has had to answer that kind of folk remedy; it is not a safe-sleep solution. Comfort while they are **awake and supervised** (upright after a feed, as the next section describes) is different from overnight position.
+
 ## What may help while your baby is awake
 
 These steps are for feeds and the stretch afterward, not for propping the crib:

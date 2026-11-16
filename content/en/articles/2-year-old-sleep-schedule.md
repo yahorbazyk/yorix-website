@@ -52,6 +52,8 @@ A short, boring, predictable routine still helps (Mindell and colleagues' bedtim
 
 We do not invent a single official 2-year-old bedtime. Count backward from the morning wake so the 11–14 hour total, including any nap, is plausible — the approach Cleveland Clinic describes as "clock math."
 
+If a new baby has just arrived and nights have gone sideways, that wobble is covered on [sleep regression](/sleep-regression) — it is a context, not a new official schedule or a fourth regression age. The 11–14 hour total on this page does not change.
+
 ## Naps at two: keep, cap, or question
 
 - **Keep** the nap if your child is clearly better for it and bedtime still works.
@@ -86,6 +88,8 @@ Only if the crib is no longer safe or they are clearly ready. See [crib to toddl
 **Yorix** can add the nap and the night so you can see whether you are inside the 11–14 hour range. The app cannot pick a bedtime and is not a medical device.
 
 ## Related reading
+
+- [4 Year Old Sleep Schedule: The Preschool Day, With or Without a Nap](/4-year-old-sleep-schedule)
 
 - [3 Year Old Sleep Schedule: With a Nap, or Without](/3-year-old-sleep-schedule)
 - [Toddler Bedtime Battles: Stalling, Not a Regression](/toddler-bedtime-battles)

@@ -95,6 +95,12 @@ Instead of clock times, think in loops. One loop is roughly: **feed → short aw
 
 *Example of a single morning (illustration only):* 7:10 feed, 7:40 diaper and a chat, 8:00 asleep in the bassinet, 9:40 awake and hungry, and the loop starts again. Tomorrow will look different, and that's fine.
 
+## “Eat, play, sleep” — a flexible pattern, not a law
+
+Some parent sites, including Raising Children Network, describe a **feed, play, then sleep** rhythm as one way a day can go once a baby is a little older: a feed, a short stretch of awake time, then a nap, rather than feeding every baby all the way to sleep, every time. It is a **cue-led example**, not an official AAP protocol and not a timetable for a day-old baby.
+
+Newborns on this page are **not** ready for a fixed three-step law. They need frequent feeds, including at night, and they often fall asleep at the breast or bottle — that is ordinary, not a failed routine. If a popular graphic tells you to “never feed to sleep” in week one, ignore the graphic and stay with the flexible day already sketched above. For a later bedtime pattern, see [bedtime routine for baby](/bedtime-routine-for-baby). For frequent evening feeds, see [cluster feeding](/cluster-feeding).
+
 ## Helping your newborn tell day from night
 
 You can't speed up the body clock, but you can give it clear signals. NHS advice:

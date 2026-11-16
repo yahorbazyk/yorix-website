@@ -90,6 +90,9 @@ Not to hit a chart. Newborns sometimes need to be woken for feeds — that is a 
 
 ## Related reading
 
+- [4 Year Old Sleep Schedule: The Preschool Day, With or Without a Nap](/4-year-old-sleep-schedule)
+- [Melatonin and Children's Sleep: Not a Do-It-Yourself Sleeping Pill](/melatonin-and-childrens-sleep)
+
 - [18 Month Old Sleep Schedule: Life on One Nap](/18-month-old-sleep-schedule)
 - [2 Year Old Sleep Schedule: Naps, Bedtime, and Totals](/2-year-old-sleep-schedule)
 - [3 Year Old Sleep Schedule: With a Nap, or Without](/3-year-old-sleep-schedule)

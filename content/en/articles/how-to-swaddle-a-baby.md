@@ -74,6 +74,14 @@ A simple transition many families use, described across baby-sleep sites and con
 
 If your baby has started rolling and you are still swaddling, stop at the next sleep. Do not wait for a "perfect" moment.
 
+## “Wrapping,” the startle (Moro), and arms-up sleep
+
+In Australia and the UK, **wrapping** is the usual word for the same skill this page calls swaddling. Red Nose, Raising Children Network, and Karitane wrapping advice follow the same safety limits already here: hips free to bend, chest not tight, no hood, and **stop once the baby can roll**. Use this page’s how-to.
+
+A newborn’s **Moro (startle) reflex** can jerk the arms and briefly wake a baby, including as they drop into light sleep. That reflex is ordinary, and it fades over the early months. Swaddling is sometimes used to make those jerks less of a full wake — it is not a treatment for a diagnosis, and it is not a reason to wrap past the rolling deadline already in the section above.
+
+**Arms-up** (or one arm out) is a common way to come out of the wrap, already listed in the transition steps above. Some babies sleep more happily with hands free or near the face. That is a transition, not a new method. If startle-waking is really a short cycle at the end of a nap, see [baby sleep cycles](/baby-sleep-cycles) and [false starts](/false-starts) rather than tightening the wrap.
+
 ## What if my baby hates the swaddle?
 
 Some newborns arch, cry, or work their arms free every time. That is allowed. Swaddling is a tool, not a test you have to pass. Try arms-out, a looser hip pouch, or skip the wrap and use a sleep sack or ordinary layers instead. Soothing with holding, feeding, or a [pacifier](/pacifier-and-sleep) is still available. If your baby seems in pain when the hips are moved, or one leg looks to sit differently from the other, raise that with your pediatrician — those are hip questions, not "fussy swaddle" questions.

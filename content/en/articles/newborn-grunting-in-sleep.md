@@ -109,6 +109,16 @@ These come from HealthyChildren.org's KidsDoc symptom checker and Cleveland Clin
 
 **Mention it at the next visit** if your baby snores loudly every night, the noisy breathing hasn't improved after a few weeks, or you simply aren't sure what you're hearing.
 
+## Periodic breathing (a normal newborn pattern, not a home diagnosis)
+
+**Periodic breathing** is a common newborn pattern: a **brief pause**, then several faster “catch-up” breaths, then a steadier rhythm, often in sleep, often repeating a few times. HealthyChildren.org’s “Stages of Newborn Sleep” describes pauses of **5 to 10 seconds** in active sleep, then a burst of faster breathing (they mention 50 to 60 breaths a minute for 10 to 15 seconds), then regular breathing again. The baby’s **color does not change**. Cleveland Clinic (updated 12 February 2025) uses the same idea: pauses usually last **5 to 10 seconds**, the next breaths are often fast, and the cycle may repeat three or more times before settling.
+
+Sources do **not** use one “it stops at” age, and we will not average them. Cleveland Clinic: most likely at **2 to 4 weeks**, and usually considered normal **up to 6 months**; tell the pediatrician if it continues after that. HealthyChildren.org’s stages page: babies generally outgrow it by about the **middle of the first year**. An older HealthyChildren.org symptom-checker note says this pattern **usually resolves by 1 month**. We report all three clocks. The NHS Scotland leaflet already on this page uses a slightly tighter “normal pause” picture (up to about 5 seconds; should not stop longer than 10 seconds). Use the leaflet’s home-check steps in the next section rather than timing pauses from memory at 3 a.m.
+
+Periodic breathing is **not** the same as a diagnosis of **apnea** (Cleveland Clinic: a pause of 20 seconds or longer, or a shorter pause with a slow heart rate or low oxygen). It is also not a reason to buy a consumer “SIDS monitor” — see [safe sleep](/safe-sleep-for-babies).
+
+Call **911** (Cleveland Clinic; and follow the red-flag section on this page) if breathing stops for **longer than 10 seconds**, if the skin or lips change color (blue, grey, yellow-grey, purple, or unusually pale or white), or if you cannot wake the baby. If you are simply unsure whether a pattern is ordinary, call the pediatrician rather than waiting for a perfect label.
+
 ## How to check your baby's breathing at home
 
 An NHS Scotland information leaflet for parents suggests a simple routine:
@@ -192,6 +202,11 @@ All pages below were opened and checked on 15 November 2026. App pages are used 
 7. HealthyChildren.org (AAP). "How to Keep Your Sleeping Baby Safe: AAP Policy Explained." Last updated 11 September 2026. <https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/A-Parents-Guide-to-Safe-Sleep.aspx>.
 8. App example: Huckleberry. "Baby grunting and other sleep sounds: Tips for better rest." Updated 24 September 2026. <https://huckleberrycare.com/blog/baby-grunting-and-other-sleep-sounds-tips-for-better-rest>.
 9. App example: Napper. "Baby cries in their sleep - common causes and tips" <https://napper.app/en/blog/baby-sleep/baby-cries-in-their-sleep/>.
+
+10. [Cleveland Clinic. “Periodic Breathing in Newborns.” Last updated 12 February 2025. Pauses usually 5–10 seconds, then faster breaths; often in sleep; usually normal up to 6 months, most often at 2–4 weeks; how this differs from apnea; emergency signs.](https://my.clevelandclinic.org/health/articles/periodic-breathing)
+
+11. [HealthyChildren.org (AAP). “Stages of Newborn Sleep.” Last updated 18 September 2013. Normal periodic breathing of infancy in active sleep; 5–10 second pauses without a color change; generally outgrown by about the middle of the first year.](https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/phases-of-sleep.aspx)
+
 
 ```json
 {

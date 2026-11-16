@@ -77,6 +77,9 @@ It may help a child who is testing the morning. It will not replace a consistent
 
 ## Related reading
 
+- [4 Year Old Sleep Schedule: The Preschool Day, With or Without a Nap](/4-year-old-sleep-schedule)
+- [Sleep After Separation or Divorce: Two Homes, One Predictable Night](/sleep-after-separation-or-divorce)
+
 - [Toddler bedtime battles](/toddler-bedtime-battles)
 - [Crib to toddler bed](/crib-to-toddler-bed)
 - [Fear of the dark](/fear-of-the-dark)

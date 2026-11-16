@@ -66,6 +66,8 @@ Unlikely, if the room is already dim. Early waking has its own page: [early morn
 
 ## Related reading
 
+- [Melatonin and Children's Sleep: Not a Do-It-Yourself Sleeping Pill](/melatonin-and-childrens-sleep)
+
 - [Fear of the dark](/fear-of-the-dark)
 - [Safe sleep for babies](/safe-sleep-for-babies)
 - [White noise for baby sleep](/white-noise-for-baby-sleep)

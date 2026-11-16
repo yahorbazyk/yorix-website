@@ -92,6 +92,8 @@ Naps are often harder. A short, consistent try at the same approach can be reaso
 
 ## Related reading
 
+- [Responsive Settling: Help That Can Fade, Not a Second Methods Table](/responsive-settling)
+
 - [Self-Soothing: A Skill That Grows, Not a Method](/self-soothing)
 - [Sleep Training Methods Explained: A Side-by-Side Comparison](/sleep-training-methods-explained#why-naps-are-often-harder-than-nights)
 

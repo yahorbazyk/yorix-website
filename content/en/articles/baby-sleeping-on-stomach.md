@@ -58,6 +58,8 @@ Newborns should not be started on their side, even with a rolled towel at the ba
 
 Back sleeping increased "flat head" (positional plagiocephaly) in some babies, which is usually preventable and treatable. The answer is not stomach sleeping at night. It is supervised tummy time when the baby is awake, varying the direction they lie in the crib, limiting long stretches in seats and carriers, and holding them upright when you can. Our [tummy time](/tummy-time) guide covers minutes by age. Sleep Foundation, citing a review, mentions a daily total of at least 30 minutes as a later goal, built up from a few minutes at a time.
 
+For the sourced prevention steps (alternating the crib orientation, limiting long stretches in seats, and the Caring for Kids note that a flat spot does not affect brain development), see [tummy time](/tummy-time#tummy-time-and-flat-spots-on-the-head). Do not start nights on the tummy or side to “round out” a head.
+
 ## When to talk to your pediatrician
 
 Ask if your baby has a diagnosed airway or reflux condition and you have been given different sleep-position advice, if they seem to struggle to roll back and you are not sure they are ready to be left, or if you are worried about the shape of their head. Seek urgent care if breathing looks hard, or if they are unusually hard to wake.
