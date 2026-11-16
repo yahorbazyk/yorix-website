@@ -98,7 +98,7 @@ def compile_articles(deploy_date):
             group = 'Development & feeding'
         elif slug.startswith('sleep-regression'):
             group = 'Sleep regressions'
-        elif re.fullmatch(r'\d+-week-old-baby-sleep', slug):
+        elif re.fullmatch(r'\d+-week-old-baby-sleep', slug) or slug == 'baby-sleep-by-week':
             group = 'Sleep by week'
         elif 'sleep-schedule' in slug or slug in ('baby-nap-schedule-by-age', 'wake-windows-by-age'):
             group = 'Sleep schedules by month'
@@ -106,6 +106,7 @@ def compile_articles(deploy_date):
             group = 'Sleep problems & methods'
         articles.append({
             'slug': slug, 'path': path, 'canonical': canonical,
+            'kind': 'hub' if row['status'] == 'HUB' else 'article',
             'title': title, 'heading': headings[0], 'description': fields['meta_description'],
             'category': group, 'published': published, 'updated': modified,
             'readTime': f"{max(1, round(len(body.split()) / 225))} min read",

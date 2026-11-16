@@ -139,6 +139,9 @@ It can contribute from about 3–4 months, because your baby may need a feed to 
 **What if my baby wakes every 30–45 minutes at night?**  
 Huckleberry (app example) says waking every 30 minutes without longer stretches isn't typical and may point to extreme overtiredness or discomfort such as reflux or illness. Talk to your pediatrician.
 
+**Why does my 8 month old (or 10–12 month old) wake up every hour at night?**
+Hourly waking at this age is still this page, rather than a separate age-specific problem. Check the causes already listed here (sleep-cycle, habit, discomfort, environment). Around 8–10 months, also use [sleep regression at 8 months](/sleep-regression/8-months) for standing, crawling, and separation-related nights. Around the first birthday, add [sleep regression at 12 months](/sleep-regression/12-months) and the nap-count question on [12 month old sleep schedule](/12-month-old-sleep-schedule). Frequent waking can still be hunger or illness — ask your pediatrician if it is sudden or they seem unwell.
+
 ## See the pattern behind the wakings (Yorix)
 
 **Yorix** logs each night waking alongside naps and feeds, so after a week you can see whether wakings cluster after short-nap days or late bedtimes, and bring that log to your pediatrician. It is a support for tired parents, not a medical device and not a diagnosis.

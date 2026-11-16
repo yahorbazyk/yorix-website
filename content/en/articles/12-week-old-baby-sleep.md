@@ -78,6 +78,8 @@ Use [3 month sleep regression](/sleep-regression/3-months).
 
 ## Related reading
 
+- [Baby Sleep by Week (Weeks 1–15)](/baby-sleep-by-week)
+
 - [3 month old sleep schedule](/3-month-old-sleep-schedule)
 - [3 month sleep regression](/sleep-regression/3-months)
 - [12 week old false starts](/12-week-old-false-starts)

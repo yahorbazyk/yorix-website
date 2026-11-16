@@ -67,6 +67,9 @@ The phrase is popular. The useful idea is a context change, not a new developmen
 **What if grandparents will not follow our bedtime?**  
 Ask for the safe-sleep basics even if the clock is different. You can return to your usual routine at home. This page is about two environments, not a family argument we can referee.
 
+**Daycare dropped the nap at 18 months or 2 years, and nights are a mess.**
+This page is the "two rooms, one child" discussion. Whether they are actually ready to stop napping belongs on [when do toddlers stop napping](/when-do-toddlers-stop-napping).
+
 ## See how daycare days change the night (Yorix)
 
 **Yorix** can show whether naps at care are shorter than naps at home, and whether bedtime moved in response. The app cannot set a classroom schedule and is not a medical device.

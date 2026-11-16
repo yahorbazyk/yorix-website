@@ -1,4 +1,5 @@
 import { ArrowRight } from 'lucide-react';
+import Link from 'next/link';
 import { formatArticleDate } from '../article-ui';
 import { localeAlternates, type Locale } from '../locales';
 import { SellerFooter } from '../SellerFooter';
@@ -75,6 +76,17 @@ export function GuidesIndex({
           {locale === 'en' && <nav aria-label="Guide topics" className="mb-9 flex flex-wrap gap-3">{categories.map((category, index) => <a className="rounded-full border border-white/20 px-4 py-2 text-sm text-[#C7D2FE] transition hover:bg-white/10" href={`#guide-group-${index}`} key={category}>{category}</a>)}</nav>}
           {groups.map((group, groupIndex) => <section className="mb-12 scroll-mt-8" id={`guide-group-${groupIndex}`} key={group.category}>
           {group.category && <h2 className="mb-6 text-2xl font-semibold text-white">{group.category}</h2>}
+          {group.category === 'Sleep by week' && group.guides.some((guide) => guide.slug === 'baby-sleep-by-week') ? (
+            <Reveal animation="fadeIn">
+              <div className="rounded-[1.75rem] border border-white/15 bg-white/[0.06] p-5 sm:p-7">
+                <h3 className="text-2xl font-semibold"><Link className="text-white transition hover:text-[#C7D2FE]" href="/baby-sleep-by-week" prefetch={false} target="_top">Baby Sleep by Week: Weeks 1–15 <span aria-hidden="true">→</span></Link></h3>
+                <p className="mt-3 max-w-3xl text-base leading-7 text-white/75">Choose your baby’s week for a practical snapshot. For a monthly overview, use the month guides above.</p>
+                <ol aria-label="Weekly sleep snapshots" className="mt-6 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+                  {group.guides.filter((guide) => guide.slug !== 'baby-sleep-by-week').map((guide) => <li key={guide.slug}><Link className="block h-full rounded-2xl border border-white/15 p-4 text-[#C7D2FE] transition hover:-translate-y-0.5 hover:border-white/30 hover:bg-white/10" href={guide.href} prefetch={false} target="_top"><span className="block font-semibold text-white">Week {guide.slug.match(/^(\d+)-week/)?.[1]}</span><span className="mt-1 block text-sm leading-6">{guide.title}</span></Link></li>)}
+                </ol>
+              </div>
+            </Reveal>
+          ) : (
           <div className="grid gap-5 md:grid-cols-2 lg:grid-cols-3">
             {group.guides.map((guide, index) => (
               <Reveal className="flex" delay={(index % 3) * 90} key={guide.slug}>
@@ -99,6 +111,7 @@ export function GuidesIndex({
               </Reveal>
             ))}
           </div>
+          )}
           </section>)}
         </div>
 

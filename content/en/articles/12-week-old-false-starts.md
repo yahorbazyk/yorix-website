@@ -74,6 +74,9 @@ When the baby is closer to the usual training-readiness window, or when your ped
 
 ## Related reading
 
+- [11 Week Old Baby Sleep: One Week Short of the 3-Month Mark](/11-week-old-baby-sleep)
+- [13 Week Old Baby Sleep: Just Past 3 Months, Between Two Bands](/13-week-old-baby-sleep)
+
 - [False starts](/false-starts)
 - [12 week old baby sleep](/12-week-old-baby-sleep)
 - [3 month sleep regression](/sleep-regression/3-months)

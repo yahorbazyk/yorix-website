@@ -127,6 +127,9 @@ Not necessarily. Some wakings are for comfort. Ask your pediatrician whether you
 **Can I sleep train at 6 months?**  
 Many families do. Sleep Foundation describes 6 months as a common starting point.
 
+**Is there a 24 week sleep regression?**
+Twenty-four weeks is 6 months. Use this page, alongside the 6-month schedule. Whether the "6 month regression" is a distinct event is already discussed above.
+
 ## See whether it's a phase or a pattern (Yorix)
 
 **Yorix** charts night wakings and naps day by day, so after a week or two you can see whether things are settling or whether the schedule needs adjusting. It is a support for tired parents, not a medical device and not a diagnosis.

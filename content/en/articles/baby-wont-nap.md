@@ -81,6 +81,9 @@ Common. Keep the home rest period anyway, and keep bedtime steady.
 **Is a stroller nap a failure?**  
 An occasional on-the-go nap happens. It is not a replacement for a safe, flat sleep space at home, and a long seat nap is still a [car-seat safety](/baby-sleeping-in-car-seat) issue once you have stopped traveling.
 
+**My 6, 8, or 12 week old "won't nap."**
+At this age, "won't nap" often means short bassinet pieces, contact-only naps, or a long fussy evening — not the later toddler refusal this page also covers. Use the week snapshot for the age you are in: [6 week old baby sleep](/6-week-old-baby-sleep), [8 week old short naps](/8-week-old-short-naps), or [12 week old baby sleep](/12-week-old-baby-sleep). The general short-nap essay is [short naps](/short-naps). Formal nap training is not a 6–12 week plan.
+
 ## See which naps never start (Yorix)
 
 **Yorix** can show a run of "nap offered, nap missing," which is a different pattern from a run of 30-minute naps. The app cannot make a child fall asleep and is not a medical device.

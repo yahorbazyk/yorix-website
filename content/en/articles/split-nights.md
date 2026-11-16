@@ -80,6 +80,10 @@ Pediatric Sleep Company summarizes typical triggers by age:
 | 8–12 months | Crawling and standing |
 | Toddlers | Too much or too late napping, inconsistent bedtime |
 
+### 8–18 months (including "12 month old split nights")
+
+A wide-awake hour or two in the night is still this page, rather than a separate age-specific condition. Check time-in-bed and nap balance as already described. At 8–10 months, also consider the named wobble on [sleep regression at 8 months](/sleep-regression/8-months). Around the first birthday, see [sleep regression at 12 months](/sleep-regression/12-months) and whether a 2-to-1 nap question is creeping in too early. At 15–18 months, a dropped nap or a too-long one-nap day can leave fuel for a split night — use [the 2-to-1 nap transition](/2-to-1-nap-transition) and [18 month old sleep schedule](/18-month-old-sleep-schedule) alongside this plan.
+
 ## How to fix split nights: step by step
 
 ### Step 1: Add up time in bed

@@ -142,11 +142,16 @@ Sleep Foundation gives **1 to 3 hours** for babies **1 to 4 months**. Use that a
 **Do all babies go through a four month sleep regression?**  
 No. Not all babies have one (Sleep Foundation), and research has not shown a clockwork change at one exact age (Cleveland Clinic).
 
+**Is there a 16 week sleep regression?**
+Sixteen weeks is 4 months. Use this page, alongside the 4-month schedule. How long it lasts is already discussed above; do not invent a week-16 duration from parent forums.
+
 ## A calmer way to see the pattern (Yorix)
 
 **Yorix** lets you track sleep, feeds, and care, see wake-window and next-sleep-window predictions based on your baby's real day, and ask the in-app AI coach about the pattern you have already logged. It is a support for tired parents — not a medical device and not a diagnosis.
 
 ## Related reading
+
+- [15 Week Old Baby Sleep: The Week Before 4 Months, Not a Second 4-Month Page](/15-week-old-baby-sleep)
 
 - [Baby Sleep Cycles: Why They Wake After One Cycle](/baby-sleep-cycles)
 - [Baby Sleeping on the Stomach: When It Is and Isn't Safe](/baby-sleeping-on-stomach)

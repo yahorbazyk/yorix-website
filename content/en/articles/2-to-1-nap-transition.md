@@ -84,6 +84,12 @@ Only if the signs are there. A first birthday is not a deadline.
 **What if daycare already has one nap?**  
 You may need an earlier bedtime, and some weekend two-nap days, until home and care align better. See also [baby won't nap](/baby-wont-nap).
 
+## If you searched for a 16 month old sleep schedule
+
+Sixteen months is a common moment to *be in* the 2-to-1 transition, not a reason to use a different age band. AASM still recommends **11–14 hours** in 24 hours at 1–2 years. This page is the transition plan; [15 month old sleep schedule](/15-month-old-sleep-schedule) is the month view that already discusses two-nap and one-nap days.
+
+Parent communities often describe mixed days at 16 months (one nap some days, two on others) or a "16 month regression." Mixed days are expected during the switch — see "If it is not working" on this page. A regression-named search can start on [sleep regression](/sleep-regression); there is no official 16-month event.
+
 ## See mixed days turn into one nap (Yorix)
 
 **Yorix** can show how often you still have two naps, and whether bedtime moved earlier on one-nap days. The app cannot choose the week to switch and is not a medical device.

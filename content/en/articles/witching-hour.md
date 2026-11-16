@@ -73,6 +73,9 @@ A slightly earlier bedtime and a calmer late afternoon can help an overtired bab
 
 ## Related reading
 
+- [5 Week Old Baby Sleep: When a Longer Stretch Slips](/5-week-old-baby-sleep)
+- [7 Week Old Baby Sleep: Almost Two Months, Still No Timetable](/7-week-old-baby-sleep)
+
 - [6 Week Old Baby Sleep: The Fussy, Hungry Middle of the Early Weeks](/6-week-old-baby-sleep)
 - [6 Week Sleep Regression: A Popular Name, Not a Documented Event](/6-week-sleep-regression)
 

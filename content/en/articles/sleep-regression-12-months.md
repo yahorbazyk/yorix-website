@@ -139,6 +139,9 @@ Usually not yet. KidsHealth puts the typical switch at around 18 months, sometim
 **Is there an 11 month sleep regression?**  
 It's the same idea: disruptions tend to follow new skills like cruising or first steps rather than a specific month.
 
+**Is there a 13 month sleep regression?**
+There is no official 13-month event. Use this 12-month page for wobbles around the first birthday and walking, and [15 month old sleep schedule](/15-month-old-sleep-schedule) if the question is really the move toward one nap.
+
 ## Two naps or one? Let the data decide (Yorix)
 
 **Yorix** logs naps and bedtimes and recalculates the rest of the day after a short or skipped nap, so you can see whether a one-nap trial is helping. It is a support for tired parents, not a medical device and not a diagnosis.

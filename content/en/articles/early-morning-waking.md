@@ -113,6 +113,19 @@ Baby Sleep Science reports that consistently waiting until the target wake time 
 | 6–12 months | Body clock more mature; schedule and settling habits matter more | Nap totals, last wake window, independent settling |
 | Toddlers | Can call out, climb, or come to your room | Consistent wake time; Huckleberry (app example) suggests a toddler clock |
 
+### 4–12 months (including "8 month old early waking at 5am")
+
+After 4 months, 5 a.m. starts are the problem this page is for. Check the 24-hour total first (AASM 12–16 hours at 4–12 months), then work through the plan already on this page.
+
+Common companions at this stretch, already covered elsewhere:
+
+- A 4 a.m. clock time that is still night: [why does my baby wake up at 4am](/why-does-my-baby-wake-up-at-4am)
+- A long wide-awake spell in the night: [split nights](/split-nights)
+- An 8–10 month wobble: [sleep regression at 8 months](/sleep-regression/8-months)
+- Standing, walking, or first-birthday changes: [sleep regression at 12 months](/sleep-regression/12-months)
+
+Parent-community threads often name a daycare start or a too-early bedtime as the week 5 a.m. appeared. Those are situations to check, not official causes. Use [daycare and baby sleep](/daycare-and-baby-sleep) if two rooms are fighting each other.
+
 ## When to talk to your pediatrician
 
 - Your baby snores loudly, gasps, or pauses in breathing during sleep.

@@ -118,6 +118,12 @@ Practical steps:
 
 There is no separate clinical "5-month regression." What parents call by that name is usually the same sleep shift that begins around 3 to 4 months (Sleep Foundation) together with a busier body and brain. If sleep worsened suddenly and your baby is also unwell, feeding less, or in pain, talk with your pediatrician. Otherwise, our [4 month sleep regression](/sleep-regression/4-months) guide explains what is going on.
 
+## If you searched for 20 week old baby sleep
+
+Twenty weeks is the usual "5 months" mark. There is no official week-20 sleep total. This page is the month view: still the AASM **12–16 hours** in 24 hours at 4–12 months, often on a 3-nap day. Short 30–40 minute naps at this age are already discussed above.
+
+Parent communities sometimes call this a "20 week regression." There is no official one by that name. If the wobble looks like the earlier 4-month change still running, see [4 month sleep regression](/sleep-regression/4-months). If it is a 5-month pattern (nap-count questions, rolling, solids), stay on this page.
+
 ## Rolling, solids, and other 5-month changes
 
 - **Rolling.** HealthyChildren.org (AAP) says to keep placing your baby on their back, but once they roll both ways on their own, you do not need to turn them back over. Keep the crib bare. Swaddling should already have stopped once your baby showed signs of rolling (KidsHealth).
@@ -151,6 +157,15 @@ Yes. NHS services report that night waking often returns at 4–5 months.
 
 **Should I drop to two naps at 5 months?**  
 Usually not. The third nap typically goes at about 9 months (Mayo Clinic).
+
+**What about 21 week old baby sleep?**
+Week 21 is still this 5-month page, not a new snapshot. Keep the 12–16 hour band and the 3-nap discussion already here. A "21 week nap regression" is a popular name, not an official event. See "Why naps are often 30–40 minutes" on this page, and [short naps](/short-naps).
+
+**What about 22 week old baby sleep?**
+Week 22 is still the 5-month view. Do not drop to two naps only because the calendar says 22 weeks — this page already warns that 3-to-2 can be early at 5 months. If you are looking ahead, [6 month old sleep schedule](/6-month-old-sleep-schedule) is the next month view.
+
+**What about 23 week old baby sleep?**
+Week 23 is the late side of the 5-month window, just short of 6 months. Stay on this page for totals, 3-nap timing, and night waking. Use [6 month old sleep schedule](/6-month-old-sleep-schedule) when you reach that month, and [sleep regression at 6 months](/sleep-regression/6-months) if you are searching that name.
 
 ## Plan the 3-nap day (Yorix)
 

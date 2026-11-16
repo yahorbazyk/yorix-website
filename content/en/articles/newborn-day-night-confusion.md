@@ -71,6 +71,12 @@ HealthyChildren.org calls day-night reversal temporary. Many parents notice a cl
 
 A more mature night, in the research sense of a longer stretch, is covered in [when babies sleep through the night](/when-do-babies-sleep-through-the-night). That is a later milestone than fixing a backwards clock.
 
+## Early wakings at 6–12 weeks
+
+A 5 a.m. or 6 a.m. start at 6–12 weeks is often still a day–night confusion or a late bedtime problem, not the later "early morning waking" pattern described for older babies. Use the contrast plan already on this page (brighter days, boring nights). The later, after-4-months plan lives on [early morning waking](/early-morning-waking).
+
+For the week you are in, use the snapshot: [6 week old baby sleep](/6-week-old-baby-sleep), [8 week old baby sleep](/8-week-old-baby-sleep), or [12 week old baby sleep](/12-week-old-baby-sleep). A 4 a.m. clock-time question that is really "is this still night?" belongs on [why does my baby wake up at 4am](/why-does-my-baby-wake-up-at-4am).
+
 ## When to talk to your pediatrician
 
 Ask how long you should keep waking for feeds, especially if your baby was preterm, is not back to birth weight, or has a jaundice or blood-sugar plan. Get help sooner if the baby is very hard to wake for those daytime feeds, has fewer wet diapers, or seems unwell, not merely "nocturnal."

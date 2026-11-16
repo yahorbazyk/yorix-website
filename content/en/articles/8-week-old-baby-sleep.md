@@ -78,6 +78,8 @@ Usually no. See [when to start sleep training](/when-to-start-sleep-training).
 
 ## Related reading
 
+- [Baby Sleep by Week (Weeks 1–15)](/baby-sleep-by-week)
+
 - [2 month old sleep schedule](/2-month-old-sleep-schedule)
 - [8 week old short naps](/8-week-old-short-naps)
 - [6 week sleep regression](/6-week-sleep-regression)

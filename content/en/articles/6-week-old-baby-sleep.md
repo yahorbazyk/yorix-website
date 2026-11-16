@@ -79,6 +79,8 @@ It is a popular name. Read [6 week sleep regression](/6-week-sleep-regression) r
 
 ## Related reading
 
+- [Baby Sleep by Week (Weeks 1–15)](/baby-sleep-by-week)
+
 - [6 week sleep regression](/6-week-sleep-regression)
 - [1 month old sleep schedule](/1-month-old-sleep-schedule)
 - [Cluster feeding](/cluster-feeding)
