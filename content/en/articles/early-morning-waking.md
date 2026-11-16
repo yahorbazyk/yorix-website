@@ -140,6 +140,9 @@ Often about a week of consistent changes. The body clock shifts slowly, like jet
 **Does an earlier bedtime cause earlier waking?**  
 It can. An occasional early night after bad naps usually helps, but a too-early bedtime every night can shift the morning earlier or cause [split nights](/split-nights).
 
+**Why does my baby wake up at 4am?**
+Four a.m. is often still night, not the start of the day. Treat it as a boring night waking first. If they stay up for a long stretch, see [split nights](/split-nights). If 4–5 a.m. has become their morning, see the plan on this page. The dedicated clock-time page is [why does my baby wake up at 4am](/why-does-my-baby-wake-up-at-4am).
+
 ## See what moves the morning (Yorix)
 
 **Yorix** logs bedtime, naps, and morning wake-ups, so you can see whether a later bedtime or shorter afternoon nap actually shifted the morning, rather than guessing after one good day. It is a support for tired parents, not a medical device and not a diagnosis.

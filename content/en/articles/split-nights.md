@@ -143,6 +143,9 @@ Only occasionally. Repeated early bedtimes are a common cause of split nights.
 **Can new skills cause split nights?**  
 Yes. Practicing crawling or standing can disrupt a night. Give plenty of practice time during the day.
 
+**Why does my baby wake up at 4am?**
+Four a.m. is often still night, not the start of the day. Treat it as a boring night waking first. This page covers a long stretch awake in the middle of the night. If 4–5 a.m. has become their morning, see [early morning waking](/early-morning-waking). The dedicated clock-time page is [why does my baby wake up at 4am](/why-does-my-baby-wake-up-at-4am).
+
 ## See the hours in bed at a glance (Yorix)
 
 **Yorix** shows naps, bedtime, and night wakings on one daily timeline and recalculates the next sleep window after each nap, so you can see how many hours your baby is spending in bed and whether a later bedtime closes the 2 a.m. gap. It is a support for tired parents, not a medical device and not a diagnosis.

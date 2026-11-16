@@ -144,6 +144,9 @@ At 2 months the pattern is easier to see in a log than in your head. **Yorix** t
 
 ## Related reading
 
+- [8 Week Old Baby Sleep: When the Clock Stirs and Naps Stay Short](/8-week-old-baby-sleep)
+- [8 Week Old Short Naps: Thirty Minutes Can Still Be a Nap](/8-week-old-short-naps)
+
 - [Bedtime Routine for Baby: A Simple, Evidence-Backed Wind-Down](/bedtime-routine-for-baby)
 - [How Much Sleep Does a Baby Need? A Chart From Newborn to Age 5](/how-much-sleep-does-a-baby-need)
 - [How to Swaddle a Baby Safely — and When to Stop](/how-to-swaddle-a-baby)

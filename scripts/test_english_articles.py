@@ -27,9 +27,9 @@ class EnglishArticlesTests(unittest.TestCase):
         self.assertEqual(self.catalog, [{k: v for k, v in a.items() if k not in ('body', 'schema')} for a in expected])
 
     def test_counts_and_english_only_scope(self):
-        self.assertEqual(len(self.articles), 114)
+        self.assertEqual(len(self.articles), 124)
         self.assertEqual(sum(a['replaces'] for a in self.articles), 12)
-        self.assertEqual(len({a['path'] for a in self.articles}), 114)
+        self.assertEqual(len({a['path'] for a in self.articles}), 124)
         self.assertEqual(sum(a['path'].startswith('/sleep-regression/') for a in self.articles), 7)
 
     def test_dates_hidden_notes_and_schema(self):
@@ -99,13 +99,33 @@ class EnglishArticlesTests(unittest.TestCase):
                 ids = {re.sub(r'[^a-z0-9]+', '-', re.sub(r'[*_`]', '', h.lower())).strip('-') for h in headings}
                 self.assertIn(anchor, ids, (a['path'], link))
 
+    def test_phase_three_faq_scope_and_week_group(self):
+        release = json.loads((ROOT / 'content/en/releases/phase-3/summary.json').read_text())
+        articles = {a['path']: a for a in self.articles}
+        self.assertEqual(len(release['newSlugs']), 10)
+        self.assertEqual(len(release['approvedFaqInsertions']), 13)
+        self.assertEqual(sum(a['category'] == 'Sleep by week' for a in self.articles), 4)
+        self.assertNotIn('/baby-sleep-by-week', articles)
+        for insertion in release['approvedFaqInsertions']:
+            body = articles['/' + insertion['slug']]['body']
+            for question in insertion['questions']:
+                self.assertEqual(body.count('**' + question + '**'), 1, (insertion['slug'], question))
+        for source, targets in release['inboundRequirements'].items():
+            links = re.findall(r'\]\((/[^)]+)\)', articles[source]['body'])
+            for target in targets:
+                if target.split('#')[0] != source:
+                    self.assertTrue(any(link.split('#')[0] == target.split('#')[0] for link in links), (source, target))
+        for slug, notes in release['editorialRouteNotesRemoved'].items():
+            for note in notes:
+                self.assertNotIn(note.strip(), articles['/' + slug]['body'])
+
     def test_sitemaps_have_no_retired_or_invented_translations(self):
         ns = {'s': prepare.NS}
         first = (ROOT / 'public/sitemap.xml').read_bytes()
         self.assertEqual(first, (ROOT / 'public/sitemap-pages.xml').read_bytes())
         tree = ET.fromstring(first)
         urls = {u.find('s:loc', ns).text: u.find('s:lastmod', ns) for u in tree}
-        self.assertEqual(len(urls), 474)
+        self.assertEqual(len(urls), 484)
         for url in urls:
             self.assertNotIn(url.rsplit('/', 1)[-1], prepare.MERGES)
         for a in self.articles:

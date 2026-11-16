@@ -137,6 +137,9 @@ No. Many families improve naps with timing, routine, and environment alone. Slee
 **Is the 30-minute nap the same as a false start?**  
 No. A false start is when a baby wakes within about an hour after bedtime at night. See [false starts](/false-starts).
 
+**Is a 30-minute nap enough at 8 weeks?**
+Often, yes, as a single cycle. The lengthening plan on this page is aimed at later months. Use [8 week old short naps](/8-week-old-short-naps) for that age.
+
 ## See your nap pattern (Yorix)
 
 **Yorix** records every nap and recalculates the next sleep window after each one, so after a few days you can see whether a 30-minute nap follows a short or a long wake window. It is a support for tired parents, not a medical device and not a diagnosis.

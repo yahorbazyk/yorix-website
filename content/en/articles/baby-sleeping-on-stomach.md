@@ -81,6 +81,9 @@ No. The AAP and KidsHealth advise against wedges, positioners, and similar produ
 **When can they sleep on their tummy every night on purpose?**  
 After the first birthday, Sleep Foundation and NICHD-aligned advice say you no longer have to restrict them to their back. Many one-year-olds still start on their back out of habit, which is fine.
 
+**I found my 2 week old sleeping on their side. Is that all right?**
+Start every sleep on the back. If you find them on their side and they cannot yet roll both ways, return them to their back. The week-2 snapshot is on [2 week old baby sleep](/2-week-old-baby-sleep). Side-sleep is not a "newborn exception."
+
 ## Note when rolling started (Yorix)
 
 **Yorix** can store a short note or symptom entry when you first see a roll in the crib, which is useful when you are deciding whether to stop a swaddle or stop turning them. The app cannot judge sleep position and is not a medical device.

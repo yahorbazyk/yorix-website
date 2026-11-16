@@ -139,11 +139,16 @@ No. Sleep training is optional. Many babies consolidate sleep with time.
 **How do I know it's working?**  
 Track settling time and night wakings for a week. If there's no progress after one to two weeks of consistency, pause and reassess.
 
+**Should I start sleep training at 8 or 12 weeks?**
+Usually not. Sleep Foundation generally discusses readiness around 4–6 months. A hard patch at 6–8 weeks is not a reason to start a formal method — see [6 week sleep regression](/6-week-sleep-regression) and [when to start sleep training](/when-to-start-sleep-training) already on this page's short answer.
+
 ## Check readiness with real data (Yorix)
 
 **Yorix** shows how your baby's longest night stretch and settling time are changing week by week, which can help you and your pediatrician judge whether the time is right. It is a support for tired parents, not a medical device and not a diagnosis.
 
 ## Related reading
+
+- [12 Week Old Baby Sleep: Longer Nights for Some, Still Not a Timetable](/12-week-old-baby-sleep)
 
 - [Responsive Settling: Help That Can Fade, Not a Second Methods Table](/responsive-settling)
 

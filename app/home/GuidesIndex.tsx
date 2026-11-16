@@ -32,7 +32,7 @@ export function GuidesIndex({
   footer: string;
 }) {
   const rtl = locale === 'ar' || locale === 'he';
-  const categories = ['Sleep schedules by month', 'Sleep regressions', 'Sleep problems & methods', 'Development & feeding', 'Comparisons'];
+  const categories = ['Sleep schedules by month', 'Sleep by week', 'Sleep regressions', 'Sleep problems & methods', 'Development & feeding', 'Comparisons'];
   const groups = locale === 'en' ? categories.map((category) => ({ category, guides: guides.filter((guide) => guide.category === category) })) : [{ category: '', guides }];
   const CardHeading = locale === 'en' ? 'h3' : 'h2';
 

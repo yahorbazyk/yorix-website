@@ -30,6 +30,8 @@ export const englishGuideCards = englishArticles.map((article) => ({
 })).sort((a, b) => {
   const rank = (slug: string) => {
     if (slug === 'newborn-sleep-schedule' || slug === 'sleep-regression') return 0;
+    const week = slug.match(/^(\d+)-week-old-baby-sleep$/);
+    if (week) return Number(week[1]);
     if (slug.endsWith('2-years')) return 24;
     return Number(slug.match(/(?:^|\/)(\d+)-month/)?.[1] ?? 100);
   };

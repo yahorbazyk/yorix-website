@@ -98,6 +98,9 @@ No. Regressions are discussed later, often around 3–4 months, when [sleep cycl
 
 ## Related reading
 
+- [2 Week Old Baby Sleep: Pieces, Feeds, and 'Sleeping All Day'](/2-week-old-baby-sleep)
+- [8 Week Old Baby Sleep: When the Clock Stirs and Naps Stay Short](/8-week-old-baby-sleep)
+
 - [Baby Sleep Cues: How to Read Sleepy Signs](/baby-sleep-cues)
 - [Night Lights and Baby Sleep: Color Claims, and What We Can Source](/night-lights-and-baby-sleep)
 - [Preemie Sleep: Use Due Date, Not Just Birthday](/preemie-sleep)
