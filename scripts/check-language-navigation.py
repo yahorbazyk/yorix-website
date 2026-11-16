@@ -33,7 +33,11 @@ def main():
             page.feed(html)
             assert status == 200 and page.html.get('lang') == locale, (path, cookie, status, page.html)
             count += 1
-    for navigation in ({'Referer': args.base + '/cluster-feeding'}, {'Sec-Fetch-Site': 'same-origin'}):
+    for navigation in (
+        {'Referer': args.base + '/cluster-feeding'},
+        {'Referer': 'https://yorix-app.com/cluster-feeding'},
+        {'Sec-Fetch-Site': 'same-origin'},
+    ):
         status, _, html = seo.request(args.base, '/', {**browser, 'Cookie': 'yorix-lang=ru', **navigation})
         page = seo.Page()
         page.feed(html)
