@@ -43,7 +43,7 @@ Reflux is a related question with the same bottom line (still on the back, flat)
 From Moon's HealthyChildren.org article, in our own words:
 
 - **Saline and suction.** Plain saline, two drops per nostril, then a bulb or aspirator. Squeeze the bulb first so you are not blowing mucus deeper. Doing this about 15 minutes before a feed or a nap can help both. A wet cotton swab can clean sticky mucus around the nose — not deep inside.
-- **Cool-mist humidifier or vaporizer**, close enough that mist reaches the sleep space, **out of the child's reach**, with fresh water daily and cleaning as the manufacturer says, to avoid mold.
+- **Cool-mist humidifier**, close enough that mist reaches the sleep space and **out of the child's reach**, cleaned as the manufacturer says. Cool-mist is the safer type around children (no burn risk from steam). Types, cleaning, and what a humidifier cannot treat are on [humidifiers and baby sleep](/humidifiers-and-baby-sleep).
 - **Steamy bathroom.** Run a hot shower, then sit with the baby in the moist air, especially before bedtime. Stay safe around hot water and slippery floors.
 - **Hydration.** Breast milk or formula as usual. If they are at least 6 months old, a little water may be offered as above. A stuffy nose can slow feeds; suctioning first may help. If breastfeeding is too hard, expressed milk in a cup or bottle is an option she mentions.
 - **Warmth without loose blankets.** Layers and a [sleep sack](/sleep-sacks) or footed sleeper, not a quilt. You can adjust the room slightly, then check that they are not too hot.
@@ -89,8 +89,8 @@ No. Keep them flat on their back.
 **Can they sleep in a car seat or swing if they breathe better there?**  
 No. Move them to a firm, flat sleep space. A travelling car-seat nap ends when you arrive.
 
-**Is a cool-mist humidifier safe?**  
-Yes, if it is out of reach, cleaned, and filled with fresh water as directed.
+**Is a cool-mist humidifier safe?**
+Yes, if it is a cool-mist unit, out of reach, cleaned, and filled with fresh water as directed. Cool-mist versus warm-mist, cleaning, and limits are on [humidifiers and baby sleep](/humidifiers-and-baby-sleep).
 
 **Should I still offer a pacifier?**  
 If you already use one and they will take it, the usual [pacifier and sleep](/pacifier-and-sleep) advice still applies. A blocked nose may make it harder for them to keep it in.

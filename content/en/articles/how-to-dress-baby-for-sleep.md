@@ -118,6 +118,8 @@ If you want a record of what you tried, **Yorix** can store sleep times and any 
 
 ## Related reading
 
+- [How Dark Should a Baby's Room Be? Contrast Matters More Than Pitch Black](/how-dark-should-babys-room-be)
+
 - [When Can a Baby Sleep With a Blanket or Lovey?](/when-can-baby-sleep-with-a-blanket)
 
 - [Safe sleep for babies](/safe-sleep-for-babies)

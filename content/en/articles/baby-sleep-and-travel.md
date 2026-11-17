@@ -39,6 +39,8 @@ We are not inventing a "one hour of shift per day" jet-lag formula. HealthyChild
 McCarthy's hotel article is the practical checklist:
 
 - Request a crib or play yard when you book. Inspect hardware, the mattress, and fit of the sheet. If it looks wrong, ask for a replacement or use your own travel play yard.
+
+  When you are choosing or packing a play yard, the product rules — only the mattress supplied with it, bassinet-insert limits, and when to stop — are on [pack-and-play sleep](/pack-and-play-sleep).
 - Put the crib away from cords, lamps, TVs, and anything that could fall.
 - Do a "safety crawl" on arrival for dropped pills, pens, and other small objects.
 - Never leave a child alone in a hotel room, even with a monitor, including for a meal in the attached restaurant.
@@ -83,7 +85,7 @@ Ask before long-haul travel with a preterm or recently discharged baby, before f
 Shift the schedule 2–3 days before you go, then use local daylight. Do not invent a steeper protocol than that unless your pediatrician gives you one.
 
 **Is a hotel crib safe?**  
-It can be, if it meets current standards and is in good repair. Inspect it. If it does not look right, ask for another or use your own play yard.
+It can be, if it meets current standards and is in good repair. Inspect it. If it does not look right, ask for another or use your own play yard. For the play-yard product itself, see [pack-and-play sleep](/pack-and-play-sleep).
 
 **Can they sleep in the bed with us "just on vacation"?**  
 The AAP still does not recommend bed-sharing. Vacation tiredness is a reason to be more careful, not less. See [bed-sharing](/bed-sharing-and-co-sleeping).

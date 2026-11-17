@@ -110,6 +110,8 @@ Holding a baby on your chest while you are fully awake and alert is not the same
 
 ## Related reading
 
+- [Cribs, Bassinets, Bedside Sleepers, and Moses Baskets: How They Differ](/cribs-bassinets-and-bedside-sleepers)
+
 - [Baby Sleep and Travel: Planes, Hotels, and Jet Lag](/baby-sleep-and-travel)
 - [Nursing to Sleep: When It Is Normal, and What to Change Later](/nursing-to-sleep)
 - [Preemie Sleep: Use Due Date, Not Just Birthday](/preemie-sleep)

@@ -41,15 +41,11 @@ Pushing up on hands and knees is the developmental line CPSC names. Rolling on i
 
 If the bassinet rocks, swings, or has an incline, use it only in the manner the manual allows, and never as a workaround for a baby who only sleeps in motion. See [car seats, swings, and loungers](/baby-sleeping-in-car-seat).
 
+For how cribs, mini-cribs, bedside sleepers, and Moses baskets differ — including U.S. vs UK wording on baskets — see [cribs, bassinets, and bedside sleepers](/cribs-bassinets-and-bedside-sleepers). Play-yard types, the supplied-mattress rule, and the 35-inch / climb-out limit are on [pack-and-play sleep](/pack-and-play-sleep).
+
 ## Bedside sleepers, Moses baskets, and play yards
 
-These are **product categories**, not a reason to skip the move this page describes. If a product is used for sleep, it still has to be a firm, flat, approved sleep space, used as the maker intended, with only a tight fitted sheet.
-
-- **Bedside or “next-to-me” sleepers** that meet current safety standards can be a room-sharing tool, with the baby in their own surface next to your bed. Follow the weight, roll, and assembly limits; do not leave a gap that can trap. This is not a bed-share. When the baby outgrows the product, move to a crib — the point of this article.
-- **Moses baskets** are a short-use bassinet-like space for a young, non-rolling baby. They have a low weight and a short lifespan. Stop when the maker says, or sooner if the baby can roll or push up. Do not put a basket on a pillow, a sofa, or a raised surface where it can fall.
-- **Play yards** (pack-and-plays) can be an approved sleep space when they meet standards and are used with their own firm, flat mattress only. Do not add a second mattress, a quilt, or a travel pillow. They also show up in [baby sleep and travel](/baby-sleep-and-travel).
-
-In-bed sleepers, nests, pods, and docks are **not** an approved infant sleep space on [safe sleep](/safe-sleep-for-babies). Do not treat a bedside sleeper as permission to bring those back in.
+For product types and the different U.S. and UK wording on baskets, see [cribs, bassinets, and bedside sleepers](/cribs-bassinets-and-bedside-sleepers). For play-yard limits and the supplied-mattress rule, see [pack-and-play sleep](/pack-and-play-sleep). This page covers when to move once a product is outgrown.
 
 ## How to make the switch
 
@@ -82,8 +78,8 @@ At the manufacturer's weight or length limit, at about 5 months, or when they ca
 **Can they go back to the bassinet for naps?**  
 Not once they have outgrown it. Limits apply to every sleep.
 
-**Is a mini-crib or play yard okay instead of a full crib?**  
-Yes, if it meets current safety standards and has a firm, flat, tight mattress. The AAP lists these as acceptable sleep surfaces.
+**Is a mini-crib or play yard okay instead of a full crib?**
+Yes, if it meets current safety standards and has a firm, flat, tight mattress. The AAP lists these as acceptable sleep surfaces. For types and limits, see [cribs, bassinets, and bedside sleepers](/cribs-bassinets-and-bedside-sleepers). For play-yard rules, including using only the mattress that came with it, see [pack-and-play sleep](/pack-and-play-sleep).
 
 **Do I have to move them to their own room at the same time?**  
 No. Room-sharing can, and for the first 6 months should, continue. See [when to move baby to their own room](/when-to-move-baby-to-own-room).

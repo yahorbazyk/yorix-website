@@ -58,6 +58,8 @@ HealthyChildren.org (Jana and Shu) and NHS "Helping your baby to sleep" describe
 
 There is no evidence-based 3-day "reset" clock we can quote from AAP or NHS. Be suspicious of plans that promise a flipped baby by Friday.
 
+For types of darkening and window-cord safety, see [how dark should a baby's room be](/how-dark-should-babys-room-be). Newborns still need the day–night contrast on this page more than they need a cave.
+
 ## What not to do
 
 - Do not keep the baby up all day in the hope that exhaustion will create a night. An [overtired baby](/overtired-baby) often sleeps worse, not better.

@@ -154,6 +154,8 @@ Brief fussing is common. End the session when your baby is truly upset and try a
 
 ## Related reading
 
+- [Sleep Positioners, Loungers, and Inclined Sleepers Are Not a Crib](/sleep-positioners-and-loungers)
+
 - [Baby Sleeping on the Stomach: When It Is and Isn't Safe](/baby-sleeping-on-stomach)
 - [Safe Sleep for Babies: How to Lower the Risk of SIDS](/safe-sleep-for-babies)
 
