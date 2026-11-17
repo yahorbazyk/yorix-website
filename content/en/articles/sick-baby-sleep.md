@@ -109,6 +109,9 @@ Hospital days are noisy, brightly lit, and full of checks. Nights at home often 
 **Is it normal for a baby to drool or sneeze in sleep?**
 Drooling can be ordinary, and in older infants it often travels with [teething](/teething-symptoms). Sneezing in sleep during a cold belongs on [sick baby sleep](/sick-baby-sleep). A newborn’s sleep is already noisy — see [newborn grunting in sleep](/newborn-grunting-in-sleep). Call if drool comes with breathing trouble, poor feeding, or a baby who seems unwell.
 
+**Can an ear infection ruin nights, and should I prop them up?**
+Ear pain often feels worse when a child lies down, so nights can be miserable during an infection. That is not a reason to tilt the mattress, add a pillow, or leave them in a car seat or swing to sleep. Keep them on their back, on a firm flat surface. Call the pediatrician if you suspect an ear infection (fever, pulling at the ear, a baby who is not themselves). Ask that clinician about pain relief — we will not name or dose medicines here. Congestion care stays in the section above; the humidifier itself is on [humidifiers and baby sleep](/humidifiers-and-baby-sleep).
+
 ## Log symptoms, not just sleep (Yorix)
 
 **Yorix** can track sleep and symptoms (for example, a note that this was a congested night), which is useful at a sick visit. The app cannot tell you that a wedge is safe, and it is not a medical device. If breathing looks wrong, call a clinician or emergency services.
@@ -145,6 +148,9 @@ All pages below were opened and checked on 15 November 2026.
 
 
 7. [NHS inform. “What to expect after immunisation: babies and children up to 3 years 4 months.”](https://www.nhsinform.scot/healthy-living/immunisation/why-immunise/what-to-expect-after-immunisation-babies-and-children-up-to-3-years-4-months/)
+
+
+8. [HealthyChildren.org. Ear Infection Today, Gone Tomorrow.](https://www.healthychildren.org/English/health-issues/conditions/ear-nose-throat/Pages/ear-infection-today-gone-tomorrow.aspx)
 
 
 ```json

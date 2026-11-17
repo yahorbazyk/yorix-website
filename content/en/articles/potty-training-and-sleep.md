@@ -22,9 +22,7 @@ Daytime potty training and dry nights are often searched as if they were one ski
 
 HealthyChildren.org: children generally show signs of bladder and bowel control between **18 and 24 months**; the average age toilet training *begins* in the United States is between **2 and 3 years**; most children in the United States are bowel and bladder trained by **4 years**. That is daytime mastery, not a promise of dry sheets.
 
-The same organization's bedwetting page: although most children are toilet trained between **2 and 4 years**, some cannot stay dry at night until they are older. It reports that studies have shown **15% of 5- and 7-year-olds** wet the bed, and that **by age 15, fewer than 1%** do. Most children wet the bed *during* toilet training; if they were dry for days or weeks and then wet again, the page says to go back to training pants at night and try again later. **Do not blame or punish.**
-
-Night wetting in a child who is still learning, or who has never had a long stretch of dry nights, is usually a developmental lag, not a failed sleep-training plan and not a reason to start a cry-based method.
+Night dryness often comes later. HealthyChildren.org reports that 15% of 5- and 7-year-olds still wet the bed, and that by age 15 fewer than 1% do. NHS advice is that many children under 5 wet the bed, and that most grow out of it. Home steps, when to call, and a conflict on waking a child to pee are on [bedwetting and sleep](/bedwetting-and-sleep). **Do not blame or punish.** Night wetting is not a reason to start a cry-based sleep method.
 
 ### Day versus night, at a glance
 
@@ -33,7 +31,7 @@ Night wetting in a child who is still learning, or who has never had a long stre
 | Start of training | Signs often 18–24 months; U.S. average start 2–3 years | Not a schedule for your child |
 | Daytime training complete | Most U.S. children bowel and bladder trained by 4 years | Not a hard deadline |
 | Night dryness | May come later; 15% of 5- and 7-year-olds still wet the bed; under 1% by 15 | Not a diagnosis of enuresis |
-| After 6 dry months, sudden wetting | Talk with the child's doctor; look for the medical red flags on the bedwetting page | Not a home diagnosis |
+| After 6 dry months, sudden wetting | Talk with the child's doctor; see [bedwetting and sleep](/bedwetting-and-sleep) for the warning signs | Not a home diagnosis |
 
 ## Why nights lag behind days
 
@@ -47,7 +45,7 @@ A new sibling, a move, or a family crisis is a listed reason on the "right age" 
 
 ## When night wetting is a clinical question
 
-HealthyChildren.org: if a child has been **completely toilet trained for 6 months or longer** and suddenly begins wetting the bed, talk with the doctor. The same page lists other warning signs (pain or burning, a very narrow stream, blood in the urine, daytime and nighttime wetting together, poor bowel control, and others). Medicines are discussed there for some **school-age** children, after a clinician's advice — we will not name or dose them here. "Cure" gadgets and paid programmes should be run past the pediatrician first.
+If a child has been completely toilet trained for 6 months or longer and suddenly begins wetting the bed, or if there is pain, unusual urine, daytime wetting, or poor bowel control, talk with the doctor. The warning-sign list, what you can do at home, and when a clinician might discuss an alarm or medicine (we still will not name or dose medicines here) are on [bedwetting and sleep](/bedwetting-and-sleep).
 
 ## When to get clinical advice
 
@@ -56,16 +54,16 @@ Use the red flags above. Also ask if pain, constipation, unusual thirst, or a su
 ## Frequently asked questions
 
 **Should I wake them at night to pee?**  
-Some families try a "dream wee" while training. It is not an official AAP protocol, and it is not the same as a newborn wake-to-feed. If it wrecks sleep and mornings are miserable, ask your pediatrician before it becomes a long habit.
+Some families try a "dream wee" while training. It is not an official AAP protocol, and it is not the same as a newborn wake-to-feed. If it wrecks sleep and mornings are miserable, ask your pediatrician before it becomes a long habit. Home steps and the different source wording are on [bedwetting and sleep](/bedwetting-and-sleep).
 
 **Is night wetting a sign that sleep training failed?**  
-No. Night dryness is a later skill than daytime training. Do not start a formal method to "fix" a wet bed. See [is sleep training harmful](/is-sleep-training-harmful) only if your question is about training evidence — not about sheets.
+No. Night dryness is a later skill than daytime training. Do not start a formal method to "fix" a wet bed. See [is sleep training harmful](/is-sleep-training-harmful) only if your question is about training evidence — not about sheets. Home steps and the different source wording are on [bedwetting and sleep](/bedwetting-and-sleep).
 
 **Do they need to be in a bed to potty train?**  
 No. Daytime training can happen while nights are still in a crib.
 
-**When is bedwetting no longer "just training"?**  
-The HC page treats ongoing night wetting as common at 5 and 7, and it asks you to call sooner if dryness was established for 6 months and then lost, or if the medical signs above appear.
+**When is bedwetting no longer "just training"?**
+For persistent wet nights, wetting that returns after six dry months, and other warning signs, see [bedwetting and sleep](/bedwetting-and-sleep) and talk with the pediatrician.
 
 ## See whether wet nights cluster with a change at home (Yorix)
 

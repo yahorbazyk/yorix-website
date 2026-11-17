@@ -101,6 +101,9 @@ There is no official AAP clock. The week-12 snapshot is on [12 week old baby sle
 **How do we protect baby sleep when a parent works nights, or when there is only one adult?**
 Keep the *baby’s* day and night the right way around — light and ordinary noise by day, a dim, boring night — even if a parent is on a night shift. Do not flip the baby onto the parent’s work clock. The same short bedtime routine can be done by whoever is on duty; the sequence matters more than which adult does it. See [bedtime routine for baby](/bedtime-routine-for-baby). Safe sleep does not relax because you are exhausted: back, firm, flat, clear, and never a sofa or armchair (the sofa risk is already on [bed-sharing and co-sleeping](/bed-sharing-and-co-sleeping)). If you are dangerously tired, ask for help for you as well — mental-health and exhaustion support still applies when there is no second adult to “take a shift.”
 
+**Does a bedtime massage help a baby sleep?**
+Some families find a short, gentle massage calming, and NHS baby-massage leaflets treat it mainly as a bonding activity. A Cochrane review of massage for infants under 6 months found the evidence not strong enough to recommend it for mental or physical health in low-risk babies. It is not a sleep-training method and not a reason to add essential oils unless a clinician has told you to. Stop if the baby is unwell, has a fever or broken skin, or is clearly unhappy. Keep the rest of the routine boring and consistent.
+
 ## Keep the timing honest (Yorix)
 
 **Yorix** can show you when the last nap ended and when night sleep actually started, which makes it obvious if the "routine" is starting so late that your baby is already overtired. You can also log the night itself to see whether a slightly earlier start helped. It is a support for tired parents, not a medical device and not a diagnosis.
@@ -147,6 +150,11 @@ All pages below were opened and checked on 15 November 2026.
 8. HealthyChildren.org (AAP). "Healthy Sleep Habits: How Many Hours Does Your Child Need?" <https://www.healthychildren.org/English/healthy-living/sleep/Pages/healthy-sleep-habits-how-many-hours-does-your-child-need.aspx>. Screens off at least 60 minutes before bed; Brush, Book, Bed mention; regular daily routine.
 9. HealthyChildren.org (AAP). "Brush, Book, Bed." <https://www.healthychildren.org/English/healthy-living/oral-health/Pages/Brush-Book-Bed.aspx>.
 10. American Academy of Sleep Medicine. "Study shows institution of a consistent nightly bedtime routine improves sleep in infants and toddlers as well as maternal mood." <https://aasm.org/study-shows-institution-of-a-consistent-nightly-bedtime-routine-improves-sleep-in-infants-and-toddlers-as-well-as-maternal-mood/>. (Press summary of Mindell 2009.)
+
+
+11. [Cochrane. Massage for promoting mental and physical health in infants under the age of six months.](https://doi.org/10.1002/14651858.CD005038.pub3)
+
+12. [Derbyshire Family Health Service (NHS). Baby massage.](https://derbyshirefamilyhealthservice.nhs.uk/our-services/0-5-years/your-babys-first-year/baby-massage)
 
 
 ```json

@@ -58,7 +58,7 @@ If your 13-month-old still sleeps well with only a sleep sack, you do not have t
 
 ## When a lovey is useful — and when it is not
 
-After 12 months, a consistent comforter can become part of a [bedtime routine](/bedtime-routine-for-baby) and a [sleep association](/sleep-associations) that does not require a parent in the room. Before 12 months, practice with the lovey at playtime so it is familiar, then leave it out of the crib. Do not rely on a toy as a SIDS-prevention tool; nothing in the crib has that job except a bare, firm, flat surface and a baby on their back.
+A small comfort object is still a soft object: keep it out of the crib in the first year, and introduce it cautiously after 12 months for a healthy toddler. Types, how to choose one, and a wording conflict between U.S. advice and Red Nose Australia are on [when can a baby have a lovey](/when-can-baby-have-a-lovey). This page stays on blankets, pillows, and wearable sacks.
 
 ## When to talk to your pediatrician
 
@@ -69,8 +69,8 @@ Ask before adding bedding if your child was born preterm, has a neuromuscular or
 **When can babies sleep with a blanket?**  
 After 12 months, with a light blanket and a still-fairly-clear crib. Until then, use a sleep sack or extra layer of clothing.
 
-**When can a baby have a lovey or stuffed animal at night?**  
-The same 12-month line. Use it in supervised play first.
+**When can a baby have a lovey or stuffed animal at night?**
+Not in the first year. For types, choosing a small comfort object later, and the differences between U.S. and Australian wording, see [when can a baby have a lovey](/when-can-baby-have-a-lovey).
 
 **Is a sleep sack a blanket?**  
 No. It is a wearable layer. It should still be unweighted and the right size so it cannot ride up over the face.

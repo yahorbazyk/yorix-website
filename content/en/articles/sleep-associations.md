@@ -110,6 +110,8 @@ It is a popular phrase, not an official AAP protocol, and it does not work for e
 
 ## Related reading
 
+- [When Can a Baby Have a Lovey? After the First Birthday, Cautiously](/when-can-baby-have-a-lovey)
+
 - [Cluster Feeding: Not Reverse Cycling, Not a Witching-Hour Diagnosis](/cluster-feeding)
 - [Responsive Settling: Help That Can Fade, Not a Second Methods Table](/responsive-settling)
 

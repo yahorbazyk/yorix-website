@@ -84,6 +84,8 @@ A new room, new noises, and a temporarily unpacked crib can unsettle sleep. That
 
 ## Related reading
 
+- [When Can a Baby Have a Lovey? After the First Birthday, Cautiously](/when-can-baby-have-a-lovey)
+
 - [Sleep After Separation or Divorce: Two Homes, One Predictable Night](/sleep-after-separation-or-divorce)
 
 - [Self-Soothing: A Skill That Grows, Not a Method](/self-soothing)

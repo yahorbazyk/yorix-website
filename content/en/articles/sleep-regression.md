@@ -125,7 +125,7 @@ There is no official teething regression age. Teething can coincide with bumpier
 Those ages show up in search. They are not separate official events. Use the nearest age guide: about 5 months → [4 month sleep regression](/sleep-regression/4-months) or [5 month old sleep schedule](/5-month-old-sleep-schedule); about 7 months → [6 month old sleep schedule](/6-month-old-sleep-schedule) and [sleep regression at 6 months](/sleep-regression/6-months); about 9–10 months, including a crawling wobble → [sleep regression at 8 months](/sleep-regression/8-months); about 11 months, including a walking wobble → [12 month sleep regression](/sleep-regression/12-months).
 
 **Is a Wonder Weeks leap a sleep regression?**
-Wonder Weeks is a commercial leap calendar, not a medical sleep schedule and not an AAP timeline. We do not date night wakings from those leap numbers. Use this page for the named, commonly discussed age clusters, and the matching month schedule for the 24-hour picture.
+Wonder Weeks is a commercial leap calendar, not a medical sleep schedule and not an AAP timeline. We do not date night wakings from those leap numbers. Use this page for the named, commonly discussed age clusters, and the matching month schedule for the 24-hour picture. For the evidence behind fixed leap calendars, see [developmental leaps and baby sleep](/developmental-leaps-and-baby-sleep).
 
 ## Spot the pattern behind the rough patch (Yorix)
 

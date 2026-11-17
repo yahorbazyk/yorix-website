@@ -27,11 +27,11 @@ class EnglishArticlesTests(unittest.TestCase):
         self.assertEqual(self.catalog, [{k: v for k, v in a.items() if k not in ('body', 'schema')} for a in expected])
 
     def test_counts_and_english_only_scope(self):
-        self.assertEqual(len(self.articles), 157)
-        self.assertEqual(sum(a['kind'] == 'article' for a in self.articles), 156)
+        self.assertEqual(len(self.articles), 161)
+        self.assertEqual(sum(a['kind'] == 'article' for a in self.articles), 160)
         self.assertEqual(sum(a['kind'] == 'hub' for a in self.articles), 1)
         self.assertEqual(sum(a['replaces'] for a in self.articles), 12)
-        self.assertEqual(len({a['path'] for a in self.articles}), 157)
+        self.assertEqual(len({a['path'] for a in self.articles}), 161)
         self.assertEqual(sum(a['path'].startswith('/sleep-regression/') for a in self.articles), 7)
 
     def test_dates_hidden_notes_and_schema(self):
@@ -51,7 +51,8 @@ class EnglishArticlesTests(unittest.TestCase):
                 self.assertEqual(graph[1]['itemListElement'][-1]['item'], a['canonical'])
                 if a['kind'] == 'article':
                     self.assertIn('## Short answer', a['body'])
-                    self.assertTrue('|' in a['body'] or len(re.findall(r'^- \*\*', a['body'], re.M)) >= 3, a['slug'])
+                    prose = a['body'].split('## Sources', 1)[0]
+                    self.assertTrue('|' in prose or len(re.findall(r'^(?:- |\d+\. )', prose, re.M)) >= 3, a['slug'])
         replaced = next(a for a in self.articles if a['slug'] == 'newborn-sleep-schedule')
         self.assertEqual(replaced['published'], '2026-09-03')
         special = next(a for a in self.articles if a['slug'] == 'sleep-regression/4-months')
@@ -135,7 +136,7 @@ class EnglishArticlesTests(unittest.TestCase):
         self.assertEqual(first, (ROOT / 'public/sitemap-pages.xml').read_bytes())
         tree = ET.fromstring(first)
         urls = {u.find('s:loc', ns).text: u.find('s:lastmod', ns) for u in tree}
-        self.assertEqual(len(urls), 517)
+        self.assertEqual(len(urls), 521)
         for url in urls:
             self.assertNotIn(url.rsplit('/', 1)[-1], prepare.MERGES)
         for a in self.articles:
@@ -236,6 +237,36 @@ class EnglishArticlesTests(unittest.TestCase):
             body = articles['/' + slug]['body']
             questions = re.findall(r'^\*\*([^\n]+\?)\*\*', body, re.M)
             self.assertEqual(len(questions), len(set(questions)))
+
+
+    def test_phase_eight_finishes_master_inventory_without_week_rewrites(self):
+        release = json.loads((ROOT / 'content/en/releases/phase-8/summary.json').read_text())
+        articles = {a['path']: a for a in self.articles}
+        self.assertEqual(len(release['newSlugs']), 4)
+        self.assertEqual(len(release['approvedChanges']), 15)
+        self.assertFalse(any(re.fullmatch(r'\d+-week-old-baby-sleep.md', name) for name in release['modifiedExistingFiles']))
+        shipped = [slug for phase in range(1, 9) for slug in json.loads((ROOT / f'content/en/releases/phase-{phase}/summary.json').read_text())['newSlugs'] if slug != 'baby-sleep-by-week']
+        self.assertEqual(len(shipped), 109)
+        self.assertEqual(len(set(shipped)), 109)
+        self.assertTrue(all('/' + slug in articles for slug in shipped))
+        for source, targets in release['inboundRequirements'].items():
+            links = re.findall(r'\]\((/[^)]+)\)', articles[source]['body'])
+            for target in targets:
+                if target.split('#')[0] != source:
+                    self.assertTrue(any(link.split('#')[0] == target.split('#')[0] for link in links), (source, target))
+        for slug, question in [
+            ('sick-baby-sleep', 'Can an ear infection ruin nights, and should I prop them up?'),
+            ('bedtime-routine-for-baby', 'Does a bedtime massage help a baby sleep?'),
+        ]:
+            self.assertEqual(articles['/' + slug]['body'].count('**' + question + '**'), 1)
+        for slug, heading, target in [
+            ('night-terrors', 'Sleepwalking and sleep talking', '/sleepwalking-and-sleep-talking'),
+            ('when-can-baby-sleep-with-a-blanket', 'When a lovey is useful — and when it is not', '/when-can-baby-have-a-lovey'),
+            ('potty-training-and-sleep', 'When night wetting is a clinical question', '/bedwetting-and-sleep'),
+        ]:
+            section = articles['/' + slug]['body'].split('## ' + heading + '\n', 1)[1].split('\n## ', 1)[0]
+            self.assertIn('](' + target + ')', section)
+            self.assertLess(len(section.split()), 100)
 
 
 if __name__ == '__main__':
