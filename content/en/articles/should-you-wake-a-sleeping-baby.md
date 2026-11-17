@@ -97,6 +97,9 @@ Not as a default in the first days. Use the wake-to-feed rules already on this p
 **Can a 6 month old (or 4, 8, 12 month old) sleep through the night without feeding?**
 “Through the night” at 1–3 months often means about **5–6 hours** (KidsHealth), not a 12-hour stretch. Whether a later baby can go longer without a night feed is a weight-gain and feeding question for your pediatrician, not a search-result rule. Use this page, [night weaning](/night-weaning), and [should you wake a sleeping baby](/should-you-wake-a-sleeping-baby). Do not drop a needed night feed because a blog said “6 months.”
 
+**Should I wake my baby to change a diaper at night?**
+NHS advice on helping a baby to sleep: at night, do not change them unless they need it, and do not play. “Need it” means a soiled diaper or one that is soaking through, not every slightly damp one. If you do change them, keep the lights dim and the visit boring, then put them back on their back in their own space. This is not a reason to skip a night *feed* your pediatrician still wants you to offer.
+
 ## Log stretches, then ask the doctor (Yorix)
 
 **Yorix** can show how many hours passed between feeds, which is the number your pediatrician often wants. The app cannot decide whether to wake your baby and is not a medical device.
@@ -129,6 +132,7 @@ All pages below were opened and checked on 15 November 2026.
 3. HealthyChildren.org (AAP). "Getting Your Baby to Sleep." <https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/Getting-Your-Baby-to-Sleep.aspx>. Calm night care; feeding needs come first in the early months.
 4. NHS. "Helping your baby to sleep." <https://www.nhs.uk/baby/caring-for-a-newborn/helping-your-baby-to-sleep/>. Frequent night waking is normal at first.
 5. Pennestri MH, et al. "Uninterrupted Infant Sleep, Development, and Maternal Mood." *Pediatrics*, 2018. Context for what a "long stretch" even means.
+
 
 
 ```json

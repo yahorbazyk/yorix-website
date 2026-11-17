@@ -152,8 +152,11 @@ No. Breast milk is protective, but a breastfed baby still needs back sleeping, a
 **Will back-sleeping flatten my baby’s head?**  
 It can leave a soft spot, called positional plagiocephaly. The answer is supervised [tummy time](/tummy-time) when the baby is awake, not stomach sleep at night.
 
-**Can I let my newborn sleep on my chest?**
-For the difference between an awake hold and a safe sleep space, see [bed-sharing and co-sleeping](/bed-sharing-and-co-sleeping).
+**Can a baby sleep on my chest if I am awake?**
+Holding a baby on your chest while you are fully awake and alert is not the same as sleeping with them on your chest. The risk is dozing off, especially on a sofa or armchair: HealthyChildren.org (AAP) cites a risk of sleep-related death up to 67 times higher when a baby sleeps with someone on a couch or soft chair — described in the safe-sleep guidance. If there is any chance you might fall asleep, move them to their own firm, flat, clear surface on their back first. A contact nap in your arms still has to end on a safe surface if you need to put them down; see [contact naps](/contact-naps).
+
+**Can a baby choke on spit-up while sleeping on their back?**
+HealthyChildren.org’s “Baby Burping, Hiccups & Spit-Up” (updated 31 December 2024) says spit-up almost never involves choking, coughing, discomfort, or danger to the child, **even if it occurs during sleep**, and that the best position is still on the back with the mattress flat, not elevated. That matches the AAP / NASPGHAN advice already on this page. Do not use a wedge, a rolled towel, or a car seat as a “choking workaround.” If spit-up comes with poor weight gain, forceful or green vomit, or breathing trouble, use [reflux and baby sleep](/reflux-and-baby-sleep) and call. Related: [baby hiccups and sleep](/baby-hiccups-and-sleep).
 
 ## Keep a simple safe-sleep log (Yorix)
 
@@ -223,6 +226,9 @@ All pages below were opened and checked on 15 November 2026.
 18. [Red Nose Australia. “Myth bust: vaccinations do not cause SIDS.”](https://rednose.org.au/news/myth-bust-vaccinations-do-not-cause-sids/)
 
 19. [Children’s Hospital of Philadelphia, Vaccine Education Center. “Vaccines and Sudden Infant Death Syndrome (SIDS).”](https://www.chop.edu/vaccine-education-center/vaccine-safety/vaccines-and-other-conditions/sudden-infant-death-syndrome-sids)
+
+
+20. [HealthyChildren.org. Baby Burping, Hiccups & Spit-Up.](https://www.healthychildren.org/english/ages-stages/baby/feeding-nutrition/pages/baby-burping-hiccups-and-spit-up.aspx)
 
 
 ```json

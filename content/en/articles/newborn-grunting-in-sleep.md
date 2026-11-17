@@ -173,11 +173,19 @@ Grunting at the end of each breath can be a sign of breathing difficulty. If it'
 **Can I use an app or monitor to check my baby's breathing?**  
 A consumer app is not a medical device. Use your eyes, ears, and the checks above, and call your doctor if you're worried.
 
+**Is it normal for a baby to drool or sneeze in sleep?**
+Drooling can be ordinary, and in older infants it often travels with [teething](/teething-symptoms). Sneezing in sleep during a cold belongs on [sick baby sleep](/sick-baby-sleep). A newborn’s sleep is already noisy — see [newborn grunting in sleep](/newborn-grunting-in-sleep). Call if drool comes with breathing trouble, poor feeding, or a baby who seems unwell.
+
+**Why does my baby seem to hold their breath or gasp in sleep?**
+Short pauses followed by a few faster breaths are often **periodic breathing**, already described on [newborn grunting in sleep](/newborn-grunting-in-sleep) (HealthyChildren.org: pauses of less than 10 seconds, usually settling by 1 month, if the baby is otherwise comfortable). Frequent loud snoring, longer pauses, or a chin-out mouth-open posture belongs on [baby snoring and mouth breathing](/baby-snoring-and-mouth-breathing). Breath-holding spells when a child is *awake and upset* are a different clinical picture — ask the pediatrician. Call 911 if they cannot be woken, are struggling to breathe, or their colour changes suddenly.
+
 ## Note grunting episodes for your pediatrician (Yorix)
 
 **Yorix** lets you add a quick note or symptom entry next to the sleep and feeding log, so you can show your pediatrician when the grunting happens and whether it's linked to feeds or diapers. It is a support for tired parents, not a medical device and not a diagnosis, and it can't monitor breathing.
 
 ## Related reading
+
+- [Can a Baby Sleep With Hiccups? Usually Yes — You Don't Need a Cure](/baby-hiccups-and-sleep)
 
 - [Baby Crying in Their Sleep: When to Step In](/baby-crying-in-sleep)
 - [Baby Snoring and Sleeping With the Mouth Open](/baby-snoring-and-mouth-breathing)

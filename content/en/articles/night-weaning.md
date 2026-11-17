@@ -101,6 +101,8 @@ It is usually a poor time. Wait for a calmer week.
 
 ## Related reading
 
+- [Breastfed vs Formula-Fed Sleep: A Comparison, Not a Reason to Switch](/breastfed-vs-formula-fed-sleep)
+
 - [Cluster Feeding: Not Reverse Cycling, Not a Witching-Hour Diagnosis](/cluster-feeding)
 
 - [Baby Sleep Cycles: Why They Wake After One Cycle](/baby-sleep-cycles)

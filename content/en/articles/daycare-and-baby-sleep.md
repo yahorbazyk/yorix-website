@@ -73,6 +73,12 @@ This page is the "two rooms, one child" discussion. Whether they are actually re
 **What if grandparents or a nanny wreck the schedule?**
 Two rooms, one baby: the same idea as a daycare day that does not match home. Keep safe-sleep rules in every house (back, firm, flat, clear). A slightly different nap day is usually recoverable with the usual wind-down; it is not a new official problem.
 
+**How do we protect baby sleep when a parent works nights, or when there is only one adult?**
+Keep the *baby’s* day and night the right way around — light and ordinary noise by day, a dim, boring night — even if a parent is on a night shift. Do not flip the baby onto the parent’s work clock. The same short bedtime routine can be done by whoever is on duty; the sequence matters more than which adult does it. See [bedtime routine for baby](/bedtime-routine-for-baby). Safe sleep does not relax because you are exhausted: back, firm, flat, clear, and never a sofa or armchair (the sofa risk is already on [bed-sharing and co-sleeping](/bed-sharing-and-co-sleeping)). If you are dangerously tired, ask for help for you as well — mental-health and exhaustion support still applies when there is no second adult to “take a shift.”
+
+**Going back to work — why are nights suddenly worse?**
+A long day away and heavier nights is the picture already on this page and on [reverse cycling](/reverse-cycling), not a new official regression. Keep the usual wind-down, and do not start [night weaning](/night-weaning) on the first week back unless your pediatrician has already agreed a plan.
+
 ## See how daycare days change the night (Yorix)
 
 **Yorix** can show whether naps at care are shorter than naps at home, and whether bedtime moved in response. The app cannot set a classroom schedule and is not a medical device.

@@ -90,6 +90,9 @@ The Lullaby Trust advises avoiding bed-sharing completely until one year from th
 **Do preemies still have to sleep on their backs if they have reflux?**  
 Yes. The AAP says even preterm infants with GER should be on the back, on a flat, firm surface, without commercial devices that elevate the head. Details are on [reflux and baby sleep](/reflux-and-baby-sleep).
 
+**Why won’t my baby sleep after a hospital stay?**
+Hospital days are noisy, brightly lit, and full of checks. Nights at home often look bumpier for a while. That is not an official “hospital sleep regression.” Keep the same safe-sleep rules you use every night (back, firm, flat, clear). If they are still recovering from an illness, see [sick baby sleep](/sick-baby-sleep) for congestion, fever, and when to call. If the stay was in a NICU, use [preemie sleep](/preemie-sleep) and corrected age. For the first night home after birth, see [1 week old baby sleep](/1-week-old-baby-sleep) and [newborn sleep schedule](/newborn-sleep-schedule).
+
 ## Log nights against due date, not only birthday (Yorix)
 
 **Yorix** can help you record sleeps and feeds. If you also note the due date, it is easier to look at patterns against corrected age when you talk with the pediatrician or NICU follow-up team. The app does not calculate medical risk and is not a monitor or medical device.

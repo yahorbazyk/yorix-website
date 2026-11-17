@@ -65,7 +65,7 @@
     "description": "Baby feeding schedule by age: how often and how much breast milk or formula from newborn to 12 months, when to start solids, hunger cues, and red flags.",
     "category": "Development & feeding",
     "published": "2026-09-03",
-    "updated": "2026-11-16",
+    "updated": "2026-11-17",
     "readTime": "9 min read",
     "replaces": true
   },
@@ -107,8 +107,8 @@
     "description": "Is there a newborn sleep schedule? What's normal in the first weeks, how many hours newborns sleep, feeding at night, day-night cues, and red flags to know.",
     "category": "Sleep schedules by month",
     "published": "2026-09-03",
-    "updated": "2026-11-16",
-    "readTime": "13 min read",
+    "updated": "2026-11-17",
+    "readTime": "14 min read",
     "replaces": true
   },
   {
@@ -135,8 +135,8 @@
     "description": "Why babies wake at night, what's normal by age, hunger vs comfort, safe sleep when you're exhausted, sharing the night shift, and when parents need help.",
     "category": "Sleep problems & methods",
     "published": "2026-09-03",
-    "updated": "2026-11-16",
-    "readTime": "10 min read",
+    "updated": "2026-11-17",
+    "readTime": "11 min read",
     "replaces": true
   },
   {
@@ -317,8 +317,8 @@
     "description": "Contact naps explained: why babies love sleeping on you, safety rules from AAP-based guidance, when they become a problem, and gentle ways to move to the crib.",
     "category": "Sleep problems & methods",
     "published": "2026-11-15",
-    "updated": "2026-11-16",
-    "readTime": "8 min read",
+    "updated": "2026-11-17",
+    "readTime": "9 min read",
     "replaces": false
   },
   {
@@ -387,8 +387,8 @@
     "description": "Why newborns grunt and squirm in their sleep, what grunting baby syndrome is, and the breathing red flags that mean you should call the doctor or 911.",
     "category": "Sleep problems & methods",
     "published": "2026-11-15",
-    "updated": "2026-11-16",
-    "readTime": "13 min read",
+    "updated": "2026-11-17",
+    "readTime": "14 min read",
     "replaces": false
   },
   {
@@ -667,7 +667,7 @@
     "description": "Teething symptoms explained: when babies start teething, which signs are real, why a true fever or diaper rash isn't teething, safe remedies, and when to call.",
     "category": "Development & feeding",
     "published": "2026-11-15",
-    "updated": "2026-11-16",
+    "updated": "2026-11-17",
     "readTime": "11 min read",
     "replaces": false
   },
@@ -821,7 +821,7 @@
     "description": "How to protect baby sleep when you travel: hotel cribs and pack-and-plays, car-seat naps, jet lag (adjust 2–3 days before), and what not to drop on vacation.",
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
-    "updated": "2026-11-16",
+    "updated": "2026-11-17",
     "readTime": "8 min read",
     "replaces": false
   },
@@ -891,7 +891,7 @@
     "description": "Baby snoring or sleeping with the mouth open: when a cold is enough explanation, when to call the doctor, and how this is not the same as newborn grunting.",
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
-    "updated": "2026-11-16",
+    "updated": "2026-11-17",
     "readTime": "8 min read",
     "replaces": false
   },
@@ -905,7 +905,7 @@
     "description": "Baby twitching in sleep: normal active-sleep jerks vs benign neonatal sleep myoclonus vs red flags that need a doctor. We do not diagnose. Sourced carefully.",
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
-    "updated": "2026-11-16",
+    "updated": "2026-11-17",
     "readTime": "6 min read",
     "replaces": false
   },
@@ -947,7 +947,7 @@
     "description": "Co-sleeping vs bed-sharing vs room-sharing: the AAP's 2022 advice, how UK guidance differs, higher-risk situations, and why sofas are especially dangerous.",
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
-    "updated": "2026-11-16",
+    "updated": "2026-11-17",
     "readTime": "10 min read",
     "replaces": false
   },
@@ -961,8 +961,8 @@
     "description": "A baby bedtime routine that actually helps: what to include, how long it should last, what the research shows, and a simple plan from the newborn weeks onward.",
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
-    "updated": "2026-11-16",
-    "readTime": "9 min read",
+    "updated": "2026-11-17",
+    "readTime": "10 min read",
     "replaces": false
   },
   {
@@ -989,8 +989,8 @@
     "description": "Daycare and baby sleep: two environments, safe sleep in child care, and how to adjust nights at home — not a new 'regression age' article.",
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
-    "updated": "2026-11-16",
-    "readTime": "6 min read",
+    "updated": "2026-11-17",
+    "readTime": "7 min read",
     "replaces": false
   },
   {
@@ -1017,8 +1017,8 @@
     "description": "Fear of the dark is a waking nighttime fear, unlike a night terror. What helps: a calm routine, dim light, honest comfort — and skip rituals like monster spray.",
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
-    "updated": "2026-11-16",
-    "readTime": "6 min read",
+    "updated": "2026-11-17",
+    "readTime": "7 min read",
     "replaces": false
   },
   {
@@ -1143,7 +1143,7 @@
     "description": "Night weaning: when babies may no longer need night feeds, how to drop them gradually, breast vs formula differences, and when to ask your pediatrician first.",
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
-    "updated": "2026-11-16",
+    "updated": "2026-11-17",
     "readTime": "9 min read",
     "replaces": false
   },
@@ -1199,7 +1199,7 @@
     "description": "Preemie sleep is not a term-newborn timetable: use corrected age for expectations, follow safer-sleep until 12 months from the due date, and plan quiet nights.",
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
-    "updated": "2026-11-16",
+    "updated": "2026-11-17",
     "readTime": "10 min read",
     "replaces": false
   },
@@ -1213,8 +1213,8 @@
     "description": "Reflux and baby sleep: GER versus GERD, why babies still sleep flat on the back, no wedges or swings, awake-time tips, and when to call the doctor.",
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
-    "updated": "2026-11-16",
-    "readTime": "10 min read",
+    "updated": "2026-11-17",
+    "readTime": "11 min read",
     "replaces": false
   },
   {
@@ -1227,7 +1227,7 @@
     "description": "Reverse cycling is when more of a baby's milk moves to the night because daytime intake is low — not the same as cluster feeding or night weaning.",
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
-    "updated": "2026-11-16",
+    "updated": "2026-11-17",
     "readTime": "6 min read",
     "replaces": false
   },
@@ -1241,8 +1241,8 @@
     "description": "AAP safe sleep rules: back to sleep, a firm flat crib, room sharing, no loose bedding or weighted swaddles, and other ways to lower SIDS risk. Sources checked.",
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
-    "updated": "2026-11-16",
-    "readTime": "17 min read",
+    "updated": "2026-11-17",
+    "readTime": "18 min read",
     "replaces": false
   },
   {
@@ -1269,8 +1269,8 @@
     "description": "Separation anxiety and sleep: a normal stage from late in the first year into year two, with night waking and bedtime protest — not an 8-month regression page.",
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
-    "updated": "2026-11-16",
-    "readTime": "6 min read",
+    "updated": "2026-11-17",
+    "readTime": "7 min read",
     "replaces": false
   },
   {
@@ -1283,7 +1283,7 @@
     "description": "Should you wake a sleeping baby? When the 'never wake them' saying fails: early-week feeds, jaundice plans, long day naps, and later nights. Sourced guidance.",
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
-    "updated": "2026-11-16",
+    "updated": "2026-11-17",
     "readTime": "8 min read",
     "replaces": false
   },
@@ -1311,7 +1311,7 @@
     "description": "How to help a sick or congested baby sleep: still flat on the back, no wedges or swings, saline and cool mist, and when to call the doctor or 911.",
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
-    "updated": "2026-11-16",
+    "updated": "2026-11-17",
     "readTime": "9 min read",
     "replaces": false
   },
@@ -1409,7 +1409,7 @@
     "description": "When babies sleep through the night, what 'through the night' actually means (often 6 hours, not 12), and why many healthy babies still wake at 6 and 12 months.",
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
-    "updated": "2026-11-16",
+    "updated": "2026-11-17",
     "readTime": "8 min read",
     "replaces": false
   },
@@ -1745,7 +1745,7 @@
     "description": "1 week old baby sleep: no timetable yet, frequent feeds, the first nights at home, and when to wake a sleepy newborn.",
     "category": "Sleep by week",
     "published": "2026-11-16",
-    "updated": "2026-11-16",
+    "updated": "2026-11-17",
     "readTime": "6 min read",
     "replaces": false
   },
@@ -2055,6 +2055,34 @@
     "published": "2026-11-16",
     "updated": "2026-11-16",
     "readTime": "4 min read",
+    "replaces": false
+  },
+  {
+    "slug": "baby-hiccups-and-sleep",
+    "path": "/baby-hiccups-and-sleep",
+    "canonical": "https://yorix-app.com/baby-hiccups-and-sleep",
+    "kind": "article",
+    "title": "Can a Baby Sleep With Hiccups? | Yorix",
+    "heading": "Can a Baby Sleep With Hiccups? Usually Yes — You Don't Need a Cure",
+    "description": "Hiccups usually bother parents more than babies. What HealthyChildren.org says to try during a feed, why not to use water or wedges, and when to call.",
+    "category": "Sleep problems & methods",
+    "published": "2026-11-17",
+    "updated": "2026-11-17",
+    "readTime": "5 min read",
+    "replaces": false
+  },
+  {
+    "slug": "breastfed-vs-formula-fed-sleep",
+    "path": "/breastfed-vs-formula-fed-sleep",
+    "canonical": "https://yorix-app.com/breastfed-vs-formula-fed-sleep",
+    "kind": "article",
+    "title": "Breastfed vs Formula-Fed Sleep: What Sources Say | Yorix",
+    "heading": "Breastfed vs Formula-Fed Sleep: A Comparison, Not a Reason to Switch",
+    "description": "Some sources say breastfed babies wake more often early on. Others find no difference in sleeping through. What not to switch just for sleep.",
+    "category": "Sleep problems & methods",
+    "published": "2026-11-17",
+    "updated": "2026-11-17",
+    "readTime": "7 min read",
     "replaces": false
   }
 ]

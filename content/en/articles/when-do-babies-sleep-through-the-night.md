@@ -92,6 +92,8 @@ That is a method choice with a right age and family fit, not a requirement for t
 
 ## Related reading
 
+- [Breastfed vs Formula-Fed Sleep: A Comparison, Not a Reason to Switch](/breastfed-vs-formula-fed-sleep)
+
 - [Baby Sleep Cycles: Why They Wake After One Cycle](/baby-sleep-cycles)
 - [Preemie Sleep: Use Due Date, Not Just Birthday](/preemie-sleep)
 - [Self-Soothing: A Skill That Grows, Not a Method](/self-soothing)

@@ -176,6 +176,8 @@ Yes. For most healthy, full-term babies, HealthyChildren.org recommends followin
 
 ## Related reading
 
+- [Breastfed vs Formula-Fed Sleep: A Comparison, Not a Reason to Switch](/breastfed-vs-formula-fed-sleep)
+
 - [Night Weaning: When Night Feeds Can Stop, and How to Ease Them Out](/night-weaning)
 - [Should You Wake a Sleeping Baby?](/should-you-wake-a-sleeping-baby)
 

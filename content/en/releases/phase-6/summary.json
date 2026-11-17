@@ -1,0 +1,442 @@
+{
+  "phase": 6,
+  "candidateDate": "2026-11-17",
+  "newSlugs": [
+    "baby-hiccups-and-sleep",
+    "breastfed-vs-formula-fed-sleep"
+  ],
+  "modifiedExistingFiles": [
+    "1-week-old-baby-sleep.md",
+    "baby-feeding-schedule.md",
+    "baby-sleep-and-travel.md",
+    "baby-snoring-and-mouth-breathing.md",
+    "baby-twitching-in-sleep.md",
+    "bed-sharing-and-co-sleeping.md",
+    "bedtime-routine-for-baby.md",
+    "contact-naps.md",
+    "daycare-and-baby-sleep.md",
+    "fear-of-the-dark.md",
+    "newborn-grunting-in-sleep.md",
+    "newborn-sleep-schedule.md",
+    "night-weaning.md",
+    "preemie-sleep.md",
+    "reflux-and-baby-sleep.md",
+    "reverse-cycling.md",
+    "safe-sleep-for-babies.md",
+    "separation-anxiety-and-sleep.md",
+    "should-you-wake-a-sleeping-baby.md",
+    "sick-baby-sleep.md",
+    "survive-night-wakings-new-parents.md",
+    "teething-symptoms.md",
+    "when-do-babies-sleep-through-the-night.md"
+  ],
+  "inboundRequirements": {
+    "/baby-feeding-schedule": [
+      "/breastfed-vs-formula-fed-sleep"
+    ],
+    "/newborn-grunting-in-sleep": [
+      "/baby-hiccups-and-sleep"
+    ],
+    "/night-weaning": [
+      "/breastfed-vs-formula-fed-sleep"
+    ],
+    "/reflux-and-baby-sleep": [
+      "/baby-hiccups-and-sleep"
+    ],
+    "/safe-sleep-for-babies": [
+      "/baby-hiccups-and-sleep"
+    ],
+    "/when-do-babies-sleep-through-the-night": [
+      "/breastfed-vs-formula-fed-sleep"
+    ]
+  },
+  "addedRelatedLinks": 4,
+  "approvedInsertions": [
+    {
+      "slug": "baby-sleep-and-travel",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Why won’t my baby or toddler sleep after we moved house?"
+      ],
+      "firstLine": "**Why won’t my baby or toddler sleep after we moved house?**"
+    },
+    {
+      "slug": "fear-of-the-dark",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Why won’t my baby or toddler sleep after we moved house?"
+      ],
+      "firstLine": "**Why won’t my baby or toddler sleep after we moved house?**"
+    },
+    {
+      "slug": "separation-anxiety-and-sleep",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Why won’t my baby or toddler sleep after we moved house?"
+      ],
+      "firstLine": "**Why won’t my baby or toddler sleep after we moved house?**"
+    },
+    {
+      "slug": "sick-baby-sleep",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Why won’t my baby sleep after a hospital stay?"
+      ],
+      "firstLine": "**Why won’t my baby sleep after a hospital stay?**"
+    },
+    {
+      "slug": "preemie-sleep",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Why won’t my baby sleep after a hospital stay?"
+      ],
+      "firstLine": "**Why won’t my baby sleep after a hospital stay?**"
+    },
+    {
+      "slug": "1-week-old-baby-sleep",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Why won’t my baby sleep after a hospital stay?"
+      ],
+      "firstLine": "**Why won’t my baby sleep after a hospital stay?**"
+    },
+    {
+      "slug": "newborn-sleep-schedule",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Why won’t my baby sleep after a hospital stay?"
+      ],
+      "firstLine": "**Why won’t my baby sleep after a hospital stay?**"
+    },
+    {
+      "slug": "survive-night-wakings-new-parents",
+      "section": "Frequently asked questions",
+      "questions": [
+        "How do we protect baby sleep when a parent works nights, or when there is only one adult?"
+      ],
+      "firstLine": "**How do we protect baby sleep when a parent works nights, or when there is only one adult?**"
+    },
+    {
+      "slug": "bedtime-routine-for-baby",
+      "section": "Frequently asked questions",
+      "questions": [
+        "How do we protect baby sleep when a parent works nights, or when there is only one adult?"
+      ],
+      "firstLine": "**How do we protect baby sleep when a parent works nights, or when there is only one adult?**"
+    },
+    {
+      "slug": "daycare-and-baby-sleep",
+      "section": "Frequently asked questions",
+      "questions": [
+        "How do we protect baby sleep when a parent works nights, or when there is only one adult?"
+      ],
+      "firstLine": "**How do we protect baby sleep when a parent works nights, or when there is only one adult?**"
+    },
+    {
+      "slug": "daycare-and-baby-sleep",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Going back to work — why are nights suddenly worse?"
+      ],
+      "firstLine": "**Going back to work — why are nights suddenly worse?**"
+    },
+    {
+      "slug": "reverse-cycling",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Going back to work — why are nights suddenly worse?"
+      ],
+      "firstLine": "**Going back to work — why are nights suddenly worse?**"
+    },
+    {
+      "slug": "bed-sharing-and-co-sleeping",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Can a baby sleep on my chest if I am awake?"
+      ],
+      "replacement": true
+    },
+    {
+      "slug": "safe-sleep-for-babies",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Can a baby sleep on my chest if I am awake?"
+      ],
+      "replacement": true
+    },
+    {
+      "slug": "contact-naps",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Can a baby sleep on my chest if I am awake?"
+      ],
+      "firstLine": "**Can a baby sleep on my chest if I am awake?**"
+    },
+    {
+      "slug": "should-you-wake-a-sleeping-baby",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Should I wake my baby to change a diaper at night?"
+      ],
+      "firstLine": "**Should I wake my baby to change a diaper at night?**"
+    },
+    {
+      "slug": "survive-night-wakings-new-parents",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Should I wake my baby to change a diaper at night?"
+      ],
+      "firstLine": "**Should I wake my baby to change a diaper at night?**"
+    },
+    {
+      "slug": "safe-sleep-for-babies",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Can a baby choke on spit-up while sleeping on their back?"
+      ],
+      "firstLine": "**Can a baby choke on spit-up while sleeping on their back?**"
+    },
+    {
+      "slug": "reflux-and-baby-sleep",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Can a baby choke on spit-up while sleeping on their back?"
+      ],
+      "firstLine": "**Can a baby choke on spit-up while sleeping on their back?**"
+    },
+    {
+      "slug": "teething-symptoms",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Is it normal for a baby to drool or sneeze in sleep?"
+      ],
+      "firstLine": "**Is it normal for a baby to drool or sneeze in sleep?**"
+    },
+    {
+      "slug": "newborn-grunting-in-sleep",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Is it normal for a baby to drool or sneeze in sleep?"
+      ],
+      "firstLine": "**Is it normal for a baby to drool or sneeze in sleep?**"
+    },
+    {
+      "slug": "baby-twitching-in-sleep",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Is it normal for a baby to drool or sneeze in sleep?"
+      ],
+      "firstLine": "**Is it normal for a baby to drool or sneeze in sleep?**"
+    },
+    {
+      "slug": "sick-baby-sleep",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Is it normal for a baby to drool or sneeze in sleep?"
+      ],
+      "firstLine": "**Is it normal for a baby to drool or sneeze in sleep?**"
+    },
+    {
+      "slug": "newborn-grunting-in-sleep",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Why does my baby seem to hold their breath or gasp in sleep?"
+      ],
+      "firstLine": "**Why does my baby seem to hold their breath or gasp in sleep?**"
+    },
+    {
+      "slug": "baby-snoring-and-mouth-breathing",
+      "section": "Frequently asked questions",
+      "questions": [
+        "Why does my baby seem to hold their breath or gasp in sleep?"
+      ],
+      "firstLine": "**Why does my baby seem to hold their breath or gasp in sleep?**"
+    }
+  ],
+  "skippedExistingQuestions": [],
+  "originalSourceHashes": {
+    "baby-hiccups-and-sleep.md": "a51a3c3c90871c744e2743dfe0921072cb0ae2f98001ec6b8e75b4cb623b368a",
+    "breastfed-vs-formula-fed-sleep.md": "cc75ea93eb69e9c16d3fac6b4c5246614e72bffdbafe15f403a046aababcc340"
+  },
+  "editorialNotesOmittedOrAdapted": [
+    {
+      "where": "baby-hiccups-and-sleep",
+      "original": "All pages below were opened and checked on 16 November 2026.",
+      "replacement": "Sources supplied with the article and checked for this release on 17 November 2026."
+    },
+    {
+      "where": "breastfed-vs-formula-fed-sleep",
+      "original": "All pages below were opened and checked on 16 November 2026.",
+      "replacement": "Sources supplied with the article and checked for this release on 17 November 2026."
+    },
+    {
+      "where": "breastfed-vs-formula-fed-sleep",
+      "original": "Health Canada / KidsHealth",
+      "replacement": "HealthyChildren.org / KidsHealth",
+      "reason": "Preserve the attribution correction verified in phase 5."
+    },
+    {
+      "where": "merge-1",
+      "original": "not a new URL",
+      "replacement": "the relevant guide"
+    },
+    {
+      "where": "merge-1",
+      "original": "not a new URL",
+      "replacement": "the relevant guide"
+    },
+    {
+      "where": "merge-1",
+      "original": "not a new URL",
+      "replacement": "the relevant guide"
+    },
+    {
+      "where": "merge-2",
+      "original": "not a new URL",
+      "replacement": "the relevant guide"
+    },
+    {
+      "where": "merge-2",
+      "original": "The first night home after birth belongs on",
+      "replacement": "For the first night home after birth, see"
+    },
+    {
+      "where": "merge-2",
+      "original": "not a new URL",
+      "replacement": "the relevant guide"
+    },
+    {
+      "where": "merge-2",
+      "original": "The first night home after birth belongs on",
+      "replacement": "For the first night home after birth, see"
+    },
+    {
+      "where": "merge-2",
+      "original": "not a new URL",
+      "replacement": "the relevant guide"
+    },
+    {
+      "where": "merge-2",
+      "original": "The first night home after birth belongs on",
+      "replacement": "For the first night home after birth, see"
+    },
+    {
+      "where": "merge-2",
+      "original": "not a new URL",
+      "replacement": "the relevant guide"
+    },
+    {
+      "where": "merge-2",
+      "original": "The first night home after birth belongs on",
+      "replacement": "For the first night home after birth, see"
+    },
+    {
+      "where": "merge-3",
+      "original": "the mental-health and exhaustion advice already on this page",
+      "replacement": "mental-health and exhaustion support"
+    },
+    {
+      "where": "merge-3",
+      "original": "the mental-health and exhaustion advice already on this page",
+      "replacement": "mental-health and exhaustion support"
+    },
+    {
+      "where": "merge-3",
+      "original": "the mental-health and exhaustion advice already on this page",
+      "replacement": "mental-health and exhaustion support"
+    },
+    {
+      "where": "merge-8",
+      "original": "already in the table on this page",
+      "replacement": "described in the safe-sleep guidance"
+    },
+    {
+      "where": "merge-8",
+      "original": "already in the table on this page",
+      "replacement": "described in the safe-sleep guidance"
+    },
+    {
+      "where": "merge-8",
+      "original": "already in the table on this page",
+      "replacement": "described in the safe-sleep guidance"
+    },
+    {
+      "where": "merge-8",
+      "original": "already in the table on this page",
+      "replacement": "described in the safe-sleep guidance"
+    },
+    {
+      "where": "merge-8",
+      "original": "already in the table on this page",
+      "replacement": "described in the safe-sleep guidance"
+    },
+    {
+      "where": "merge-12",
+      "original": ", do not start a new sleep URL",
+      "replacement": ""
+    },
+    {
+      "where": "merge-12",
+      "original": ", do not start a new sleep URL",
+      "replacement": ""
+    },
+    {
+      "where": "1-week-old-baby-sleep.md",
+      "original": ", the relevant guide.",
+      "replacement": "."
+    },
+    {
+      "where": "baby-sleep-and-travel.md",
+      "original": ", the relevant guide.",
+      "replacement": "."
+    },
+    {
+      "where": "fear-of-the-dark.md",
+      "original": ", the relevant guide.",
+      "replacement": "."
+    },
+    {
+      "where": "newborn-sleep-schedule.md",
+      "original": ", the relevant guide.",
+      "replacement": "."
+    },
+    {
+      "where": "preemie-sleep.md",
+      "original": ", the relevant guide.",
+      "replacement": "."
+    },
+    {
+      "where": "separation-anxiety-and-sleep.md",
+      "original": ", the relevant guide.",
+      "replacement": "."
+    },
+    {
+      "where": "sick-baby-sleep.md",
+      "original": ", the relevant guide.",
+      "replacement": "."
+    },
+    {
+      "where": "preemie-sleep.md",
+      "original": "If they are still recovering from an illness, stay on this page for congestion, fever, and when to call.",
+      "replacement": "If they are still recovering from an illness, see [sick baby sleep](/sick-baby-sleep) for congestion, fever, and when to call."
+    },
+    {
+      "where": "1-week-old-baby-sleep.md",
+      "original": "If they are still recovering from an illness, stay on this page for congestion, fever, and when to call.",
+      "replacement": "If they are still recovering from an illness, see [sick baby sleep](/sick-baby-sleep) for congestion, fever, and when to call."
+    },
+    {
+      "where": "newborn-sleep-schedule.md",
+      "original": "If they are still recovering from an illness, stay on this page for congestion, fever, and when to call.",
+      "replacement": "If they are still recovering from an illness, see [sick baby sleep](/sick-baby-sleep) for congestion, fever, and when to call."
+    }
+  ],
+  "supersededMergeItemsSkipped": [
+    5,
+    6,
+    7
+  ],
+  "newSourceUrls": [
+    "https://www.nhs.uk/baby/caring-for-a-newborn/helping-your-baby-to-sleep/"
+  ]
+}

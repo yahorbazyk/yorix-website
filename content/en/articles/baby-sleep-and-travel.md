@@ -91,6 +91,9 @@ The AAP still does not recommend bed-sharing. Vacation tiredness is a reason to 
 **What if the only nap is in the car?**  
 Use it for the drive, then move them when you arrive. Build a crib nap at the destination when you can.
 
+**Why won’t my baby or toddler sleep after we moved house?**
+A new room, new noises, and a temporarily unpacked crib can unsettle sleep. That is a change of place, not a new official regression age. Keep the same safe-sleep rules in the new home: back, firm, flat, clear, in your room if they are still in the first months. Rebuild the same short bedtime routine you already use — see [bedtime routine for baby](/bedtime-routine-for-baby). A travel crib or play yard is fine overnight if it meets safety standards and has only a tight fitted sheet (see the pack-and-play FAQ on [when to move baby to crib](/when-to-move-baby-to-crib)). If an older child is frightened of the new dark room, use [fear of the dark](/fear-of-the-dark) and [night lights and baby sleep](/night-lights-and-baby-sleep).
+
 ## Keep the log, loosen the clock (Yorix)
 
 **Yorix** can show how nights drifted across time zones, which is useful when you are resetting after a trip. The app cannot make a hotel crib safe and is not a medical device.
