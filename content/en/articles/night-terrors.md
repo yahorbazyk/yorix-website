@@ -36,7 +36,7 @@ A screaming child at 10 p.m. can look like a nightmare, a tantrum, or something 
 
 HealthyChildren.org lists: uncontrollable crying, sweating, shaking or fast breathing, a terrified, confused, or glassy-eyed look, thrashing, screaming, kicking or staring, not realizing you are there, and pushing you away if you try to hold them. After it ends, most children fall straight back to sleep because they were never really awake.
 
-Night terrors can run in families and often travel with [sleepwalking](#sleepwalking-and-sleep-talking). Being very tired, unwell, or off schedule can make them more likely (NHS). They are frightening to watch and usually harmless to the child.
+Night terrors can run in families and often travel with [sleepwalking](/sleepwalking-and-sleep-talking). Being very tired, unwell, or off schedule can make them more likely (NHS). They are frightening to watch and usually harmless to the child.
 
 ## What to do in the moment
 
@@ -58,7 +58,7 @@ A consistent, calming [bedtime routine](/bedtime-routine-for-baby), enough total
 
 ## Sleepwalking and sleep talking
 
-HealthyChildren.org groups these with night terrors as deep-sleep events. The child may have a blank stare, not respond, and be hard to wake. Most return to bed on their own and do not remember it. Do not try to wake them; gently lead them back. Clear trip hazards, block stairs, and lock outside doors. Sleepwalking can run in families.
+Like night terrors, these are deep-sleep events: a blank stare, little response, and usually no memory in the morning. Gently guide the child back to bed and make the room safe (stairs, doors, trip hazards). There is a wording difference between sources on whether to wake them — that conflict, age figures, and when to see a GP are on [sleepwalking and sleep talking](/sleepwalking-and-sleep-talking).
 
 ## Nightmares — what to do when they wake
 

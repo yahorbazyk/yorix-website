@@ -499,7 +499,7 @@
     "description": "Sleep regression ages explained: what the evidence says about 3–4, 6, 8, 12 and 18 months and 2 years, whether newborns have one, signs and how long it lasts.",
     "category": "Sleep regressions",
     "published": "2026-11-15",
-    "updated": "2026-11-16",
+    "updated": "2026-11-17",
     "readTime": "11 min read",
     "replaces": false
   },
@@ -807,7 +807,7 @@
     "description": "Why babies cry out in their sleep during active (REM) sleep, how that differs from a true night waking or a night terror, and when you should step in.",
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
-    "updated": "2026-11-16",
+    "updated": "2026-11-17",
     "readTime": "5 min read",
     "replaces": false
   },
@@ -962,7 +962,7 @@
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
     "updated": "2026-11-17",
-    "readTime": "10 min read",
+    "readTime": "11 min read",
     "replaces": false
   },
   {
@@ -1129,7 +1129,7 @@
     "description": "Night terrors vs nightmares: how they differ, what to do in the moment, when not to wake your child, and when to call the doctor. NHS and AAP advice.",
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
-    "updated": "2026-11-16",
+    "updated": "2026-11-17",
     "readTime": "7 min read",
     "replaces": false
   },
@@ -1325,7 +1325,7 @@
     "description": "What sleep associations are, why a baby who needs rocking or feeding to fall asleep also needs it at 2 a.m., and a gentle plan to change the habit.",
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
-    "updated": "2026-11-16",
+    "updated": "2026-11-17",
     "readTime": "7 min read",
     "replaces": false
   },
@@ -1395,7 +1395,7 @@
     "description": "When can babies sleep with a blanket, lovey, or stuffed animal? Why loose bedding stays out of the crib in the first year, and what changes after 12 months.",
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
-    "updated": "2026-11-16",
+    "updated": "2026-11-17",
     "readTime": "6 min read",
     "replaces": false
   },
@@ -1535,7 +1535,7 @@
     "description": "Cluster feeding is several short feeds close together, often in the early days or evenings — not reverse cycling, the witching hour, or night weaning.",
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
-    "updated": "2026-11-16",
+    "updated": "2026-11-17",
     "readTime": "5 min read",
     "replaces": false
   },
@@ -1731,7 +1731,7 @@
     "description": "Why is my baby suddenly sleeping more? Catch-up after a fussy spell can be normal. When extra sleep is a reason to call the pediatrician.",
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
-    "updated": "2026-11-16",
+    "updated": "2026-11-17",
     "readTime": "5 min read",
     "replaces": false
   },
@@ -1969,7 +1969,7 @@
     "description": "Night dryness usually comes later than daytime potty training. Why night wetting is not a sleep-training failure, and how the crib-to-bed move stays separate.",
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
-    "updated": "2026-11-16",
+    "updated": "2026-11-17",
     "readTime": "5 min read",
     "replaces": false
   },
@@ -2025,7 +2025,7 @@
     "description": "A new sibling can unsettle an older child's bedtime. There is no official 'new baby regression.' What to keep consistent, and how two bedtimes can coexist.",
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
-    "updated": "2026-11-16",
+    "updated": "2026-11-17",
     "readTime": "5 min read",
     "replaces": false
   },
@@ -2191,6 +2191,62 @@
     "title": "Sleep Positioners and Loungers: Why They're Unsafe | Yorix",
     "heading": "Sleep Positioners, Loungers, and Inclined Sleepers Are Not a Crib",
     "description": "Positioners, docks, loungers, and inclined sleepers are not approved sleep spaces. What the AAP and CPSC say, including banned products and recalls.",
+    "category": "Sleep problems & methods",
+    "published": "2026-11-17",
+    "updated": "2026-11-17",
+    "readTime": "6 min read",
+    "replaces": false
+  },
+  {
+    "slug": "bedwetting-and-sleep",
+    "path": "/bedwetting-and-sleep",
+    "canonical": "https://yorix-app.com/bedwetting-and-sleep",
+    "kind": "article",
+    "title": "Bedwetting and Sleep in Children: What Helps | Yorix",
+    "heading": "Bedwetting and Sleep: Common, Not a Failed Sleep Plan",
+    "description": "Night wetting is common under age 5 and is not a failed sleep-training plan. What HealthyChildren.org and the NHS say to do at home, and when to call.",
+    "category": "Sleep problems & methods",
+    "published": "2026-11-17",
+    "updated": "2026-11-17",
+    "readTime": "7 min read",
+    "replaces": false
+  },
+  {
+    "slug": "developmental-leaps-and-baby-sleep",
+    "path": "/developmental-leaps-and-baby-sleep",
+    "canonical": "https://yorix-app.com/developmental-leaps-and-baby-sleep",
+    "kind": "article",
+    "title": "Developmental Leaps and Baby Sleep: The Evidence | Yorix",
+    "heading": "Developmental Leaps and Baby Sleep: There Is No Official Calendar",
+    "description": "Wonder Weeks-style leap calendars are not an official AAP, CDC, or NHS protocol. What the small studies show, and what actually can disrupt sleep.",
+    "category": "Sleep problems & methods",
+    "published": "2026-11-17",
+    "updated": "2026-11-17",
+    "readTime": "6 min read",
+    "replaces": false
+  },
+  {
+    "slug": "sleepwalking-and-sleep-talking",
+    "path": "/sleepwalking-and-sleep-talking",
+    "canonical": "https://yorix-app.com/sleepwalking-and-sleep-talking",
+    "kind": "article",
+    "title": "Sleepwalking and Sleep Talking in Children | Yorix",
+    "heading": "Sleepwalking and Sleep Talking: Keep Them Safe, Then Guide Them Back",
+    "description": "Sleepwalking and sleep talking are deep-sleep events, not nightmares. How to keep a child safe, the conflict on waking them, and when to see a doctor.",
+    "category": "Sleep problems & methods",
+    "published": "2026-11-17",
+    "updated": "2026-11-17",
+    "readTime": "5 min read",
+    "replaces": false
+  },
+  {
+    "slug": "when-can-baby-have-a-lovey",
+    "path": "/when-can-baby-have-a-lovey",
+    "canonical": "https://yorix-app.com/when-can-baby-have-a-lovey",
+    "kind": "article",
+    "title": "When Can a Baby Have a Lovey? Comfort Objects | Yorix",
+    "heading": "When Can a Baby Have a Lovey? After the First Birthday, Cautiously",
+    "description": "Keep loveys out of the crib in the first year. After 12 months, how to pick a small comfort object, and where U.S. and Red Nose advice differs.",
     "category": "Sleep problems & methods",
     "published": "2026-11-17",
     "updated": "2026-11-17",

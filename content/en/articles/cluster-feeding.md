@@ -67,6 +67,8 @@ No, not as a first response, and not in the newborn days. Night weaning is a lat
 
 **Yorix** can help you tag when feeds actually happened, so you can see whether they bunch in the evening or run all day. The app cannot judge intake or latch and is not a medical device.
 
+Extra appetite is not an official dated sleep regression. For the calendar claim, see [developmental leaps and baby sleep](/developmental-leaps-and-baby-sleep).
+
 ## Related reading
 
 - [1 Week Old Baby Sleep: The First Nights at Home](/1-week-old-baby-sleep)

@@ -69,6 +69,8 @@ Call your pediatrician or local urgent line if you cannot rouse them, if they se
 
 **Yorix** can help you see whether sleep jumped after a fussy spell or a vaccine day, and whether feeds kept up. The app cannot tell illness from catch-up and is not a medical device.
 
+There is no official sleep-spurt or leap calendar; the evidence is discussed in [developmental leaps and baby sleep](/developmental-leaps-and-baby-sleep).
+
 ## Related reading
 
 - [Can a newborn sleep too much?](/can-a-newborn-sleep-too-much)

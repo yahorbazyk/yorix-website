@@ -141,7 +141,7 @@
   },
   "sleep-regression": {
     "published": "2026-11-15",
-    "updated": "2026-11-16"
+    "updated": "2026-11-17"
   },
   "split-nights": {
     "published": "2026-11-15",
@@ -229,7 +229,7 @@
   },
   "baby-crying-in-sleep": {
     "published": "2026-11-16",
-    "updated": "2026-11-16"
+    "updated": "2026-11-17"
   },
   "baby-sleep-and-travel": {
     "published": "2026-11-16",
@@ -321,7 +321,7 @@
   },
   "night-terrors": {
     "published": "2026-11-16",
-    "updated": "2026-11-16"
+    "updated": "2026-11-17"
   },
   "night-weaning": {
     "published": "2026-11-16",
@@ -377,7 +377,7 @@
   },
   "sleep-associations": {
     "published": "2026-11-16",
-    "updated": "2026-11-16"
+    "updated": "2026-11-17"
   },
   "sleep-sacks": {
     "published": "2026-11-16",
@@ -397,7 +397,7 @@
   },
   "when-can-baby-sleep-with-a-blanket": {
     "published": "2026-11-16",
-    "updated": "2026-11-16"
+    "updated": "2026-11-17"
   },
   "when-do-babies-sleep-through-the-night": {
     "published": "2026-11-16",
@@ -437,7 +437,7 @@
   },
   "cluster-feeding": {
     "published": "2026-11-16",
-    "updated": "2026-11-16"
+    "updated": "2026-11-17"
   },
   "melatonin-and-childrens-sleep": {
     "published": "2026-11-16",
@@ -493,7 +493,7 @@
   },
   "why-is-my-baby-suddenly-sleeping-more": {
     "published": "2026-11-16",
-    "updated": "2026-11-16"
+    "updated": "2026-11-17"
   },
   "1-week-old-baby-sleep": {
     "published": "2026-11-16",
@@ -561,7 +561,7 @@
   },
   "potty-training-and-sleep": {
     "published": "2026-11-16",
-    "updated": "2026-11-16"
+    "updated": "2026-11-17"
   },
   "screens-and-toddler-sleep": {
     "published": "2026-11-16",
@@ -577,7 +577,7 @@
   },
   "toddler-sleep-after-a-new-baby": {
     "published": "2026-11-16",
-    "updated": "2026-11-16"
+    "updated": "2026-11-17"
   },
   "what-time-should-baby-go-to-bed": {
     "published": "2026-11-16",
@@ -624,6 +624,22 @@
     "updated": "2026-11-17"
   },
   "sleep-positioners-and-loungers": {
+    "published": "2026-11-17",
+    "updated": "2026-11-17"
+  },
+  "bedwetting-and-sleep": {
+    "published": "2026-11-17",
+    "updated": "2026-11-17"
+  },
+  "developmental-leaps-and-baby-sleep": {
+    "published": "2026-11-17",
+    "updated": "2026-11-17"
+  },
+  "sleepwalking-and-sleep-talking": {
+    "published": "2026-11-17",
+    "updated": "2026-11-17"
+  },
+  "when-can-baby-have-a-lovey": {
     "published": "2026-11-17",
     "updated": "2026-11-17"
   }

@@ -1,0 +1,135 @@
+{
+  "phase": 8,
+  "candidateDate": "2026-11-17",
+  "newSlugs": [
+    "bedwetting-and-sleep",
+    "developmental-leaps-and-baby-sleep",
+    "sleepwalking-and-sleep-talking",
+    "when-can-baby-have-a-lovey"
+  ],
+  "modifiedExistingFiles": [
+    "baby-crying-in-sleep.md",
+    "bedtime-routine-for-baby.md",
+    "cluster-feeding.md",
+    "night-terrors.md",
+    "potty-training-and-sleep.md",
+    "separation-anxiety-and-sleep.md",
+    "sick-baby-sleep.md",
+    "sleep-associations.md",
+    "sleep-regression.md",
+    "toddler-sleep-after-a-new-baby.md",
+    "when-can-baby-sleep-with-a-blanket.md",
+    "why-is-my-baby-suddenly-sleeping-more.md"
+  ],
+  "inboundRequirements": {
+    "/baby-crying-in-sleep": [
+      "/sleepwalking-and-sleep-talking"
+    ],
+    "/cluster-feeding": [
+      "/developmental-leaps-and-baby-sleep"
+    ],
+    "/night-terrors": [
+      "/sleepwalking-and-sleep-talking"
+    ],
+    "/potty-training-and-sleep": [
+      "/bedwetting-and-sleep"
+    ],
+    "/separation-anxiety-and-sleep": [
+      "/when-can-baby-have-a-lovey"
+    ],
+    "/sleep-associations": [
+      "/when-can-baby-have-a-lovey"
+    ],
+    "/sleep-regression": [
+      "/developmental-leaps-and-baby-sleep"
+    ],
+    "/toddler-sleep-after-a-new-baby": [
+      "/bedwetting-and-sleep"
+    ],
+    "/when-can-baby-sleep-with-a-blanket": [
+      "/when-can-baby-have-a-lovey"
+    ],
+    "/why-is-my-baby-suddenly-sleeping-more": [
+      "/developmental-leaps-and-baby-sleep"
+    ]
+  },
+  "addedRelatedLinks": 4,
+  "approvedChanges": [
+    {
+      "slug": "when-can-baby-sleep-with-a-blanket",
+      "action": "Replace When a lovey is useful — and when it is not"
+    },
+    {
+      "slug": "when-can-baby-sleep-with-a-blanket",
+      "action": "Update FAQ: When can a baby have a lovey or stuffed animal at night?"
+    },
+    {
+      "slug": "night-terrors",
+      "action": "Replace Sleepwalking and sleep talking"
+    },
+    {
+      "slug": "night-terrors",
+      "action": "Point night-terror overlap to the new guide"
+    },
+    {
+      "slug": "potty-training-and-sleep",
+      "action": "Shorten night-dryness statistics in Short answer"
+    },
+    {
+      "slug": "potty-training-and-sleep",
+      "action": "Link clinical action in day/night table"
+    },
+    {
+      "slug": "potty-training-and-sleep",
+      "action": "Replace When night wetting is a clinical question"
+    },
+    {
+      "slug": "potty-training-and-sleep",
+      "action": "Update FAQ: When is bedwetting no longer \"just training\"?"
+    },
+    {
+      "slug": "potty-training-and-sleep",
+      "action": "Update FAQ: Should I wake them at night to pee?"
+    },
+    {
+      "slug": "potty-training-and-sleep",
+      "action": "Update FAQ: Is night wetting a sign that sleep training failed?"
+    },
+    {
+      "slug": "sick-baby-sleep",
+      "action": "Add FAQ: Can an ear infection ruin nights, and should I prop them up?"
+    },
+    {
+      "slug": "bedtime-routine-for-baby",
+      "action": "Add FAQ: Does a bedtime massage help a baby sleep?"
+    },
+    {
+      "slug": "sleep-regression",
+      "action": "Update FAQ: Is a Wonder Weeks leap a sleep regression?"
+    },
+    {
+      "slug": "why-is-my-baby-suddenly-sleeping-more",
+      "action": "Add leap-calendar pointer"
+    },
+    {
+      "slug": "cluster-feeding",
+      "action": "Add leap-calendar pointer"
+    }
+  ],
+  "originalSourceHashes": {
+    "bedwetting-and-sleep.md": "c865702b319481b5f99cbdff7c1311ba3291db3bc547308f6c23be2fc1505ea8",
+    "developmental-leaps-and-baby-sleep.md": "3873f078318af747d2b95bf7c3a0421b804c19410cc0ac4f98aa80818c8ab350",
+    "sleepwalking-and-sleep-talking.md": "09a3e69f6e06265cc5f16459773d9fec6538712e51dfb7b886a72edbaeb7fad1",
+    "when-can-baby-have-a-lovey.md": "18cadfe09c9d36c0811903ca90a7b0ce39fb7f725daac0380f120b7ebaf6e3a6"
+  },
+  "newSourceUrls": {
+    "sick-baby-sleep": [
+      "https://www.healthychildren.org/English/health-issues/conditions/ear-nose-throat/Pages/ear-infection-today-gone-tomorrow.aspx"
+    ],
+    "bedtime-routine-for-baby": [
+      "https://doi.org/10.1002/14651858.CD005038.pub3",
+      "https://derbyshirefamilyhealthservice.nhs.uk/our-services/0-5-years/your-babys-first-year/baby-massage"
+    ]
+  },
+  "weeklyArticlesUnchanged": true
+}

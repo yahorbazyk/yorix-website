@@ -71,6 +71,8 @@ If a plan is mid-stream and the house is in upheaval, many families pause and re
 
 ## Related reading
 
+- [Bedwetting and Sleep: Common, Not a Failed Sleep Plan](/bedwetting-and-sleep)
+
 - [Siblings sharing a room](/siblings-sharing-a-room)
 - [Toddler bedtime battles](/toddler-bedtime-battles)
 - [Crib to bed transition](/crib-to-toddler-bed)
