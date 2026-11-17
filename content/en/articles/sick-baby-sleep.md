@@ -103,6 +103,12 @@ Call your pediatrician or local urgent line if you cannot rouse them, if they se
 **Can eczema wreck my baby’s sleep?**
 Itch can make nights miserable. Treat the skin with your clinician’s plan, not with a sleep product. Do not add loose blankets, pillows, or unprescribed creams into an infant’s crib. Dress in a comfortable layer — see [how to dress baby for sleep](/how-to-dress-baby-for-sleep) and [baby sweating in sleep](/baby-sweating-in-sleep) — and use [sick baby sleep](/sick-baby-sleep) for illness-night logistics.
 
+**Why won’t my baby sleep after a hospital stay?**
+Hospital days are noisy, brightly lit, and full of checks. Nights at home often look bumpier for a while. That is not an official “hospital sleep regression.” Keep the same safe-sleep rules you use every night (back, firm, flat, clear). If they are still recovering from an illness, stay on this page for congestion, fever, and when to call. If the stay was in a NICU, use [preemie sleep](/preemie-sleep) and corrected age. For the first night home after birth, see [1 week old baby sleep](/1-week-old-baby-sleep) and [newborn sleep schedule](/newborn-sleep-schedule).
+
+**Is it normal for a baby to drool or sneeze in sleep?**
+Drooling can be ordinary, and in older infants it often travels with [teething](/teething-symptoms). Sneezing in sleep during a cold belongs on [sick baby sleep](/sick-baby-sleep). A newborn’s sleep is already noisy — see [newborn grunting in sleep](/newborn-grunting-in-sleep). Call if drool comes with breathing trouble, poor feeding, or a baby who seems unwell.
+
 ## Log symptoms, not just sleep (Yorix)
 
 **Yorix** can track sleep and symptoms (for example, a note that this was a congested night), which is useful at a sick visit. The app cannot tell you that a wedge is safe, and it is not a medical device. If breathing looks wrong, call a clinician or emergency services.

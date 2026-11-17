@@ -69,6 +69,9 @@ Long sleep can be normal, and it can also be a reason to wake them or to call. U
 **Is the "second night" a sleep regression?**
 No official one. The second night can be noisier and more hungry than the first. See the newborn page and [cluster feeding](/cluster-feeding). Do not start a training plan.
 
+**Why won’t my baby sleep after a hospital stay?**
+Hospital days are noisy, brightly lit, and full of checks. Nights at home often look bumpier for a while. That is not an official “hospital sleep regression.” Keep the same safe-sleep rules you use every night (back, firm, flat, clear). If they are still recovering from an illness, see [sick baby sleep](/sick-baby-sleep) for congestion, fever, and when to call. If the stay was in a NICU, use [preemie sleep](/preemie-sleep) and corrected age. For the first night home after birth, see [1 week old baby sleep](/1-week-old-baby-sleep) and [newborn sleep schedule](/newborn-sleep-schedule).
+
 ## Keep the first-week log simple (Yorix)
 
 **Yorix** can help you record feeds, stretches, and wet-diaper counts so a weight-check visit is not a blur. The app cannot tell you whether to wake a baby and is not a medical device.

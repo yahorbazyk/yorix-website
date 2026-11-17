@@ -98,6 +98,9 @@ Yes, and that is one of its strengths. A book and the same song still work in a 
 **What is a good bedtime for a 12 week old?**
 There is no official AAP clock. The week-12 snapshot is on [12 week old baby sleep](/12-week-old-baby-sleep). A short, same-order routine matters more than a 7:00 p.m. target.
 
+**How do we protect baby sleep when a parent works nights, or when there is only one adult?**
+Keep the *baby’s* day and night the right way around — light and ordinary noise by day, a dim, boring night — even if a parent is on a night shift. Do not flip the baby onto the parent’s work clock. The same short bedtime routine can be done by whoever is on duty; the sequence matters more than which adult does it. See [bedtime routine for baby](/bedtime-routine-for-baby). Safe sleep does not relax because you are exhausted: back, firm, flat, clear, and never a sofa or armchair (the sofa risk is already on [bed-sharing and co-sleeping](/bed-sharing-and-co-sleeping)). If you are dangerously tired, ask for help for you as well — mental-health and exhaustion support still applies when there is no second adult to “take a shift.”
+
 ## Keep the timing honest (Yorix)
 
 **Yorix** can show you when the last nap ended and when night sleep actually started, which makes it obvious if the "routine" is starting so late that your baby is already overtired. You can also log the night itself to see whether a slightly earlier start helped. It is a support for tired parents, not a medical device and not a diagnosis.

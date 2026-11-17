@@ -77,6 +77,9 @@ Sleep Foundation reports that children are not generally thought to be at higher
 **Why does my baby kick their legs in sleep?**
 Kicking and wriggling are common in active sleep. Use [baby twitching in sleep](/baby-twitching-in-sleep) for the twitching-versus-concern picture. Call if movements look stiff, rhythmic, one-sided, or they cannot be broken, as already described on that page.
 
+**Is it normal for a baby to drool or sneeze in sleep?**
+Drooling can be ordinary, and in older infants it often travels with [teething](/teething-symptoms). Sneezing in sleep during a cold belongs on [sick baby sleep](/sick-baby-sleep). A newborn’s sleep is already noisy — see [newborn grunting in sleep](/newborn-grunting-in-sleep). Call if drool comes with breathing trouble, poor feeding, or a baby who seems unwell.
+
 ## A video is more useful than a guess (Yorix)
 
 **Yorix** can store a symptom note and the time you saw the movements, which is handy at a visit. The app cannot diagnose myoclonus or a seizure, and it is not a medical device. If you are worried, call a clinician, not an app.

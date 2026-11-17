@@ -168,6 +168,9 @@ Some babies manage around 5-hour stretches by about 3 months (Newcastle Hospital
 **My newborn only sleeps on me. Is that normal?**  
 Very common in the early weeks (Tresillian). Hold your baby while you are awake, and move them to their own safe sleep space before you sleep.
 
+**Why won’t my baby sleep after a hospital stay?**
+Hospital days are noisy, brightly lit, and full of checks. Nights at home often look bumpier for a while. That is not an official “hospital sleep regression.” Keep the same safe-sleep rules you use every night (back, firm, flat, clear). If they are still recovering from an illness, see [sick baby sleep](/sick-baby-sleep) for congestion, fever, and when to call. If the stay was in a NICU, use [preemie sleep](/preemie-sleep) and corrected age. For the first night home after birth, see [1 week old baby sleep](/1-week-old-baby-sleep) and [newborn sleep schedule](/newborn-sleep-schedule).
+
 ## Keep track without keeping it in your head (Yorix)
 
 **Yorix** keeps feeds, diapers, and sleep in one timeline both parents can see, so nobody has to remember which side was last or when the last wet diaper happened. As patterns appear in the weeks ahead, it suggests the next sleep window. It is a support for tired parents, not a medical device and not a diagnosis.

@@ -85,6 +85,9 @@ A briefly open mouth in active sleep can happen. If the baby is congested, havin
 **When should I see a sleep specialist or ask for a sleep study?**
 Start with your pediatrician. This page already lists breathing, snoring, and unusual-event reasons to call. A specialist or a study is their referral, not a parent DIY step . If the issue is nightmares, sleepwalking, or sleep talking rather than breathing, see [night terrors](/night-terrors), which already compares those events.
 
+**Why does my baby seem to hold their breath or gasp in sleep?**
+Short pauses followed by a few faster breaths are often **periodic breathing**, already described on [newborn grunting in sleep](/newborn-grunting-in-sleep) (HealthyChildren.org: pauses of less than 10 seconds, usually settling by 1 month, if the baby is otherwise comfortable). Frequent loud snoring, longer pauses, or a chin-out mouth-open posture belongs on [baby snoring and mouth breathing](/baby-snoring-and-mouth-breathing). Breath-holding spells when a child is *awake and upset* are a different clinical picture — ask the pediatrician. Call 911 if they cannot be woken, are struggling to breathe, or their colour changes suddenly.
+
 ## Log which nights are noisy, and how (Yorix)
 
 **Yorix** can help you note which nights sounded congested, whether the mouth was open, and whether you heard pauses — the kind of log a pediatrician may find useful. The app cannot diagnose sleep apnea and is not a medical device or a monitor.

@@ -69,6 +69,9 @@ The child with a night terror is not truly awake and usually will not remember i
 **My 2-year-old suddenly will not go to bed. Is it fear or a regression?**  
 It can be either, or both. Use [2-year sleep regression](/sleep-regression/2-years) for a time-limited bump, [toddler bedtime battles](/toddler-bedtime-battles) for ongoing stalling, and this page if the child can tell you they are scared.
 
+**Why won’t my baby or toddler sleep after we moved house?**
+A new room, new noises, and a temporarily unpacked crib can unsettle sleep. That is a change of place, not a new official regression age. Keep the same safe-sleep rules in the new home: back, firm, flat, clear, in your room if they are still in the first months. Rebuild the same short bedtime routine you already use — see [bedtime routine for baby](/bedtime-routine-for-baby). A travel crib or play yard is fine overnight if it meets safety standards and has only a tight fitted sheet (see the pack-and-play FAQ on [when to move baby to crib](/when-to-move-baby-to-crib)). If an older child is frightened of the new dark room, use [fear of the dark](/fear-of-the-dark) and [night lights and baby sleep](/night-lights-and-baby-sleep).
+
 ## Note whether the scare is at bedtime or later (Yorix)
 
 **Yorix** can help you record whether a hard night started at lights-out or hours later, which is one clue when you and the pediatrician are sorting fear or a nightmare from a night terror. The app cannot treat anxiety and is not a medical device.
