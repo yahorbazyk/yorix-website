@@ -92,6 +92,9 @@ That is the transfer problem already described on [baby won't sleep in crib](/ba
 
 ## Related reading
 
+- [Cribs, Bassinets, Bedside Sleepers, and Moses Baskets: How They Differ](/cribs-bassinets-and-bedside-sleepers)
+- [Pack-and-Play and Play Yard Sleep: Types, Rules, and When to Stop](/pack-and-play-sleep)
+
 - [Contact naps](/contact-naps)
 - [When to move baby to the crib](/when-to-move-baby-to-crib)
 - [Sleep associations](/sleep-associations)

@@ -1,0 +1,180 @@
+{
+  "phase": 7,
+  "candidateDate": "2026-11-17",
+  "newSlugs": [
+    "baby-monitors-and-safe-sleep",
+    "baby-swings-and-bouncers",
+    "crib-mattress-safety",
+    "cribs-bassinets-and-bedside-sleepers",
+    "how-dark-should-babys-room-be",
+    "humidifiers-and-baby-sleep",
+    "pack-and-play-sleep",
+    "sleep-positioners-and-loungers"
+  ],
+  "modifiedExistingFiles": [
+    "baby-sleep-and-travel.md",
+    "baby-sleeping-in-car-seat.md",
+    "baby-wont-sleep-in-crib.md",
+    "bed-sharing-and-co-sleeping.md",
+    "early-morning-waking.md",
+    "how-to-dress-baby-for-sleep.md",
+    "newborn-day-night-confusion.md",
+    "night-lights-and-baby-sleep.md",
+    "reflux-and-baby-sleep.md",
+    "safe-sleep-for-babies.md",
+    "sick-baby-sleep.md",
+    "tummy-time.md",
+    "when-to-move-baby-to-crib.md",
+    "when-to-move-baby-to-own-room.md"
+  ],
+  "inboundRequirements": {
+    "/baby-sleep-and-travel": [
+      "/pack-and-play-sleep"
+    ],
+    "/baby-sleeping-in-car-seat": [
+      "/baby-swings-and-bouncers",
+      "/sleep-positioners-and-loungers"
+    ],
+    "/baby-wont-sleep-in-crib": [
+      "/cribs-bassinets-and-bedside-sleepers",
+      "/pack-and-play-sleep"
+    ],
+    "/bed-sharing-and-co-sleeping": [
+      "/cribs-bassinets-and-bedside-sleepers"
+    ],
+    "/early-morning-waking": [
+      "/how-dark-should-babys-room-be"
+    ],
+    "/how-to-dress-baby-for-sleep": [
+      "/how-dark-should-babys-room-be"
+    ],
+    "/newborn-day-night-confusion": [
+      "/how-dark-should-babys-room-be"
+    ],
+    "/night-lights-and-baby-sleep": [
+      "/how-dark-should-babys-room-be"
+    ],
+    "/reflux-and-baby-sleep": [
+      "/sleep-positioners-and-loungers"
+    ],
+    "/safe-sleep-for-babies": [
+      "/baby-monitors-and-safe-sleep",
+      "/baby-swings-and-bouncers",
+      "/crib-mattress-safety",
+      "/cribs-bassinets-and-bedside-sleepers",
+      "/pack-and-play-sleep",
+      "/sleep-positioners-and-loungers"
+    ],
+    "/sick-baby-sleep": [
+      "/humidifiers-and-baby-sleep"
+    ],
+    "/tummy-time": [
+      "/sleep-positioners-and-loungers"
+    ],
+    "/when-to-move-baby-to-crib": [
+      "/cribs-bassinets-and-bedside-sleepers",
+      "/pack-and-play-sleep"
+    ],
+    "/when-to-move-baby-to-own-room": [
+      "/baby-monitors-and-safe-sleep"
+    ]
+  },
+  "addedRelatedLinks": 7,
+  "approvedChanges": [
+    {
+      "slug": "baby-sleeping-in-car-seat",
+      "action": "Replace Swings, rockers, bouncers, gliders, and loungers"
+    },
+    {
+      "slug": "baby-sleeping-in-car-seat",
+      "action": "Replace FAQ: Is a swing safe if they are buckled?"
+    },
+    {
+      "slug": "baby-sleeping-in-car-seat",
+      "action": "Replace FAQ: Do inclined \"sleepers\" count if the box said they were for sleep?"
+    },
+    {
+      "slug": "when-to-move-baby-to-crib",
+      "action": "Add pointer: Why bassinets have a short lifespan"
+    },
+    {
+      "slug": "when-to-move-baby-to-crib",
+      "action": "Replace FAQ: Is a mini-crib or play yard okay instead of a full crib?"
+    },
+    {
+      "slug": "when-to-move-baby-to-crib",
+      "action": "Replace Bedside sleepers, Moses baskets, and play yards"
+    },
+    {
+      "slug": "safe-sleep-for-babies",
+      "action": "Replace A firm, flat, approved sleep surface"
+    },
+    {
+      "slug": "safe-sleep-for-babies",
+      "action": "Replace FAQ: Do I need a baby monitor to follow safe sleep?"
+    },
+    {
+      "slug": "safe-sleep-for-babies",
+      "action": "Extend no-gadgets bullet"
+    },
+    {
+      "slug": "safe-sleep-for-babies",
+      "action": "Replace Home apnea monitors and consumer “SIDS monitors”"
+    },
+    {
+      "slug": "safe-sleep-for-babies",
+      "action": "Shorten mattress-fit bullet"
+    },
+    {
+      "slug": "sick-baby-sleep",
+      "action": "Replace humidifier bullet"
+    },
+    {
+      "slug": "sick-baby-sleep",
+      "action": "Replace FAQ: Is a cool-mist humidifier safe?"
+    },
+    {
+      "slug": "early-morning-waking",
+      "action": "Replace Step 1: Make the room properly dark"
+    },
+    {
+      "slug": "night-lights-and-baby-sleep",
+      "action": "Add darkness pointer before product-standard note"
+    },
+    {
+      "slug": "newborn-day-night-confusion",
+      "action": "Add pointer: The contrast plan (no fancy schedule required)"
+    },
+    {
+      "slug": "baby-sleep-and-travel",
+      "action": "Add play-yard pointer after hotel inspection bullet"
+    },
+    {
+      "slug": "baby-sleep-and-travel",
+      "action": "Replace FAQ: Is a hotel crib safe?"
+    }
+  ],
+  "originalSourceHashes": {
+    "baby-monitors-and-safe-sleep.md": "f08447fac4cb6f8db3ff601aea87b5048f6a0bba2d96bb4243da1b54e56f4dce",
+    "baby-swings-and-bouncers.md": "71de6ac5207ce98f042f2e9060ffdb4eedb722c72e856af45c1481e6b55a1588",
+    "crib-mattress-safety.md": "6353d156400b1aeeeb455508d0d16c07b8598adb1428efd326079b58f2fdb47a",
+    "cribs-bassinets-and-bedside-sleepers.md": "4905b8edee1efbb044ed69f46b8ce8712d3e3801cb46ebecbdc1e95fe857ec5e",
+    "how-dark-should-babys-room-be.md": "c0c384367ea47f3a2d5fdaaf06fee70bb1d8f73226fb71039306248961cf3e0f",
+    "humidifiers-and-baby-sleep.md": "8cbd9624381d7305048e8ad6f70e17caaa1466915475de32aeb5ddea8471324e",
+    "pack-and-play-sleep.md": "ea93d54bb0ca2eefe2f5729a507ec23205773dc7d4604a2a208fd2eeada1fb1f",
+    "sleep-positioners-and-loungers.md": "a5d6349029802fd72a641f33f59a765e969453c83e2326046f37bb966c63b861"
+  },
+  "technicalSourceNotes": [
+    {
+      "slug": "how-dark-should-babys-room-be",
+      "original": "U.S. Consumer Product Safety Commission news release, 2022–2023 custom window-covering rule: cords on window coverings are treated as a substantial product hazard in that rulemaking.",
+      "replacement": "U.S. Consumer Product Safety Commission news release on the 2022–2023 window-covering rulemaking (historical context, not a statement of the current custom-covering operating-cord standard). The separate custom-covering operating-cord rule was vacated in September 2023; see [CPSC’s FY2025 standards report](https://www.cpsc.gov/s3fs-public/FY25-Annual-VSTAR_Final.pdf). Current consumer cord-safety advice is in source 2.",
+      "reason": "Distinguish historical rulemaking from current consumer safety guidance."
+    }
+  ],
+  "supersededMergeItemsNotPasted": [
+    5,
+    6,
+    7
+  ]
+}

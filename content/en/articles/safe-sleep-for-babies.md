@@ -52,9 +52,9 @@ Supervised **tummy time** while the baby is awake is still important for develop
 
 "Firm" means the mattress should not indent when the baby is lying on it. Use a crib, bassinet, portable crib, or play yard that meets U.S. Consumer Product Safety Commission (CPSC) standards, with a mattress made for that product and a tight fitted sheet. Check the CPSC website for recalls, especially if the crib is not new. Do not use a crib that is missing hardware, is broken, or has no instructions.
 
-The 2022 AAP update is strict about products that look like sleep spaces but are not: if a product does not meet federal safety standards for cribs, bassinets, portable cribs, or play yards, do not use it for sleep. That includes many inclined sleepers, hammocks, in-bed sleepers, nests, pods, and compact "travel" products that have not been certified. Feeding pillows and infant loungers (HealthyChildren.org and KidsHealth name examples such as Boppy-style pillows and Dock-a-Tot-style loungers) are not sleep products. If your baby falls asleep in a car seat, stroller, swing, or sling, move them to a firm, flat surface on their back as soon as you can.
+What “firm” and “fit” mean in more detail — including why toppers and memory foam are unsafe — is on [crib mattress safety](/crib-mattress-safety). How cribs, bassinets, and bedside sleepers differ is on [cribs, bassinets, and bedside sleepers](/cribs-bassinets-and-bedside-sleepers). Play yards have their own rules on [pack-and-play sleep](/pack-and-play-sleep).
 
-A bedside sleeper, Moses basket, or play yard can count only if it is a product intended for infant sleep, meets current standards, and is used with a firm, flat surface and a tight fitted sheet — details on [when to move baby to a crib](/when-to-move-baby-to-crib). In-bed sleepers, nests, and docks stay in the “do not use” group already on this page.
+The 2022 AAP update is strict about products that look like sleep spaces but are not. Inclined sleepers, hammocks, in-bed sleepers, nests, pods, feeding pillows, and infant loungers are covered on [sleep positioners and loungers](/sleep-positioners-and-loungers). If your baby falls asleep in a car seat, stroller, swing, or sling, move them to a firm, flat surface on their back as soon as you can — see [baby sleeping in a car seat](/baby-sleeping-in-car-seat) and [baby swings and bouncers](/baby-swings-and-bouncers).
 
 ## Crib standards, mattress fit, and recalls
 
@@ -62,7 +62,7 @@ The paragraph above already says to use a product that meets U.S. Consumer Produ
 
 - **Date and drop-sides.** HealthyChildren.org's "New Crib Standards" page explains the federal update that took effect on **28 June 2011**: manufacture and sale of **drop-side** cribs were prohibited, and new cribs had to meet tougher rules on slats, mattress support, hardware, and testing. HealthyChildren's room-safety checklist (updated 14 August 2020) says to use a crib manufactured **after June 2011**. An older drop-side crib is not a bargain. The same 2011 rules also apply to resale, including garage sales and donations (HealthyChildren.org). If you already have a recalled drop-side crib, stop using it; CPSC and the AAP have long pointed families to the recall list, not to a homemade repair.
 - **Slats and posts.** CPSC crib-safety tips, and HealthyChildren's checklist, both say slats should be **no more than 2 3/8 inches** (about 6 cm, or the width of a soda can) apart, with no missing or cracked slats. CPSC says corner posts should be **no more than 1/16 inch** high, so clothing cannot catch; there should be no cutouts in the headboard or footboard that could trap a head. HealthyChildren.org agrees on flush, very low posts for ordinary cribs, and flags decorative cutouts the same way.
-- **Mattress fit.** The mattress should be made for that crib and sit snugly. HealthyChildren.org's test: if you can insert **more than two adult fingers** between the mattress and the sides or ends of the crib, do not use that crib-and-mattress combination. CPSC's wording is the same idea: a firm, tight-fitting mattress so a baby cannot become trapped in a gap.
+- **Mattress fit.** Use a mattress made for the crib with a snug fit. Detailed fit checks and the difference between consumer advice and manufacturer testing are on [crib mattress safety](/crib-mattress-safety).
 - **Hardware, every week.** Missing, loose, or broken screws, brackets, or mattress-support parts are a reason to stop using the crib (CPSC; HealthyChildren.org). Use the manufacturer's parts, not a substitute from a hardware drawer.
 - **Where to check recalls.** Search the crib (and any second-hand bassinet or play yard) at [SaferProducts.gov](https://www.saferproducts.gov/) and consider signing up for CPSC recall notices at [CPSC.gov](https://www.cpsc.gov/). The existing safe-sleep paragraph already tells you to do this, especially if the crib is not new.
 
@@ -103,15 +103,13 @@ A safe sleep space is the core. These additional steps also have evidence behind
 - **Smoke-free pregnancy and home.** Smoking in pregnancy and secondhand smoke after birth are major SIDS risk factors. This includes vaping and e-cigarettes, which contain nicotine. Keep the car and home smoke-free. If you smoke, it is especially important not to bed-share.
 - **No alcohol or drugs** in pregnancy or after birth, in the sense the AAP means: alcohol, marijuana, opioids, or illicit drugs raise risk, and they make bed-sharing far more dangerous.
 - **Prenatal care and well-child visits**, including routine immunizations. KidsHealth and NHS both note that vaccines are associated with a lower SIDS risk; they also protect against illnesses that can make a baby more vulnerable.
-- **No gadgets that claim to prevent SIDS.** Home apnea monitors and "SIDS-prevention" positioners have not been shown to do that job, and positioners add a suffocation risk. The AAP and KidsHealth advise against them.
+- **No gadgets that claim to prevent SIDS.** Home apnea monitors and "SIDS-prevention" positioners have not been shown to do that job, and positioners add a suffocation risk. The AAP and KidsHealth advise against them. Types of consumer monitors, and the AAP’s limit on home cardiorespiratory monitors, are on [baby monitors and safe sleep](/baby-monitors-and-safe-sleep). Positioners are on [sleep positioners and loungers](/sleep-positioners-and-loungers).
 
 ## Home apnea monitors and consumer “SIDS monitors”
 
-Consumer gadgets that claim to watch a baby’s breathing or to “prevent SIDS” are not a substitute for the safer-sleep steps already on this page. HealthyChildren.org’s page on home apnea monitors is direct: **research has not shown a clear link between ordinary apnea and SIDS**, and **home apnea monitors give little or no protection from SIDS**. Brief pauses in a newborn’s breathing can be normal (see [newborn grunting in sleep](/newborn-grunting-in-sleep) for periodic breathing) and are not, by themselves, a SIDS warning. The same HealthyChildren.org page notes that these monitors also produce many **false alarms**, which can add fear and lost sleep.
+Consumer monitors do not prevent SIDS or replace a safe sleep setup. For types, false alarms, and the distinction between a consumer device and a clinician-prescribed medical monitor, see [baby monitors and safe sleep](/baby-monitors-and-safe-sleep). Follow your care team if a medical monitor has been prescribed, and keep the same safe-sleep rules.
 
-The American Academy of Pediatrics’ 2022 safe-sleep policy, already the backbone of this article, **does not recommend** using commercial cardiorespiratory monitors as a strategy to reduce the risk of SIDS. Devices marketed to reduce SIDS are not a safer-sleep plan. Lullaby Trust and Red Nose similarly caution families not to treat a gadget as protection.
-
-In **rare** cases a doctor may prescribe a home monitor — HealthyChildren.org names examples such as a baby who needs **home oxygen** or who has **serious breathing problems**. If that happens, use the device as prescribed and still keep the crib rules on this page. Do not buy a consumer sock, camera, or pad in place of back-sleeping, a firm flat surface, a clear crib, and room-sharing.
+For periodic breathing and newborn sleep sounds, see [newborn grunting in sleep](/newborn-grunting-in-sleep).
 
 ## Vaccinations do not cause SIDS
 
@@ -140,8 +138,8 @@ No, not as a starting position. The AAP treats the side as just as risky as the 
 **Is it OK to use a blanket if I tuck it in tightly?**  
 The AAP prefers no loose bedding in the first year. Use layers or a wearable blanket instead. UK sources discuss light, tucked bedding and a feet-to-foot position; if you follow that tradition, keep the cot otherwise clear and the covering light.
 
-**Do I need a baby monitor to follow safe sleep?**  
-No. Monitors can be reassuring, but they do not replace a safe sleep setup and they do not prevent SIDS.
+**Do I need a baby monitor to follow safe sleep?**
+No. Monitors can be convenient, but they do not replace a safe sleep setup and they do not prevent SIDS. Types and the AAP’s limit on home cardiorespiratory monitors are on [baby monitors and safe sleep](/baby-monitors-and-safe-sleep).
 
 **Should twins share a sleep surface?**  
 The AAP recommends against bed-sharing, including with twins. Each baby needs their own firm, flat surface. Each twin should have their own approved crib or bassinet.

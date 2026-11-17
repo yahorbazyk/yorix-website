@@ -43,6 +43,8 @@ The AAP's Center of Excellence Q&A on light projectors (December 2025) is cleare
 - Do not aim a bright, cool, or flashing projector at the crib as all-night scenery. If a projector helps a short wind-down, treat it like the AAP's brief-soothe example and turn it down or off for sleep.
 - A comfort lamp for a toddler who is afraid of the dark still belongs on the [fear of the dark](/fear-of-the-dark) page: dim, not a second daytime. Color choice can follow the child-study caution above; it is not a different protocol.
 
+For how dark the room itself should be, types of darkening, and cordless window-covering safety, see [how dark should a baby's room be](/how-dark-should-babys-room-be). This page stays on the lamp.
+
 There is no CPSC or AAP product standard that certifies a night light as "safe for infant circadian biology." Check only that the object itself cannot fall into the crib or overheat on a sheet — the bare-crib rule on [safe sleep](/safe-sleep-for-babies) still applies.
 
 ## When to talk to your pediatrician

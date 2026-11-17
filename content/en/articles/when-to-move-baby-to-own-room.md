@@ -91,6 +91,8 @@ Yes, as a short transition. Try not to make it a permanent split that you then h
 
 ## Related reading
 
+- [Baby Monitors: Types, Convenience, and What They Cannot Do](/baby-monitors-and-safe-sleep)
+
 - [Crib to Toddler Bed: When and How to Switch](/crib-to-toddler-bed)
 - [Siblings Sharing a Room: After the Twins and Own-Room Pages](/siblings-sharing-a-room)
 

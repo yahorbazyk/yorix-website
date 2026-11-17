@@ -359,7 +359,7 @@
     "description": "Why babies wake at 4:30 or 5am, how to tell if it's too early or just enough sleep, and a step-by-step plan for light, naps, bedtime and calm morning responses.",
     "category": "Sleep problems & methods",
     "published": "2026-11-15",
-    "updated": "2026-11-16",
+    "updated": "2026-11-17",
     "readTime": "10 min read",
     "replaces": false
   },
@@ -681,7 +681,7 @@
     "description": "Tummy time from newborn to 6 months: when to start, minutes a day by age, positions that work, what to do if your baby hates it, and safety rules.",
     "category": "Development & feeding",
     "published": "2026-11-15",
-    "updated": "2026-11-16",
+    "updated": "2026-11-17",
     "readTime": "12 min read",
     "replaces": false
   },
@@ -863,8 +863,8 @@
     "description": "Is it safe for a baby to sleep in a car seat, swing, rocker, or lounger? What to do if they doze on a drive, and why sitting devices are not a crib.",
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
-    "updated": "2026-11-16",
-    "readTime": "8 min read",
+    "updated": "2026-11-17",
+    "readTime": "7 min read",
     "replaces": false
   },
   {
@@ -933,7 +933,7 @@
     "description": "When a baby won't sleep in the bassinet or crib at night: why contact and motion feel easier, what is safe to try, and how this differs from contact naps.",
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
-    "updated": "2026-11-16",
+    "updated": "2026-11-17",
     "readTime": "7 min read",
     "replaces": false
   },
@@ -1059,7 +1059,7 @@
     "description": "How to dress a baby for sleep: the 'one extra layer' rule, signs of overheating, sleep sacks vs blankets, and why room-temperature advice differs by country.",
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
-    "updated": "2026-11-16",
+    "updated": "2026-11-17",
     "readTime": "10 min read",
     "replaces": false
   },
@@ -1101,7 +1101,7 @@
     "description": "Why newborns mix up days and nights, how long day-night reversal usually lasts, and a simple light-and-dark plan for the first 8 weeks. Sourced advice.",
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
-    "updated": "2026-11-16",
+    "updated": "2026-11-17",
     "readTime": "7 min read",
     "replaces": false
   },
@@ -1115,7 +1115,7 @@
     "description": "Night lights and baby sleep: dim light for night cares, what child studies say about color, and why infant-specific red-light rules are not settled.",
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
-    "updated": "2026-11-16",
+    "updated": "2026-11-17",
     "readTime": "6 min read",
     "replaces": false
   },
@@ -1242,7 +1242,7 @@
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
     "updated": "2026-11-17",
-    "readTime": "18 min read",
+    "readTime": "17 min read",
     "replaces": false
   },
   {
@@ -1312,7 +1312,7 @@
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
     "updated": "2026-11-17",
-    "readTime": "9 min read",
+    "readTime": "10 min read",
     "replaces": false
   },
   {
@@ -1437,7 +1437,7 @@
     "description": "When to move a baby out of the bassinet: CPSC's 'about 5 months or pushing up on hands and knees,' plus weight and length limits. How to make the switch.",
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
-    "updated": "2026-11-16",
+    "updated": "2026-11-17",
     "readTime": "7 min read",
     "replaces": false
   },
@@ -1451,7 +1451,7 @@
     "description": "When to move a baby to their own room: AAP room-sharing for at least 6 months, why older 'first year' wording changed, and a practical plan for the move.",
     "category": "Sleep problems & methods",
     "published": "2026-11-16",
-    "updated": "2026-11-16",
+    "updated": "2026-11-17",
     "readTime": "6 min read",
     "replaces": false
   },
@@ -2083,6 +2083,118 @@
     "published": "2026-11-17",
     "updated": "2026-11-17",
     "readTime": "7 min read",
+    "replaces": false
+  },
+  {
+    "slug": "baby-monitors-and-safe-sleep",
+    "path": "/baby-monitors-and-safe-sleep",
+    "canonical": "https://yorix-app.com/baby-monitors-and-safe-sleep",
+    "kind": "article",
+    "title": "Baby Monitors and Safe Sleep: Types and Limits | Yorix",
+    "heading": "Baby Monitors: Types, Convenience, and What They Cannot Do",
+    "description": "Audio, video, and wearable monitors can be convenient. They do not prevent SIDS. What the AAP says, and what a monitor cannot replace.",
+    "category": "Sleep problems & methods",
+    "published": "2026-11-17",
+    "updated": "2026-11-17",
+    "readTime": "4 min read",
+    "replaces": false
+  },
+  {
+    "slug": "baby-swings-and-bouncers",
+    "path": "/baby-swings-and-bouncers",
+    "canonical": "https://yorix-app.com/baby-swings-and-bouncers",
+    "kind": "article",
+    "title": "Baby Swings and Bouncers: Types and Sleep Safety | Yorix",
+    "heading": "Baby Swings, Bouncers, and Rockers: Types for Play, Not for Sleep",
+    "description": "Swings, bouncers, and rockers are for awake play, not sleep. How the types differ, why an incline over 10 degrees is unsafe, and what to do if they nod off.",
+    "category": "Sleep problems & methods",
+    "published": "2026-11-17",
+    "updated": "2026-11-17",
+    "readTime": "5 min read",
+    "replaces": false
+  },
+  {
+    "slug": "crib-mattress-safety",
+    "path": "/crib-mattress-safety",
+    "canonical": "https://yorix-app.com/crib-mattress-safety",
+    "kind": "article",
+    "title": "Crib Mattress Safety: Firmness, Fit, and Types | Yorix",
+    "heading": "Crib Mattress Safety: Firm, Flat, and Made for That Crib",
+    "description": "A crib mattress should stay firm and fit the crib it was made for. What AAP and CPSC require, why toppers and memory foam are unsafe, and how fit is tested.",
+    "category": "Sleep problems & methods",
+    "published": "2026-11-17",
+    "updated": "2026-11-17",
+    "readTime": "6 min read",
+    "replaces": false
+  },
+  {
+    "slug": "cribs-bassinets-and-bedside-sleepers",
+    "path": "/cribs-bassinets-and-bedside-sleepers",
+    "canonical": "https://yorix-app.com/cribs-bassinets-and-bedside-sleepers",
+    "kind": "article",
+    "title": "Cribs, Bassinets, and Bedside Sleepers Compared | Yorix",
+    "heading": "Cribs, Bassinets, Bedside Sleepers, and Moses Baskets: How They Differ",
+    "description": "How cribs, bassinets, bedside sleepers, and Moses baskets differ. Age limits, U.S. vs UK standards, and which products actually count as a sleep space.",
+    "category": "Sleep problems & methods",
+    "published": "2026-11-17",
+    "updated": "2026-11-17",
+    "readTime": "6 min read",
+    "replaces": false
+  },
+  {
+    "slug": "how-dark-should-babys-room-be",
+    "path": "/how-dark-should-babys-room-be",
+    "canonical": "https://yorix-app.com/how-dark-should-babys-room-be",
+    "kind": "article",
+    "title": "How Dark Should a Baby's Room Be? | Yorix",
+    "heading": "How Dark Should a Baby's Room Be? Contrast Matters More Than Pitch Black",
+    "description": "There is no official AAP lux number. What day-night contrast actually means, types of darkening, and why cordless window coverings matter more than pitch black.",
+    "category": "Sleep problems & methods",
+    "published": "2026-11-17",
+    "updated": "2026-11-17",
+    "readTime": "5 min read",
+    "replaces": false
+  },
+  {
+    "slug": "humidifiers-and-baby-sleep",
+    "path": "/humidifiers-and-baby-sleep",
+    "canonical": "https://yorix-app.com/humidifiers-and-baby-sleep",
+    "kind": "article",
+    "title": "Humidifiers and Baby Sleep: Cool Mist vs Warm | Yorix",
+    "heading": "Humidifiers and Baby Sleep: Choose Cool Mist, Then Clean It",
+    "description": "Cool-mist humidifiers are the safer type around children. How they differ from warm-mist and steam, how to clean them, and what they cannot treat.",
+    "category": "Sleep problems & methods",
+    "published": "2026-11-17",
+    "updated": "2026-11-17",
+    "readTime": "5 min read",
+    "replaces": false
+  },
+  {
+    "slug": "pack-and-play-sleep",
+    "path": "/pack-and-play-sleep",
+    "canonical": "https://yorix-app.com/pack-and-play-sleep",
+    "kind": "article",
+    "title": "Pack-and-Play Sleep: Types, Safety, and Limits | Yorix",
+    "heading": "Pack-and-Play and Play Yard Sleep: Types, Rules, and When to Stop",
+    "description": "Play yards can be a safe sleep space if they meet CPSC rules. Types (with or without a bassinet insert), why extra mattresses are unsafe, and when to stop.",
+    "category": "Sleep problems & methods",
+    "published": "2026-11-17",
+    "updated": "2026-11-17",
+    "readTime": "6 min read",
+    "replaces": false
+  },
+  {
+    "slug": "sleep-positioners-and-loungers",
+    "path": "/sleep-positioners-and-loungers",
+    "canonical": "https://yorix-app.com/sleep-positioners-and-loungers",
+    "kind": "article",
+    "title": "Sleep Positioners and Loungers: Why They're Unsafe | Yorix",
+    "heading": "Sleep Positioners, Loungers, and Inclined Sleepers Are Not a Crib",
+    "description": "Positioners, docks, loungers, and inclined sleepers are not approved sleep spaces. What the AAP and CPSC say, including banned products and recalls.",
+    "category": "Sleep problems & methods",
+    "published": "2026-11-17",
+    "updated": "2026-11-17",
+    "readTime": "6 min read",
     "replaces": false
   }
 ]

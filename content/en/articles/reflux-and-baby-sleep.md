@@ -114,6 +114,8 @@ HealthyChildren.org’s “Baby Burping, Hiccups & Spit-Up” (updated 31 Decemb
 
 ## Related reading
 
+- [Sleep Positioners, Loungers, and Inclined Sleepers Are Not a Crib](/sleep-positioners-and-loungers)
+
 - [Safe sleep for babies](/safe-sleep-for-babies)
 - [Colic](/colic)
 - [Sick baby sleep](/sick-baby-sleep)

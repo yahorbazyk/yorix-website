@@ -72,7 +72,7 @@ These are illustrations based on the ranges above, not targets. Huckleberry (app
 
 ### Step 1: Make the room properly dark
 
-Baby Sleep Science recommends making the room dark enough that you can't see a change in light between the middle of the night and the morning. Blackout blinds or temporary blackout film work; check for light at the edges and under the door. Keep lamps off until your chosen wake time.
+A darker room can help when street light or an early sunrise is pulling mornings forward. There is no official AAP lux number, and no rule that every baby must sleep in pitch black. Prefer cordless window coverings, and keep the crib away from window cords. Types of darkening and cord safety are on [how dark should a baby's room be](/how-dark-should-babys-room-be). Then come back to the schedule steps below.
 
 ### Step 2: Get the schedule right for your baby's age
 
