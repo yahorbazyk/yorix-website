@@ -25,7 +25,7 @@ function ru({ operator, offer, contact }: Ctx): LegalSection[] {
     {
       title: '1. Общие положения',
       blocks: [
-        `1.1. Эта Политика описывает обработку персональных данных в Yorix: на сайте yorix-app.com (Сайт), в приложении для iPhone и iPad (Приложение), поддержке и связанных сервисах. Ответственный за обработку — ${operator} (Оператор, «мы»); реквизиты и контакт указаны в разделе 14. Применяется законодательство Грузии о защите персональных данных и иные обязательные нормы, применимые к конкретной обработке.`,
+        `1.1. Эта Политика описывает обработку персональных данных в Yorix: на сайте yorix-app.com (Сайт), в приложениях для iPhone и iPad и для Android (Приложение; особенности Android — в разделе 2А), поддержке и связанных сервисах. Ответственный за обработку — ${operator} (Оператор, «мы»); реквизиты и контакт указаны в разделе 14. Применяется законодательство Грузии о защите персональных данных и иные обязательные нормы, применимые к конкретной обработке.`,
         '1.2. Политика объясняет, какие данные мы обрабатываем, зачем и на каком основании, кому их передаём, как долго храним и как вы можете реализовать свои права. Политика не является согласием и не требует «принятия». Если обработка основана на согласии, мы просим его отдельно, в момент, когда оно нужно, и вы можете его отозвать.',
         `1.2a. Для новых покупок на Сайте продавец — физическое лицо, плательщик НПД в Беларуси, указанное в [оферте](${offer}). Продавец обрабатывает сведения о заказе, оплате, выдаче доступа и возврате для исполнения договора, налогового учёта и рассмотрения обращений. К этой обработке применяются обязательные нормы законодательства Беларуси и иные применимые нормы. Оператор Приложения остаётся указанным в разделе 14.`,
         '1.3. Сервис предназначен для взрослых — родителей и других лиц, которые заботятся о ребёнке. Сведения о ребёнке вносит взрослый; дети Сервисом не пользуются, и мы не собираем данные непосредственно у детей.',
@@ -43,6 +43,18 @@ function ru({ operator, offer, contact }: Ctx): LegalSection[] {
         '2.6. Напоминания — локальные уведомления устройства. Для синхронизации iCloud Приложение получает от Apple служебные push-уведомления; токен устройства нам не передаётся.',
         '2.7. Сведения из дневника попадают к Оператору только в случаях, описанных в разделе 3: когда вы пользуетесь ИИ-коучем, когда отправляете обращение или отзыв из Приложения и в виде событий аналитики без значений измерений и заметок.',
         '2.8. Выгрузить дневник можно в Приложении: Настройки → Экспорт данных (CSV, PDF или JSON).',
+      ],
+    },
+    {
+      title: '2А. Приложение для Android',
+      blocks: [
+        '2А.1. Приложение для Android распространяется через Google Play. Разделы 1–14 относятся к нему с особенностями этого раздела. iCloud, Apple Health, виджеты Live Activity, App Store и отслеживание Apple (п. 8.3) в нём не используются.',
+        '2А.2. **Дневник** — те же записи, что в п. 2.1, — хранится только в памяти вашего устройства. Синхронизации между устройствами и совместного доступа в Android-версии пока нет; дневник не попадает к Оператору, кроме случаев из п. 2.7. Напоминания и звуки для сна работают на устройстве. Прогноз погоды в программе «Одеваемся на улицу» в Android-версии не запрашивается, геопозиция не используется.',
+        '2А.3. **Вход** через аккаунт Google или по e-mail и паролю (Firebase Authentication): идентификатор аккаунта, e-mail, имя, если его передал Google, способ входа. Аккаунт необязателен — дневник работает и без него.',
+        '2А.4. **Покупки** подписки, программ и ИИ-кредитов проходят через Google Play. Google передаёт нам сведения о покупке: продукт, токен и номер заказа, даты, статус, уведомления о продлении, отмене и возврате. Платёжные данные мы не получаем. Возвраты рассматривает Google по правилам Google Play.',
+        '2А.5. **Защита.** Вместо Apple App Attest наш сервер проверяет подлинность Приложения через Google Play Integrity: Google сообщает, что запрос пришёл от неизменённого Приложения, установленного из Google Play. Используется случайный идентификатор установки.',
+        '2А.6. **ИИ-коуч** работает как описано в разделе 7. История диалогов хранится на устройстве, на сервере — 30 дней после последнего сообщения.',
+        '2А.7. В Android-версии нет SDK аналитики, атрибуции рекламы и отчётов о сбоях (Firebase Analytics, Mixpanel, Amplitude, Adapty, Meta); рекламный идентификатор не используется. Google может собирать сведения о сбоях и работе Приложения для Google Play Console по вашим настройкам Android.',
       ],
     },
     {
@@ -166,6 +178,7 @@ function ru({ operator, offer, contact }: Ctx): LegalSection[] {
             rows: [
               ['Apple Inc.', 'США', 'Вход через Apple; ваша частная база iCloud и совместный доступ (у Оператора нет к ним доступа); покупки в App Store и уведомления о них; с вашего согласия — сведения об использовании покупки, если вы попросите Apple вернуть деньги (раздел 3); координаты для прогноза погоды; проверка подлинности Приложения', 'Вход, хранение и синхронизация дневника, покупки и возвраты, погода, защита'],
               ['Google LLC (Firebase)', 'США', 'Вход через Apple и Google: идентификатор аккаунта, e-mail, имя, способ входа. Аналитика: идентификатор аккаунта, события запуска, онбординга, регистрации, пробного периода, покупок, экрана подписки и просмотров экранов, возраст ребёнка в месяцах, статус подписки, язык; рекламный идентификатор и рекламные сигналы Google Ads — только с вашего разрешения отслеживания', 'Вход, аналитика, атрибуция рекламы'],
+              ['Google LLC (Google Play)', 'США', 'Приложение для Android: покупки в Google Play и уведомления о них, проверка подлинности Приложения (Play Integrity)', 'Распространение Приложения для Android, покупки и возвраты, защита'],
               ['Google LLC (Google Analytics 4)', 'США', 'После согласия: псевдонимный идентификатор браузера, сведения об устройстве и браузере, примерная страна, общедоступные страницы, прокрутки и переходы в App Store; без содержимого форм, параметров URL, кодов подарков и платёжных данных', 'Статистика посещений Сайта без рекламных сигналов'],
               ['Cloudflare, Inc.', 'США; серверы по всему миру', 'Данные, которые проходят через наш сервер: заказы, диалоги с Коучем, обращения, отчёты о сбоях, журналы запросов; текст вопроса Коучу — для поиска по статьям (Workers AI)', 'Размещение Сайта и сервера, поиск по статьям'],
               ['UpCloud Ltd', 'Нидерланды', 'IP-адрес и данные, которые проходят через наш сервер', 'Ретрансляция соединений с Сайтом и сервером для сетей, где Cloudflare недоступен'],
@@ -227,6 +240,7 @@ function ru({ operator, offer, contact }: Ctx): LegalSection[] {
         '9.1. В Приложении вы можете удалить отдельные записи; удалить ребёнка вместе со всеми его записями и совместным доступом; очистить историю чата с ИИ (п. 7.4); удалить аккаунт (Настройки → Аккаунт) — это удаляет учётную запись входа, все данные на устройстве и в вашей частной базе iCloud и закрывает совместный доступ.',
         `9.2. Данные на нашем сервере и у получателей из раздела 4 — обращения, заказы, учёт подписки и кредитов, аналитика — не связаны с вашей базой iCloud. Чтобы удалить и их, напишите нам через форму [«Написать нам»](${contact}), указав e-mail аккаунта. Мы удаляем данные в применимые обязательные сроки (как правило, не позднее 10 рабочих дней после запроса или отзыва согласия), кроме сведений, хранение которых обязательно по законодательству (например, о платежах). Из резервных копий данные удаляются не позднее 30 дней.`,
         '9.3. Данные в вашей частной базе iCloud удаляете вы — в Приложении или в настройках iCloud (Настройки iOS → ваше имя → iCloud → Управление хранилищем → Yorix).',
+        '9.4. **Удаление аккаунта на Android:** Настройки → Аккаунт → Удалить аккаунт → подтвердить. Удаляются учётная запись входа и все дети с записями дневника на устройстве. Если с последнего входа прошло больше нескольких минут, Приложение попросит снова подтвердить вход. Без аккаунта дневник удаляется вместе с Приложением или очисткой его данных в настройках Android. Диалоги с Коучем на сервере удаляются через 30 дней после последнего сообщения; сведения о покупках, которые мы обязаны хранить по закону, сохраняются в сроки из раздела 3. Удалить остальные данные на сервере, в том числе без удаления аккаунта, можно запросом по п. 9.2.',
       ],
     },
     {
@@ -279,7 +293,7 @@ function en({ operator, offer, contact }: Ctx): LegalSection[] {
     {
       title: '1. General',
       blocks: [
-        `1.1. This Policy describes personal-data processing in Yorix: the yorix-app.com website (Website), the iPhone and iPad app (App), support and related services. The controller is ${operator} (we); registration and contact details are in section 14. Georgian personal-data legislation and other mandatory rules applicable to the processing apply.`,
+        `1.1. This Policy describes personal-data processing in Yorix: the yorix-app.com website (Website), the iPhone and iPad app and the Android app (App; Android specifics are in section 2A), support and related services. The controller is ${operator} (we); registration and contact details are in section 14. Georgian personal-data legislation and other mandatory rules applicable to the processing apply.`,
         '1.2. It explains what data we process, why and on what basis, who we share it with, how long we keep it and how you can exercise your rights. The policy is not consent and does not need to be “accepted”. Where processing relies on consent, we ask for it separately, when it is needed, and you can withdraw it.',
         `1.2a. For new Website purchases, the seller is the individual professional income tax payer in Belarus identified in the [offer](${offer}). The seller processes order, payment, access and refund information to perform the contract, keep tax records and handle requests. Mandatory Belarusian law and other applicable rules govern this processing. The App controller remains the operator identified in section 14.`,
         '1.3. The Service is for adults — parents and others caring for a child. Information about the child is entered by an adult; children do not use the Service and we do not collect data directly from children.',
@@ -297,6 +311,18 @@ function en({ operator, offer, contact }: Ctx): LegalSection[] {
         '2.6. Reminders are local notifications on the device. To sync iCloud, the App receives service push notifications from Apple; the device token is not sent to us.',
         '2.7. Diary information reaches the Operator only in the cases in section 3: when you use the AI coach, when you send a request or feedback from the App, and as analytics events without measured values or notes.',
         '2.8. You can export the diary in the App: Settings → Export Data (CSV, PDF or JSON).',
+      ],
+    },
+    {
+      title: '2A. The Android app',
+      blocks: [
+        '2A.1. The Android app is distributed through Google Play. Sections 1–14 apply to it with the specifics in this section. It does not use iCloud, Apple Health, Live Activities, the App Store or Apple tracking (clause 8.3).',
+        '2A.2. **The diary** — the records listed in clause 2.1 — is stored only on your device. The Android app does not yet sync between devices or share the diary; the diary does not reach the Operator except in the cases in clause 2.7. Reminders and sleep sounds run on the device. The Android app does not request a weather forecast for the “Dressed for outside” program and does not use your location.',
+        '2A.3. **Sign-in** with a Google account or with an e-mail and password (Firebase Authentication): account identifier, e-mail, name if Google passed it, sign-in method. An account is optional — the diary works without one.',
+        '2A.4. **Purchases** of the subscription, programs and AI credits go through Google Play. Google sends us the purchase details: product, purchase token and order number, dates, status, renewal, cancellation and refund notices. We never receive payment details. Google handles refunds under Google Play’s rules.',
+        '2A.5. **Security.** Instead of Apple App Attest, our server verifies the App with Google Play Integrity: Google confirms that a request comes from an unmodified App installed from Google Play. A random installation identifier is used.',
+        '2A.6. **The AI coach** works as described in section 7. Conversation history is kept on the device; on the server — 30 days after the last message.',
+        '2A.7. The Android app contains no analytics, advertising attribution or crash-reporting SDKs (Firebase Analytics, Mixpanel, Amplitude, Adapty, Meta) and does not use the advertising identifier. Google may collect crash and performance information for Google Play Console according to your Android settings.',
       ],
     },
     {
@@ -420,6 +446,7 @@ function en({ operator, offer, contact }: Ctx): LegalSection[] {
             rows: [
               ['Apple Inc.', 'USA', 'Sign in with Apple; your private iCloud database and sharing (the Operator has no access); App Store purchases and notices about them; with your consent, how a purchase was used when you ask Apple for a refund (section 3); coordinates for the weather forecast; App attestation', 'Sign-in, storing and syncing the diary, purchases and refunds, weather, security'],
               ['Google LLC (Firebase)', 'USA', 'Sign-in with Apple and Google: account identifier, e-mail, name, sign-in method. Analytics: account identifier, launch, onboarding, sign-up, trial, purchase, subscription screen and screen view events, the child’s age in months, subscription status, language; the advertising identifier and Google Ads advertising signals — only if you allow tracking', 'Sign-in, analytics, advertising attribution'],
+              ['Google LLC (Google Play)', 'USA', 'The Android app: Google Play purchases and notices about them, App verification (Play Integrity)', 'Distributing the Android app, purchases and refunds, security'],
               ['Google LLC (Google Analytics 4)', 'USA', 'After consent: a pseudonymous browser identifier, device/browser information, approximate country, public pages, scrolling and App Store clicks; no form contents, URL query parameters, gift codes or payment details', 'Website usage statistics without advertising signals'],
               ['Cloudflare, Inc.', 'USA; servers worldwide', 'Data passing through our server: orders, Coach conversations, requests, crash reports, request logs; the text of a question to the Coach — to search the articles (Workers AI)', 'Hosting the Website and the server, article search'],
               ['UpCloud Ltd', 'Netherlands', 'IP address and data passing through our server', 'Relaying connections to the Website and the server for networks that cannot reach Cloudflare'],
@@ -481,6 +508,7 @@ function en({ operator, offer, contact }: Ctx): LegalSection[] {
         '9.1. In the App you can delete individual records; remove a child together with all their records and sharing; clear the AI chat history (clause 7.4); and delete the account (Settings → Account) — this deletes the sign-in account and all data on the device and in your private iCloud database, and ends sharing.',
         `9.2. Data on our server and with the recipients in section 4 — requests, orders, subscription and credit accounting, analytics — is not tied to your iCloud database. To have it deleted too, write to us through the [“Write to us”](${contact}) form, stating your account’s e-mail. We delete data within applicable mandatory deadlines (generally no later than 10 working days after the request or withdrawal of consent), except information we must keep by law (for example, payment records). Backups are cleared within 30 days.`,
         '9.3. You delete the data in your private iCloud database yourself — in the App or in iCloud settings (iOS Settings → your name → iCloud → Manage Storage → Yorix).',
+        '9.4. **Deleting the account on Android:** Settings → Account → Delete Account → confirm. This deletes the sign-in account and every child with their diary records on the device. If more than a few minutes have passed since you signed in, the App asks you to confirm the sign-in again. Without an account, the diary is deleted when you uninstall the App or clear its data in Android settings. Coach conversations on the server are deleted 30 days after the last message; purchase records we must keep by law are kept for the periods in section 3. To delete the rest of the data on the server, with or without deleting the account, send a request under clause 9.2.',
       ],
     },
     {
