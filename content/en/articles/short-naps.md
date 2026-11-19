@@ -76,6 +76,16 @@ By 5 months, many babies can stay asleep longer for at least one nap a day, ofte
 
 At 6 months, Huckleberry's chart (app example) expects two longer naps and one shorter one. Persistent 30-minute naps now are more often linked to nap timing or the way your baby falls asleep than to brain development alone. This is the age when small, gradual changes usually pay off; see the [6 month old sleep schedule](/6-month-old-sleep-schedule).
 
+### 3–7 months
+
+This is the stretch when one-cycle naps (often about 30 minutes) are the main complaint, and when the lengthening plan later on this page becomes more relevant than it was at 8 weeks. Use the month schedule for the age you are in:
+
+- Around 3 months / 12 weeks: [3 month old sleep schedule](/3-month-old-sleep-schedule) and [12 week old baby sleep](/12-week-old-baby-sleep)
+- Around 4 months: [4 month old sleep schedule](/4-month-old-sleep-schedule) and [4 month sleep regression](/sleep-regression/4-months)
+- Around 5–6 months: [5 month old sleep schedule](/5-month-old-sleep-schedule) or [6 month old sleep schedule](/6-month-old-sleep-schedule)
+
+The 8-week-specific snapshot remains [8 week old short naps](/8-week-old-short-naps). That early-weeks advice differs from a 6-month lengthening plan.
+
 ## Is a short nap actually a problem?
 
 Not always. Ask yourself:
@@ -137,11 +147,16 @@ No. Many families improve naps with timing, routine, and environment alone. Slee
 **Is the 30-minute nap the same as a false start?**  
 No. A false start is when a baby wakes within about an hour after bedtime at night. See [false starts](/false-starts).
 
+**Is a 30-minute nap enough at 8 weeks?**
+Often, yes, as a single cycle. The lengthening plan on this page is aimed at later months. Use [8 week old short naps](/8-week-old-short-naps) for that age.
+
 ## See your nap pattern (Yorix)
 
 **Yorix** records every nap and recalculates the next sleep window after each one, so after a few days you can see whether a 30-minute nap follows a short or a long wake window. It is a support for tired parents, not a medical device and not a diagnosis.
 
 ## Related reading
+
+- [Should You Wake a Baby From a Nap? Daytime Caps Are Not Night Feeds](/should-you-wake-a-baby-from-a-nap)
 
 - [Baby Sleep Cycles: Why They Wake After One Cycle](/baby-sleep-cycles)
 - [Overtired Baby: Signs, Why It Happens, and What Helps](/overtired-baby)

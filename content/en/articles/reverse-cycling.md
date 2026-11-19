@@ -72,11 +72,16 @@ Not as a first move, and not in a young breastfed baby. ABM links intentionally 
 **Does this only happen when a parent goes back to work?**  
 Work and daytime absence are the example ABM names. Distraction and short daytime feeds can produce a similar night-heavy pattern in babies who are at home.
 
+**Going back to work — why are nights suddenly worse?**
+A long day away and heavier nights is the picture already on this page and on [reverse cycling](/reverse-cycling), not a new official regression. Keep the usual wind-down, and do not start [night weaning](/night-weaning) on the first week back unless your pediatrician has already agreed a plan.
+
 ## See whether days are actually light and nights heavy (Yorix)
 
 **Yorix** can help you log daytime and nighttime feeds side by side, which is the only way to see whether nights are carrying the calories. The app cannot judge intake or supply and is not a medical device.
 
 ## Related reading
+
+- [Cluster Feeding: Not Reverse Cycling, Not a Witching-Hour Diagnosis](/cluster-feeding)
 
 - [Night weaning](/night-weaning)
 - [Nursing to sleep](/nursing-to-sleep)

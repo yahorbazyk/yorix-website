@@ -51,6 +51,14 @@ Diagnosis, if it is needed, is a clinician's job and may include a sleep study (
 
 If you are heading to an appointment, Cleveland Clinic suggests keeping a simple log for a week: how many nights the snoring happens, how often during the night, and whether there are pauses or a mouth-open, chin-out posture. That is something a tracker can support without turning into a diagnosis.
 
+## If the pediatrician mentions a sleep study, or tonsils
+
+A **sleep study** (polysomnogram) is an overnight test, usually in a hospital or sleep center, that records how a child actually sleeps (KidsHealth, reviewed November 2021). Sensors can track breathing, oxygen, carbon dioxide, heart rate, brain waves, eye movements, snoring, and body movement. One parent can usually stay. Results often take a few weeks and should be explained at a follow-up visit — not decoded from a printout on this page.
+
+Doctors may recommend a study when they are worried about problems such as **obstructive sleep apnea**, among other sleep disorders KidsHealth lists. Loud regular snoring, pauses, gasping, or very restless sleep on this page are reasons to **talk to the pediatrician**, who decides whether a referral or a study is next. We will not declare that your child “needs” one from a blog checklist.
+
+Families also hear that **tonsils or adenoids** might be involved in noisy, blocked breathing. That can be true for some children, and it is a specialist conversation after an exam (and, if ordered, after a study). This page will not recommend surgery, a medicine, or a CPAP plan. Bring the nights you have logged, and let the clinician lead.
+
 ## When to talk to your pediatrician — and when to call 911
 
 Talk to the pediatrician if snoring is frequent or loud, mouth breathing is the usual pattern, you hear pauses or gasps, the baby is a very restless sleeper, or daytime behavior or alertness worries you.
@@ -71,11 +79,23 @@ Usually not. Grunting, especially in the first weeks, often has a different rhyt
 **Can I use a wedge or a car seat so they breathe better?**  
 No. Sleep stays flat, on the back, in a clear crib or bassinet. See [sick baby sleep](/sick-baby-sleep) and [baby sleeping in a car seat](/baby-sleeping-in-car-seat).
 
+**My 2 week old sleeps with their mouth open. Is that normal?**
+A briefly open mouth in active sleep can happen. If the baby is congested, having trouble feeding, or you hear regular snoring or pauses, use the advice already on this page and [sick baby sleep](/sick-baby-sleep). Newborns with persistent mouth breathing or poor feeding should be discussed with the pediatrician, not diagnosed from a photo.
+
+**When should I see a sleep specialist or ask for a sleep study?**
+Start with your pediatrician. This page already lists breathing, snoring, and unusual-event reasons to call. A specialist or a study is their referral, not a parent DIY step . If the issue is nightmares, sleepwalking, or sleep talking rather than breathing, see [night terrors](/night-terrors), which already compares those events.
+
+**Why does my baby seem to hold their breath or gasp in sleep?**
+Short pauses followed by a few faster breaths are often **periodic breathing**, already described on [newborn grunting in sleep](/newborn-grunting-in-sleep) (HealthyChildren.org: pauses of less than 10 seconds, usually settling by 1 month, if the baby is otherwise comfortable). Frequent loud snoring, longer pauses, or a chin-out mouth-open posture belongs on [baby snoring and mouth breathing](/baby-snoring-and-mouth-breathing). Breath-holding spells when a child is *awake and upset* are a different clinical picture — ask the pediatrician. Call 911 if they cannot be woken, are struggling to breathe, or their colour changes suddenly.
+
 ## Log which nights are noisy, and how (Yorix)
 
 **Yorix** can help you note which nights sounded congested, whether the mouth was open, and whether you heard pauses — the kind of log a pediatrician may find useful. The app cannot diagnose sleep apnea and is not a medical device or a monitor.
 
 ## Related reading
+
+- [Autism and Sleep: Common Patterns, Not a Treatment Protocol](/autism-and-sleep)
+- [Teeth Grinding in Sleep: Toddler Bruxism, Not a Second Teething Page](/teeth-grinding-in-sleep)
 
 - [Newborn grunting in sleep](/newborn-grunting-in-sleep)
 - [Sick baby sleep](/sick-baby-sleep)
@@ -94,6 +114,9 @@ All pages below were opened and checked on 15 November 2026.
 3. Nemours KidsHealth. "Obstructive Sleep Apnea." Signs including snoring with pauses, snorts, or gasps; restless sleep; when to talk with the doctor; sleep study as a possible next step. <https://kidshealth.org/en/parents/apnea.html>.
 4. Cleveland Clinic. "Does Your Child Snore? When It's Not Normal." Accessed 15 November 2026. See a clinician if snoring is most nights, very noisy, paired with mouth-open and chin- or neck-extended posture, or with pauses or gasps; keep a simple log. <https://health.clevelandclinic.org/does-your-child-snore-signs-of-trouble>.
 5. Cleveland Clinic. "Childhood Sleep Apnea (Pediatric Obstructive Sleep Apnea)." Mouth breathing, snoring, pauses, restless sleep; urgent care if the child has trouble breathing or color changes. <https://my.clevelandclinic.org/health/diseases/14312-obstructive-sleep-apnea-in-children>.
+
+6. [Nemours KidsHealth. “Sleep Study (Polysomnogram).” Medically reviewed November 2021. What the test records, why it may be ordered (including obstructive sleep apnea), how to prepare, and that results are explained at follow-up.](https://kidshealth.org/en/parents/sleep-study.html)
+
 
 ```json
 {

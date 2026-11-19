@@ -36,7 +36,7 @@ A screaming child at 10 p.m. can look like a nightmare, a tantrum, or something 
 
 HealthyChildren.org lists: uncontrollable crying, sweating, shaking or fast breathing, a terrified, confused, or glassy-eyed look, thrashing, screaming, kicking or staring, not realizing you are there, and pushing you away if you try to hold them. After it ends, most children fall straight back to sleep because they were never really awake.
 
-Night terrors can run in families and often travel with [sleepwalking](#sleepwalking-and-sleep-talking). Being very tired, unwell, or off schedule can make them more likely (NHS). They are frightening to watch and usually harmless to the child.
+Night terrors can run in families and often travel with [sleepwalking](/sleepwalking-and-sleep-talking). Being very tired, unwell, or off schedule can make them more likely (NHS). They are frightening to watch and usually harmless to the child.
 
 ## What to do in the moment
 
@@ -58,7 +58,15 @@ A consistent, calming [bedtime routine](/bedtime-routine-for-baby), enough total
 
 ## Sleepwalking and sleep talking
 
-HealthyChildren.org groups these with night terrors as deep-sleep events. The child may have a blank stare, not respond, and be hard to wake. Most return to bed on their own and do not remember it. Do not try to wake them; gently lead them back. Clear trip hazards, block stairs, and lock outside doors. Sleepwalking can run in families.
+Like night terrors, these are deep-sleep events: a blank stare, little response, and usually no memory in the morning. Gently guide the child back to bed and make the room safe (stairs, doors, trip hazards). There is a wording difference between sources on whether to wake them — that conflict, age figures, and when to see a GP are on [sleepwalking and sleep talking](/sleepwalking-and-sleep-talking).
+
+## Nightmares — what to do when they wake
+
+Nightmares are scary dreams. As the table above already says, the child usually **wakes**, often later in the night, can often **remember** the dream, and wants comfort. HealthyChildren.org: they may start as early as 6 months and tend to peak between 3 and 12 years. Caring for Kids: talk calmly, cuddle, and reassure; do **not** “search for monsters.” Tell a preschooler, simply, that it was a dream. A brief, boring return to their own bed is the goal, not a new every-night sleepover in yours unless you are choosing that for other reasons (see [fear of the dark](/fear-of-the-dark) and [toddler won't stay in bed](/toddler-wont-stay-in-bed)).
+
+If the same nightmare keeps coming back after a frightening event, or the child cannot settle night after night, talk to the pediatrician. Recurring, very distressing dreams are a reason to ask, not a reason to invent a new diagnosis on this page.
+
+**Sleep talking** (murmurs, odd sentences, even a short shout) often happens in the same family of partial arousals as walking or terrors, or in lighter dream sleep. It is usually harmless and not remembered. You do not need to wake the child or have a conversation. Mention it at a visit if it is new, very frequent, or comes with snoring, unusual daytime sleepiness, or other changes. Confusional arousals (looking awake but not making sense, often early in the night) stay on this page with terrors and walking; they are not a new URL.
 
 ## When to talk to your pediatrician
 
@@ -81,11 +89,17 @@ HealthyChildren.org places night terrors mostly in toddlers and preschoolers. Ve
 **Do they mean my child is anxious or traumatized?**  
 Not by themselves. Tiredness, illness, and family history are common contributors (NHS). Recurring nightmares after a scary event are a reason to call the doctor.
 
+**When should I see a sleep specialist or ask for a sleep study?**
+Start with your pediatrician. This page already lists breathing, snoring, and unusual-event reasons to call. A specialist or a study is their referral, not a parent DIY step . If the issue is nightmares, sleepwalking, or sleep talking rather than breathing, see [night terrors](/night-terrors), which already compares those events.
+
 ## Note the clock time (Yorix)
 
 **Yorix** can log the hour an episode started, which helps you see whether it is an early-night pattern and whether the NHS timed-waking idea even applies. The app cannot diagnose a night terror or a seizure, and it is not a medical device.
 
 ## Related reading
+
+- [Baby Head Banging and Body Rocking: Usually a Rhythm, Not a Diagnosis](/baby-head-banging-and-body-rocking)
+- [Teeth Grinding in Sleep: Toddler Bruxism, Not a Second Teething Page](/teeth-grinding-in-sleep)
 
 - [Fear of the Dark and Other Nighttime Fears](/fear-of-the-dark)
 
@@ -104,6 +118,9 @@ All pages below were opened and checked on 15 November 2026.
 1. HealthyChildren.org (AAP). "Nightmares, Night Terrors & Sleepwalking in Children: How Parents Can Help." Last updated 9/21/2023. <https://www.healthychildren.org/English/ages-stages/preschool/Pages/nightmares-and-night-terrors.aspx>. Nightmare timing and ages; night-terror signs and response; do not wake a sleepwalker; room safety.
 2. NHS. "Night terrors and nightmares." Page last reviewed 24 November 2025. <https://www.nhs.uk/conditions/night-terrors/>. Comparison table; most common at 3–8 years; up to 15 minutes; do not wake; scheduled waking 15 minutes before for 2 weeks; when to see a GP.
 3. Sleep Foundation. "Night Terrors." <https://www.sleepfoundation.org/parasomnias/night-terrors>. NREM vs REM timing (early vs late night). Duration figures on some Sleep Foundation pages differ from NHS and HealthyChildren.org; we rely on NHS and AAP parent pages for what to do, and we do not treat a single maximum length as settled.
+
+
+4. [Canadian Paediatric Society, Caring for Kids. “Healthy sleep for your baby and child.” November 2024. Comfort after nightmares; do not search for monsters.](https://caringforkids.cps.ca/handouts/healthy-living/healthy_sleep_for_your_baby_and_child)
 
 
 ```json

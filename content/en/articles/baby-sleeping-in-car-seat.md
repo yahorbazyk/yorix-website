@@ -55,11 +55,9 @@ When you get home, move the baby — even if it feels cruel to wake them. Transf
 
 ## Swings, rockers, bouncers, gliders, and loungers
 
-HealthyChildren.org lists swings, rockers, bouncers, and gliders as products that are **safe for play when used as directed, but not for sleep**. If the baby nods off, move them. The same article — and the AAP policy — says not to let babies sleep in sitting devices or in products such as Dock-A-Tot, Wendy Bellissimo, and Boppy-style loungers and nests. Nursing pillows and infant loungers have been linked to deaths when used as sleep spaces. Limit them to awake, supervised time, then move the baby.
+HealthyChildren.org lists swings, rockers, bouncers, and gliders as products that are **safe for play when used as directed, but not for sleep**. If the baby nods off, move them to a firm, flat, approved sleep surface. Types, straps, age limits, and how to use these motion seats are on [baby swings and bouncers](/baby-swings-and-bouncers).
 
-Sleep Foundation's swing article lands in the same place: if they fall asleep in a swing, move them to a firm, flat crib or bassinet. Check the product's weight and age limits, keep the seat in its flattest setting for younger babies, and use the straps for play, not as a reason to leave a sleeper unattended.
-
-We are not reviewing or ranking brands here. Recalls happen; check the CPSC (or your country's regulator) for the specific product you own.
+Loungers, docks, sleep positioners, and inclined sleepers are a different category — they are not an approved sleep space. See [sleep positioners and loungers](/sleep-positioners-and-loungers).
 
 ## If motion is the only way they nap
 
@@ -77,14 +75,17 @@ No. Once you are no longer travelling, move them to a firm, flat sleep surface.
 **How long can a baby sleep in a car seat?**  
 There is no official minute limit on the pages we checked. The working rule is: only while travelling, then out as soon as you arrive, with breaks on long drives.
 
-**Is a swing safe if they are buckled?**  
-Straps help during play. They do not make an inclined or seated sleep safe.
+**Is a swing safe if they are buckled?**
+Straps help during play. They do not make an inclined or seated sleep safe. Types and the full “play, not sleep” rule are on [baby swings and bouncers](/baby-swings-and-bouncers).
 
 **What about a car-seat nap in the stroller frame at a cafe?**  
 The baby is no longer in a moving car. Treat it like an indoor seat: move them to a flat, approved sleep space as soon as you reasonably can.
 
-**Do inclined "sleepers" count if the box said they were for sleep?**  
-In the United States, inclined sleepers greater than 10 degrees are banned. Even before the ban, the AAP said those products were unsafe. Do not use one.
+**Do inclined "sleepers" count if the box said they were for sleep?**
+In the United States, inclined sleepers greater than 10 degrees are banned. Even before the ban, the AAP said those products were unsafe. Do not use one. Details, including major CPSC recalls as category examples, are on [sleep positioners and loungers](/sleep-positioners-and-loungers).
+
+**Can a baby nap in a swing, bouncer, or "only if I am watching"?**
+A swing or bouncer is not an approved sleep space. If they doze there, move them to a firm, flat, on-the-back surface as soon as you can — the same rule as a car seat after you arrive. Supervised does not make an incline safe for sleep. See also [naps on the go](/naps-on-the-go).
 
 ## Track naps, not the seat (Yorix)
 

@@ -52,7 +52,9 @@ Supervised **tummy time** while the baby is awake is still important for develop
 
 "Firm" means the mattress should not indent when the baby is lying on it. Use a crib, bassinet, portable crib, or play yard that meets U.S. Consumer Product Safety Commission (CPSC) standards, with a mattress made for that product and a tight fitted sheet. Check the CPSC website for recalls, especially if the crib is not new. Do not use a crib that is missing hardware, is broken, or has no instructions.
 
-The 2022 AAP update is strict about products that look like sleep spaces but are not: if a product does not meet federal safety standards for cribs, bassinets, portable cribs, or play yards, do not use it for sleep. That includes many inclined sleepers, hammocks, in-bed sleepers, nests, pods, and compact "travel" products that have not been certified. Feeding pillows and infant loungers (HealthyChildren.org and KidsHealth name examples such as Boppy-style pillows and Dock-a-Tot-style loungers) are not sleep products. If your baby falls asleep in a car seat, stroller, swing, or sling, move them to a firm, flat surface on their back as soon as you can.
+What “firm” and “fit” mean in more detail — including why toppers and memory foam are unsafe — is on [crib mattress safety](/crib-mattress-safety). How cribs, bassinets, and bedside sleepers differ is on [cribs, bassinets, and bedside sleepers](/cribs-bassinets-and-bedside-sleepers). Play yards have their own rules on [pack-and-play sleep](/pack-and-play-sleep).
+
+The 2022 AAP update is strict about products that look like sleep spaces but are not. Inclined sleepers, hammocks, in-bed sleepers, nests, pods, feeding pillows, and infant loungers are covered on [sleep positioners and loungers](/sleep-positioners-and-loungers). If your baby falls asleep in a car seat, stroller, swing, or sling, move them to a firm, flat surface on their back as soon as you can — see [baby sleeping in a car seat](/baby-sleeping-in-car-seat) and [baby swings and bouncers](/baby-swings-and-bouncers).
 
 ## Crib standards, mattress fit, and recalls
 
@@ -60,7 +62,7 @@ The paragraph above already says to use a product that meets U.S. Consumer Produ
 
 - **Date and drop-sides.** HealthyChildren.org's "New Crib Standards" page explains the federal update that took effect on **28 June 2011**: manufacture and sale of **drop-side** cribs were prohibited, and new cribs had to meet tougher rules on slats, mattress support, hardware, and testing. HealthyChildren's room-safety checklist (updated 14 August 2020) says to use a crib manufactured **after June 2011**. An older drop-side crib is not a bargain. The same 2011 rules also apply to resale, including garage sales and donations (HealthyChildren.org). If you already have a recalled drop-side crib, stop using it; CPSC and the AAP have long pointed families to the recall list, not to a homemade repair.
 - **Slats and posts.** CPSC crib-safety tips, and HealthyChildren's checklist, both say slats should be **no more than 2 3/8 inches** (about 6 cm, or the width of a soda can) apart, with no missing or cracked slats. CPSC says corner posts should be **no more than 1/16 inch** high, so clothing cannot catch; there should be no cutouts in the headboard or footboard that could trap a head. HealthyChildren.org agrees on flush, very low posts for ordinary cribs, and flags decorative cutouts the same way.
-- **Mattress fit.** The mattress should be made for that crib and sit snugly. HealthyChildren.org's test: if you can insert **more than two adult fingers** between the mattress and the sides or ends of the crib, do not use that crib-and-mattress combination. CPSC's wording is the same idea: a firm, tight-fitting mattress so a baby cannot become trapped in a gap.
+- **Mattress fit.** Use a mattress made for the crib with a snug fit. Detailed fit checks and the difference between consumer advice and manufacturer testing are on [crib mattress safety](/crib-mattress-safety).
 - **Hardware, every week.** Missing, loose, or broken screws, brackets, or mattress-support parts are a reason to stop using the crib (CPSC; HealthyChildren.org). Use the manufacturer's parts, not a substitute from a hardware drawer.
 - **Where to check recalls.** Search the crib (and any second-hand bassinet or play yard) at [SaferProducts.gov](https://www.saferproducts.gov/) and consider signing up for CPSC recall notices at [CPSC.gov](https://www.cpsc.gov/). The existing safe-sleep paragraph already tells you to do this, especially if the crib is not new.
 
@@ -101,7 +103,19 @@ A safe sleep space is the core. These additional steps also have evidence behind
 - **Smoke-free pregnancy and home.** Smoking in pregnancy and secondhand smoke after birth are major SIDS risk factors. This includes vaping and e-cigarettes, which contain nicotine. Keep the car and home smoke-free. If you smoke, it is especially important not to bed-share.
 - **No alcohol or drugs** in pregnancy or after birth, in the sense the AAP means: alcohol, marijuana, opioids, or illicit drugs raise risk, and they make bed-sharing far more dangerous.
 - **Prenatal care and well-child visits**, including routine immunizations. KidsHealth and NHS both note that vaccines are associated with a lower SIDS risk; they also protect against illnesses that can make a baby more vulnerable.
-- **No gadgets that claim to prevent SIDS.** Home apnea monitors and "SIDS-prevention" positioners have not been shown to do that job, and positioners add a suffocation risk. The AAP and KidsHealth advise against them.
+- **No gadgets that claim to prevent SIDS.** Home apnea monitors and "SIDS-prevention" positioners have not been shown to do that job, and positioners add a suffocation risk. The AAP and KidsHealth advise against them. Types of consumer monitors, and the AAP’s limit on home cardiorespiratory monitors, are on [baby monitors and safe sleep](/baby-monitors-and-safe-sleep). Positioners are on [sleep positioners and loungers](/sleep-positioners-and-loungers).
+
+## Home apnea monitors and consumer “SIDS monitors”
+
+Consumer monitors do not prevent SIDS or replace a safe sleep setup. For types, false alarms, and the distinction between a consumer device and a clinician-prescribed medical monitor, see [baby monitors and safe sleep](/baby-monitors-and-safe-sleep). Follow your care team if a medical monitor has been prescribed, and keep the same safe-sleep rules.
+
+For periodic breathing and newborn sleep sounds, see [newborn grunting in sleep](/newborn-grunting-in-sleep).
+
+## Vaccinations do not cause SIDS
+
+They do not. The Lullaby Trust, Red Nose, and the Children’s Hospital of Philadelphia Vaccine Education Center all state that **immunizations do not cause SIDS**. The Lullaby Trust goes further, in line with the research those organizations cite: babies who are **up to date with their vaccinations have a lower risk** of SIDS, not a higher one. Vaccinating on the recommended schedule is part of protecting a baby from serious illness; it is not a SIDS risk.
+
+If a baby is sleepy or a little feverish after a vaccine, dress them for the room and follow [sick baby sleep](/sick-baby-sleep) — do not add extra blankets. For the monitors-and-gadgets question, see the section above.
 
 ## UK advice that lines up — and one number that does not
 
@@ -124,8 +138,8 @@ No, not as a starting position. The AAP treats the side as just as risky as the 
 **Is it OK to use a blanket if I tuck it in tightly?**  
 The AAP prefers no loose bedding in the first year. Use layers or a wearable blanket instead. UK sources discuss light, tucked bedding and a feet-to-foot position; if you follow that tradition, keep the cot otherwise clear and the covering light.
 
-**Do I need a baby monitor to follow safe sleep?**  
-No. Monitors can be reassuring, but they do not replace a safe sleep setup and they do not prevent SIDS.
+**Do I need a baby monitor to follow safe sleep?**
+No. Monitors can be convenient, but they do not replace a safe sleep setup and they do not prevent SIDS. Types and the AAP’s limit on home cardiorespiratory monitors are on [baby monitors and safe sleep](/baby-monitors-and-safe-sleep).
 
 **Should twins share a sleep surface?**  
 The AAP recommends against bed-sharing, including with twins. Each baby needs their own firm, flat surface. Each twin should have their own approved crib or bassinet.
@@ -133,11 +147,22 @@ The AAP recommends against bed-sharing, including with twins. Each baby needs th
 **Does breastfeeding replace the other rules?**  
 No. Breast milk is protective, but a breastfed baby still needs back sleeping, a clear crib, and a smoke-free room.
 
+**Will back-sleeping flatten my baby’s head?**  
+It can leave a soft spot, called positional plagiocephaly. The answer is supervised [tummy time](/tummy-time) when the baby is awake, not stomach sleep at night.
+
+**Can a baby sleep on my chest if I am awake?**
+Holding a baby on your chest while you are fully awake and alert is not the same as sleeping with them on your chest. The risk is dozing off, especially on a sofa or armchair: HealthyChildren.org (AAP) cites a risk of sleep-related death up to 67 times higher when a baby sleeps with someone on a couch or soft chair — described in the safe-sleep guidance. If there is any chance you might fall asleep, move them to their own firm, flat, clear surface on their back first. A contact nap in your arms still has to end on a safe surface if you need to put them down; see [contact naps](/contact-naps).
+
+**Can a baby choke on spit-up while sleeping on their back?**
+HealthyChildren.org’s “Baby Burping, Hiccups & Spit-Up” (updated 31 December 2024) says spit-up almost never involves choking, coughing, discomfort, or danger to the child, **even if it occurs during sleep**, and that the best position is still on the back with the mattress flat, not elevated. That matches the AAP / NASPGHAN advice already on this page. Do not use a wedge, a rolled towel, or a car seat as a “choking workaround.” If spit-up comes with poor weight gain, forceful or green vomit, or breathing trouble, use [reflux and baby sleep](/reflux-and-baby-sleep) and call. Related: [baby hiccups and sleep](/baby-hiccups-and-sleep).
+
 ## Keep a simple safe-sleep log (Yorix)
 
 **Yorix** is a place to log sleep, feeds, and symptoms, which can help you notice whether nights are getting longer and whether a cold or a growth spurt lines up with a bump in waking. It does not diagnose SIDS risk and it is not a medical device. Safe sleep still depends on the crib and the habits in this article, not on an app.
 
 ## Related reading
+
+- [Baby Sweating in Sleep: Check the Chest, Not Only the Hair](/baby-sweating-in-sleep)
 
 - [Baby Sleep and Travel: Planes, Hotels, and Jet Lag](/baby-sleep-and-travel)
 - [Baby Sleeping in a Car Seat, Swing, or Lounger](/baby-sleeping-in-car-seat)
@@ -189,6 +214,19 @@ All pages below were opened and checked on 15 November 2026.
 14. [U.S. Consumer Product Safety Commission. Crib Safety Tips.](https://www.cpsc.gov/safety-education/safety-guides/cribs/crib-safety-tips)
 
 15. [U.S. Consumer Product Safety Commission. SaferProducts.gov recall search.](https://www.saferproducts.gov/)
+
+
+16. [HealthyChildren.org (AAP). “The Truth About Home Apnea Monitors for SIDS.” Last updated 22 August 2017. Little or no protection from SIDS; no clear link between ordinary apnea and SIDS; false alarms; a clinician may recommend a monitor only in uncommon medical situations (for example home oxygen or serious breathing problems).](https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/Home-Apnea-Monitors-for-SIDS.aspx)
+
+
+17. [The Lullaby Trust. “Vaccinations and SIDS.” Vaccinations do not cause SIDS; up-to-date immunizations are associated with a lower SIDS risk; after a vaccine, do not wrap more than usual.](https://www.lullabytrust.org.uk/baby-safety/infection-and-illness/vaccinations-and-sids/)
+
+18. [Red Nose Australia. “Myth bust: vaccinations do not cause SIDS.”](https://rednose.org.au/news/myth-bust-vaccinations-do-not-cause-sids/)
+
+19. [Children’s Hospital of Philadelphia, Vaccine Education Center. “Vaccines and Sudden Infant Death Syndrome (SIDS).”](https://www.chop.edu/vaccine-education-center/vaccine-safety/vaccines-and-other-conditions/sudden-infant-death-syndrome-sids)
+
+
+20. [HealthyChildren.org. Baby Burping, Hiccups & Spit-Up.](https://www.healthychildren.org/english/ages-stages/baby/feeding-nutrition/pages/baby-burping-hiccups-and-spit-up.aspx)
 
 
 ```json

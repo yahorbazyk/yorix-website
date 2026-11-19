@@ -108,6 +108,12 @@ FIO tends to suit parents who:
 - want to give their baby a few minutes to try before stepping in;
 - don't want to follow a fixed timer.
 
+## “Controlled crying” and “controlled comforting” (UK and AU names)
+
+Families searching from the UK or Australia often meet **controlled crying** or **controlled comforting**. These are names, not a third official method. In practice they usually describe a **graduated** plan: you put the baby down awake, leave for a short, planned interval, and return to reassure without starting a long feed or a full pick-up-to-sleep, then leave again. That is the same family as graduated extinction, which this site already covers on [Ferber](/ferber-method-baby-sleep) and in the [methods table](/sleep-training-methods-explained).
+
+They are **not** the same as unmodified extinction (one goodnight and no returns), and they are **not** the same as [responsive settling](/responsive-settling) (in-arms and hands-on help that can fade) or [gentle sleep training](/gentle-sleep-training) (chair / camping out, bedtime fading, pick up / put down). If a leaflet says “camping out,” use the gentle-training page. Age, safety, and “this is not for a newborn” still apply — see the checklist already on this page.
+
 ## Sleep training without cry it out
 
 If CIO isn't right for your family, you have options:
@@ -145,6 +151,8 @@ A looser approach: allow fussing, go in for real distress. It hasn't been studie
 **Yorix** logs how long settling takes and each night waking, so you can see the real trend over a week instead of judging by the hardest night. It is a support for tired parents, not a medical device and not a diagnosis.
 
 ## Related reading
+
+- [Is Sleep Training Harmful? What the Trials Show — and What They Don't](/is-sleep-training-harmful)
 
 - [Gentle Sleep Training: Chair, Fading, and Pick Up / Put Down](/gentle-sleep-training)
 - [Self-Soothing: A Skill That Grows, Not a Method](/self-soothing)

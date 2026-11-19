@@ -58,6 +58,8 @@ HealthyChildren.org (Jana and Shu) and NHS "Helping your baby to sleep" describe
 
 There is no evidence-based 3-day "reset" clock we can quote from AAP or NHS. Be suspicious of plans that promise a flipped baby by Friday.
 
+For types of darkening and window-cord safety, see [how dark should a baby's room be](/how-dark-should-babys-room-be). Newborns still need the day–night contrast on this page more than they need a cave.
+
 ## What not to do
 
 - Do not keep the baby up all day in the hope that exhaustion will create a night. An [overtired baby](/overtired-baby) often sleeps worse, not better.
@@ -70,6 +72,12 @@ There is no evidence-based 3-day "reset" clock we can quote from AAP or NHS. Be 
 HealthyChildren.org calls day-night reversal temporary. Many parents notice a clearer "night" by 6 to 8 weeks, but we did not find a single official week-by-week deadline in AAP or NHS materials, so treat that window as a common experience, not a guarantee. If at 2 or 3 months the baby is still systematically wide awake all night and asleep all day, mention it at a checkup — and check that daytime light exposure is actually happening.
 
 A more mature night, in the research sense of a longer stretch, is covered in [when babies sleep through the night](/when-do-babies-sleep-through-the-night). That is a later milestone than fixing a backwards clock.
+
+## Early wakings at 6–12 weeks
+
+A 5 a.m. or 6 a.m. start at 6–12 weeks is often still a day–night confusion or a late bedtime problem, not the later "early morning waking" pattern described for older babies. Use the contrast plan already on this page (brighter days, boring nights). The later, after-4-months plan lives on [early morning waking](/early-morning-waking).
+
+For the week you are in, use the snapshot: [6 week old baby sleep](/6-week-old-baby-sleep), [8 week old baby sleep](/8-week-old-baby-sleep), or [12 week old baby sleep](/12-week-old-baby-sleep). A 4 a.m. clock-time question that is really "is this still night?" belongs on [why does my baby wake up at 4am](/why-does-my-baby-wake-up-at-4am).
 
 ## When to talk to your pediatrician
 
@@ -97,6 +105,9 @@ No. Regressions are discussed later, often around 3–4 months, when [sleep cycl
 **Yorix** can show a 24-hour log of sleep and feeds, which makes a "long morning nap, long night wake" pattern obvious. The app cannot reset a body clock and is not a medical device. Use the log alongside your pediatrician's feeding plan.
 
 ## Related reading
+
+- [2 Week Old Baby Sleep: Pieces, Feeds, and 'Sleeping All Day'](/2-week-old-baby-sleep)
+- [8 Week Old Baby Sleep: When the Clock Stirs and Naps Stay Short](/8-week-old-baby-sleep)
 
 - [Baby Sleep Cues: How to Read Sleepy Signs](/baby-sleep-cues)
 - [Night Lights and Baby Sleep: Color Claims, and What We Can Source](/night-lights-and-baby-sleep)

@@ -41,6 +41,12 @@ Pushing up on hands and knees is the developmental line CPSC names. Rolling on i
 
 If the bassinet rocks, swings, or has an incline, use it only in the manner the manual allows, and never as a workaround for a baby who only sleeps in motion. See [car seats, swings, and loungers](/baby-sleeping-in-car-seat).
 
+For how cribs, mini-cribs, bedside sleepers, and Moses baskets differ — including U.S. vs UK wording on baskets — see [cribs, bassinets, and bedside sleepers](/cribs-bassinets-and-bedside-sleepers). Play-yard types, the supplied-mattress rule, and the 35-inch / climb-out limit are on [pack-and-play sleep](/pack-and-play-sleep).
+
+## Bedside sleepers, Moses baskets, and play yards
+
+For product types and the different U.S. and UK wording on baskets, see [cribs, bassinets, and bedside sleepers](/cribs-bassinets-and-bedside-sleepers). For play-yard limits and the supplied-mattress rule, see [pack-and-play sleep](/pack-and-play-sleep). This page covers when to move once a product is outgrown.
+
 ## How to make the switch
 
 You do not need a long, formal program. A few practical steps, drawn from the same safe-sleep logic used on our other pages:
@@ -72,8 +78,8 @@ At the manufacturer's weight or length limit, at about 5 months, or when they ca
 **Can they go back to the bassinet for naps?**  
 Not once they have outgrown it. Limits apply to every sleep.
 
-**Is a mini-crib or play yard okay instead of a full crib?**  
-Yes, if it meets current safety standards and has a firm, flat, tight mattress. The AAP lists these as acceptable sleep surfaces.
+**Is a mini-crib or play yard okay instead of a full crib?**
+Yes, if it meets current safety standards and has a firm, flat, tight mattress. The AAP lists these as acceptable sleep surfaces. For types and limits, see [cribs, bassinets, and bedside sleepers](/cribs-bassinets-and-bedside-sleepers). For play-yard rules, including using only the mattress that came with it, see [pack-and-play sleep](/pack-and-play-sleep).
 
 **Do I have to move them to their own room at the same time?**  
 No. Room-sharing can, and for the first 6 months should, continue. See [when to move baby to their own room](/when-to-move-baby-to-own-room).

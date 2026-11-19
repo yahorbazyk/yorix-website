@@ -107,6 +107,12 @@ The CDC's 1-year tips stress routines for sleeping and feeding. A one-year-old r
 - Screens in the hour before bed (KidsHealth).
 - A routine that keeps getting longer (KidsHealth).
 
+## If you searched for a 13 month old sleep schedule
+
+Thirteen months is just past the first birthday. There is no separate official 13-month timetable. AASM recommends **11–14 hours** in 24 hours at 1–2 years (the same band used on this page and on [15 month old sleep schedule](/15-month-old-sleep-schedule)).
+
+Most 13-month-olds are still on two naps. Do not drop to one nap only because a search suggested a 13-month schedule. The 2-to-1 discussion lives on the 15-month page and on [the 2-to-1 nap transition](/2-to-1-nap-transition). If sleep wobbled around walking, standing in the crib, or the first birthday, use [sleep regression at 12 months](/sleep-regression/12-months).
+
 ## When to talk to your pediatrician
 
 See your doctor if your child snores loudly or seems to pause breathing, is very hard to wake, isn't pulling up to stand, or has lost skills they had before. Mention ongoing night wakings or early waking if they're wearing you down.
@@ -127,6 +133,12 @@ Most example schedules land between 6:30 and 8 p.m. Earlier after a short aftern
 
 **Can my 1 year old have a blanket in the crib?**  
 KidsHealth says a light blanket and a small lovey are OK after the first birthday.
+
+**What about a 14 month old sleep schedule?**
+Fourteen months still sits between this page and [15 month old sleep schedule](/15-month-old-sleep-schedule). Keep the 11–14 hour AASM 1–2 year band. Two naps are still typical for many children; use the 15-month page and [the 2-to-1 nap transition](/2-to-1-nap-transition) only if readiness signs are actually present. There is no official 14-month regression.
+
+**My 8, 9, 10, or 12 month old won’t nap. Does that mean they should drop a nap?**
+Not automatically. Use this page and the matching month schedule. At this age a two-nap day is still common; dropping to one nap too early can look like “they won’t nap.” See [baby nap schedule by age](/baby-nap-schedule-by-age) and, when the one-nap transition is actually close, [when do toddlers stop napping](/when-do-toddlers-stop-napping).
 
 ## Watch the nap pattern before you change it (Yorix)
 

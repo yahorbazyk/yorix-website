@@ -39,6 +39,16 @@ In active sleep, babies may show eye movements under the lids, twitches, irregul
 
 Cleveland Clinic and KidsHealth both describe newborns as light, noisy sleepers with no day-night pattern yet. That noisiness is partly this active-sleep share, not a sign that the bassinet is "wrong."
 
+## Sleeping with eyes partly open
+
+HealthyChildren.org’s “Stages of Newborn Sleep” describes **active (REM) sleep** as a restless stretch: the baby may twitch, and **the eyes move under closed lids**. We did not find a dedicated AAP or KidsHealth article on “sleeping with eyes open,” so we will not invent a normal-rate or a diagnosis name.
+
+What that active-sleep picture does mean, practically: lids may not look tightly shut for every second of a restless stretch, and a sliver of eye can show while the baby is still asleep. If the baby settles, feeds, and wakes in their usual way, and the eyes look comfortable, this is usually something to mention at a regular visit rather than a reason to wake them. Do **not** tape the lids, press an eye closed, or add a mask or cloth to the crib.
+
+Talk to your pediatrician sooner if the eyes look red, dry, cloudy, or sticky, if one eye will not close when the baby is awake, or if you notice new facial asymmetry. Those are eye or nerve questions, not a sleep-cycle tweak.
+
+For the focused eye-care question, see [baby sleeping with eyes open](/baby-sleeping-with-eyes-open).
+
 ## Why babies smile or laugh in their sleep
 
 A grin or a short laugh during sleep is usually part of **active (REM) sleep**, not proof that they are dreaming in the adult sense, and not a review of your parenting. Sleep Foundation describes active sleep as a stage with eye movements, twitches, irregular breathing, and mouth movement; smiles fit that picture. Brief sounds can appear in the same stage — see [baby crying in their sleep](/baby-crying-in-sleep) if the sound is a whimper rather than a smile.
@@ -91,11 +101,16 @@ Sleep Foundation notes that babies often enter REM soon after falling asleep, wh
 **When will they sleep more like an adult?**  
 Four-stage sleep begins to appear around 3 months; more adult-like architecture is described around 5 years. Night "sleeping through" is a separate milestone — see [when babies sleep through the night](/when-do-babies-sleep-through-the-night).
 
+**Is it normal for a baby to sleep with their eyes open?**  
+Active sleep includes eye movement under the lids (HealthyChildren.org). A brief sliver of eye can show during that stretch. If the eyes look sore or will not close when your baby is awake, call the pediatrician rather than diagnosing it from this page.
+
 ## See cycles in the log, not as a diagnosis (Yorix)
 
 **Yorix** timestamps naps and night wakings, so a cluster of 40-minute naps is easier to see than it is in a paper diary. The app cannot measure REM or diagnose a sleep disorder, and it is not a medical device.
 
 ## Related reading
+
+- [Baby Head Banging and Body Rocking: Usually a Rhythm, Not a Diagnosis](/baby-head-banging-and-body-rocking)
 
 - [Short naps](/short-naps)
 - [False starts](/false-starts)
@@ -115,6 +130,9 @@ All pages below were opened and checked on 15 November 2026.
 4. HealthyChildren.org (AAP). "Getting Your Baby to Sleep." <https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/Getting-Your-Baby-to-Sleep.aspx>. Drowsy but awake around 4 months; sleep-onset habits.
 5. Nemours KidsHealth. "Sleep and Your Newborn." <https://kidshealth.org/en/parents/sleepnewborn.html>. Newborns have no day-night sense; light, frequent sleep.
 6. American Academy of Sleep Medicine. Consensus recommendations for pediatric sleep duration (AAP-endorsed for 4–12 months). <https://aasm.org/>. Used for total-sleep context, not cycle length.
+
+
+7. [HealthyChildren.org (AAP). “Stages of Newborn Sleep.” Last updated 18 September 2013. Active (REM) sleep: twitching; eyes move under closed lids; irregular breathing, including normal periodic breathing of infancy.](https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/phases-of-sleep.aspx)
 
 
 ```json

@@ -49,6 +49,14 @@ Elevating the mattress or using a pillow, wedge, or positioner under or over it 
 
 If your baby falls asleep in your arms after a feed, move them to their own firm, flat surface on the back when you can do so safely — the same rule as on our [bed-sharing](/bed-sharing-and-co-sleeping) and [safe sleep](/safe-sleep-for-babies) pages. Being held upright **after a feed, while awake and supervised**, is a different activity from overnight sleep.
 
+## Arching, and the “they only sleep on their side” story
+
+Some babies with uncomfortable reflux **arch** or throw their head back during or after a feed, and some parents then conclude the baby will only sleep on their side or tummy. Arching can be a sign of discomfort, and it is a reason to talk to the pediatrician. It is **not** a reason to start nights on the side. The sleep rule in the section above does not change: **back, firm, flat**, no wedge, no incline.
+
+Questions of the form “can they sleep on their side if they have reflux?” belong on [baby sleeping on the stomach](/baby-sleeping-on-stomach) and [safe sleep](/safe-sleep-for-babies), with the same answer: start on the back. If you find them rolled to the side and they can roll both ways, the stomach-sleeping page already says what to do.
+
+Do not put a **rice bag, bean bag, or heated pack** on a baby’s tummy, and do not prop them on a pillow to “settle the reflux.” HealthyChildren.org has had to answer that kind of folk remedy; it is not a safe-sleep solution. Comfort while they are **awake and supervised** (upright after a feed, as the next section describes) is different from overnight position.
+
 ## What may help while your baby is awake
 
 These steps are for feeds and the stretch afterward, not for propping the crib:
@@ -94,11 +102,19 @@ Often by about 12 to 14 months (NIDDK) or around the first birthday (NHS). Mayo 
 **Is reflux the same as colic?**  
 No. Ordinary spit-up is often painless. Persistent, hard-to-soothe crying has its own page: [colic](/colic). Some babies have both issues; only a clinician can sort the cause.
 
+**Why does my baby arch their back when sleeping or when I try to put them down?**
+It can be reflux, tiredness, ordinary stretching, or protest. It is not a diagnosis on its own. If there are feeding-pain signs, frequent vomiting, or poor weight gain, use [reflux and baby sleep](/reflux-and-baby-sleep) and call. If the picture is a “second wind” at bedtime, see [overtired baby](/overtired-baby) and [why does my baby fight sleep](/why-does-my-baby-fight-sleep).
+
+**Can a baby choke on spit-up while sleeping on their back?**
+HealthyChildren.org’s “Baby Burping, Hiccups & Spit-Up” (updated 31 December 2024) says spit-up almost never involves choking, coughing, discomfort, or danger to the child, **even if it occurs during sleep**, and that the best position is still on the back with the mattress flat, not elevated. That matches the AAP / NASPGHAN advice already on this page. Do not use a wedge, a rolled towel, or a car seat as a “choking workaround.” If spit-up comes with poor weight gain, forceful or green vomit, or breathing trouble, use [reflux and baby sleep](/reflux-and-baby-sleep) and call. Related: [baby hiccups and sleep](/baby-hiccups-and-sleep).
+
 ## Note spit-up nights without changing the crib (Yorix)
 
 **Yorix** can help you log feeds, spit-up episodes, and sleep stretches so you have a clear picture for the pediatrician. The app cannot diagnose GERD, and it is not a reason to use a wedge, incline, or sitting device for sleep. Yorix is not a medical device.
 
 ## Related reading
+
+- [Sleep Positioners, Loungers, and Inclined Sleepers Are Not a Crib](/sleep-positioners-and-loungers)
 
 - [Safe sleep for babies](/safe-sleep-for-babies)
 - [Colic](/colic)
@@ -121,6 +137,9 @@ All pages below were opened and checked on 15 November 2026.
 6. HealthyChildren.org (AAP). "Why Babies Spit Up." Accessed 15 November 2026. Smaller, more frequent feeds; burp during meals; upright at least 20 minutes; postpone active play after meals; oatmeal thickener only if a clinician advises it. <https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/why-babies-spit-up.aspx>.
 7. Nemours KidsHealth. "Gastroesophageal Reflux (GER) in Babies." Accessed 15 November 2026. <https://kidshealth.org/en/parents/ger-babies.html>.
 8. Michigan Department of Health and Human Services. "Should a baby still be placed on the back to sleep if they spit up a lot or have reflux?" Public-health restatement of AAP and NASPGHAN advice: no crib elevation, car-seat, or swing sleep for reflux. <https://www.michigan.gov/mdhhs/safety-injury-prev/safe-sleep2/professional-resources/faq/questions/should-a-baby-still-be-placed-on-his-back-to-sleep-if-he-spits-up-often-or-has-reflux-or-gerd>.
+
+9. [HealthyChildren.org. Baby Burping, Hiccups & Spit-Up.](https://www.healthychildren.org/english/ages-stages/baby/feeding-nutrition/pages/baby-burping-hiccups-and-spit-up.aspx)
+
 
 ```json
 {

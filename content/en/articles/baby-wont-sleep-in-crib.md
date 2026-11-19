@@ -80,11 +80,20 @@ A second *safe* sleep space can help you put the baby down where you actually ar
 **Can I swaddle to get them to accept the bassinet?**  
 If they are not rolling and the wrap is hip-healthy, swaddling can reduce startle. It is a tool, not a requirement. See [how to swaddle a baby](/how-to-swaddle-a-baby).
 
+**How do I stop contact naps at 6 or 9 months?**
+There is no official week when contact naps must end. If you want more crib naps, the practical home is [baby won't sleep in crib](/baby-wont-sleep-in-crib). Keep every sleep you do get onto a safe surface if you need to put them down; a sofa or an armchair is still not a safe sleep space. Later-month contact naps are a habit and a logistics question, not a new medical event.
+
+**Why does my 4 month old (or older baby) wake when put down?**
+That is the transfer problem already described on [baby won't sleep in crib](/baby-wont-sleep-in-crib) and [sleep associations](/sleep-associations). A startle on the way down can add to it — see [startle reflex and sleep](/startle-reflex-and-sleep).
+
 ## See which put-downs actually last (Yorix)
 
 **Yorix** can show how long the first stretch in the bassinet or crib lasts, and whether nights are changing as you practice the transfer. The app cannot make a mattress feel like arms and is not a medical device.
 
 ## Related reading
+
+- [Cribs, Bassinets, Bedside Sleepers, and Moses Baskets: How They Differ](/cribs-bassinets-and-bedside-sleepers)
+- [Pack-and-Play and Play Yard Sleep: Types, Rules, and When to Stop](/pack-and-play-sleep)
 
 - [Contact naps](/contact-naps)
 - [When to move baby to the crib](/when-to-move-baby-to-crib)

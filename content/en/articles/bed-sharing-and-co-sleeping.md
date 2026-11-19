@@ -44,6 +44,12 @@ Sleep Foundation's co-sleeping article, medically reviewed in 2025, usefully spl
 
 Lullaby Trust uses "co-sleeping" as an umbrella for bed, sofa, or chair sharing, and treats room-sharing as a separate, recommended practice. When a friend says they "co-sleep," it is worth asking which of these they mean.
 
+## “Breastsleeping” and the “Safe Sleep Seven”
+
+These are **popular parent-education names**, not official AAP, NHS, or Lullaby Trust protocols. **Breastsleeping** is a term some breastfeeding advocates use for sleeping in close contact while nursing. The **“Safe Sleep Seven”** is an unofficial checklist circulated in some parent communities (a list of conditions under which those authors consider bed-sharing lower risk).
+
+We name them here because people search for them. We will not reprint the unofficial list as if it were a medical standard, and we will not average it with the AAP’s advice already in the next section (the AAP recommends room-sharing **without** bed-sharing). UK advice that overlaps — and the places it does not — stays in the UK section already on this page. If a book or a forum says the “seven” make bed-sharing official policy, that is not accurate. Use this page’s sourced comparison, not a third checklist.
+
 ## Why the AAP draws a hard line
 
 The 2022 AAP policy, in parent language on HealthyChildren.org, is unambiguous: based on the evidence, the AAP recommends that parents **avoid bed-sharing**, and it is "unable to recommend bed-sharing under any circumstances." The reasons are suffocation, entrapment, overlay, and a higher rate of sudden unexpected infant death. Pillows, duvets, a soft mattress, and an adult who does not reliably wake all add risk that a bare crib does not.
@@ -95,11 +101,16 @@ The AAP says no, including with twins. Lullaby Trust advises against bed-sharing
 **Are in-bed sleepers or "sidecar" cribs a loophole?**  
 The AAP has said it cannot recommend for or against some bedside or in-bed products until more research is done. If you use a product, it still needs to meet current safety standards and must not become a soft, inclined, or cluttered nest. When in doubt, a standalone, approved bassinet or crib is the clearer choice.
 
+**Can a baby sleep on my chest if I am awake?**
+Holding a baby on your chest while you are fully awake and alert is not the same as sleeping with them on your chest. The risk is dozing off, especially on a sofa or armchair: HealthyChildren.org (AAP) cites a risk of sleep-related death up to 67 times higher when a baby sleeps with someone on a couch or soft chair — described in the safe-sleep guidance. If there is any chance you might fall asleep, move them to their own firm, flat, clear surface on their back first. A contact nap in your arms still has to end on a safe surface if you need to put them down; see [contact naps](/contact-naps).
+
 ## Log nights without turning them into a verdict (Yorix)
 
 **Yorix** can record night feeds and wakings, which is useful when you are discussing sleep with your pediatrician. It cannot tell you that a shared bed is safe, and it is not a medical device. Safe sleep still depends on the surface and the habits, not on an app.
 
 ## Related reading
+
+- [Cribs, Bassinets, Bedside Sleepers, and Moses Baskets: How They Differ](/cribs-bassinets-and-bedside-sleepers)
 
 - [Baby Sleep and Travel: Planes, Hotels, and Jet Lag](/baby-sleep-and-travel)
 - [Nursing to Sleep: When It Is Normal, and What to Change Later](/nursing-to-sleep)

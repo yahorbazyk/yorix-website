@@ -39,6 +39,8 @@ We are not inventing a "one hour of shift per day" jet-lag formula. HealthyChild
 McCarthy's hotel article is the practical checklist:
 
 - Request a crib or play yard when you book. Inspect hardware, the mattress, and fit of the sheet. If it looks wrong, ask for a replacement or use your own travel play yard.
+
+  When you are choosing or packing a play yard, the product rules — only the mattress supplied with it, bassinet-insert limits, and when to stop — are on [pack-and-play sleep](/pack-and-play-sleep).
 - Put the crib away from cords, lamps, TVs, and anything that could fall.
 - Do a "safety crawl" on arrival for dropped pills, pens, and other small objects.
 - Never leave a child alone in a hotel room, even with a monitor, including for a meal in the attached restaurant.
@@ -48,6 +50,14 @@ McCarthy's hotel article is the practical checklist:
 The same AAP travel-tips page warns that cribs or play yards provided when you travel internationally — and in the U.S. — may not meet current standards. If you have any doubt, ask for a replacement or choose another option.
 
 A familiar [sleep sack](/sleep-sacks), a small [lovey if they are over 12 months](/when-can-baby-sleep-with-a-blanket), and the usual [bedtime routine](/bedtime-routine-for-baby) are the portable parts of home. A new apartment sofa is not a crib.
+
+## Camping, and very hot or cold nights away from home
+
+Safer sleep does not pause in a tent. Red Nose and the Lullaby Trust both treat sleep away from home as the same rules in a different building (or in no building): **on the back**, on a **firm, flat**, approved surface, with a clear space and no loose adult bedding. A pillow nest on an air mattress, a baby on a quilt between adults, or a car seat left at the edge of a tent is not a campsite exception.
+
+Bring a travel crib, play yard, or other approved product that still fits the baby, and use only its own mattress. Keep the sleep space off a soggy groundsheet and away from heater vents and stove fumes. In hot weather, Red Nose’s summer advice and the Lullaby Trust’s hot-weather pages agree with [how to dress a baby for sleep](/how-to-dress-baby-for-sleep): light layers, no hat for sleep, shade, and a check of the chest — not an extra blanket “in case.” In the cold, add a layer or a well-fitting sleep bag; do not use a hot-water bottle, a heating pad, or a heavy duvet in the baby’s space, and do not bring the baby into an adult sleeping bag.
+
+If the only option looks unsafe, it is better to change the plan than to improvise a nest. Temperature and dressing details stay on the dressing page; this section is the travel-and-camping frame.
 
 ## Planes, cars, and the "they've finally fallen asleep" problem
 
@@ -75,13 +85,16 @@ Ask before long-haul travel with a preterm or recently discharged baby, before f
 Shift the schedule 2–3 days before you go, then use local daylight. Do not invent a steeper protocol than that unless your pediatrician gives you one.
 
 **Is a hotel crib safe?**  
-It can be, if it meets current standards and is in good repair. Inspect it. If it does not look right, ask for another or use your own play yard.
+It can be, if it meets current standards and is in good repair. Inspect it. If it does not look right, ask for another or use your own play yard. For the play-yard product itself, see [pack-and-play sleep](/pack-and-play-sleep).
 
 **Can they sleep in the bed with us "just on vacation"?**  
 The AAP still does not recommend bed-sharing. Vacation tiredness is a reason to be more careful, not less. See [bed-sharing](/bed-sharing-and-co-sleeping).
 
 **What if the only nap is in the car?**  
 Use it for the drive, then move them when you arrive. Build a crib nap at the destination when you can.
+
+**Why won’t my baby or toddler sleep after we moved house?**
+A new room, new noises, and a temporarily unpacked crib can unsettle sleep. That is a change of place, not a new official regression age. Keep the same safe-sleep rules in the new home: back, firm, flat, clear, in your room if they are still in the first months. Rebuild the same short bedtime routine you already use — see [bedtime routine for baby](/bedtime-routine-for-baby). A travel crib or play yard is fine overnight if it meets safety standards and has only a tight fitted sheet (see the pack-and-play FAQ on [when to move baby to crib](/when-to-move-baby-to-crib)). If an older child is frightened of the new dark room, use [fear of the dark](/fear-of-the-dark) and [night lights and baby sleep](/night-lights-and-baby-sleep).
 
 ## Keep the log, loosen the clock (Yorix)
 
@@ -108,6 +121,15 @@ All pages below were opened and checked on 15 November 2026.
 2. HealthyChildren.org (AAP). "Hotel Safety Tips for Parents of Young Children." By Claire McCarthy, MD, FAAP. Last updated 6/18/2026. <https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Hotel-Dangers-that-Put-Baby-Safety-at-Risk.aspx>. Do not relax safe sleep; pack-and-play or portable crib; inspect it; never leave a child alone in the room.
 3. HealthyChildren.org (AAP). "How to Keep Your Sleeping Baby Safe" and "Why Inclined Sleepers… Are Bad for Baby." Move a baby who falls asleep in a car seat to a firm, flat surface as soon as you can.
 4. NHS and Lullaby Trust car-seat pages, as cited on [baby sleeping in a car seat](/baby-sleeping-in-car-seat). Travel only; out as soon as you arrive.
+
+
+5. [Red Nose Australia. Safe Sleep While Camping.](https://rednose.org.au/safe-sleep-and-safer-pregnancy/12-months-and-beyond/safe-sleep-while-camping/)
+
+6. [The Lullaby Trust. Safer sleep on holiday.](https://www.lullabytrust.org.uk/baby-safety/travel-and-weather/safer-sleep-on-holiday/)
+
+7. [The Lullaby Trust. Hot weather.](https://www.lullabytrust.org.uk/baby-safety/travel-and-weather/hot-weather/)
+
+8. [The Lullaby Trust. Cold weather.](https://www.lullabytrust.org.uk/baby-safety/travel-and-weather/cold-weather/)
 
 
 ```json

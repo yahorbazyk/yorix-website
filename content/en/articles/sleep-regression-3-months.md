@@ -120,11 +120,19 @@ Rule out illness, hunger, and rolling while swaddled first. If none applies and 
 **Can I sleep train a 3 month old?**  
 It's generally considered too early. Sleep Foundation places readiness later, around 4–6 months.
 
+**Is there a 12 week sleep regression?**
+Twelve weeks is the usual "3 months" mark. Use this page, not a separate weekly diagnosis. The week-12 snapshot — stretches, not a schedule — is [12 week old baby sleep](/12-week-old-baby-sleep). Short day pieces belong on [short naps](/short-naps). Early "4-month" changes can start before 16 weeks; that essay is [4 month sleep regression](/sleep-regression/4-months).
+
 ## Keep track of what changed (Yorix)
 
 **Yorix** keeps naps, feeds, and night wakings in one log, so you can look back and see whether sleep really got worse or has always looked like this. It suggests the next sleep window from your baby's actual day. It is a support for tired parents, not a medical device and not a diagnosis.
 
 ## Related reading
+
+- [11 Week Old Baby Sleep: One Week Short of the 3-Month Mark](/11-week-old-baby-sleep)
+- [13 Week Old Baby Sleep: Just Past 3 Months, Between Two Bands](/13-week-old-baby-sleep)
+
+- [12 Week Old Baby Sleep: Longer Nights for Some, Still Not a Timetable](/12-week-old-baby-sleep)
 
 - [Sleep regression ages](/sleep-regression)
 - [4 month sleep regression](/sleep-regression/4-months)

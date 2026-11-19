@@ -150,6 +150,18 @@ Rest when your baby sleeps, share the night with a partner or helper, go to bed 
 **When is tiredness a sign of postnatal depression?**  
 If you can't sleep even when your baby sleeps, or you feel hopeless or unable to cope, speak to a doctor (NHS).
 
+**Why is a 6–8 week old waking so often at night?**
+Frequent night waking is still typical at this age. Hunger, cluster feeding, and the 6–8 week fuss peak described for Period of PURPLE Crying (NCSBS) often travel together. Use [cluster feeding](/cluster-feeding) for bunched evening feeds, [6 week old baby sleep](/6-week-old-baby-sleep) for the week snapshot, and [6 week sleep regression](/6-week-sleep-regression) for that popular name. Do not start a formal training plan at 6–8 weeks (Sleep Foundation generally discusses readiness around 4–6 months).
+
+**Why does my baby wake up at 2 a.m. or 3 a.m.?**
+There is no official 2 a.m. or 3 a.m. event. A waking in the middle of the night is usually a night waking or a [split night](/split-nights) — a long stretch of being awake between two sleeps — not a separate diagnosis. If the clock is closer to morning, [why does my baby wake up at 4am](/why-does-my-baby-wake-up-at-4am) and [early morning waking](/early-morning-waking) are the closer pages. For getting through the night as a parent, see [survive night wakings](/survive-night-wakings-new-parents).
+
+**How do we protect baby sleep when a parent works nights, or when there is only one adult?**
+Keep the *baby’s* day and night the right way around — light and ordinary noise by day, a dim, boring night — even if a parent is on a night shift. Do not flip the baby onto the parent’s work clock. The same short bedtime routine can be done by whoever is on duty; the sequence matters more than which adult does it. See [bedtime routine for baby](/bedtime-routine-for-baby). Safe sleep does not relax because you are exhausted: back, firm, flat, clear, and never a sofa or armchair (the sofa risk is already on [bed-sharing and co-sleeping](/bed-sharing-and-co-sleeping)). If you are dangerously tired, ask for help for you as well — mental-health and exhaustion support still applies when there is no second adult to “take a shift.”
+
+**Should I wake my baby to change a diaper at night?**
+NHS advice on helping a baby to sleep: at night, do not change them unless they need it, and do not play. “Need it” means a soiled diaper or one that is soaking through, not every slightly damp one. If you do change them, keep the lights dim and the visit boring, then put them back on their back in their own space. This is not a reason to skip a night *feed* your pediatrician still wants you to offer.
+
 ## Nights, made a little more predictable (Yorix)
 
 **Yorix** records every night waking and feed, so you can spot patterns (for example, wakings that cluster after a late nap) and share the log with a partner who takes the next shift. It is a support for tired parents, not a medical device and not a diagnosis.
@@ -190,6 +202,7 @@ All pages below were opened and checked on 15 November 2026.
 12. Nemours KidsHealth. "Baby Sleep: 4- to 7-Month-Olds." <https://kidshealth.org/en/parents/sleep47m.html>.
 13. Nemours KidsHealth. "Sleep and Your Newborn." <https://kidshealth.org/en/parents/sleepnewborn.html>.
 14. HRSA Maternal and Child Health Bureau. "National Maternal Mental Health Hotline: FAQ." Last reviewed November 2023. <https://mchb.hrsa.gov/national-maternal-mental-health-hotline/faq>.
+
 
 ```json
 {

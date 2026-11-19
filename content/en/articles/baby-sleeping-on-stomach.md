@@ -58,6 +58,8 @@ Newborns should not be started on their side, even with a rolled towel at the ba
 
 Back sleeping increased "flat head" (positional plagiocephaly) in some babies, which is usually preventable and treatable. The answer is not stomach sleeping at night. It is supervised tummy time when the baby is awake, varying the direction they lie in the crib, limiting long stretches in seats and carriers, and holding them upright when you can. Our [tummy time](/tummy-time) guide covers minutes by age. Sleep Foundation, citing a review, mentions a daily total of at least 30 minutes as a later goal, built up from a few minutes at a time.
 
+For the sourced prevention steps (alternating the crib orientation, limiting long stretches in seats, and the Caring for Kids note that a flat spot does not affect brain development), see [tummy time](/tummy-time#tummy-time-and-flat-spots-on-the-head). Do not start nights on the tummy or side to “round out” a head.
+
 ## When to talk to your pediatrician
 
 Ask if your baby has a diagnosed airway or reflux condition and you have been given different sleep-position advice, if they seem to struggle to roll back and you are not sure they are ready to be left, or if you are worried about the shape of their head. Seek urgent care if breathing looks hard, or if they are unusually hard to wake.
@@ -78,6 +80,15 @@ No. The AAP and KidsHealth advise against wedges, positioners, and similar produ
 
 **When can they sleep on their tummy every night on purpose?**  
 After the first birthday, Sleep Foundation and NICHD-aligned advice say you no longer have to restrict them to their back. Many one-year-olds still start on their back out of habit, which is fine.
+
+**I found my 2 week old sleeping on their side. Is that all right?**
+Start every sleep on the back. If you find them on their side and they cannot yet roll both ways, return them to their back. The week-2 snapshot is on [2 week old baby sleep](/2-week-old-baby-sleep). Side-sleep is not a "newborn exception."
+
+**Why does my baby sleep with their bum in the air?**
+It is a common rolled position, not a separate diagnosis. Always **start** on the back, on a firm, flat, clear surface. If they can roll both ways and they get themselves into a rump-up position, the same rolling rule already on this page applies: you usually leave them if the space is clear and there are no loose blankets or pillows. If they cannot roll both ways yet, or the space is not clear, follow the stomach-sleeping advice above and talk to your pediatrician if you are unsure.
+
+**Can a 4 month old sleep on their stomach if they roll over?**
+Start every sleep on the back. If they roll to the tummy and can roll both ways, the rule already on [baby sleeping on stomach](/baby-sleeping-on-stomach) applies: leave them if the crib is clear, and stop swaddling. That is not a reason to *place* them on the tummy.
 
 ## Note when rolling started (Yorix)
 

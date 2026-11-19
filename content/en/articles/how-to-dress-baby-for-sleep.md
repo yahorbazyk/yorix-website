@@ -68,6 +68,14 @@ If a baby is too cold, the skin on the chest may feel cool, and they may seem un
 
 If your baby has a fever, ask your pediatrician before you add layers. Over-bundling a feverish baby can make things worse.
 
+## A sweaty head, and a fan in the room
+
+A damp scalp is a common reason parents add — or remove — a layer. Heads shed heat, so a slightly moist hairline is not, by itself, proof that the baby is dangerously hot. Check the **chest or back**, as the section above already says. If that skin is hot, sweaty, or flushed, take off a layer and cool the room. If the chest feels comfortable and the baby is otherwise well, you often need to change nothing. A sweaty head plus fever, unusual sleepiness, or fast breathing belongs in a call to the pediatrician, not in an extra blanket — see [sick baby sleep](/sick-baby-sleep).
+
+A room fan can make a warm room more comfortable. Keep cords out of reach and do not point a strong airflow at a newborn’s face. A fan is **not** a SIDS-prevention device and does not replace the safer-sleep steps on [safe sleep](/safe-sleep-for-babies). For how warm a wearable blanket should feel, including TOG labels, see [sleep sacks](/sleep-sacks).
+
+For the difference between ordinary sweating and signs to discuss with your pediatrician, see [baby sweating in sleep](/baby-sweating-in-sleep).
+
 ## Blankets, sleep sacks, swaddles, and what stays out of the crib
 
 For the first year, AAP safe-sleep advice is to keep loose blankets, pillows, quilts, and stuffed toys out of the crib. Warmth should come from clothes or a wearable blanket that cannot ride up over the face. That is the job of a [sleep sack](/sleep-sacks). A [swaddle](/how-to-swaddle-a-baby) is a newborn option only, and it has to stop when rolling starts.
@@ -101,11 +109,16 @@ Lighter layers, a cooler room if you can, and extra attention to sweating. A fan
 **Are fleece pajamas enough on their own?**  
 In a cool room, often yes, sometimes with a light sack. Fleece plus a heavy sack plus a hat is usually too much.
 
+**Can eczema wreck my baby’s sleep?**
+Itch can make nights miserable. Treat the skin with your clinician’s plan, not with a sleep product. Do not add loose blankets, pillows, or unprescribed creams into an infant’s crib. Dress in a comfortable layer — see [how to dress baby for sleep](/how-to-dress-baby-for-sleep) and [baby sweating in sleep](/baby-sweating-in-sleep) — and use [sick baby sleep](/sick-baby-sleep) for illness-night logistics.
+
 ## Log the room and the layers (Yorix)
 
 If you want a record of what you tried, **Yorix** can store sleep times and any symptoms you log (for example, that your baby felt sweaty at 2 a.m.). That can make it easier to see whether a hot night lined up with extra waking. The app does not measure room temperature and is not a medical device.
 
 ## Related reading
+
+- [How Dark Should a Baby's Room Be? Contrast Matters More Than Pitch Black](/how-dark-should-babys-room-be)
 
 - [When Can a Baby Sleep With a Blanket or Lovey?](/when-can-baby-sleep-with-a-blanket)
 

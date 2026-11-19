@@ -138,6 +138,9 @@ Possibly. Mayo Clinic says the third nap usually goes around 9 months. Look for 
 **Does every baby have an 8 month sleep regression?**  
 No. Sleep Foundation says not all babies do.
 
+**My 8 month old is waking every hour. Is that the regression?**
+It can be part of the same stretch. The hourly-waking plan is on [baby waking every hour](/baby-waking-every-hour). This page covers the 8–10 month named wobble.
+
 ## Match the bad nights to the milestones (Yorix)
 
 **Yorix** logs night wakings and naps and suggests the next nap window as awake periods lengthen, which can make the 3-to-2 nap switch easier to see. It is a support for tired parents, not a medical device and not a diagnosis.

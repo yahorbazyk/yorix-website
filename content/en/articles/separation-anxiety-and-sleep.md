@@ -75,11 +75,18 @@ HealthyChildren's own framing is reassurance, repeated if needed, in a consisten
 **Why does my child only want one parent at night?**  
 That preference is common in this phase (HealthyChildren). It is inconvenient, not a verdict on the other parent.
 
+**Why won’t my baby or toddler sleep after we moved house?**
+A new room, new noises, and a temporarily unpacked crib can unsettle sleep. That is a change of place, not a new official regression age. Keep the same safe-sleep rules in the new home: back, firm, flat, clear, in your room if they are still in the first months. Rebuild the same short bedtime routine you already use — see [bedtime routine for baby](/bedtime-routine-for-baby). A travel crib or play yard is fine overnight if it meets safety standards and has only a tight fitted sheet (see the pack-and-play FAQ on [when to move baby to crib](/when-to-move-baby-to-crib)). If an older child is frightened of the new dark room, use [fear of the dark](/fear-of-the-dark) and [night lights and baby sleep](/night-lights-and-baby-sleep).
+
 ## Match the wakings to a stretch of nights (Yorix)
 
 **Yorix** can show whether night wakings are clustering over weeks, which is the scale on which separation anxiety usually appears, rather than a single hard night. The app cannot treat anxiety and is not a medical device.
 
 ## Related reading
+
+- [When Can a Baby Have a Lovey? After the First Birthday, Cautiously](/when-can-baby-have-a-lovey)
+
+- [Sleep After Separation or Divorce: Two Homes, One Predictable Night](/sleep-after-separation-or-divorce)
 
 - [Self-Soothing: A Skill That Grows, Not a Method](/self-soothing)
 - [Toddler Won't Stay in Bed: After Lights Out](/toddler-wont-stay-in-bed)

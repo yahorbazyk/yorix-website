@@ -33,6 +33,8 @@ export function EnglishArticlePage({ slug }: { slug: string }) {
   }));
   const store = appStoreUrl(`guide-en-${article.slug}`);
   const regressionChild = article.path.startsWith('/sleep-regression/');
+  const weekMatch = article.slug.match(/^(\d+)-week-old-baby-sleep$/);
+  const week = weekMatch ? Number(weekMatch[1]) : null;
 
   return (
     <main className="home-page relative flex min-h-screen flex-col overflow-x-clip text-white" lang="en">
@@ -71,6 +73,11 @@ export function EnglishArticlePage({ slug }: { slug: string }) {
                   ),
                 }}>{article.body}</ReactMarkdown>
               </div>
+              {week !== null && <nav aria-label="Week by week" className="mt-10 flex flex-wrap items-center justify-between gap-3 rounded-2xl border border-white/20 bg-white/5 p-4 text-sm text-[#C7D2FE]">
+                {week > 1 && <Link href={`/${week - 1}-week-old-baby-sleep`} prefetch={false} target="_top" rel="prev" className="rounded-xl px-3 py-2 transition hover:bg-white/10">← Week {week - 1}</Link>}
+                <Link href="/baby-sleep-by-week" prefetch={false} target="_top" className="rounded-xl px-3 py-2 font-semibold transition hover:bg-white/10">All weeks</Link>
+                <Link href={week < 15 ? `/${week + 1}-week-old-baby-sleep` : '/4-month-old-sleep-schedule'} prefetch={false} target="_top" rel="next" className="rounded-xl px-3 py-2 transition hover:bg-white/10">{week < 15 ? `Week ${week + 1}` : '4 month sleep schedule'} →</Link>
+              </nav>}
               <section className="mt-12 rounded-3xl border border-[#818CF8]/40 bg-[#6366F1]/15 p-6 sm:p-8" aria-label="Try Yorix">
                 <BookOpen className="mb-4 h-7 w-7 text-[#C7D2FE]" aria-hidden="true" />
                 <h2 className="text-2xl font-semibold">Put your baby’s day in one place</h2>

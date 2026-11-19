@@ -137,6 +137,12 @@ If wakings suddenly multiply, our page on the [4 month sleep regression](/sleep-
 - **Bright, busy evenings.** Keep the last hour calm and dim.
 - **Unsafe sleep fixes:** inclined sleepers, extra blankets, pillows, or weighted products. HealthyChildren.org says a surface that inclines more than 10 degrees is not safe for infant sleep.
 
+## If you searched for 16 week old baby sleep
+
+Sixteen weeks is the usual "4 months" mark. There is no separate official week-16 sleep total. The right month view is this page: AASM recommends **12–16 hours** in 24 hours at 4–12 months. The National Sleep Foundation 0–3 month band (14–17 hours, as quoted by KidsHealth) no longer applies as the labelled range.
+
+If nights have fragmented, naps are stuck at one sleep cycle, or a previously long first stretch has broken, that is the picture described on [4 month sleep regression](/sleep-regression/4-months). The last week snapshot in the series is [15 week old baby sleep](/15-week-old-baby-sleep).
+
 ## When to talk to your pediatrician
 
 Call if your baby is feeding less, has fewer wet diapers, has a fever, breathes noisily or with effort during sleep, is hard to wake, or if you are simply worried. It's also worth asking before you start any formal sleep training. Our [sleep training methods guide](/sleep-training-methods-explained) explains the options.
@@ -160,6 +166,18 @@ Often yes. Many babies wake for feeds well beyond 4 months, and NHS services say
 
 **When should I stop swaddling?**  
 When your baby starts trying to roll (HealthyChildren.org / AAP).
+
+**What about 17 week old baby sleep?**
+Week 17 is still the 4-month view on this page, not a new snapshot. Keep the 12–16 hour AASM 4–12 month band. If rolling has started, stop swaddling and keep the crib clear, as already described in "Swaddling, pacifiers, and rolling." A slightly messy week after the 16-week mark is not an official "17 week regression."
+
+**What about 18 week old baby sleep?**
+Week 18 is still this 4-month page. Short naps at this age are already covered in "Short naps at 4 months." Do not create an 18-week timetable. If you are looking ahead toward 5 months, use [5 month old sleep schedule](/5-month-old-sleep-schedule) when you get there — not this week.
+
+**What about 19 week old baby sleep?**
+Week 19 is the late side of the 4-month window, just short of 5 months. Stay on this page for the 12–16 hour band and the 3- or 4-nap day already shown here. For the 5-month view — including the 4-to-3 nap shift — use [5 month old sleep schedule](/5-month-old-sleep-schedule).
+
+**Can a 4 month old sleep on their stomach if they roll over?**
+Start every sleep on the back. If they roll to the tummy and can roll both ways, the rule already on [baby sleeping on stomach](/baby-sleeping-on-stomach) applies: leave them if the crib is clear, and stop swaddling. That is not a reason to *place* them on the tummy.
 
 ## Plan the day around your real baby (Yorix)
 

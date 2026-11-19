@@ -139,11 +139,24 @@ No. Sleep training is optional. Many babies consolidate sleep with time.
 **How do I know it's working?**  
 Track settling time and night wakings for a week. If there's no progress after one to two weeks of consistency, pause and reassess.
 
+**Should I start sleep training at 8 or 12 weeks?**
+Usually not. Sleep Foundation generally discusses readiness around 4–6 months. A hard patch at 6–8 weeks is not a reason to start a formal method — see [6 week sleep regression](/6-week-sleep-regression) and [when to start sleep training](/when-to-start-sleep-training) already on this page's short answer.
+
+**What if “drowsy but awake” does not work?**
+It is a popular phrase, not an official AAP protocol, and it does not work for every baby or every night. If they cry as soon as they hit the mattress, you are in [sleep associations](/sleep-associations) and [baby won't sleep in crib](/baby-wont-sleep-in-crib) territory. If you are considering a formal plan, see [when to start sleep training](/when-to-start-sleep-training) and [is sleep training harmful](/is-sleep-training-harmful).
+
 ## Check readiness with real data (Yorix)
 
 **Yorix** shows how your baby's longest night stretch and settling time are changing week by week, which can help you and your pediatrician judge whether the time is right. It is a support for tired parents, not a medical device and not a diagnosis.
 
 ## Related reading
+
+- [15 Week Old Baby Sleep: The Week Before 4 Months, Not a Second 4-Month Page](/15-week-old-baby-sleep)
+- [4 Week Old Baby Sleep: A Week-4 Snapshot, Not the Month Plan](/4-week-old-baby-sleep)
+
+- [12 Week Old Baby Sleep: Longer Nights for Some, Still Not a Timetable](/12-week-old-baby-sleep)
+
+- [Responsive Settling: Help That Can Fade, Not a Second Methods Table](/responsive-settling)
 
 - [Bedtime Routine for Baby: A Simple, Evidence-Backed Wind-Down](/bedtime-routine-for-baby)
 - [Gentle Sleep Training: Chair, Fading, and Pick Up / Put Down](/gentle-sleep-training)

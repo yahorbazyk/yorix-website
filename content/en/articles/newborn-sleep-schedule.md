@@ -72,6 +72,8 @@ Every baby moves at their own pace. Use these stages as rough landmarks, not dea
 
 **Weeks 9–12: longer night stretches for some.** Newcastle Hospitals NHS says that by 3 months some babies skip a night feed and sleep around 5 hours at a time. The Sydney Children's Hospitals Network says many babies around 3 months stay awake longer in the day and sleep longer at night. Others take longer, and that is normal too.
 
+A '2 week sleep regression' search belongs on [2 week old baby sleep](/2-week-old-baby-sleep).
+
 ## The "second night" (a popular name, not a diagnosis)
 
 Some hospital leaflets and parent articles call the stretch around **24 hours after birth** "second night syndrome." It is **not a formal medical diagnosis** and it is not a reason to invent a new schedule.
@@ -94,6 +96,14 @@ Instead of clock times, think in loops. One loop is roughly: **feed → short aw
 | Sleep | On the back, in a bassinet or crib | Anywhere from a short catnap to a few hours |
 
 *Example of a single morning (illustration only):* 7:10 feed, 7:40 diaper and a chat, 8:00 asleep in the bassinet, 9:40 awake and hungry, and the loop starts again. Tomorrow will look different, and that's fine.
+
+## “Eat, play, sleep” — a flexible pattern, not a law
+
+Some parent sites, including Raising Children Network, describe a **feed, play, then sleep** rhythm as one way a day can go once a baby is a little older: a feed, a short stretch of awake time, then a nap, rather than feeding every baby all the way to sleep, every time. It is a **cue-led example**, not an official AAP protocol and not a timetable for a day-old baby.
+
+Newborns on this page are **not** ready for a fixed three-step law. They need frequent feeds, including at night, and they often fall asleep at the breast or bottle — that is ordinary, not a failed routine. If a popular graphic tells you to “never feed to sleep” in week one, ignore the graphic and stay with the flexible day already sketched above. For a later bedtime pattern, see [bedtime routine for baby](/bedtime-routine-for-baby). For frequent evening feeds, see [cluster feeding](/cluster-feeding).
+
+For a closer look at this flexible pattern, see [eat, play, sleep](/eat-play-sleep).
 
 ## Helping your newborn tell day from night
 
@@ -158,11 +168,19 @@ Some babies manage around 5-hour stretches by about 3 months (Newcastle Hospital
 **My newborn only sleeps on me. Is that normal?**  
 Very common in the early weeks (Tresillian). Hold your baby while you are awake, and move them to their own safe sleep space before you sleep.
 
+**Why won’t my baby sleep after a hospital stay?**
+Hospital days are noisy, brightly lit, and full of checks. Nights at home often look bumpier for a while. That is not an official “hospital sleep regression.” Keep the same safe-sleep rules you use every night (back, firm, flat, clear). If they are still recovering from an illness, see [sick baby sleep](/sick-baby-sleep) for congestion, fever, and when to call. If the stay was in a NICU, use [preemie sleep](/preemie-sleep) and corrected age. For the first night home after birth, see [1 week old baby sleep](/1-week-old-baby-sleep) and [newborn sleep schedule](/newborn-sleep-schedule).
+
 ## Keep track without keeping it in your head (Yorix)
 
 **Yorix** keeps feeds, diapers, and sleep in one timeline both parents can see, so nobody has to remember which side was last or when the last wet diaper happened. As patterns appear in the weeks ahead, it suggests the next sleep window. It is a support for tired parents, not a medical device and not a diagnosis.
 
 ## Related reading
+
+- [Baby Sleep by Week (Weeks 1–15)](/baby-sleep-by-week)
+
+- [2 Week Old Baby Sleep: Pieces, Feeds, and 'Sleeping All Day'](/2-week-old-baby-sleep)
+- [Can a Newborn Sleep Too Much? Long Sleep vs Hard to Wake](/can-a-newborn-sleep-too-much)
 
 - [Baby Sleep Cues: How to Read Sleepy Signs](/baby-sleep-cues)
 - [Bedtime Routine for Baby: A Simple, Evidence-Backed Wind-Down](/bedtime-routine-for-baby)

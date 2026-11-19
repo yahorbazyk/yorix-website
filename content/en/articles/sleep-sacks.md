@@ -94,11 +94,16 @@ A bulky sack can interfere with harness fit, which is a crash-safety issue, not 
 **Is a wearable blanket the same as a "sleep bag"?**  
 Yes. "Sleep bag," "sleep sack," and "wearable blanket" are names for the same idea.
 
+**What TOG rating should I buy?**  
+TOG is a lab insulation number used on many UK and European bags, not an AAP, NHS, or Lullaby Trust medical standard. Use the maker’s chart only as a starting hint, then check the baby’s chest (see “Fit, fabric, and what TOG can and cannot tell you” above, and [how to dress a baby for sleep](/how-to-dress-baby-for-sleep)). Choose a bag that fits the baby’s **weight**, has no hood, and cannot ride up over the face. Do not “size up” so far that the neck opening is loose.
+
 ## Note what your baby wore (Yorix)
 
 **Yorix** can log the sleep itself, and you can use a note or symptom entry if a night seemed too hot or too cold. It will not recommend a TOG rating and it is not a medical device.
 
 ## Related reading
+
+- [Startle Reflex and Sleep: A Wake-Up, Not a Training Problem](/startle-reflex-and-sleep)
 
 - [Crib to Toddler Bed: When and How to Switch](/crib-to-toddler-bed)
 - [When Can a Baby Sleep With a Blanket or Lovey?](/when-can-baby-sleep-with-a-blanket)

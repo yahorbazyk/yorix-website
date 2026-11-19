@@ -140,6 +140,18 @@ About 1–2 hours (Pregnancy, Birth and Baby), sometimes longer once the transit
 **How much sleep does a 15 month old need?**  
 11–14 hours a day including naps (AASM; CDC).
 
+**I have a 13 month old. Should I use this page?**
+Use this page if you are already asking about dropping to one nap. For the just-after-birthday view, start with [12 month old sleep schedule](/12-month-old-sleep-schedule).
+
+**I have a 14 month old. Is this the one-nap page already?**
+Only if readiness signs are present. Many 14-month-olds still need two naps. This page is the transition view; [12 month old sleep schedule](/12-month-old-sleep-schedule) is the two-nap, just-after-one view.
+
+**What about 16 months?**
+Use this page and [the 2-to-1 nap transition](/2-to-1-nap-transition). Keep the 11–14 hour band.
+
+**What about a 17 month old sleep schedule?**
+Seventeen months sits between this transition page and the one-nap view on [18 month old sleep schedule](/18-month-old-sleep-schedule). There is no official 17-month timetable. If you are mid-switch, stay with [the 2-to-1 nap transition](/2-to-1-nap-transition). If evenings have become a battle, see [toddler bedtime battles](/toddler-bedtime-battles) and [sleep regression at 18 months](/sleep-regression/18-months).
+
 ## See the transition in your data (Yorix)
 
 **Yorix** shows one-nap and two-nap days in the same weekly view, so you can see whether the switch is working: steady naps, calm evenings, and a night that isn't shrinking. It is a support for tired parents, not a medical device and not a diagnosis.

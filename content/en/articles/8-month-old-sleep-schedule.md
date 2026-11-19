@@ -143,6 +143,9 @@ If the day is steady and bedtime is late, adjust the schedule. If sleep changed 
 **How much milk does an 8 month old need?**  
 About 24 ounces a day of breast milk or formula, according to HealthyChildren.org.
 
+**My 8, 9, 10, or 12 month old won’t nap. Does that mean they should drop a nap?**
+Not automatically. Use this page and the matching month schedule. At this age a two-nap day is still common; dropping to one nap too early can look like “they won’t nap.” See [baby nap schedule by age](/baby-nap-schedule-by-age) and, when the one-nap transition is actually close, [when do toddlers stop napping](/when-do-toddlers-stop-napping).
+
 ## Plan the day around two naps (Yorix)
 
 **Yorix** predicts the next nap from your baby's last wake-up and moves bedtime when a nap runs short. Meals and milk feeds can sit in the same log. It is a support for tired parents, not a medical device and not a diagnosis.

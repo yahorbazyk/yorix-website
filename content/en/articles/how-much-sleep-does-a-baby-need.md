@@ -84,11 +84,19 @@ It is below the AASM 12–16 hour range. One short day is not a crisis; a regula
 **Should I wake my baby to keep them from sleeping "too much"?**  
 Not to hit a chart. Newborns sometimes need to be woken for feeds — that is a nutrition question, discussed with your pediatrician, not a way to trim sleep.
 
+**Is it normal for a 10 month old to sleep 12 hours?**
+Some babies at that age do have a long night; others do not. There is no official “must sleep 12 hours” target. Use the 24-hour bands on this page (they do not all agree — we do not average them) and the matching month schedule.
+
 ## Add up the real 24 hours (Yorix)
 
 **Yorix** logs naps and night sleep so you can see a 24-hour total instead of guessing from a hard night. You can also log feeds and symptoms if you are trying to understand a sleepy or restless stretch. It is a support for tired parents, not a medical device and not a diagnosis.
 
 ## Related reading
+
+- [What Time Should a Baby Go to Bed? There Is No Official Clock](/what-time-should-baby-go-to-bed)
+
+- [4 Year Old Sleep Schedule: The Preschool Day, With or Without a Nap](/4-year-old-sleep-schedule)
+- [Melatonin and Children's Sleep: Not a Do-It-Yourself Sleeping Pill](/melatonin-and-childrens-sleep)
 
 - [18 Month Old Sleep Schedule: Life on One Nap](/18-month-old-sleep-schedule)
 - [2 Year Old Sleep Schedule: Naps, Bedtime, and Totals](/2-year-old-sleep-schedule)

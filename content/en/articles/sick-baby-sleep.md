@@ -43,12 +43,24 @@ Reflux is a related question with the same bottom line (still on the back, flat)
 From Moon's HealthyChildren.org article, in our own words:
 
 - **Saline and suction.** Plain saline, two drops per nostril, then a bulb or aspirator. Squeeze the bulb first so you are not blowing mucus deeper. Doing this about 15 minutes before a feed or a nap can help both. A wet cotton swab can clean sticky mucus around the nose — not deep inside.
-- **Cool-mist humidifier or vaporizer**, close enough that mist reaches the sleep space, **out of the child's reach**, with fresh water daily and cleaning as the manufacturer says, to avoid mold.
+- **Cool-mist humidifier**, close enough that mist reaches the sleep space and **out of the child's reach**, cleaned as the manufacturer says. Cool-mist is the safer type around children (no burn risk from steam). Types, cleaning, and what a humidifier cannot treat are on [humidifiers and baby sleep](/humidifiers-and-baby-sleep).
 - **Steamy bathroom.** Run a hot shower, then sit with the baby in the moist air, especially before bedtime. Stay safe around hot water and slippery floors.
 - **Hydration.** Breast milk or formula as usual. If they are at least 6 months old, a little water may be offered as above. A stuffy nose can slow feeds; suctioning first may help. If breastfeeding is too hard, expressed milk in a cup or bottle is an option she mentions.
 - **Warmth without loose blankets.** Layers and a [sleep sack](/sleep-sacks) or footed sleeper, not a quilt. You can adjust the room slightly, then check that they are not too hot.
 
 We are not recommending menthol rubs, honey (not for children under 1 year), or over-the-counter cold medicines unless a clinician has told you to use a specific product. Those are easy places to go wrong, and they are not in Moon's safe-sleep-and-congestion advice.
+
+## Still on the back — not on the side, not sitting up
+
+The same HealthyChildren.org congestion article already behind “Why propping them up backfires” also rules out the other popular workarounds. A stuffy baby still starts every sleep **on the back**, on a **firm, flat** surface, in an approved crib, bassinet, bedside sleeper, or play yard. Side-sleeping or tummy-sleeping is not a congestion remedy — see [baby sleeping on the stomach](/baby-sleeping-on-stomach). Sitting them up in a swing, car seat, or bouncer so they “can breathe” is the same airway problem as an incline. If they doze in a seat, move them to a dedicated sleep space when you can.
+
+## Eczema or itchy skin at night
+
+Itchy skin can wreck a night. That is a reason to ask the pediatrician for an eczema plan (moisturizer, medicine they name, nails trimmed), not a reason to add loose blankets, pillows, or a nest of towels to the crib. The safe-sleep rules on this page do not change because a baby is scratching. Do not invent a home treatment here.
+
+## After vaccinations
+
+Some babies are sleepier, fussier, or warmer after routine immunizations (Lullaby Trust; NHS advice on what to expect). **Dress them for the room; do not add extra wraps or blankets “because they had a jab.”** Vaccinations do not cause SIDS — that myth is answered on [safe sleep](/safe-sleep-for-babies). If a fever worries you, or the baby is unusually hard to rouse, follow the “When to get help” section below and your pediatrician’s advice.
 
 ## When to get help
 
@@ -77,17 +89,37 @@ No. Keep them flat on their back.
 **Can they sleep in a car seat or swing if they breathe better there?**  
 No. Move them to a firm, flat sleep space. A travelling car-seat nap ends when you arrive.
 
-**Is a cool-mist humidifier safe?**  
-Yes, if it is out of reach, cleaned, and filled with fresh water as directed.
+**Is a cool-mist humidifier safe?**
+Yes, if it is a cool-mist unit, out of reach, cleaned, and filled with fresh water as directed. Cool-mist versus warm-mist, cleaning, and limits are on [humidifiers and baby sleep](/humidifiers-and-baby-sleep).
 
 **Should I still offer a pacifier?**  
 If you already use one and they will take it, the usual [pacifier and sleep](/pacifier-and-sleep) advice still applies. A blocked nose may make it harder for them to keep it in.
+
+**Can vaccines affect my baby’s sleep?**
+They can, for a short time. NHS inform (babies and children up to 3 years 4 months) lists being **sleepy**, irritable, upset, or less hungry than usual as common side effects after a vaccine; these usually pass within a couple of days. The Lullaby Trust: after vaccinations some babies may feel irritable and unwell, and may develop a fever; **dress them for the environment and do not wrap them in extra clothes and blankets**. The Lullaby Trust also states that vaccinations do **not** increase the risk of SIDS, and that babies who are up to date with vaccinations have a **lower** risk of SIDS.
+
+Call your pediatrician or local urgent line if you cannot rouse them, if they seem significantly unwell, or if you are worried about a fever — especially under 3 months. Do not add loose blankets to the crib. See also [sick baby sleep](/sick-baby-sleep) and [baby sweating in sleep](/baby-sweating-in-sleep).
+
+**Can eczema wreck my baby’s sleep?**
+Itch can make nights miserable. Treat the skin with your clinician’s plan, not with a sleep product. Do not add loose blankets, pillows, or unprescribed creams into an infant’s crib. Dress in a comfortable layer — see [how to dress baby for sleep](/how-to-dress-baby-for-sleep) and [baby sweating in sleep](/baby-sweating-in-sleep) — and use [sick baby sleep](/sick-baby-sleep) for illness-night logistics.
+
+**Why won’t my baby sleep after a hospital stay?**
+Hospital days are noisy, brightly lit, and full of checks. Nights at home often look bumpier for a while. That is not an official “hospital sleep regression.” Keep the same safe-sleep rules you use every night (back, firm, flat, clear). If they are still recovering from an illness, stay on this page for congestion, fever, and when to call. If the stay was in a NICU, use [preemie sleep](/preemie-sleep) and corrected age. For the first night home after birth, see [1 week old baby sleep](/1-week-old-baby-sleep) and [newborn sleep schedule](/newborn-sleep-schedule).
+
+**Is it normal for a baby to drool or sneeze in sleep?**
+Drooling can be ordinary, and in older infants it often travels with [teething](/teething-symptoms). Sneezing in sleep during a cold belongs on [sick baby sleep](/sick-baby-sleep). A newborn’s sleep is already noisy — see [newborn grunting in sleep](/newborn-grunting-in-sleep). Call if drool comes with breathing trouble, poor feeding, or a baby who seems unwell.
+
+**Can an ear infection ruin nights, and should I prop them up?**
+Ear pain often feels worse when a child lies down, so nights can be miserable during an infection. That is not a reason to tilt the mattress, add a pillow, or leave them in a car seat or swing to sleep. Keep them on their back, on a firm flat surface. Call the pediatrician if you suspect an ear infection (fever, pulling at the ear, a baby who is not themselves). Ask that clinician about pain relief — we will not name or dose medicines here. Congestion care stays in the section above; the humidifier itself is on [humidifiers and baby sleep](/humidifiers-and-baby-sleep).
 
 ## Log symptoms, not just sleep (Yorix)
 
 **Yorix** can track sleep and symptoms (for example, a note that this was a congested night), which is useful at a sick visit. The app cannot tell you that a wedge is safe, and it is not a medical device. If breathing looks wrong, call a clinician or emergency services.
 
 ## Related reading
+
+- [8 Week Old Baby Sleep: When the Clock Stirs and Naps Stay Short](/8-week-old-baby-sleep)
+- [Why Is My Baby Suddenly Sleeping More? Catch-Up vs a Warning](/why-is-my-baby-suddenly-sleeping-more)
 
 - [Baby Snoring and Sleeping With the Mouth Open](/baby-snoring-and-mouth-breathing)
 - [Reflux and Baby Sleep: Why the Back Still Comes First](/reflux-and-baby-sleep)
@@ -108,6 +140,17 @@ All pages below were opened and checked on 15 November 2026.
 2. HealthyChildren.org (AAP). "Why Inclined Sleepers, Crib Bumpers, and Other Products Are Bad for Baby." Inclines over 10 degrees; sitting devices are not for sleep.
 3. Moon RY, et al. 2022 AAP policy, *Pediatrics*. Still back-sleeping for babies with GERD except in rare clinician-directed cases.
 4. U.S. Consumer Product Safety Commission / Safe Sleep for Babies Act (2022), as summarized in the HealthyChildren.org articles above.
+
+
+5. [HealthyChildren.org (AAP), Rachel Moon, MD, FAAP. “My baby has a stuffy nose. How can I help them sleep safely?” Already the source for the congestion sections on this page; use it also for “no side-sleep, no sitting up.”](https://www.healthychildren.org/English/tips-tools/ask-the-pediatrician/Pages/my-baby-has-a-stuffy-nose-how-can-I-help-them-sleep-safely.aspx)
+
+6. [The Lullaby Trust. “Vaccinations and SIDS.” After vaccinations some babies are irritable or may have a fever; dress for the environment, do not wrap more than usual.](https://www.lullabytrust.org.uk/baby-safety/infection-and-illness/vaccinations-and-sids/)
+
+
+7. [NHS inform. “What to expect after immunisation: babies and children up to 3 years 4 months.”](https://www.nhsinform.scot/healthy-living/immunisation/why-immunise/what-to-expect-after-immunisation-babies-and-children-up-to-3-years-4-months/)
+
+
+8. [HealthyChildren.org. Ear Infection Today, Gone Tomorrow.](https://www.healthychildren.org/English/health-issues/conditions/ear-nose-throat/Pages/ear-infection-today-gone-tomorrow.aspx)
 
 
 ```json

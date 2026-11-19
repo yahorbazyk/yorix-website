@@ -2,7 +2,7 @@
 
 Usage: python3 scripts/prepare-english-articles.py --date YYYY-MM-DD
 Dates are pinned in publication-dates.json so rebuilding does not redate old pages.
-Use --phase-one-release-date YYYY-MM-DD immediately before the approved release.
+Use --release-phase N --release-date YYYY-MM-DD before a later release date.
 Only quoted JSON-compatible front matter and bare scalar values are accepted.
 No source Markdown, HTML or embedded code is executed.
 """
@@ -98,12 +98,15 @@ def compile_articles(deploy_date):
             group = 'Development & feeding'
         elif slug.startswith('sleep-regression'):
             group = 'Sleep regressions'
+        elif re.fullmatch(r'\d+-week-old-baby-sleep', slug) or slug == 'baby-sleep-by-week':
+            group = 'Sleep by week'
         elif 'sleep-schedule' in slug or slug in ('baby-nap-schedule-by-age', 'wake-windows-by-age'):
             group = 'Sleep schedules by month'
         else:
             group = 'Sleep problems & methods'
         articles.append({
             'slug': slug, 'path': path, 'canonical': canonical,
+            'kind': 'hub' if row['status'] == 'HUB' else 'article',
             'title': title, 'heading': headings[0], 'description': fields['meta_description'],
             'category': group, 'published': published, 'updated': modified,
             'readTime': f"{max(1, round(len(body.split()) / 225))} min read",
@@ -145,10 +148,17 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--date', required=True)
     parser.add_argument('--phase-one-release-date')
+    parser.add_argument('--release-phase', type=int)
+    parser.add_argument('--release-date')
     args = parser.parse_args()
-    if args.phase_one_release_date:
-        release_date = date.fromisoformat(args.phase_one_release_date).isoformat()
-        release_path = SOURCE / 'releases/phase-1/summary.json'
+    if bool(args.release_phase) != bool(args.release_date):
+        parser.error('--release-phase and --release-date must be supplied together')
+    if args.phase_one_release_date and args.release_date:
+        parser.error('Choose either the legacy phase-one flag or --release-phase/--release-date')
+    if args.phase_one_release_date or args.release_date:
+        release_date = date.fromisoformat(args.phase_one_release_date or args.release_date).isoformat()
+        phase = args.release_phase or 1
+        release_path = SOURCE / f'releases/phase-{phase}/summary.json'
         release = json.loads(release_path.read_text())
         dates_path = SOURCE / 'publication-dates.json'
         dates = json.loads(dates_path.read_text())

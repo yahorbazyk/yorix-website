@@ -56,6 +56,8 @@ Sleep Foundation notes that some families wait until **9 months**, when most bab
 
 Sources: Sleep Foundation (sleep training and Ferber guides), Cleveland Clinic, KidsHealth New Zealand (bedtime fading), Mindell et al. 2006, Gradisar et al. 2016, Price et al. 2012. "Limited direct trials" means we found no trial of that method in the sources we checked, not that it fails to work.
 
+UK and AU leaflets may say **controlled crying** or **controlled comforting**. Treat those as names for a graduated-interval plan (this table’s extinction / Ferber family), not as a new row that needs its own URL. **Camping out** / “transition settling” stays with the chair method on [gentle sleep training](/gentle-sleep-training). Cue-led **responsive settling** has its own page and is not a third extinction method.
+
 ## Each method in more detail
 
 ### Extinction (cry it out)
@@ -169,6 +171,10 @@ Many families start with bedtime and nights first, then apply the same responses
 **Yorix** logs bedtimes, how long settling takes, and night wakings, so you can compare week one with week two instead of relying on memory. It is a support for tired parents, not a medical device and not a diagnosis.
 
 ## Related reading
+
+- [Is Sleep Training Harmful? What the Trials Show — and What They Don't](/is-sleep-training-harmful)
+
+- [Responsive Settling: Help That Can Fade, Not a Second Methods Table](/responsive-settling)
 
 - [Bedtime Routine for Baby: A Simple, Evidence-Backed Wind-Down](/bedtime-routine-for-baby)
 - [Gentle Sleep Training: Chair, Fading, and Pick Up / Put Down](/gentle-sleep-training)

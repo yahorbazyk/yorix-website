@@ -80,6 +80,10 @@ Pediatric Sleep Company summarizes typical triggers by age:
 | 8–12 months | Crawling and standing |
 | Toddlers | Too much or too late napping, inconsistent bedtime |
 
+### 8–18 months (including "12 month old split nights")
+
+A wide-awake hour or two in the night is still this page, rather than a separate age-specific condition. Check time-in-bed and nap balance as already described. At 8–10 months, also consider the named wobble on [sleep regression at 8 months](/sleep-regression/8-months). Around the first birthday, see [sleep regression at 12 months](/sleep-regression/12-months) and whether a 2-to-1 nap question is creeping in too early. At 15–18 months, a dropped nap or a too-long one-nap day can leave fuel for a split night — use [the 2-to-1 nap transition](/2-to-1-nap-transition) and [18 month old sleep schedule](/18-month-old-sleep-schedule) alongside this plan.
+
 ## How to fix split nights: step by step
 
 ### Step 1: Add up time in bed
@@ -142,6 +146,12 @@ Only occasionally. Repeated early bedtimes are a common cause of split nights.
 
 **Can new skills cause split nights?**  
 Yes. Practicing crawling or standing can disrupt a night. Give plenty of practice time during the day.
+
+**Why does my baby wake up at 4am?**
+Four a.m. is often still night, not the start of the day. Treat it as a boring night waking first. This page covers a long stretch awake in the middle of the night. If 4–5 a.m. has become their morning, see [early morning waking](/early-morning-waking). The dedicated clock-time page is [why does my baby wake up at 4am](/why-does-my-baby-wake-up-at-4am).
+
+**Why does my baby wake up at 2 a.m. or 3 a.m.?**
+There is no official 2 a.m. or 3 a.m. event. A waking in the middle of the night is usually a night waking or a [split night](/split-nights) — a long stretch of being awake between two sleeps — not a separate diagnosis. If the clock is closer to morning, [why does my baby wake up at 4am](/why-does-my-baby-wake-up-at-4am) and [early morning waking](/early-morning-waking) are the closer pages. For getting through the night as a parent, see [survive night wakings](/survive-night-wakings-new-parents).
 
 ## See the hours in bed at a glance (Yorix)
 

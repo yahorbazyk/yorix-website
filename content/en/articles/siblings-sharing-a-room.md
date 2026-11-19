@@ -46,6 +46,8 @@ Staggered bedtimes usually work better than a double lights-out. Put the infant 
 
 There is no official AAP week that says "siblings may share from month X." The infant room-share window is the constraint that *is* official. After that, the constraint is safety and whether either child can actually sleep.
 
+If the share (or the protest) started because a new baby came home, see [sleep regression](/sleep-regression) for the older child’s wobble. This page stays about two children in one room.
+
 ## When to talk to your pediatrician
 
 Ask if you are considering an early move out of your room because of space, if a toddler can reach the baby, or if one child's snoring or breathing worries you (see [snoring and mouth breathing](/baby-snoring-and-mouth-breathing)).
@@ -66,6 +68,10 @@ Usually no. Stagger the routines so one child's settle is not the other's party.
 **Yorix** can help you see whether nights got bumpier after a room share started. The app cannot judge crib spacing or a climbing toddler and is not a medical device.
 
 ## Related reading
+
+- [Toddler Sleep After a New Baby: Expect Disruption, Not a Named Regression](/toddler-sleep-after-a-new-baby)
+
+- [Sleep After Separation or Divorce: Two Homes, One Predictable Night](/sleep-after-separation-or-divorce)
 
 - [When to move baby to their own room](/when-to-move-baby-to-own-room)
 - [Twins and sleep](/twins-and-sleep)

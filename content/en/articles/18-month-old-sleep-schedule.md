@@ -78,11 +78,26 @@ Sleep can get bumpier around language, independence, and the nap change. That is
 **Should I drop the pacifier or the crib now?**  
 Not because of the birthday. See [pacifier and sleep](/pacifier-and-sleep) and [crib to toddler bed](/crib-to-toddler-bed).
 
+**I have a 17 month old. Should I use the 18-month page already?**
+Yes, if they are mostly on one nap or you are asking 18-month questions a little early. If they are still clearly mid-transition, use [15 month old sleep schedule](/15-month-old-sleep-schedule) and [the 2-to-1 nap transition](/2-to-1-nap-transition).
+
+## If you searched for a 19, 20, 21, 22, or 23 month sleep schedule
+
+Those months sit between this 18-month page and [2 year old sleep schedule](/2-year-old-sleep-schedule). AASM recommends **11–14 hours** in 24 hours across the 1–2 year band; the next official band is 10–13 hours at 3–5 years, which does not start at 23 months.
+
+- **19–20 months:** still the one-nap view on this page. Bedtime battles belong on [toddler bedtime battles](/toddler-bedtime-battles) and, if you are using that name, [sleep regression at 18 months](/sleep-regression/18-months).
+- **21–22 months:** if the nap is shortening or some days have no nap, use [when do toddlers stop napping](/when-do-toddlers-stop-napping) — but many children still need the nap at this age. Do not drop it only because a search showed a 21-month schedule.
+- **23 months:** you are on the doorstep of the 2-year page. Use [2 year old sleep schedule](/2-year-old-sleep-schedule) for nap questions, stalling, early waking, and crib-to-bed. Named "2 year regression" queries go to [sleep regression at 2 years](/sleep-regression/2-years).
+
+Daycare nap rules can fight a home one-nap day; that problem lives on [daycare and baby sleep](/daycare-and-baby-sleep), alongside this sleep-schedule guide.
+
 ## See the one-nap pattern (Yorix)
 
 **Yorix** can show whether the afternoon nap and night are adding up to the 11–14 hour range, and whether mixed two-nap days are actually fading. The app cannot set bedtime for you and is not a medical device.
 
 ## Related reading
+
+- [4 Year Old Sleep Schedule: The Preschool Day, With or Without a Nap](/4-year-old-sleep-schedule)
 
 - [3 Year Old Sleep Schedule: With a Nap, or Without](/3-year-old-sleep-schedule)
 - [Toddler Bedtime Battles: Stalling, Not a Regression](/toddler-bedtime-battles)

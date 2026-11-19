@@ -69,6 +69,9 @@ No. Rooting, hands to the mouth with searching, and a cry that settles with a fe
 
 ## Related reading
 
+- [Cluster Feeding: Not Reverse Cycling, Not a Witching-Hour Diagnosis](/cluster-feeding)
+- [Responsive Settling: Help That Can Fade, Not a Second Methods Table](/responsive-settling)
+
 - [Wake windows by age](/wake-windows-by-age)
 - [Overtired baby](/overtired-baby)
 - [Why won't my baby sleep](/why-wont-my-baby-sleep)

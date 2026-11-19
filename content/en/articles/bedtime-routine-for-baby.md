@@ -70,6 +70,10 @@ If this regularly lasts an hour, shorten it. Sleep Foundation warns that a drawn
 
 It will not, by itself, fix [hourly waking](/baby-waking-every-hour), [false starts](/false-starts), or a bedtime that is two hours too late. It works with [age-appropriate totals](/how-much-sleep-does-a-baby-need), a safe crib, and, if you choose, a settling method you have already read about. It is also not a failure if you skip the bath when you get home late. Do the last two or three steps and start again tomorrow.
 
+A popular daytime slogan, **eat–play–sleep** (or feed–play–sleep), is the same idea in a different order of the day: a flexible, cue-led pattern, not a rigid law, and not a newborn schedule. The longer caveat lives on [newborn sleep schedule](/newborn-sleep-schedule).
+
+The daytime pattern has its own guide: [eat, play, sleep](/eat-play-sleep). For the evening clock, see [what time should a baby go to bed](/what-time-should-baby-go-to-bed).
+
 ## When to talk to your pediatrician
 
 If bedtime is a nightly battle despite a consistent, short routine, or if your baby seems in pain, has noisy breathing, or cannot settle in a way that feels new and extreme, ask for help. A routine is a habit, not a treatment for illness or a medical sleep disorder.
@@ -91,11 +95,28 @@ No. NHS includes a bath as an option, not a requirement.
 **Can I use the same routine when we travel?**  
 Yes, and that is one of its strengths. A book and the same song still work in a pack-and-play. Keep the [safe sleep](/safe-sleep-for-babies) rules wherever you are.
 
+**What is a good bedtime for a 12 week old?**
+There is no official AAP clock. The week-12 snapshot is on [12 week old baby sleep](/12-week-old-baby-sleep). A short, same-order routine matters more than a 7:00 p.m. target.
+
+**How do we protect baby sleep when a parent works nights, or when there is only one adult?**
+Keep the *baby’s* day and night the right way around — light and ordinary noise by day, a dim, boring night — even if a parent is on a night shift. Do not flip the baby onto the parent’s work clock. The same short bedtime routine can be done by whoever is on duty; the sequence matters more than which adult does it. See [bedtime routine for baby](/bedtime-routine-for-baby). Safe sleep does not relax because you are exhausted: back, firm, flat, clear, and never a sofa or armchair (the sofa risk is already on [bed-sharing and co-sleeping](/bed-sharing-and-co-sleeping)). If you are dangerously tired, ask for help for you as well — mental-health and exhaustion support still applies when there is no second adult to “take a shift.”
+
+**Does a bedtime massage help a baby sleep?**
+Some families find a short, gentle massage calming, and NHS baby-massage leaflets treat it mainly as a bonding activity. A Cochrane review of massage for infants under 6 months found the evidence not strong enough to recommend it for mental or physical health in low-risk babies. It is not a sleep-training method and not a reason to add essential oils unless a clinician has told you to. Stop if the baby is unwell, has a fever or broken skin, or is clearly unhappy. Keep the rest of the routine boring and consistent.
+
 ## Keep the timing honest (Yorix)
 
 **Yorix** can show you when the last nap ended and when night sleep actually started, which makes it obvious if the "routine" is starting so late that your baby is already overtired. You can also log the night itself to see whether a slightly earlier start helped. It is a support for tired parents, not a medical device and not a diagnosis.
 
 ## Related reading
+
+- [Screens and Toddler Sleep: Keep the Bedroom and the Wind-Down Clear](/screens-and-toddler-sleep)
+
+- [4 Year Old Sleep Schedule: The Preschool Day, With or Without a Nap](/4-year-old-sleep-schedule)
+- [Cluster Feeding: Not Reverse Cycling, Not a Witching-Hour Diagnosis](/cluster-feeding)
+- [Melatonin and Children's Sleep: Not a Do-It-Yourself Sleeping Pill](/melatonin-and-childrens-sleep)
+- [Responsive Settling: Help That Can Fade, Not a Second Methods Table](/responsive-settling)
+- [Sleep After Separation or Divorce: Two Homes, One Predictable Night](/sleep-after-separation-or-divorce)
 
 - [Baby Sleep Cues: How to Read Sleepy Signs](/baby-sleep-cues)
 - [Crib to Toddler Bed: When and How to Switch](/crib-to-toddler-bed)
@@ -129,6 +150,11 @@ All pages below were opened and checked on 15 November 2026.
 8. HealthyChildren.org (AAP). "Healthy Sleep Habits: How Many Hours Does Your Child Need?" <https://www.healthychildren.org/English/healthy-living/sleep/Pages/healthy-sleep-habits-how-many-hours-does-your-child-need.aspx>. Screens off at least 60 minutes before bed; Brush, Book, Bed mention; regular daily routine.
 9. HealthyChildren.org (AAP). "Brush, Book, Bed." <https://www.healthychildren.org/English/healthy-living/oral-health/Pages/Brush-Book-Bed.aspx>.
 10. American Academy of Sleep Medicine. "Study shows institution of a consistent nightly bedtime routine improves sleep in infants and toddlers as well as maternal mood." <https://aasm.org/study-shows-institution-of-a-consistent-nightly-bedtime-routine-improves-sleep-in-infants-and-toddlers-as-well-as-maternal-mood/>. (Press summary of Mindell 2009.)
+
+
+11. [Cochrane. Massage for promoting mental and physical health in infants under the age of six months.](https://doi.org/10.1002/14651858.CD005038.pub3)
+
+12. [Derbyshire Family Health Service (NHS). Baby massage.](https://derbyshirefamilyhealthservice.nhs.uk/our-services/0-5-years/your-babys-first-year/baby-massage)
 
 
 ```json

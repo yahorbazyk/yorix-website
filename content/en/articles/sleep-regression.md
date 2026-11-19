@@ -89,6 +89,14 @@ The specific pages cover age-appropriate details. The principles are the same ac
 5. **Respond calmly and consistently** to night wakings, without introducing new habits you don't want to keep.
 6. **Look after yourself.** Our guide to [night wakings](/survive-night-wakings-new-parents) covers sharing nights and getting help.
 
+## When a new sibling arrives
+
+A toddler’s sleep can wobble when a baby comes home: later bedtimes, more curtain calls, a sudden need to be in your room, or a nap that falls apart. That is a **change in the house**, not a new official “regression month.” Keep the same short routine and the same bed, if you can. Give the older child a little predictable time with you that is not only about the baby. Do not start a second, more complicated sleep-training program on the baby’s first night home unless you were already in the middle of a plan that is still appropriate.
+
+If two children will share a room, use [siblings sharing a room](/siblings-sharing-a-room) (and wait until the infant is ready to leave the parental room). The everyday timetable for this age stays on [2 year old sleep schedule](/2-year-old-sleep-schedule). Night fears and “won’t stay in bed” have their own pages; do not diagnose a new disorder from a few hard weeks.
+
+For practical routines when the family changes, see [toddler sleep after a new baby](/toddler-sleep-after-a-new-baby).
+
 ## When to talk to your pediatrician
 
 Contact your pediatrician if poor sleep comes with fever or other signs of illness, pain, breathing pauses or loud snoring, poor feeding, or fewer wet diapers. Also call if sleep problems last more than a few weeks or leave you struggling to cope.
@@ -110,11 +118,24 @@ Usually one to a few weeks (Cleveland Clinic; Sleep Foundation).
 **Do all babies go through sleep regressions?**  
 No. Sleep Foundation notes that many babies don't have a 6-, 8-, 12-, or 18-month regression, and some sleep better at those ages.
 
+**Is there a teething sleep regression?**
+There is no official teething regression age. Teething can coincide with bumpier nights; how much sleep it explains is already the conflict on [teething symptoms](/teething-symptoms) (NHS, Macknin, and Cleveland Clinic do not all say the same thing — we do not average them). Weeks of broken sleep, a new snore, poor feeding, or a baby who seems unwell should not be waved away as “just teeth.” Use [sleep regression](/sleep-regression) for the named age clusters, and call if you are worried.
+
+**Is there a 5, 7, 9, 10, or 11 month sleep regression?**
+Those ages show up in search. They are not separate official events. Use the nearest age guide: about 5 months → [4 month sleep regression](/sleep-regression/4-months) or [5 month old sleep schedule](/5-month-old-sleep-schedule); about 7 months → [6 month old sleep schedule](/6-month-old-sleep-schedule) and [sleep regression at 6 months](/sleep-regression/6-months); about 9–10 months, including a crawling wobble → [sleep regression at 8 months](/sleep-regression/8-months); about 11 months, including a walking wobble → [12 month sleep regression](/sleep-regression/12-months).
+
+**Is a Wonder Weeks leap a sleep regression?**
+Wonder Weeks is a commercial leap calendar, not a medical sleep schedule and not an AAP timeline. We do not date night wakings from those leap numbers. Use this page for the named, commonly discussed age clusters, and the matching month schedule for the 24-hour picture. For the evidence behind fixed leap calendars, see [developmental leaps and baby sleep](/developmental-leaps-and-baby-sleep).
+
 ## Spot the pattern behind the rough patch (Yorix)
 
 **Yorix** logs naps and night wakings and follows your baby's development month by month, so you can see whether a bad week lines up with a new skill or a schedule that needs adjusting. It is a support for tired parents, not a medical device and not a diagnosis.
 
 ## Related reading
+
+- [6 Week Sleep Regression: A Popular Name, Not a Documented Event](/6-week-sleep-regression)
+
+- [4 Year Old Sleep Schedule: The Preschool Day, With or Without a Nap](/4-year-old-sleep-schedule)
 
 - [Daycare and Baby Sleep: A Context Page, Not a New Regression](/daycare-and-baby-sleep)
 - [When Do Babies Sleep Through the Night — and What Does That Phrase Mean?](/when-do-babies-sleep-through-the-night)

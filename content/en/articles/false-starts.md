@@ -123,11 +123,25 @@ No. A 30–45 minute daytime nap is called a short nap. "False start" refers to 
 **At what age do false starts happen?**  
 They can happen at any age once sleep is organized into cycles, and Huckleberry (app example) says sleep associations become more relevant from about 3 months.
 
+## False starts at 4, 8, and 12 months
+
+The plan on this page is the home for false starts at these ages.
+
+- **Around 4 months:** false starts often travel with the cycle change described on [4 month sleep regression](/sleep-regression/4-months). Use this page's 5-step plan; use the 4-month schedule for the day view.
+- **Around 8–10 months:** standing, crawling, and the named 8-month wobble can all look like a 30–45 minute bedtime waking. See [sleep regression at 8 months](/sleep-regression/8-months) as well as this plan.
+- **Around 12 months:** walking, a nap-count question, and first-birthday changes belong with [sleep regression at 12 months](/sleep-regression/12-months) and [12 month old sleep schedule](/12-month-old-sleep-schedule), plus this plan.
+
+The 12-*week* (3-month) snapshot remains [12 week old false starts](/12-week-old-false-starts). The advice for those early weeks differs from a 12-month problem.
+
 ## Find the right last wake window (Yorix)
 
 **Yorix** recalculates the time to the next sleep after every nap and shows bedtime, settling time, and early wakings on one timeline, so you can see whether a 15-minute change to the last wake window reduced false starts. It is a support for tired parents, not a medical device and not a diagnosis.
 
 ## Related reading
+
+- [11 Week Old Baby Sleep: One Week Short of the 3-Month Mark](/11-week-old-baby-sleep)
+
+- [12 Week Old False Starts: Up Again Before the Night Has Begun](/12-week-old-false-starts)
 
 - [Baby Sleep Cycles: Why They Wake After One Cycle](/baby-sleep-cycles)
 - [Overtired Baby: Signs, Why It Happens, and What Helps](/overtired-baby)
