@@ -2,11 +2,15 @@
 
 import { CircleCheck, Send } from 'lucide-react';
 import { useEffect, useRef, useState, type SubmitEvent } from 'react';
+import type { SiteLocale } from '../i18n';
 import type { SupportCopy } from '../i18n/types';
 import { API_BASE, turnstileSiteKey } from '../subscription/config';
 import { Spinner } from '../subscription/ui';
+import { AppleMark, GoogleMark } from './AccountLink';
+import { accountLinkCopy } from './accountLinkCopy';
 
 type State = 'idle' | 'sending' | 'sent' | 'invalid' | 'error';
+type Account = 'none' | 'apple' | 'google' | 'linked';
 
 // The worker accepts plain addresses only (no quotes, brackets or display names).
 const EMAIL = /^[A-Za-z0-9._%+'-]{1,64}@[A-Za-z0-9-]+(?:\.[A-Za-z0-9-]+)*\.[A-Za-z]{2,24}$/;
@@ -20,9 +24,29 @@ const text = (value: FormDataEntryValue | null) => (typeof value === 'string' ? 
 export function ContactForm({ copy, lang, page }: { copy: SupportCopy['form']; lang: string; page: string }) {
   const opened = useRef(0);
   const [state, setState] = useState<State>('idle');
+  const [account, setAccount] = useState<Account>('none');
+  const [accountError, setAccountError] = useState<string | null>(null);
+  const linkCopy = accountLinkCopy[lang as SiteLocale] ?? accountLinkCopy.en;
   useEffect(() => {
     opened.current = Date.now();
+    // Already signed in on the site (bought here before): the message goes out linked.
+    void import('../subscription/account')
+      .then((m) => m.signedInToken())
+      .then((token) => { if (token) setAccount('linked'); })
+      .catch(() => {});
   }, []);
+  const linkAccount = async (kind: 'apple' | 'google') => {
+    setAccount(kind);
+    setAccountError(null);
+    const { accountSignInToken } = await import('../subscription/account');
+    const signed = await accountSignInToken(kind, lang);
+    if ('error' in signed) {
+      setAccount('none');
+      if (signed.error !== 'cancelled') setAccountError(signed.error === 'popupBlocked' ? linkCopy.popup : linkCopy.error);
+      return;
+    }
+    setAccount('linked');
+  };
   // The widget writes its answer into a hidden field of this form.
   useEffect(() => {
     if (!turnstileSiteKey || document.querySelector('script[data-turnstile]')) return;
@@ -54,7 +78,7 @@ export function ContactForm({ copy, lang, page }: { copy: SupportCopy['form']; l
     }
     setState('sending');
     try {
-      const token = await import('../subscription/account').then((m) => m.signedInToken()).catch(() => null);
+      const token = account === 'linked' ? await import('../subscription/account').then((m) => m.signedInToken()).catch(() => null) : null;
       const res = await fetch(`${API_BASE}/v1/web/contact`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json', ...(token ? { 'X-Firebase-Token': token } : {}) },
@@ -100,6 +124,41 @@ export function ContactForm({ copy, lang, page }: { copy: SupportCopy['form']; l
         {copy.message}
         <textarea className={`${field} min-h-36 resize-y`} maxLength={4000} minLength={10} name="message" placeholder={copy.messagePlaceholder} required />
       </label>
+      <div className="rounded-2xl border border-white/15 bg-white/[0.05] p-4">
+        {account === 'linked' ? (
+          <p className="flex flex-wrap items-center gap-x-3 gap-y-1 text-sm font-medium text-white">
+            <CircleCheck aria-hidden="true" className="h-5 w-5 shrink-0 text-[#A7F3D0]" />
+            <span className="flex-1">{linkCopy.formLinked}</span>
+            <button className="text-sm font-semibold text-white/75 underline decoration-white/30 underline-offset-4 hover:text-white" onClick={() => setAccount('none')} type="button">
+              {linkCopy.formChange}
+            </button>
+          </p>
+        ) : (
+          <>
+            <p className="text-sm font-semibold text-white">{linkCopy.formTitle}</p>
+            <p className="mt-1 text-sm leading-6 text-white/70">{linkCopy.formHint}</p>
+            <div className="mt-3 grid gap-2 sm:grid-cols-2">
+              {(['apple', 'google'] as const).map((kind) => (
+                <button
+                  className="inline-flex min-h-12 items-center justify-center gap-2 rounded-full border border-white/25 bg-white/[0.08] px-4 text-sm font-semibold text-white transition hover:bg-white/[0.14] focus:outline-none focus-visible:ring-4 focus-visible:ring-white/30 disabled:opacity-60"
+                  disabled={account === 'apple' || account === 'google'}
+                  key={kind}
+                  onClick={() => void linkAccount(kind)}
+                  type="button"
+                >
+                  {account === kind ? <Spinner className="h-4 w-4" /> : kind === 'apple' ? <AppleMark /> : <GoogleMark />}
+                  {kind === 'apple' ? linkCopy.button : linkCopy.google}
+                </button>
+              ))}
+            </div>
+            {accountError ? (
+              <p className="mt-3 text-sm font-medium text-[#FDE68A]" role="alert">
+                {accountError}
+              </p>
+            ) : null}
+          </>
+        )}
+      </div>
       {turnstileSiteKey ? <div className="cf-turnstile" data-language={lang} data-sitekey={turnstileSiteKey} data-theme="dark" /> : null}
       {/* Humans never see or fill this; bots do. */}
       <input aria-hidden="true" autoComplete="off" className="absolute -left-[9999px] h-px w-px opacity-0" name="website" tabIndex={-1} />

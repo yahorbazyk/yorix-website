@@ -10,6 +10,10 @@ export type AccountLinkCopy = {
   invalid: string;
   error: string;
   popup: string;
+  formTitle: string;
+  formHint: string;
+  formLinked: string;
+  formChange: string;
 };
 
 const en: AccountLinkCopy = {
@@ -22,6 +26,10 @@ const en: AccountLinkCopy = {
   invalid: 'This link has expired or was already used. Reply to our letter and we will send a new one.',
   error: 'Could not sign in. Please try again.',
   popup: 'The browser blocked the sign-in window. Allow pop-ups for this site and try again.',
+  formTitle: 'Link your account (optional)',
+  formHint: 'So we can activate the subscription right away. Use the account from the app: Apple on iPhone, Google on Android.',
+  formLinked: 'Account linked — we will see it with your message',
+  formChange: 'Change',
 };
 
 export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
@@ -36,6 +44,10 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
     invalid: 'Ссылка устарела или уже использована. Ответьте на наше письмо — пришлём новую.',
     error: 'Не удалось войти. Попробуйте ещё раз.',
     popup: 'Браузер заблокировал окно входа. Разрешите всплывающие окна для этого сайта и попробуйте снова.',
+    formTitle: 'Привязать аккаунт (необязательно)',
+    formHint: 'Чтобы мы сразу активировали подписку. Выберите аккаунт из приложения: Apple на iPhone, Google на Android.',
+    formLinked: 'Аккаунт привязан — мы увидим его вместе с сообщением',
+    formChange: 'Сменить',
   },
   uk: {
     title: 'Привʼяжіть акаунт до звернення',
@@ -47,6 +59,10 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
     invalid: 'Посилання застаріло або вже використане. Дайте відповідь на наш лист — надішлемо нове.',
     error: 'Не вдалося увійти. Спробуйте ще раз.',
     popup: 'Браузер заблокував вікно входу. Дозвольте спливаючі вікна для цього сайту й спробуйте знову.',
+    formTitle: 'Привʼязати акаунт (необовʼязково)',
+    formHint: 'Щоб ми одразу активували підписку. Оберіть акаунт із застосунку: Apple на iPhone, Google на Android.',
+    formLinked: 'Акаунт привʼязано — ми побачимо його разом із повідомленням',
+    formChange: 'Змінити',
   },
   tr: {
     title: 'Hesabınızı talebinize bağlayın',
@@ -58,6 +74,10 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
     invalid: 'Bu bağlantının süresi dolmuş veya zaten kullanılmış. E-postamızı yanıtlayın, yenisini gönderelim.',
     error: 'Giriş yapılamadı. Lütfen tekrar deneyin.',
     popup: 'Tarayıcı giriş penceresini engelledi. Bu site için açılır pencerelere izin verip tekrar deneyin.',
+    formTitle: 'Hesabını bağla (isteğe bağlı)',
+    formHint: 'Aboneliği hemen etkinleştirebilmemiz için. Uygulamadaki hesabı seçin: iPhone’da Apple, Android’de Google.',
+    formLinked: 'Hesap bağlandı — mesajınızla birlikte göreceğiz',
+    formChange: 'Değiştir',
   },
   fr: {
     title: 'Associez votre compte à votre demande',
@@ -69,6 +89,10 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
     invalid: 'Ce lien a expiré ou a déjà été utilisé. Répondez à notre e-mail et nous vous en enverrons un nouveau.',
     error: 'Connexion impossible. Veuillez réessayer.',
     popup: 'Le navigateur a bloqué la fenêtre de connexion. Autorisez les fenêtres pop-up pour ce site et réessayez.',
+    formTitle: 'Associer votre compte (facultatif)',
+    formHint: 'Pour que nous activions l’abonnement tout de suite. Choisissez le compte de l’app : Apple sur iPhone, Google sur Android.',
+    formLinked: 'Compte associé — nous le verrons avec votre message',
+    formChange: 'Changer',
   },
   de: {
     title: 'Verknüpfe dein Konto mit deiner Anfrage',
@@ -80,6 +104,10 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
     invalid: 'Dieser Link ist abgelaufen oder wurde schon benutzt. Antworte auf unsere E-Mail, dann schicken wir einen neuen.',
     error: 'Anmeldung fehlgeschlagen. Bitte versuche es erneut.',
     popup: 'Der Browser hat das Anmeldefenster blockiert. Erlaube Pop-ups für diese Website und versuche es erneut.',
+    formTitle: 'Konto verknüpfen (optional)',
+    formHint: 'Damit wir das Abo sofort aktivieren können. Wähle das Konto aus der App: Apple auf dem iPhone, Google auf Android.',
+    formLinked: 'Konto verknüpft – wir sehen es mit deiner Nachricht',
+    formChange: 'Ändern',
   },
   nl: {
     title: 'Koppel je account aan je aanvraag',
@@ -91,6 +119,10 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
     invalid: 'Deze link is verlopen of al gebruikt. Beantwoord onze e-mail en we sturen een nieuwe.',
     error: 'Inloggen is mislukt. Probeer het opnieuw.',
     popup: 'De browser heeft het inlogvenster geblokkeerd. Sta pop-ups toe voor deze site en probeer het opnieuw.',
+    formTitle: 'Account koppelen (optioneel)',
+    formHint: 'Zodat we het abonnement meteen kunnen activeren. Kies het account uit de app: Apple op iPhone, Google op Android.',
+    formLinked: 'Account gekoppeld — we zien het bij je bericht',
+    formChange: 'Wijzigen',
   },
   it: {
     title: 'Collega il tuo account alla richiesta',
@@ -102,6 +134,10 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
     invalid: 'Questo link è scaduto o è già stato usato. Rispondi alla nostra email e te ne invieremo uno nuovo.',
     error: 'Accesso non riuscito. Riprova.',
     popup: 'Il browser ha bloccato la finestra di accesso. Consenti i pop-up per questo sito e riprova.',
+    formTitle: 'Collega il tuo account (facoltativo)',
+    formHint: 'Così possiamo attivare subito l’abbonamento. Scegli l’account dell’app: Apple su iPhone, Google su Android.',
+    formLinked: 'Account collegato: lo vedremo insieme al messaggio',
+    formChange: 'Cambia',
   },
   pt: {
     title: 'Vincule sua conta à sua solicitação',
@@ -113,6 +149,10 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
     invalid: 'Este link expirou ou já foi usado. Responda ao nosso e-mail e enviaremos um novo.',
     error: 'Não foi possível entrar. Tente novamente.',
     popup: 'O navegador bloqueou a janela de login. Permita pop-ups para este site e tente novamente.',
+    formTitle: 'Vincular sua conta (opcional)',
+    formHint: 'Para ativarmos a assinatura na hora. Escolha a conta do app: Apple no iPhone, Google no Android.',
+    formLinked: 'Conta vinculada — vamos vê-la junto com sua mensagem',
+    formChange: 'Trocar',
   },
   es: {
     title: 'Vincula tu cuenta a tu solicitud',
@@ -124,6 +164,10 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
     invalid: 'Este enlace ha caducado o ya se ha usado. Responde a nuestro correo y te enviaremos uno nuevo.',
     error: 'No se pudo iniciar sesión. Inténtalo de nuevo.',
     popup: 'El navegador bloqueó la ventana de inicio de sesión. Permite las ventanas emergentes para este sitio e inténtalo de nuevo.',
+    formTitle: 'Vincular tu cuenta (opcional)',
+    formHint: 'Para activar la suscripción enseguida. Elige la cuenta de la app: Apple en iPhone, Google en Android.',
+    formLinked: 'Cuenta vinculada: la veremos junto con tu mensaje',
+    formChange: 'Cambiar',
   },
   th: {
     title: 'เชื่อมบัญชีของคุณกับคำขอ',
@@ -135,6 +179,10 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
     invalid: 'ลิงก์นี้หมดอายุหรือถูกใช้ไปแล้ว ตอบกลับอีเมลของเราแล้วเราจะส่งลิงก์ใหม่ให้',
     error: 'ลงชื่อเข้าใช้ไม่สำเร็จ โปรดลองอีกครั้ง',
     popup: 'เบราว์เซอร์บล็อกหน้าต่างลงชื่อเข้าใช้ โปรดอนุญาตป๊อปอัปสำหรับเว็บไซต์นี้แล้วลองอีกครั้ง',
+    formTitle: 'เชื่อมบัญชี (ไม่บังคับ)',
+    formHint: 'เพื่อให้เราเปิดใช้งานการสมัครสมาชิกได้ทันที เลือกบัญชีที่ใช้ในแอป: Apple บน iPhone, Google บน Android',
+    formLinked: 'เชื่อมบัญชีแล้ว เราจะเห็นบัญชีนี้พร้อมข้อความของคุณ',
+    formChange: 'เปลี่ยน',
   },
   sv: {
     title: 'Koppla ditt konto till ärendet',
@@ -146,6 +194,10 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
     invalid: 'Länken har gått ut eller redan använts. Svara på vårt mejl så skickar vi en ny.',
     error: 'Det gick inte att logga in. Försök igen.',
     popup: 'Webbläsaren blockerade inloggningsfönstret. Tillåt popup-fönster för den här webbplatsen och försök igen.',
+    formTitle: 'Koppla ditt konto (valfritt)',
+    formHint: 'Så att vi kan aktivera prenumerationen direkt. Välj kontot från appen: Apple på iPhone, Google på Android.',
+    formLinked: 'Kontot är kopplat – vi ser det tillsammans med ditt meddelande',
+    formChange: 'Byt',
   },
   id: {
     title: 'Tautkan akun Anda ke permintaan Anda',
@@ -157,6 +209,10 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
     invalid: 'Tautan ini sudah kedaluwarsa atau sudah digunakan. Balas email kami dan kami akan mengirim yang baru.',
     error: 'Gagal masuk. Silakan coba lagi.',
     popup: 'Browser memblokir jendela masuk. Izinkan pop-up untuk situs ini lalu coba lagi.',
+    formTitle: 'Tautkan akun (opsional)',
+    formHint: 'Agar kami bisa langsung mengaktifkan langganan. Pilih akun dari aplikasi: Apple di iPhone, Google di Android.',
+    formLinked: 'Akun tertaut — kami akan melihatnya bersama pesan Anda',
+    formChange: 'Ganti',
   },
   ja: {
     title: 'お問い合わせにアカウントを紐づけてください',
@@ -168,6 +224,10 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
     invalid: 'このリンクは期限切れか、すでに使用されています。メールにご返信いただければ新しいリンクをお送りします。',
     error: 'サインインできませんでした。もう一度お試しください。',
     popup: 'ブラウザがサインイン画面をブロックしました。このサイトのポップアップを許可して、もう一度お試しください。',
+    formTitle: 'アカウントを紐づける（任意）',
+    formHint: 'すぐにサブスクリプションを有効にするためです。アプリのアカウントを選んでください（iPhoneはApple、AndroidはGoogle）。',
+    formLinked: 'アカウントを紐づけました。メッセージと一緒に確認します',
+    formChange: '変更',
   },
   pl: {
     title: 'Połącz konto ze zgłoszeniem',
@@ -179,6 +239,10 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
     invalid: 'Ten link wygasł lub został już użyty. Odpowiedz na naszego maila, a wyślemy nowy.',
     error: 'Nie udało się zalogować. Spróbuj ponownie.',
     popup: 'Przeglądarka zablokowała okno logowania. Zezwól na wyskakujące okna dla tej strony i spróbuj ponownie.',
+    formTitle: 'Połącz konto (opcjonalnie)',
+    formHint: 'Żebyśmy od razu aktywowali subskrypcję. Wybierz konto z aplikacji: Apple na iPhonie, Google na Androidzie.',
+    formLinked: 'Konto połączone — zobaczymy je razem z wiadomością',
+    formChange: 'Zmień',
   },
   cs: {
     title: 'Propojte účet se svým požadavkem',
@@ -190,6 +254,10 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
     invalid: 'Platnost odkazu vypršela nebo už byl použit. Odpovězte na náš e-mail a pošleme nový.',
     error: 'Přihlášení se nezdařilo. Zkuste to znovu.',
     popup: 'Prohlížeč zablokoval přihlašovací okno. Povolte pro tento web vyskakovací okna a zkuste to znovu.',
+    formTitle: 'Propojit účet (nepovinné)',
+    formHint: 'Abychom mohli předplatné hned aktivovat. Vyberte účet z aplikace: Apple na iPhonu, Google na Androidu.',
+    formLinked: 'Účet je propojený — uvidíme ho spolu se zprávou',
+    formChange: 'Změnit',
   },
   no: {
     title: 'Koble kontoen din til henvendelsen',
@@ -201,6 +269,10 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
     invalid: 'Lenken har utløpt eller er allerede brukt. Svar på e-posten vår, så sender vi en ny.',
     error: 'Kunne ikke logge inn. Prøv igjen.',
     popup: 'Nettleseren blokkerte innloggingsvinduet. Tillat popup-vinduer for dette nettstedet og prøv igjen.',
+    formTitle: 'Koble til kontoen (valgfritt)',
+    formHint: 'Så vi kan aktivere abonnementet med en gang. Velg kontoen fra appen: Apple på iPhone, Google på Android.',
+    formLinked: 'Kontoen er koblet – vi ser den sammen med meldingen',
+    formChange: 'Bytt',
   },
   ar: {
     title: 'اربط حسابك بطلبك',
@@ -212,6 +284,10 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
     invalid: 'انتهت صلاحية هذا الرابط أو تم استخدامه. ردّ على رسالتنا وسنرسل لك رابطًا جديدًا.',
     error: 'تعذّر تسجيل الدخول. حاول مرة أخرى.',
     popup: 'حظر المتصفح نافذة تسجيل الدخول. اسمح بالنوافذ المنبثقة لهذا الموقع ثم حاول مرة أخرى.',
+    formTitle: 'اربط حسابك (اختياري)',
+    formHint: 'لنفعّل الاشتراك فورًا. اختر الحساب الذي تستخدمه في التطبيق: Apple على iPhone وGoogle على Android.',
+    formLinked: 'تم ربط الحساب — سنراه مع رسالتك',
+    formChange: 'تغيير',
   },
   da: {
     title: 'Knyt din konto til din henvendelse',
@@ -223,6 +299,10 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
     invalid: 'Linket er udløbet eller allerede brugt. Svar på vores mail, så sender vi et nyt.',
     error: 'Kunne ikke logge ind. Prøv igen.',
     popup: 'Browseren blokerede login-vinduet. Tillad pop op-vinduer for dette websted, og prøv igen.',
+    formTitle: 'Knyt din konto (valgfrit)',
+    formHint: 'Så vi kan aktivere abonnementet med det samme. Vælg kontoen fra appen: Apple på iPhone, Google på Android.',
+    formLinked: 'Kontoen er knyttet – vi ser den sammen med din besked',
+    formChange: 'Skift',
   },
   he: {
     title: 'קשרו את החשבון לפנייה',
@@ -234,6 +314,10 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
     invalid: 'הקישור פג או שכבר נעשה בו שימוש. השיבו למייל שלנו ונשלח קישור חדש.',
     error: 'לא הצלחנו להתחבר. נסו שוב.',
     popup: 'הדפדפן חסם את חלון ההתחברות. אפשרו חלונות קופצים לאתר הזה ונסו שוב.',
+    formTitle: 'קישור החשבון (לא חובה)',
+    formHint: 'כדי שנוכל להפעיל את המינוי מיד. בחרו את החשבון מהאפליקציה: Apple באייפון, Google באנדרואיד.',
+    formLinked: 'החשבון קושר — נראה אותו יחד עם ההודעה',
+    formChange: 'החלפה',
   },
   vi: {
     title: 'Liên kết tài khoản với yêu cầu của bạn',
@@ -245,6 +329,10 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
     invalid: 'Liên kết này đã hết hạn hoặc đã được dùng. Hãy trả lời email của chúng tôi để nhận liên kết mới.',
     error: 'Không thể đăng nhập. Vui lòng thử lại.',
     popup: 'Trình duyệt đã chặn cửa sổ đăng nhập. Hãy cho phép cửa sổ bật lên cho trang này và thử lại.',
+    formTitle: 'Liên kết tài khoản (không bắt buộc)',
+    formHint: 'Để chúng tôi kích hoạt gói đăng ký ngay. Chọn tài khoản trong ứng dụng: Apple trên iPhone, Google trên Android.',
+    formLinked: 'Đã liên kết tài khoản — chúng tôi sẽ thấy nó cùng tin nhắn của bạn',
+    formChange: 'Đổi',
   },
   ms: {
     title: 'Pautkan akaun anda dengan permintaan anda',
@@ -256,6 +344,10 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
     invalid: 'Pautan ini telah tamat tempoh atau sudah digunakan. Balas e-mel kami dan kami akan menghantar yang baharu.',
     error: 'Tidak dapat log masuk. Sila cuba lagi.',
     popup: 'Pelayar menyekat tetingkap log masuk. Benarkan tetingkap timbul untuk laman ini dan cuba lagi.',
+    formTitle: 'Pautkan akaun (pilihan)',
+    formHint: 'Supaya kami boleh mengaktifkan langganan dengan segera. Pilih akaun daripada aplikasi: Apple pada iPhone, Google pada Android.',
+    formLinked: 'Akaun dipautkan — kami akan melihatnya bersama mesej anda',
+    formChange: 'Tukar',
   },
   hi: {
     title: 'अपने अनुरोध से अपना खाता जोड़ें',
@@ -267,5 +359,9 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
     invalid: 'यह लिंक समाप्त हो गया है या पहले ही इस्तेमाल हो चुका है। हमारे ईमेल का जवाब दें, हम नया लिंक भेजेंगे।',
     error: 'साइन इन नहीं हो सका। कृपया फिर से कोशिश करें।',
     popup: 'ब्राउज़र ने साइन-इन विंडो रोक दी। इस साइट के लिए पॉप-अप की अनुमति दें और फिर से कोशिश करें।',
+    formTitle: 'खाता जोड़ें (वैकल्पिक)',
+    formHint: 'ताकि हम सदस्यता तुरंत चालू कर सकें। ऐप वाला खाता चुनें: iPhone पर Apple, Android पर Google।',
+    formLinked: 'खाता जुड़ गया — हम इसे आपके संदेश के साथ देखेंगे',
+    formChange: 'बदलें',
   },
 };
