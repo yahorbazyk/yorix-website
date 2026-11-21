@@ -114,6 +114,21 @@ async function getAuthInstance(): Promise<Auth> {
   return auth;
 }
 
+/** Sign in with Apple outside the checkout (the support page's account link). */
+export async function appleSignInToken(lang: string): Promise<{ token: string } | { error: 'popupBlocked' | 'signInError' | 'cancelled' }> {
+  try {
+    const auth = await getAuthInstance();
+    const { OAuthProvider, signInWithPopup } = await import('firebase/auth');
+    const provider = new OAuthProvider('apple.com');
+    provider.addScope('email');
+    provider.setCustomParameters({ locale: lang });
+    const result = await signInWithPopup(auth, provider);
+    return { token: await result.user.getIdToken() };
+  } catch (err) {
+    return { error: signInErrorFor((err as { code?: string }).code ?? '') ?? 'cancelled' } as { error: 'popupBlocked' | 'signInError' | 'cancelled' };
+  }
+}
+
 /**
  * The visitor's ID token when this tab is already signed in, else null. The
  * support form sends it so the desk sees which account wrote; an anonymous

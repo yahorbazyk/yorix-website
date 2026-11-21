@@ -3,6 +3,7 @@ import { Art, Sparkle } from '../home/art';
 import { CtaBand, FaqItem, whitePill } from '../home/CtaBand';
 import { docsLang, isRtl, siteCopy, type SiteLocale } from '../i18n';
 import { SellerFooter } from '../SellerFooter';
+import { AccountLink } from './AccountLink';
 import { ContactForm } from './ContactForm';
 import { SiteHeader } from '../SiteHeader';
 import { Magnetic } from '../subscription/Magnetic';
@@ -27,6 +28,7 @@ export function SupportPage({ locale }: { locale: SiteLocale }) {
       <StarField />
       <div className="relative z-10 flex flex-1 flex-col">
         <SiteHeader current="support" locale={locale} />
+        <AccountLink locale={locale} />
 
         <section className="relative mx-auto grid w-full max-w-7xl items-center gap-6 px-5 pb-8 pt-4 sm:px-8 lg:grid-cols-[1.2fr_0.8fr] lg:px-10">
           <div>
