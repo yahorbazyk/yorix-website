@@ -114,6 +114,23 @@ async function getAuthInstance(): Promise<Auth> {
   return auth;
 }
 
+/**
+ * The visitor's ID token when this tab is already signed in, else null. The
+ * support form sends it so the desk sees which account wrote; an anonymous
+ * visitor never loads Firebase for it.
+ */
+export async function signedInToken(): Promise<string | null> {
+  if (!isFirebaseConfigured) return null;
+  try {
+    if (!Object.keys(sessionStorage).some((key) => key.startsWith('firebase:authUser:'))) return null;
+    const auth = await getAuthInstance();
+    await auth.authStateReady();
+    return (await auth.currentUser?.getIdToken()) ?? null;
+  } catch {
+    return null;
+  }
+}
+
 function orderErrorFor(status: number, code: string | undefined, mode: CheckoutMode | undefined): ErrorKey {
   if (status === 429) return 'rateLimited';
   if (code === 'checkout_unavailable') return mode === 'test' ? 'testOnly' : 'unavailable';

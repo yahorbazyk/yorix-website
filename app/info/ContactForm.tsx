@@ -54,9 +54,10 @@ export function ContactForm({ copy, lang, page }: { copy: SupportCopy['form']; l
     }
     setState('sending');
     try {
+      const token = await import('../subscription/account').then((m) => m.signedInToken()).catch(() => null);
       const res = await fetch(`${API_BASE}/v1/web/contact`, {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: { 'Content-Type': 'application/json', ...(token ? { 'X-Firebase-Token': token } : {}) },
         body: JSON.stringify(payload),
       });
       if (res.ok) {
