@@ -245,7 +245,7 @@ const ru: SubscriptionCopy = {
   ret: {
     checking: 'Проверяем оплату…',
     paid: (date) => `Подписка включена до ${date}`,
-    openApp: 'Откройте Yorix на iPhone в том же аккаунте Apple — подписка уже там.',
+    openApp: 'Чтобы подписка появилась в приложении: откройте Yorix → Настройки → Аккаунт и войдите через Apple тем же Apple ID, что и здесь.',
     pending: 'Банк подтверждает оплату — обычно меньше минуты. Страница обновится сама.',
     failed: 'Откройте ссылку в том же браузере, где оплачивали. Если деньги списались, напишите нам — укажите дату и сумму.',
     slowTitle: 'Ждём подтверждения банка',
@@ -352,7 +352,7 @@ const ru: SubscriptionCopy = {
     redeem: 'Активировать через Apple',
     redeemAccept: ['Активируя подарок, вы принимаете ', 'условия использования', '.'],
     redeemed: (date) => `Готово! Подписка действует до ${date}`,
-    openApp: 'Откройте Yorix на iPhone в том же аккаунте Apple — функции подписки уже доступны.',
+    openApp: 'Чтобы подписка появилась в приложении: откройте Yorix → Настройки → Аккаунт и войдите через Apple тем же Apple ID, что и здесь.',
     download: 'Скачать Yorix',
     loading: 'Открываем подарок…',
     errors: {
@@ -523,7 +523,7 @@ const en: SubscriptionCopy = {
   ret: {
     checking: 'Checking the payment…',
     paid: (date) => `Subscription on until ${date}`,
-    openApp: 'Open Yorix on your iPhone with the same Apple account — the subscription is already there.',
+    openApp: 'To see it in the app: open Yorix → Settings → Account and sign in with Apple, using the same Apple ID as here.',
     pending: 'The bank is confirming the payment — usually under a minute. This page refreshes itself.',
     failed: 'Open the link in the browser you paid in. If money was charged, write to us with the date and amount.',
     slowTitle: 'Waiting for the bank',
@@ -633,7 +633,7 @@ const en: SubscriptionCopy = {
     redeem: 'Redeem with Apple',
     redeemAccept: ['By redeeming the gift you accept the ', 'terms of use', '.'],
     redeemed: (date) => `Done! Your subscription runs until ${date}`,
-    openApp: 'Open Yorix on your iPhone with the same Apple account — the subscription features are already there.',
+    openApp: 'To see it in the app: open Yorix → Settings → Account and sign in with Apple, using the same Apple ID as here.',
     download: 'Get Yorix',
     loading: 'Opening your gift…',
     errors: {

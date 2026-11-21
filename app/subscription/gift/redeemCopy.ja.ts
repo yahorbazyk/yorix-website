@@ -58,7 +58,7 @@ export const ja: RedeemText = {
     badge: '有効になりました',
     thanks: 'Yorixを選んでいただき、ありがとうございます',
     paidLead: 'サブスクリプションの有効期限は',
-    openApp: 'おだやかな眠りの世界が待っています。この先はiPhoneでどうぞ。',
+    openApp: 'アプリに反映するには、Yorix → 設定 → アカウント を開き、ここと同じApple IDで「Appleでサインイン」してください。',
     badgeTop: 'ダウンロードはこちら',
     scan: 'App StoreでYorixを開くには、スマートフォンのカメラをコードに向けてください',
     qrTitle: 'QRコードで開く',

@@ -51,7 +51,7 @@ export const cs: RedeemText = {
     badge: 'Uplatněno',
     thanks: 'Děkujeme, že jsi s Yorixem',
     paidLead: 'Předplatné ti běží do',
-    openApp: 'Svět klidných nocí už čeká — pokračuj na iPhonu.',
+    openApp: 'Aby se zobrazilo v aplikaci: otevřete Yorix → Nastavení → Účet a přihlaste se přes Apple stejným Apple ID jako zde.',
     badgeTop: 'Stáhnout v',
     scan: 'Namiř fotoaparát telefonu na kód a Yorix se otevře v App Storu',
     qrTitle: 'Otevřít přes QR kód',

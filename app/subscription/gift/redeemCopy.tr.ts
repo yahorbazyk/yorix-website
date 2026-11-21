@@ -51,7 +51,7 @@ export const tr: RedeemText = {
     badge: 'Hazır',
     thanks: 'Hediye kullanıldı — Yorix’e hoş geldiniz',
     paidLead: 'Aboneliğiniz şu tarihe kadar geçerli:',
-    openApp: 'Huzurlu uykular dünyası sizi bekliyor — iPhone’unuzdan devam edin.',
+    openApp: 'Uygulamada görmek için: Yorix → Ayarlar → Hesap’ı açın ve buradakiyle aynı Apple Kimliği ile Apple ile giriş yapın.',
     badgeTop: 'Şuradan indirin',
     scan: 'Yorix’i App Store’da açmak için telefonunuzun kamerasını koda tutun',
     qrTitle: 'QR kodla aç',

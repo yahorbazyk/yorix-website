@@ -51,7 +51,7 @@ export const pl: RedeemText = {
     badge: 'Gotowe',
     thanks: 'Prezent zrealizowany — witamy w Yorix',
     paidLead: 'Subskrypcja działa do',
-    openApp: 'Świat spokojnego snu już czeka — kontynuuj na iPhonie.',
+    openApp: 'Aby zobaczyć to w aplikacji: otwórz Yorix → Ustawienia → Konto i zaloguj się przez Apple tym samym Apple ID co tutaj.',
     badgeTop: 'Pobierz w',
     scan: 'Zeskanuj kod aparatem telefonu, aby otworzyć Yorix w App Store',
     qrTitle: 'Otwórz kodem QR',

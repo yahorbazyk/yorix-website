@@ -51,7 +51,7 @@ export const vi: RedeemText = {
     badge: 'Xong',
     thanks: 'Đã đổi quà — chào mừng bạn đến với Yorix',
     paidLead: 'Gói đăng ký có hiệu lực đến',
-    openApp: 'Một thế giới giấc ngủ yên bình đang chờ — hãy tiếp tục trên iPhone của bạn.',
+    openApp: 'Để thấy trong ứng dụng: mở Yorix → Cài đặt → Tài khoản và đăng nhập bằng Apple với cùng Apple ID như ở đây.',
     badgeTop: 'Tải về trên',
     scan: 'Hướng camera điện thoại vào mã để mở Yorix trong App Store',
     qrTitle: 'Mở bằng mã QR',
