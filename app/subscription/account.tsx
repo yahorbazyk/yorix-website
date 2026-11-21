@@ -62,7 +62,15 @@ type Me = { premiumUntil: string | null; blocked: boolean };
 export type Terms = { offer: string; payment: string; privacy: string };
 // The card on a gift order: who it is for and a short wish.
 export type GiftCard = { to: string; message: string };
-type ErrorKey = keyof SubscriptionCopy['checkout'] | 'popupBlocked' | 'signInError';
+type PromoError = 'unknown' | 'used' | 'expired';
+type ErrorKey = keyof SubscriptionCopy['checkout'] | 'popupBlocked' | 'signInError' | `promo:${PromoError}`;
+// A desk discount code as the worker priced it for this buyer's region.
+export type PromoQuote = { code: string; percent: number; plans: { id: string; charge: number; chargeCurrency: string }[] };
+type PromoResult = { ok: true; quote: PromoQuote } | { ok: false; error: PromoError | 'rateLimited' | 'error' };
+
+function promoErrorFor(code: string | undefined): PromoError | null {
+  return code === 'promo_unknown' ? 'unknown' : code === 'promo_used' ? 'used' : code === 'promo_expired' ? 'expired' : null;
+}
 
 type State = {
   ready: boolean;
@@ -89,7 +97,8 @@ type Api = State & {
   docsNote: string;
   currency: WebCurrency;
   signIn: () => Promise<boolean>;
-  createOrder: (planId: string, terms: Terms, gift?: GiftCard, email?: string) => Promise<boolean>;
+  createOrder: (planId: string, terms: Terms, gift?: GiftCard, email?: string, promo?: string) => Promise<boolean>;
+  quotePromo: (code: string) => Promise<PromoResult>;
   getToken: () => Promise<string | null>;
   clearError: () => void;
   openTerms: (plan: Plan | null) => void;
@@ -159,6 +168,8 @@ function orderErrorFor(status: number, code: string | undefined, mode: CheckoutM
   if (status === 429) return 'rateLimited';
   if (code === 'checkout_unavailable') return mode === 'test' ? 'testOnly' : 'unavailable';
   if (code === 'account_blocked') return 'blocked';
+  const promo = promoErrorFor(code);
+  if (promo) return `promo:${promo}`;
   return 'error';
 }
 
@@ -307,7 +318,7 @@ export function AccountProvider({
   const reviewOpen = REVIEW_OPEN && state.config?.reviewOpen === true;
   const acquirer: Acquirer = state.config?.provider ?? ACQUIRER;
   const createOrder = useCallback(
-    async (planId: string, terms: Terms, gift?: GiftCard, email?: string) => {
+    async (planId: string, terms: Terms, gift?: GiftCard, email?: string, promo?: string) => {
       const token = await getToken();
       const review = token ? null : reviewKey();
       // A gift needs no account; a plan is credited to the signed-in one — or,
@@ -326,7 +337,7 @@ export function AccountProvider({
           },
           // A subscription's address comes from the verified token; a gift has
           // no account, so the buyer types the only one there is.
-          body: JSON.stringify({ planId, lang, terms, ...(gift ? { gift } : {}), ...(email ? { email } : {}) }),
+          body: JSON.stringify({ planId, lang, terms, ...(gift ? { gift } : {}), ...(email ? { email } : {}), ...(promo ? { promo } : {}) }),
         });
         const body = (await res.json().catch(() => ({}))) as PaymentHandoff & { error?: string; orderId?: string; giftKey?: string };
         if (res.ok && validPaymentHandoff(body, acquirer, checkoutMode)) {
@@ -346,6 +357,25 @@ export function AccountProvider({
     [getToken, lang, checkoutMode, acquirer, reviewOpen],
   );
 
+  const quotePromo = useCallback(async (code: string): Promise<PromoResult> => {
+    const token = await getToken();
+    try {
+      const res = await fetch(`${API_BASE}/v1/web/promo`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', ...(token ? { 'X-Firebase-Token': token } : {}) },
+        body: JSON.stringify({ code }),
+      });
+      const body = (await res.json().catch(() => ({}))) as Partial<PromoQuote> & { error?: string };
+      if (res.ok && typeof body.code === 'string' && typeof body.percent === 'number' && Array.isArray(body.plans)) {
+        return { ok: true, quote: body as PromoQuote };
+      }
+      if (res.status === 429) return { ok: false, error: 'rateLimited' };
+      return { ok: false, error: promoErrorFor(body.error) ?? 'error' };
+    } catch {
+      return { ok: false, error: 'error' };
+    }
+  }, [getToken]);
+
   const clearError = useCallback(() => setState((s) => ({ ...s, error: null })), []);
   const openTerms = useCallback(
     (plan: Plan | null) => {
@@ -356,8 +386,8 @@ export function AccountProvider({
   );
 
   const api = useMemo<Api>(
-    () => ({ ...state, lang, locale, copy, plans: planTexts, docsNote, currency, signIn, createOrder, getToken, clearError, openTerms, warmAuth }),
-    [state, lang, locale, copy, planTexts, docsNote, currency, signIn, createOrder, getToken, clearError, openTerms],
+    () => ({ ...state, lang, locale, copy, plans: planTexts, docsNote, currency, signIn, createOrder, quotePromo, getToken, clearError, openTerms, warmAuth }),
+    [state, lang, locale, copy, planTexts, docsNote, currency, signIn, createOrder, quotePromo, getToken, clearError, openTerms],
   );
 
   return <Ctx.Provider value={api}>{children}</Ctx.Provider>;
@@ -459,12 +489,17 @@ export function ChargeNote({ className = '' }: { className?: string }) {
 // payment the server switches the subscription on by itself; nobody types an
 // Apple ID or a code, and no account detail is shown.
 export function CheckoutDialog() {
-  const { termsPlan, openTerms, signedIn, me, ready, configured, config, currency, lang, locale, copy, plans: planTexts, docsNote, busy, error, signIn, createOrder, clearError } =
+  const { termsPlan, openTerms, signedIn, me, ready, configured, config, currency, lang, locale, copy, plans: planTexts, docsNote, busy, error, signIn, createOrder, quotePromo, clearError } =
     useAccount();
   const [accepted, setAccepted] = useState(false);
   const [missing, setMissing] = useState(false);
   const [closed, setClosed] = useState(false);
   const [stage, setStage] = useState<'idle' | 'signin' | 'order' | 'redirect'>('idle');
+  const [promoOpen, setPromoOpen] = useState(false);
+  const [promoInput, setPromoInput] = useState('');
+  const [promo, setPromo] = useState<PromoQuote | null>(null);
+  const [promoError, setPromoError] = useState<PromoError | 'rateLimited' | 'error' | null>(null);
+  const [promoBusy, setPromoBusy] = useState(false);
   // A reviewer's link pays without an Apple ID.
   const reviewing = useReviewing();
   const paysDirectly = signedIn || reviewing;
@@ -479,6 +514,7 @@ export function CheckoutDialog() {
       setMissing(false);
       setClosed(false);
       setStage('idle');
+      setPromoError(null);
     });
     return () => cancelAnimationFrame(frame);
   }, [open, openedFor]);
@@ -506,7 +542,10 @@ export function CheckoutDialog() {
   const money = chargeFor(plan.id, currency, config?.provider ?? ACQUIRER);
   const price = formatMoney(money.amount, money.currency, lang);
   const spelled = chargeToSpellOut(plan.id, currency, config?.provider ?? ACQUIRER);
-  const charge = spelled === null ? null : formatMoney(spelled, 'BYN', lang);
+  const discounted = promo?.plans.find((p) => p.id === plan.id && p.chargeCurrency === money.currency) ?? null;
+  const pays = discounted ? formatMoney(discounted.charge, money.currency, lang) : price;
+  // The spelled-out rouble equivalent is of the full price; with a code the card is charged the discounted one.
+  const charge = spelled === null || discounted ? null : formatMoney(spelled, 'BYN', lang);
   const active = Boolean(me?.premiumUntil && new Date(me.premiumUntil) > new Date());
   const terms: Terms = { offer: legalVersion.offer, payment: legalVersion.payment, privacy: legalVersion.privacy };
 
@@ -537,9 +576,30 @@ export function CheckoutDialog() {
       }
     }
     setStage('order');
-    const redirecting = await createOrder(plan.id, terms);
+    const redirecting = await createOrder(plan.id, terms, undefined, undefined, discounted ? promo?.code : undefined);
     setStage(redirecting ? 'redirect' : 'idle');
   };
+
+  const applyPromo = async () => {
+    if (promoBusy || !promoInput.trim()) return;
+    setPromoBusy(true);
+    setPromoError(null);
+    const result = await quotePromo(promoInput.trim());
+    setPromoBusy(false);
+    if (result.ok) setPromo(result.quote);
+    else setPromoError(result.error);
+  };
+  const removePromo = () => {
+    setPromo(null);
+    setPromoInput('');
+    setPromoError(null);
+    if (error?.startsWith('promo:')) clearError();
+  };
+  const promoMessage = promoError === 'unknown' || promoError === 'used' || promoError === 'expired'
+    ? copy.terms.promo[promoError]
+    : promoError === 'rateLimited' ? copy.checkout.rateLimited
+    : promoError ? copy.checkout.error
+    : null;
 
   const shownError = stage !== 'idle' ? null : error;
   const message = closed
@@ -548,14 +608,16 @@ export function CheckoutDialog() {
       ? copy.account[shownError]
       : shownError === 'blocked'
         ? copy.checkout.blocked
-        : shownError
-          ? copy.checkout[shownError]
-          : null;
+        : shownError?.startsWith('promo:')
+          ? copy.terms.promo[shownError.slice(6) as PromoError]
+          : shownError
+            ? copy.checkout[shownError as keyof SubscriptionCopy['checkout']]
+            : null;
   const label =
     stage === 'signin' ? copy.checkout.signingIn
     : stage === 'order' ? copy.checkout.creating
     : stage === 'redirect' ? copy.checkout.redirecting
-    : paysDirectly ? copy.terms.pay(price)
+    : paysDirectly ? copy.terms.pay(pays)
     : copy.terms.withApple;
   const box = 'mt-0.5 h-5 w-5 shrink-0 cursor-pointer rounded accent-[#A78BFA]';
   const link = 'font-semibold text-white underline decoration-white/40 underline-offset-2 hover:decoration-white';
@@ -577,7 +639,16 @@ export function CheckoutDialog() {
             <dd className="font-medium">{copy.terms.days(text.days)}</dd>
             <dt className="text-white/60">{copy.terms.price}</dt>
             <dd className="font-medium">
-              <Money text={price} />
+              {discounted ? (
+                <>
+                  <s className="me-2 font-normal text-white/50">
+                    <Money text={price} />
+                  </s>
+                  <Money text={pays} />
+                </>
+              ) : (
+                <Money text={price} />
+              )}
               {charge ? (
                 <span className="font-normal text-white/60">
                   {' '}
@@ -586,6 +657,60 @@ export function CheckoutDialog() {
               ) : null}
             </dd>
           </dl>
+          <div className="mt-3 text-sm">
+            {promo ? (
+              <output className="flex flex-wrap items-center gap-x-3 gap-y-1 text-[#C4B5FD]">
+                <span>{copy.terms.promo.applied(String(promo.percent))}</span>
+                <button className="text-white/60 underline underline-offset-2 hover:text-white" disabled={!closable} onClick={removePromo} type="button">
+                  {copy.terms.promo.remove}
+                </button>
+              </output>
+            ) : promoOpen ? (
+              <form
+                className="flex flex-col gap-2"
+                onSubmit={(e) => {
+                  e.preventDefault();
+                  void applyPromo();
+                }}
+              >
+                <label className="text-white/60" htmlFor="promo-code">
+                  {copy.terms.promo.label}
+                </label>
+                <div className="flex gap-2">
+                  <input
+                    aria-describedby={promoMessage ? 'promo-error' : undefined}
+                    aria-invalid={promoMessage ? true : undefined}
+                    autoCapitalize="characters"
+                    autoComplete="off"
+                    // oxlint-disable-next-line jsx-a11y/no-autofocus -- the field appears only on the buyer's own tap
+                    autoFocus
+                    className="min-w-0 flex-1 rounded-xl border border-white/15 bg-white/[0.06] px-3 py-2 font-mono tracking-wider uppercase text-white placeholder:text-white/30 focus:border-[#A78BFA] focus:outline-none"
+                    id="promo-code"
+                    maxLength={16}
+                    onChange={(e) => {
+                      setPromoInput(e.target.value);
+                      setPromoError(null);
+                    }}
+                    placeholder="XXXX-XXXX"
+                    spellCheck={false}
+                    value={promoInput}
+                  />
+                  <Button className="shrink-0" disabled={promoBusy || !promoInput.trim()} type="submit" variant="ghost">
+                    {promoBusy ? copy.terms.promo.checking : copy.terms.promo.apply}
+                  </Button>
+                </div>
+                {promoMessage ? (
+                  <p className="text-[#FCA5A5]" id="promo-error" role="alert">
+                    {promoMessage}
+                  </p>
+                ) : null}
+              </form>
+            ) : (
+              <button className="text-white/60 underline decoration-white/30 underline-offset-2 hover:text-white" onClick={() => setPromoOpen(true)} type="button">
+                {copy.terms.promo.toggle}
+              </button>
+            )}
+          </div>
           <ul className="mt-4 grid gap-1.5 text-sm leading-6 text-white/75">
             <li>{copy.terms.oneOff}</li>
             <li>{active && me?.premiumUntil ? copy.terms.active(formatDate(me.premiumUntil, locale)) : copy.terms.signInNote}</li>

@@ -107,7 +107,7 @@ export function GiftCheckout() {
       : shownError === 'blocked'
         ? copy.checkout.blocked
         : shownError
-          ? copy.checkout[shownError]
+          ? shownError.startsWith('promo:') ? copy.checkout.error : copy.checkout[shownError as keyof typeof copy.checkout]
           : null;
   const label =
     stage === 'signin' ? copy.checkout.signingIn

@@ -147,6 +147,17 @@ export type SubscriptionCopy = {
     pay: (price: string) => string;
     next: string;
     cancel: string;
+    promo: {
+      toggle: string;
+      label: string;
+      apply: string;
+      applied: (percent: string) => string;
+      remove: string;
+      unknown: string;
+      used: string;
+      expired: string;
+      checking: string;
+    };
   };
 };
 
@@ -414,6 +425,17 @@ const ru: SubscriptionCopy = {
     pay: (price) => `Перейти к оплате · ${price}`,
     next: 'Продолжить',
     cancel: 'Отмена',
+    promo: {
+      toggle: "Есть промокод?",
+      label: "Промокод",
+      apply: "Применить",
+      applied: (percent) => `Промокод применён: скидка ${percent}%`,
+      remove: "Убрать",
+      unknown: "Такого промокода нет. Проверьте, как он написан.",
+      used: "Этот промокод уже использован.",
+      expired: "Срок действия промокода истёк.",
+      checking: "Проверяем…",
+    },
   },
 };
 
@@ -684,6 +706,17 @@ const en: SubscriptionCopy = {
     pay: (price) => `Continue to payment · ${price}`,
     next: 'Continue',
     cancel: 'Cancel',
+    promo: {
+      toggle: "Have a promo code?",
+      label: "Promo code",
+      apply: "Apply",
+      applied: (percent) => `Promo code applied: ${percent}% off`,
+      remove: "Remove",
+      unknown: "This promo code doesn't exist. Check the spelling.",
+      used: "This promo code has already been used.",
+      expired: "This promo code has expired.",
+      checking: "Checking…",
+    },
   },
 };
 
