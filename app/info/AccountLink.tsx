@@ -7,7 +7,7 @@ import { API_BASE } from '../subscription/config';
 import { Spinner } from '../subscription/ui';
 import { accountLinkCopy } from './accountLinkCopy';
 
-type State = 'idle' | 'busy' | 'done' | 'invalid' | 'error' | 'popup';
+type State = 'idle' | 'apple' | 'google' | 'done' | 'invalid' | 'error' | 'popup';
 
 const LINK = /^[A-Za-z0-9_-]{16,64}$/;
 const noSubscription = () => () => {};
@@ -27,10 +27,10 @@ export function AccountLink({ locale }: { locale: SiteLocale }) {
 
   if (!token && state !== 'done') return null;
 
-  const link = async () => {
-    setState('busy');
-    const { appleSignInToken } = await import('../subscription/account');
-    const signed = await appleSignInToken(locale);
+  const link = async (kind: 'apple' | 'google') => {
+    setState(kind);
+    const { accountSignInToken } = await import('../subscription/account');
+    const signed = await accountSignInToken(kind, locale);
     if ('error' in signed) {
       setState(signed.error === 'popupBlocked' ? 'popup' : signed.error === 'cancelled' ? 'idle' : 'error');
       return;
@@ -71,20 +71,36 @@ export function AccountLink({ locale }: { locale: SiteLocale }) {
               </p>
             ) : null}
             {state !== 'invalid' ? (
-              <button
-                className="mt-6 inline-flex min-h-14 w-full items-center justify-center gap-2.5 rounded-full bg-white px-7 text-base font-semibold text-[#1E1B4B] transition hover:-translate-y-0.5 hover:bg-[#EEF2FF] focus:outline-none focus-visible:ring-4 focus-visible:ring-white/30 active:translate-y-0 active:scale-[0.98] disabled:translate-y-0 disabled:opacity-70 sm:w-auto"
-                disabled={state === 'busy'}
-                onClick={() => void link()}
-                type="button"
-              >
-                {state === 'busy' ? <Spinner className="h-5 w-5" /> : <AppleMark />}
-                {state === 'busy' ? copy.busy : copy.button}
-              </button>
+              <div className="mt-6 grid gap-3 sm:flex sm:flex-wrap">
+                {(['apple', 'google'] as const).map((kind) => (
+                  <button
+                    className="inline-flex min-h-14 w-full items-center justify-center gap-2.5 rounded-full bg-white px-7 text-base font-semibold text-[#1E1B4B] transition hover:-translate-y-0.5 hover:bg-[#EEF2FF] focus:outline-none focus-visible:ring-4 focus-visible:ring-white/30 active:translate-y-0 active:scale-[0.98] disabled:translate-y-0 disabled:opacity-70 sm:w-auto"
+                    disabled={state === 'apple' || state === 'google'}
+                    key={kind}
+                    onClick={() => void link(kind)}
+                    type="button"
+                  >
+                    {state === kind ? <Spinner className="h-5 w-5" /> : kind === 'apple' ? <AppleMark /> : <GoogleMark />}
+                    {state === kind ? copy.busy : kind === 'apple' ? copy.button : copy.google}
+                  </button>
+                ))}
+              </div>
             ) : null}
           </>
         )}
       </div>
     </section>
+  );
+}
+
+function GoogleMark() {
+  return (
+    <svg aria-hidden="true" className="h-5 w-5" viewBox="0 0 24 24">
+      <path d="M21.6 12.23c0-.68-.06-1.36-.18-2.02H12v3.83h5.4a4.62 4.62 0 0 1-2 3.03v2.5h3.24c1.9-1.75 2.96-4.33 2.96-7.34z" fill="#4285F4" />
+      <path d="M12 22c2.7 0 4.97-.9 6.63-2.43l-3.24-2.5c-.9.6-2.05.95-3.39.95-2.6 0-4.81-1.76-5.6-4.12H3.06v2.58A10 10 0 0 0 12 22z" fill="#34A853" />
+      <path d="M6.4 13.9a6 6 0 0 1 0-3.8V7.52H3.06a10 10 0 0 0 0 8.96L6.4 13.9z" fill="#FBBC05" />
+      <path d="M12 5.98c1.47 0 2.79.5 3.83 1.5l2.87-2.87A9.6 9.6 0 0 0 12 2a10 10 0 0 0-8.94 5.52L6.4 10.1C7.19 7.74 9.4 5.98 12 5.98z" fill="#EA4335" />
+    </svg>
   );
 }
 

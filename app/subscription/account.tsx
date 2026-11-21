@@ -114,14 +114,23 @@ async function getAuthInstance(): Promise<Auth> {
   return auth;
 }
 
-/** Sign in with Apple outside the checkout (the support page's account link). */
-export async function appleSignInToken(lang: string): Promise<{ token: string } | { error: 'popupBlocked' | 'signInError' | 'cancelled' }> {
+/**
+ * Sign in outside the checkout — the support page's account link — with the
+ * account the app uses: Apple on iPhone, Google on Android.
+ */
+export async function accountSignInToken(kind: 'apple' | 'google', lang: string): Promise<{ token: string } | { error: 'popupBlocked' | 'signInError' | 'cancelled' }> {
   try {
     const auth = await getAuthInstance();
-    const { OAuthProvider, signInWithPopup } = await import('firebase/auth');
-    const provider = new OAuthProvider('apple.com');
-    provider.addScope('email');
-    provider.setCustomParameters({ locale: lang });
+    const { GoogleAuthProvider, OAuthProvider, signInWithPopup } = await import('firebase/auth');
+    let provider: InstanceType<typeof OAuthProvider> | InstanceType<typeof GoogleAuthProvider>;
+    if (kind === 'apple') {
+      provider = new OAuthProvider('apple.com');
+      provider.addScope('email');
+      provider.setCustomParameters({ locale: lang });
+    } else {
+      provider = new GoogleAuthProvider();
+      provider.setCustomParameters({ hl: lang, prompt: 'select_account' });
+    }
     const result = await signInWithPopup(auth, provider);
     return { token: await result.user.getIdToken() };
   } catch (err) {

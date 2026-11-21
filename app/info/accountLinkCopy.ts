@@ -4,6 +4,7 @@ export type AccountLinkCopy = {
   title: string;
   body: string;
   button: string;
+  google: string;
   busy: string;
   done: string;
   invalid: string;
@@ -13,8 +14,9 @@ export type AccountLinkCopy = {
 
 const en: AccountLinkCopy = {
   title: 'Link your account to your request',
-  body: 'Sign in with Apple — the same Apple ID you use in the app. We will activate your subscription on that account. Nothing else to do.',
+  body: 'Sign in with the same account you use in the app: Apple on iPhone, Google on Android. We will activate your subscription on that account. Nothing else to do.',
   button: 'Sign in with Apple',
+  google: 'Sign in with Google',
   busy: 'Linking…',
   done: 'Done! Your account is linked. We will activate the subscription and write to you.',
   invalid: 'This link has expired or was already used. Reply to our letter and we will send a new one.',
@@ -26,8 +28,9 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
   en,
   ru: {
     title: 'Привяжите аккаунт к обращению',
-    body: 'Войдите через Apple — тем же Apple ID, что и в приложении. Мы активируем подписку на этот аккаунт. Больше ничего делать не нужно.',
+    body: 'Войдите тем же аккаунтом, что и в приложении: Apple на iPhone, Google на Android. Мы активируем подписку на этот аккаунт. Больше ничего делать не нужно.',
     button: 'Войти через Apple',
+    google: 'Войти через Google',
     busy: 'Привязываем…',
     done: 'Готово! Аккаунт привязан. Мы активируем подписку и напишем вам.',
     invalid: 'Ссылка устарела или уже использована. Ответьте на наше письмо — пришлём новую.',
@@ -36,8 +39,9 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
   },
   uk: {
     title: 'Привʼяжіть акаунт до звернення',
-    body: 'Увійдіть через Apple — тим самим Apple ID, що й у застосунку. Ми активуємо підписку на цей акаунт. Більше нічого робити не потрібно.',
+    body: 'Увійдіть тим самим акаунтом, що й у застосунку: Apple на iPhone, Google на Android. Ми активуємо підписку на цей акаунт. Більше нічого робити не потрібно.',
     button: 'Увійти через Apple',
+    google: 'Увійти через Google',
     busy: 'Привʼязуємо…',
     done: 'Готово! Акаунт привʼязано. Ми активуємо підписку й напишемо вам.',
     invalid: 'Посилання застаріло або вже використане. Дайте відповідь на наш лист — надішлемо нове.',
@@ -46,8 +50,9 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
   },
   tr: {
     title: 'Hesabınızı talebinize bağlayın',
-    body: 'Uygulamada kullandığınız Apple Kimliği ile Apple ile giriş yapın. Aboneliği bu hesapta etkinleştireceğiz. Başka bir şey yapmanıza gerek yok.',
+    body: 'Uygulamada kullandığınız hesapla giriş yapın: iPhone’da Apple, Android’de Google. Aboneliği bu hesapta etkinleştireceğiz. Başka bir şey yapmanıza gerek yok.',
     button: 'Apple ile giriş yap',
+    google: 'Google ile giriş yap',
     busy: 'Bağlanıyor…',
     done: 'Tamam! Hesabınız bağlandı. Aboneliği etkinleştirip size yazacağız.',
     invalid: 'Bu bağlantının süresi dolmuş veya zaten kullanılmış. E-postamızı yanıtlayın, yenisini gönderelim.',
@@ -56,8 +61,9 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
   },
   fr: {
     title: 'Associez votre compte à votre demande',
-    body: 'Connectez-vous avec Apple, avec le même identifiant Apple que dans l’app. Nous activerons l’abonnement sur ce compte. Rien d’autre à faire.',
+    body: 'Connectez-vous avec le même compte que dans l’app : Apple sur iPhone, Google sur Android. Nous activerons l’abonnement sur ce compte. Rien d’autre à faire.',
     button: 'Se connecter avec Apple',
+    google: 'Se connecter avec Google',
     busy: 'Association…',
     done: 'C’est fait ! Votre compte est associé. Nous activons l’abonnement et vous écrivons.',
     invalid: 'Ce lien a expiré ou a déjà été utilisé. Répondez à notre e-mail et nous vous en enverrons un nouveau.',
@@ -66,8 +72,9 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
   },
   de: {
     title: 'Verknüpfe dein Konto mit deiner Anfrage',
-    body: 'Melde dich mit Apple an – mit derselben Apple-ID wie in der App. Wir aktivieren das Abo auf diesem Konto. Sonst ist nichts zu tun.',
+    body: 'Melde dich mit demselben Konto wie in der App an: Apple auf dem iPhone, Google auf Android. Wir aktivieren das Abo auf diesem Konto. Sonst ist nichts zu tun.',
     button: 'Mit Apple anmelden',
+    google: 'Mit Google anmelden',
     busy: 'Wird verknüpft…',
     done: 'Fertig! Dein Konto ist verknüpft. Wir aktivieren das Abo und melden uns.',
     invalid: 'Dieser Link ist abgelaufen oder wurde schon benutzt. Antworte auf unsere E-Mail, dann schicken wir einen neuen.',
@@ -76,8 +83,9 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
   },
   nl: {
     title: 'Koppel je account aan je aanvraag',
-    body: 'Log in met Apple, met dezelfde Apple ID als in de app. We activeren het abonnement op dat account. Verder hoef je niets te doen.',
+    body: 'Log in met hetzelfde account als in de app: Apple op iPhone, Google op Android. We activeren het abonnement op dat account. Verder hoef je niets te doen.',
     button: 'Inloggen met Apple',
+    google: 'Inloggen met Google',
     busy: 'Koppelen…',
     done: 'Klaar! Je account is gekoppeld. We activeren het abonnement en laten je iets weten.',
     invalid: 'Deze link is verlopen of al gebruikt. Beantwoord onze e-mail en we sturen een nieuwe.',
@@ -86,8 +94,9 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
   },
   it: {
     title: 'Collega il tuo account alla richiesta',
-    body: 'Accedi con Apple, con lo stesso ID Apple che usi nell’app. Attiveremo l’abbonamento su quell’account. Non devi fare altro.',
+    body: 'Accedi con lo stesso account che usi nell’app: Apple su iPhone, Google su Android. Attiveremo l’abbonamento su quell’account. Non devi fare altro.',
     button: 'Accedi con Apple',
+    google: 'Accedi con Google',
     busy: 'Collegamento…',
     done: 'Fatto! Il tuo account è collegato. Attiveremo l’abbonamento e ti scriveremo.',
     invalid: 'Questo link è scaduto o è già stato usato. Rispondi alla nostra email e te ne invieremo uno nuovo.',
@@ -96,8 +105,9 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
   },
   pt: {
     title: 'Vincule sua conta à sua solicitação',
-    body: 'Entre com a Apple, usando o mesmo ID Apple do app. Vamos ativar a assinatura nessa conta. Você não precisa fazer mais nada.',
+    body: 'Entre com a mesma conta que você usa no app: Apple no iPhone, Google no Android. Vamos ativar a assinatura nessa conta. Você não precisa fazer mais nada.',
     button: 'Entrar com a Apple',
+    google: 'Entrar com o Google',
     busy: 'Vinculando…',
     done: 'Pronto! Sua conta foi vinculada. Vamos ativar a assinatura e escrever para você.',
     invalid: 'Este link expirou ou já foi usado. Responda ao nosso e-mail e enviaremos um novo.',
@@ -106,8 +116,9 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
   },
   es: {
     title: 'Vincula tu cuenta a tu solicitud',
-    body: 'Inicia sesión con Apple, con el mismo ID de Apple que usas en la app. Activaremos la suscripción en esa cuenta. No tienes que hacer nada más.',
+    body: 'Inicia sesión con la misma cuenta que usas en la app: Apple en iPhone, Google en Android. Activaremos la suscripción en esa cuenta. No tienes que hacer nada más.',
     button: 'Iniciar sesión con Apple',
+    google: 'Iniciar sesión con Google',
     busy: 'Vinculando…',
     done: '¡Listo! Tu cuenta está vinculada. Activaremos la suscripción y te escribiremos.',
     invalid: 'Este enlace ha caducado o ya se ha usado. Responde a nuestro correo y te enviaremos uno nuevo.',
@@ -116,8 +127,9 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
   },
   th: {
     title: 'เชื่อมบัญชีของคุณกับคำขอ',
-    body: 'ลงชื่อเข้าใช้ด้วย Apple โดยใช้ Apple ID เดียวกับในแอป เราจะเปิดใช้งานการสมัครสมาชิกในบัญชีนั้น คุณไม่ต้องทำอะไรเพิ่ม',
+    body: 'ลงชื่อเข้าใช้ด้วยบัญชีเดียวกับในแอป: Apple บน iPhone, Google บน Android เราจะเปิดใช้งานการสมัครสมาชิกในบัญชีนั้น คุณไม่ต้องทำอะไรเพิ่ม',
     button: 'ลงชื่อเข้าใช้ด้วย Apple',
+    google: 'ลงชื่อเข้าใช้ด้วย Google',
     busy: 'กำลังเชื่อม…',
     done: 'เรียบร้อย! เชื่อมบัญชีแล้ว เราจะเปิดใช้งานการสมัครสมาชิกและแจ้งให้คุณทราบ',
     invalid: 'ลิงก์นี้หมดอายุหรือถูกใช้ไปแล้ว ตอบกลับอีเมลของเราแล้วเราจะส่งลิงก์ใหม่ให้',
@@ -126,8 +138,9 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
   },
   sv: {
     title: 'Koppla ditt konto till ärendet',
-    body: 'Logga in med Apple, med samma Apple-ID som i appen. Vi aktiverar prenumerationen på det kontot. Du behöver inte göra något mer.',
+    body: 'Logga in med samma konto som i appen: Apple på iPhone, Google på Android. Vi aktiverar prenumerationen på det kontot. Du behöver inte göra något mer.',
     button: 'Logga in med Apple',
+    google: 'Logga in med Google',
     busy: 'Kopplar…',
     done: 'Klart! Ditt konto är kopplat. Vi aktiverar prenumerationen och hör av oss.',
     invalid: 'Länken har gått ut eller redan använts. Svara på vårt mejl så skickar vi en ny.',
@@ -136,8 +149,9 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
   },
   id: {
     title: 'Tautkan akun Anda ke permintaan Anda',
-    body: 'Masuk dengan Apple, menggunakan Apple ID yang sama seperti di aplikasi. Kami akan mengaktifkan langganan di akun tersebut. Tidak ada lagi yang perlu dilakukan.',
+    body: 'Masuk dengan akun yang sama seperti di aplikasi: Apple di iPhone, Google di Android. Kami akan mengaktifkan langganan di akun tersebut. Tidak ada lagi yang perlu dilakukan.',
     button: 'Masuk dengan Apple',
+    google: 'Masuk dengan Google',
     busy: 'Menautkan…',
     done: 'Selesai! Akun Anda sudah tertaut. Kami akan mengaktifkan langganan dan menghubungi Anda.',
     invalid: 'Tautan ini sudah kedaluwarsa atau sudah digunakan. Balas email kami dan kami akan mengirim yang baru.',
@@ -146,8 +160,9 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
   },
   ja: {
     title: 'お問い合わせにアカウントを紐づけてください',
-    body: 'アプリと同じApple IDで「Appleでサインイン」してください。そのアカウントでサブスクリプションを有効にします。ほかに必要な操作はありません。',
+    body: 'アプリと同じアカウントでサインインしてください（iPhoneはApple、AndroidはGoogle）。そのアカウントでサブスクリプションを有効にします。ほかに必要な操作はありません。',
     button: 'Appleでサインイン',
+    google: 'Googleでサインイン',
     busy: '紐づけています…',
     done: '完了しました。アカウントが紐づけられました。サブスクリプションを有効にしてご連絡します。',
     invalid: 'このリンクは期限切れか、すでに使用されています。メールにご返信いただければ新しいリンクをお送りします。',
@@ -156,8 +171,9 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
   },
   pl: {
     title: 'Połącz konto ze zgłoszeniem',
-    body: 'Zaloguj się przez Apple — tym samym Apple ID co w aplikacji. Aktywujemy subskrypcję na tym koncie. Nic więcej nie trzeba robić.',
+    body: 'Zaloguj się tym samym kontem co w aplikacji: Apple na iPhonie, Google na Androidzie. Aktywujemy subskrypcję na tym koncie. Nic więcej nie trzeba robić.',
     button: 'Zaloguj się przez Apple',
+    google: 'Zaloguj się przez Google',
     busy: 'Łączenie…',
     done: 'Gotowe! Konto jest połączone. Aktywujemy subskrypcję i napiszemy do Ciebie.',
     invalid: 'Ten link wygasł lub został już użyty. Odpowiedz na naszego maila, a wyślemy nowy.',
@@ -166,8 +182,9 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
   },
   cs: {
     title: 'Propojte účet se svým požadavkem',
-    body: 'Přihlaste se přes Apple — stejným Apple ID jako v aplikaci. Předplatné aktivujeme na tomto účtu. Nic dalšího není potřeba.',
+    body: 'Přihlaste se stejným účtem jako v aplikaci: Apple na iPhonu, Google na Androidu. Předplatné aktivujeme na tomto účtu. Nic dalšího není potřeba.',
     button: 'Přihlásit se přes Apple',
+    google: 'Přihlásit se přes Google',
     busy: 'Propojujeme…',
     done: 'Hotovo! Účet je propojený. Aktivujeme předplatné a ozveme se vám.',
     invalid: 'Platnost odkazu vypršela nebo už byl použit. Odpovězte na náš e-mail a pošleme nový.',
@@ -176,8 +193,9 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
   },
   no: {
     title: 'Koble kontoen din til henvendelsen',
-    body: 'Logg inn med Apple, med samme Apple-ID som i appen. Vi aktiverer abonnementet på den kontoen. Du trenger ikke gjøre noe mer.',
+    body: 'Logg inn med samme konto som i appen: Apple på iPhone, Google på Android. Vi aktiverer abonnementet på den kontoen. Du trenger ikke gjøre noe mer.',
     button: 'Logg inn med Apple',
+    google: 'Logg inn med Google',
     busy: 'Kobler…',
     done: 'Ferdig! Kontoen din er koblet. Vi aktiverer abonnementet og skriver til deg.',
     invalid: 'Lenken har utløpt eller er allerede brukt. Svar på e-posten vår, så sender vi en ny.',
@@ -186,8 +204,9 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
   },
   ar: {
     title: 'اربط حسابك بطلبك',
-    body: 'سجّل الدخول باستخدام Apple بنفس معرّف Apple الذي تستخدمه في التطبيق. سنفعّل الاشتراك على هذا الحساب. لا حاجة لأي خطوة أخرى.',
+    body: 'سجّل الدخول بنفس الحساب الذي تستخدمه في التطبيق: Apple على iPhone وGoogle على Android. سنفعّل الاشتراك على هذا الحساب. لا حاجة لأي خطوة أخرى.',
     button: 'تسجيل الدخول باستخدام Apple',
+    google: 'تسجيل الدخول باستخدام Google',
     busy: 'جارٍ الربط…',
     done: 'تم! ربطنا حسابك. سنفعّل الاشتراك ونراسلك.',
     invalid: 'انتهت صلاحية هذا الرابط أو تم استخدامه. ردّ على رسالتنا وسنرسل لك رابطًا جديدًا.',
@@ -196,8 +215,9 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
   },
   da: {
     title: 'Knyt din konto til din henvendelse',
-    body: 'Log ind med Apple – med det samme Apple-id som i appen. Vi aktiverer abonnementet på den konto. Du behøver ikke gøre mere.',
+    body: 'Log ind med den samme konto som i appen: Apple på iPhone, Google på Android. Vi aktiverer abonnementet på den konto. Du behøver ikke gøre mere.',
     button: 'Log ind med Apple',
+    google: 'Log ind med Google',
     busy: 'Knytter…',
     done: 'Færdig! Din konto er knyttet. Vi aktiverer abonnementet og skriver til dig.',
     invalid: 'Linket er udløbet eller allerede brugt. Svar på vores mail, så sender vi et nyt.',
@@ -206,8 +226,9 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
   },
   he: {
     title: 'קשרו את החשבון לפנייה',
-    body: 'התחברו עם Apple, עם אותו Apple ID שבאפליקציה. נפעיל את המינוי בחשבון הזה. אין צורך לעשות שום דבר נוסף.',
+    body: 'התחברו עם אותו חשבון שבאפליקציה: Apple באייפון, Google באנדרואיד. נפעיל את המינוי בחשבון הזה. אין צורך לעשות שום דבר נוסף.',
     button: 'התחברות עם Apple',
+    google: 'התחברות עם Google',
     busy: 'מקשרים…',
     done: 'מוכן! החשבון קושר. נפעיל את המינוי ונכתוב לכם.',
     invalid: 'הקישור פג או שכבר נעשה בו שימוש. השיבו למייל שלנו ונשלח קישור חדש.',
@@ -216,8 +237,9 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
   },
   vi: {
     title: 'Liên kết tài khoản với yêu cầu của bạn',
-    body: 'Đăng nhập bằng Apple, dùng cùng Apple ID như trong ứng dụng. Chúng tôi sẽ kích hoạt gói đăng ký trên tài khoản đó. Bạn không cần làm gì thêm.',
+    body: 'Đăng nhập bằng cùng tài khoản như trong ứng dụng: Apple trên iPhone, Google trên Android. Chúng tôi sẽ kích hoạt gói đăng ký trên tài khoản đó. Bạn không cần làm gì thêm.',
     button: 'Đăng nhập bằng Apple',
+    google: 'Đăng nhập bằng Google',
     busy: 'Đang liên kết…',
     done: 'Xong! Tài khoản đã được liên kết. Chúng tôi sẽ kích hoạt gói đăng ký và liên hệ với bạn.',
     invalid: 'Liên kết này đã hết hạn hoặc đã được dùng. Hãy trả lời email của chúng tôi để nhận liên kết mới.',
@@ -226,8 +248,9 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
   },
   ms: {
     title: 'Pautkan akaun anda dengan permintaan anda',
-    body: 'Log masuk dengan Apple, menggunakan Apple ID yang sama seperti dalam aplikasi. Kami akan mengaktifkan langganan pada akaun itu. Tiada apa-apa lagi perlu dilakukan.',
+    body: 'Log masuk dengan akaun yang sama seperti dalam aplikasi: Apple pada iPhone, Google pada Android. Kami akan mengaktifkan langganan pada akaun itu. Tiada apa-apa lagi perlu dilakukan.',
     button: 'Log masuk dengan Apple',
+    google: 'Log masuk dengan Google',
     busy: 'Memautkan…',
     done: 'Siap! Akaun anda telah dipautkan. Kami akan mengaktifkan langganan dan menghubungi anda.',
     invalid: 'Pautan ini telah tamat tempoh atau sudah digunakan. Balas e-mel kami dan kami akan menghantar yang baharu.',
@@ -236,8 +259,9 @@ export const accountLinkCopy: Record<SiteLocale, AccountLinkCopy> = {
   },
   hi: {
     title: 'अपने अनुरोध से अपना खाता जोड़ें',
-    body: 'Apple से साइन इन करें — उसी Apple ID से जो आप ऐप में इस्तेमाल करते हैं। हम उसी खाते पर सदस्यता चालू करेंगे। आपको और कुछ नहीं करना है।',
+    body: 'उसी खाते से साइन इन करें जो आप ऐप में इस्तेमाल करते हैं: iPhone पर Apple, Android पर Google। हम उसी खाते पर सदस्यता चालू करेंगे। आपको और कुछ नहीं करना है।',
     button: 'Apple से साइन इन करें',
+    google: 'Google से साइन इन करें',
     busy: 'जोड़ा जा रहा है…',
     done: 'हो गया! आपका खाता जुड़ गया है। हम सदस्यता चालू करके आपको लिखेंगे।',
     invalid: 'यह लिंक समाप्त हो गया है या पहले ही इस्तेमाल हो चुका है। हमारे ईमेल का जवाब दें, हम नया लिंक भेजेंगे।',
