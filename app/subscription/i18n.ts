@@ -12,7 +12,7 @@ export function subscriptionPath(lang: Lang, page: SubscriptionPage = '') {
 }
 
 export function subscriptionAlternates(page: SubscriptionPage) {
-  return { ru: subscriptionPath('ru', page), en: subscriptionPath('en', page) };
+  return { ru: subscriptionPath('ru', page), en: subscriptionPath('en', page), ...((page === '/privacy' || page === '/terms') ? { 'x-default': subscriptionPath('en', page) } : {}) };
 }
 
 export function formatDate(iso: string, locale: string) {

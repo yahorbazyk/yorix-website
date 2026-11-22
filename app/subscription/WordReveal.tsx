@@ -9,8 +9,8 @@ const UNSPACED = /[\u0E00-\u0E7F\u3040-\u30FF\u3400-\u9FFF\uF900-\uFAFF]/;
 // The hero headline, word by word. Same contract as Reveal's `load`: the
 // server renders the whole sentence, the words only replay their entrance
 // when hydration was quick, and reduced motion means no movement at all.
-// A visually hidden copy carries the sentence for assistive tech; the
-// words are presentation. `tones` optionally colours words by index.
+// The visible words carry the accessible sentence once.
+// `tones` optionally colours words by index.
 export function WordReveal({ text, delay = 0, tones, parts }: { text: string; delay?: number; tones?: string[]; parts?: { text: string; tone: string }[] }) {
   const reduced = useReducedMotion();
   const [mode, setMode] = useState<'static' | 'armed' | 'play'>('static');
@@ -35,10 +35,8 @@ export function WordReveal({ text, delay = 0, tones, parts }: { text: string; de
   if (parts && UNSPACED.test(text)) {
     return (
       <>
-        <span className="sr-only">{text}</span>
         <motion.span
           animate={mode === 'armed' ? { opacity: 0, y: 18 } : { opacity: 1, y: 0 }}
-          aria-hidden="true"
           className="block"
           initial={false}
           transition={mode === 'play' ? { duration: 0.7, ease: EASE, delay: delay / 1000 } : { duration: 0 }}
@@ -59,9 +57,8 @@ export function WordReveal({ text, delay = 0, tones, parts }: { text: string; de
     : text.split(' ').map((word, index, all) => ({ word, space: index < all.length - 1, tone: tones?.[index] ?? '' }));
   return (
     <>
-      <span className="sr-only">{text}</span>
       {words.map(({ word, space, tone }, index) => (
-        <span aria-hidden="true" key={`${index}-${word}`}>
+        <span key={`${index}-${word}`}>
           {word ? (
             <motion.span
               animate={mode === 'armed' ? { opacity: 0, y: 18 } : { opacity: 1, y: 0 }}

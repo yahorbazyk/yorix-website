@@ -43,8 +43,10 @@ def main():
         page.feed(html)
         assert status == 200 and page.html.get('lang') == 'en', ('internal home', status, page.html)
         count += 1
-    status, headers, _ = seo.request(args.base, '/', browser)
-    assert status == 302 and urlsplit(headers['Location']).path == '/ru', 'Initial language selection changed'
+    status, _, html = seo.request(args.base, '/', browser)
+    page = seo.Page()
+    page.feed(html)
+    assert status == 200 and page.html.get('lang') == 'en', 'Homepage must stay English'
     count += 1
     status, headers, _ = seo.request(args.base, '/ru/newborn-sleep-schedule?lang=ru', browser)
     assert status == 302 and urlsplit(headers['Location']).path == '/ru/newborn-sleep-schedule'

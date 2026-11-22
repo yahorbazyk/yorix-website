@@ -137,6 +137,30 @@ def write_outputs(deploy_date):
         node = ET.SubElement(root, f'{{{NS}}}url')
         ET.SubElement(node, f'{{{NS}}}loc').text = article['canonical']
         ET.SubElement(node, f'{{{NS}}}lastmod').text = article['updated']
+    # Only existing sitemap URLs may participate in alternate clusters.
+    xhtml = 'http://www.w3.org/1999/xhtml'
+    ET.register_namespace('xhtml', xhtml)
+    locales = set('ar cs da de es fr he hi id it ja ms nl no pl pt ru sv th tr uk vi'.split())
+    clusters = {}
+    for node in root:
+        url = node.find(f'{{{NS}}}loc').text
+        path = url.removeprefix('https://yorix-app.com').strip('/')
+        first, _, rest = path.partition('/')
+        lang, key = (first, rest) if first in locales else ('en', path)
+        clusters.setdefault(key, {})[lang] = url
+    for node in root:
+        url = node.find(f'{{{NS}}}loc').text
+        path = url.removeprefix('https://yorix-app.com').strip('/')
+        first, _, rest = path.partition('/')
+        key = rest if first in locales else path
+        links = clusters[key]
+        for child in list(node):
+            if child.tag == f'{{{xhtml}}}link':
+                node.remove(child)
+        for lang, href in {'x-default': links.get('en', url), **links}.items():
+            ET.SubElement(node, f'{{{xhtml}}}link', rel='alternate', hreflang=lang, href=href)
+        if node.find(f'{{{NS}}}lastmod') is None:
+            ET.SubElement(node, f'{{{NS}}}lastmod').text = deploy_date
     ET.indent(tree, space='  ')
     xml = '<?xml version="1.0" encoding="UTF-8"?>\n' + ET.tostring(root, encoding='unicode') + '\n'
     for name in ('sitemap.xml', 'sitemap-pages.xml'):

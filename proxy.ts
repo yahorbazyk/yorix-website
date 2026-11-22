@@ -1,6 +1,6 @@
 import { NextResponse, type NextRequest } from 'next/server';
 import { legacyHosts, siteUrl } from './app/content';
-import { isSiteLang, LANG_COOKIE, localizedPath, preferredLanguage, type SiteLang } from './app/language';
+import { isSiteLang, LANG_COOKIE, localizedPath, preferredLanguage } from './app/language';
 import { currencyForVisitor, sellsOnWeb } from './app/subscription/currency';
 import { codeFromInput, formatGiftCode } from './app/subscription/gift/code';
 import { API_BASE } from './app/subscription/config';
@@ -57,8 +57,8 @@ function withSecurityHeaders(response: NextResponse, nonce = newNonce()) {
 // redirected by what their Accept-Language happens to say.
 const CRAWLER = /bot|crawl|spider|slurp|mediapartners|facebookexternalhit|embedly|whatsapp|telegram|vkshare|preview|lighthouse|headless/i;
 
-// Explicit page URLs determine their language. Automatic selection applies
-// only to an initial homepage visit, never to articles or internal navigation.
+// Explicit page URLs determine their language. Automatic selection never overrides
+// an explicit document URL, including an initial homepage visit.
 // The header menu's `?lang=` choice is still saved for future landing visits.
 function languageRedirect(request: NextRequest): NextResponse | null {
   if (request.method !== 'GET' && request.method !== 'HEAD') return null;
@@ -75,34 +75,9 @@ function languageRedirect(request: NextRequest): NextResponse | null {
     return response;
   }
 
-  if (url.pathname !== '/') return null;
-  if (request.headers.get('sec-fetch-site') === 'same-origin') return null;
-  const referrer = request.headers.get('referer');
-  if (referrer) {
-    try {
-      const sourceOrigin = new URL(referrer).origin;
-      // Production's upstream URL can differ from the public site origin.
-      if (sourceOrigin === url.origin || sourceOrigin === new URL(siteUrl).origin) return null;
-    } catch {
-      // A malformed optional referrer does not decide the language.
-    }
-  }
-
-  const saved = request.cookies.get(LANG_COOKIE)?.value;
-  let lang: SiteLang;
-  if (isSiteLang(saved)) lang = saved;
-  else if (CRAWLER.test(request.headers.get('user-agent') ?? '')) return null;
-  else lang = preferredLanguage(request.headers.get('accept-language'), visitorCountry(request.headers));
-  if (lang === 'en') return null;
-
-  const target = localizedPath(url.pathname, lang);
-  if (!target) return null;
-  const next = url.clone();
-  next.pathname = target;
-  const response = NextResponse.redirect(next, 302);
-  response.headers.set('Vary', 'Accept-Language, Cookie');
-  response.headers.set('Cache-Control', 'private, no-store');
-  return response;
+  // A document URL determines its language, including the English homepage.
+  // Browser preferences, cookies and IP must not redirect an explicit URL.
+  return null;
 }
 
 // The site sells by card only to Belarus and Russia; for everyone else it is

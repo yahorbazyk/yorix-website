@@ -104,6 +104,20 @@ export function SeoArticlePage({ page, locale, ui = getArticleUiCopy(locale) }: 
 
   return (
     <main className="home-page relative flex min-h-screen flex-col overflow-x-clip text-white" dir={isRtl(locale ?? 'en') ? 'rtl' : undefined} lang={locale ?? 'en'}>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@graph': [
+          { '@type': 'Article', headline: page.title, description: page.description,
+            inLanguage: locale ?? 'en', url: `https://yorix-app.com${homePath === '/' ? '' : homePath}/${page.slug}`,
+            mainEntityOfPage: { '@type': 'WebPage', '@id': `https://yorix-app.com${homePath === '/' ? '' : homePath}/${page.slug}` },
+            author: { '@type': 'Organization', name: 'Yorix' }, publisher: { '@type': 'Organization', name: 'Yorix' } },
+          { '@type': 'BreadcrumbList', itemListElement: [
+            { '@type': 'ListItem', position: 1, name: 'Yorix', item: `https://yorix-app.com${homePath}` },
+            { '@type': 'ListItem', position: 2, name: ui.backToGuides, item: `https://yorix-app.com${guidePath}` },
+            { '@type': 'ListItem', position: 3, name: page.title, item: `https://yorix-app.com${homePath === '/' ? '' : homePath}/${page.slug}` },
+          ] },
+        ],
+      }).replace(/</g, '\\u003c') }} />
       <meta content={banner} name="apple-itunes-app" />
       <ScrollProgress />
       <StarField />
