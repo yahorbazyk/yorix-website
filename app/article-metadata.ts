@@ -1,3 +1,4 @@
+import pilots from './article/pilot-articles.generated.json';
 import type { Metadata } from 'next';
 import { translatedArticleAlternates } from './article-localizations';
 import { siteUrl, type TopicPage } from './content';
@@ -5,7 +6,7 @@ import { localeCopy, type Locale } from './locales';
 
 // Every language in an article cluster must publish the same return links.
 export function articleLanguages(slug: string) {
-  return { 'x-default': `/${slug}`, en: `/${slug}`, ...translatedArticleAlternates(slug) };
+  return { 'x-default': `/${slug}`, en: `/${slug}`, ...translatedArticleAlternates(slug), ...Object.fromEntries(pilots.filter(p => p.slug === slug && p.type !== 'LANG-ONLY').map(p => [p.locale, `/${p.locale}/${p.slug}`])) };
 }
 
 export function articleMetadata(page: TopicPage, locale?: Locale): Metadata {

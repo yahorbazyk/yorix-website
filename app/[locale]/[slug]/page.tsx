@@ -1,3 +1,5 @@
+import pilots from '../../article/pilot-articles.generated.json';
+import { getPilot, pilotMetadata, PilotArticlePage } from '../../article/PilotArticlePage';
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import {
@@ -19,12 +21,14 @@ type LocalizedArticleRouteProps = {
 };
 
 export function generateStaticParams() {
-  return translatedArticleSlugs.filter((slug) => !isRetiredArticle(slug)).flatMap((slug) =>
-    getTranslatedLocalesForArticle(slug).map((locale) => ({ locale, slug })),
-  );
+  return [...pilots.map(p => ({ locale: p.locale, slug: p.slug })), ...translatedArticleSlugs.filter((slug) => !isRetiredArticle(slug)).flatMap((slug) =>
+    getTranslatedLocalesForArticle(slug).filter(locale => !getPilot(locale, slug)).map((locale) => ({ locale, slug })),
+  )];
 }
 
 export function generateMetadata({ params }: LocalizedArticleRouteProps): Metadata {
+  const pilot = getPilot(params.locale, params.slug);
+  if (pilot) return pilotMetadata(pilot);
   if (!isLocale(params.locale) || !isTranslatedArticleSlug(params.slug)) {
     return {};
   }
@@ -39,6 +43,8 @@ export function generateMetadata({ params }: LocalizedArticleRouteProps): Metada
 }
 
 export default function LocalizedArticleRoute({ params }: LocalizedArticleRouteProps) {
+  const pilot = getPilot(params.locale, params.slug);
+  if (pilot) return <PilotArticlePage article={pilot} />;
   if (!isLocale(params.locale) || !isTranslatedArticleSlug(params.slug)) {
     notFound();
   }

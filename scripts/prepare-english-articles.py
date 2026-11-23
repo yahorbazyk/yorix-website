@@ -137,6 +137,22 @@ def write_outputs(deploy_date):
         node = ET.SubElement(root, f'{{{NS}}}url')
         ET.SubElement(node, f'{{{NS}}}loc').text = article['canonical']
         ET.SubElement(node, f'{{{NS}}}lastmod').text = article['updated']
+    pilots_path = ROOT / 'app/article/pilot-articles.generated.json'
+    if pilots_path.exists():
+        for pilot in json.loads(pilots_path.read_text()):
+            existing = next((u for u in root if u.find(f'{{{NS}}}loc').text == pilot['canonical']), None)
+            if existing is None:
+                existing = ET.SubElement(root, f'{{{NS}}}url')
+                ET.SubElement(existing, f'{{{NS}}}loc').text = pilot['canonical']
+            modified = existing.find(f'{{{NS}}}lastmod')
+            if modified is None:
+                modified = ET.SubElement(existing, f'{{{NS}}}lastmod')
+            modified.text = pilot['date']
+            if pilot['type'] == 'NEW':
+                english = pilot['canonical'].replace('/' + pilot['locale'] + '/', '/', 1)
+                for u in root:
+                    if u.find(f'{{{NS}}}loc').text == english:
+                        u.find(f'{{{NS}}}lastmod').text = pilot['date']
     # Only existing sitemap URLs may participate in alternate clusters.
     xhtml = 'http://www.w3.org/1999/xhtml'
     ET.register_namespace('xhtml', xhtml)
