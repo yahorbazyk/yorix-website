@@ -136,13 +136,16 @@ class EnglishArticlesTests(unittest.TestCase):
         self.assertEqual(first, (ROOT / 'public/sitemap-pages.xml').read_bytes())
         tree = ET.fromstring(first)
         urls = {u.find('s:loc', ns).text: u.find('s:lastmod', ns) for u in tree}
-        self.assertEqual(len(urls), 521)
+        self.assertEqual(len(urls), 521 + sum(p['type'] != 'REPLACE' for p in json.loads((ROOT / 'app/article/pilot-articles.generated.json').read_text())))
         for url in urls:
             self.assertNotIn(url.rsplit('/', 1)[-1], prepare.MERGES)
+        pilots = json.loads((ROOT / 'app/article/pilot-articles.generated.json').read_text())
         for a in self.articles:
-            self.assertEqual(urls[a['canonical']].text, a['updated'])
+            paired = [p for p in pilots if p['slug'] == a['slug'] and p['type'] == 'NEW']
+            self.assertEqual(urls[a['canonical']].text, max([a['updated'], *[p['date'] for p in paired]]))
             if not a['replaces']:
-                self.assertFalse(any(url.endswith(a['path']) and url != a['canonical'] for url in urls))
+                allowed = {a['canonical'], *[p['canonical'] for p in paired]}
+                self.assertFalse(any(url.endswith(a['path']) and url not in allowed for url in urls))
 
     def test_phase_four_week_hub_and_no_duplicate_pilot_faqs(self):
         release = json.loads((ROOT / 'content/en/releases/phase-4/summary.json').read_text())

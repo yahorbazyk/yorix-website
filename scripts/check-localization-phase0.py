@@ -25,4 +25,4 @@ def check(url):
   assert g[0]['url']==url,url
 with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:list(pool.map(check,urls))
 assert (root/'public/robots.txt').read_text().count('Sitemap:')==1
-print('PASS: all 521 HTML/sitemap alternate sets match; localized JSON-LD and single robots sitemap verified')
+print('PASS: all HTML/sitemap alternate sets match; localized JSON-LD and single robots sitemap verified')
