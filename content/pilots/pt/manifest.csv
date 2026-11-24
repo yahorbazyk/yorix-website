@@ -1,0 +1,31 @@
+lang,slug,type,url,H1,file,phase
+pt,newborn-sleep-schedule,REPLACE,https://yorix-app.com/pt/newborn-sleep-schedule,Sono do recém-nascido: quantas horas dorme e como é a rotina nas primeiras semanas,pt/articles/newborn-sleep-schedule.md,2
+pt,3-month-old-sleep-schedule,REPLACE,https://yorix-app.com/pt/3-month-old-sleep-schedule,"Bebê de 3 meses: sono, rotina e janela de sono",pt/articles/3-month-old-sleep-schedule.md,2
+pt,4-month-old-sleep-schedule,REPLACE,https://yorix-app.com/pt/4-month-old-sleep-schedule,"Bebê de 4 meses: sono, rotina e a famosa crise dos 4 meses",pt/articles/4-month-old-sleep-schedule.md,2
+pt,5-month-old-sleep-schedule,REPLACE,https://yorix-app.com/pt/5-month-old-sleep-schedule,"Bebê de 5 meses: sono, rotina e sonecas",pt/articles/5-month-old-sleep-schedule.md,2
+pt,6-month-old-sleep-schedule,NEW,https://yorix-app.com/pt/6-month-old-sleep-schedule,"Bebê de 6 meses: sono, rotina e introdução alimentar",pt/articles/6-month-old-sleep-schedule.md,2
+pt,10-month-old-sleep-schedule,REPLACE,https://yorix-app.com/pt/10-month-old-sleep-schedule,"Bebê de 10 meses: sono, rotina e sonecas",pt/articles/10-month-old-sleep-schedule.md,2
+pt,baby-feeding-schedule,REPLACE,https://yorix-app.com/pt/baby-feeding-schedule,De quanto em quanto tempo o bebê mama? Intervalo das mamadas e quantidade por idade,pt/articles/baby-feeding-schedule.md,2
+pt,baby-nap-schedule-by-age,REPLACE,https://yorix-app.com/pt/baby-nap-schedule-by-age,"Sonecas do bebê por idade: quantas, quanto tempo e quando muda",pt/articles/baby-nap-schedule-by-age.md,2
+pt,wake-windows-by-age,REPLACE,https://yorix-app.com/pt/wake-windows-by-age,Janela de sono do bebê: tabela por idade e como usar,pt/articles/wake-windows-by-age.md,2
+pt,survive-night-wakings-new-parents,REPLACE,https://yorix-app.com/pt/survive-night-wakings-new-parents,Bebê acorda muito à noite: o que é normal e como os pais podem aguentar,pt/articles/survive-night-wakings-new-parents.md,2
+pt,white-noise-for-baby-sleep,REPLACE,https://yorix-app.com/pt/white-noise-for-baby-sleep,Ruído branco para bebê dormir: funciona e é seguro?,pt/articles/white-noise-for-baby-sleep.md,2
+pt,ferber-method-baby-sleep,REPLACE,https://yorix-app.com/pt/ferber-method-baby-sleep,"Método Ferber (e o “Nana, nenê”): como funciona, críticas e alternativas",pt/articles/ferber-method-baby-sleep.md,2
+pt,sleep-training-methods-explained,REPLACE,https://yorix-app.com/pt/sleep-training-methods-explained,Treinamento do sono: métodos do mais gentil ao Ferber,pt/articles/sleep-training-methods-explained.md,2
+pt,sleep-regression,NEW,https://yorix-app.com/pt/sleep-regression,"Regressão do sono: o que é, idades mais comuns e quanto dura",pt/articles/sleep-regression.md,2
+pt,developmental-leaps-and-baby-sleep,NEW,https://yorix-app.com/pt/developmental-leaps-and-baby-sleep,Saltos de desenvolvimento e sono: o que é verdade e o que ajuda,pt/articles/developmental-leaps-and-baby-sleep.md,2
+pt,bedtime-routine-for-baby,NEW,https://yorix-app.com/pt/bedtime-routine-for-baby,Rotina do sono do bebê: como montar um ritual que funciona,pt/articles/bedtime-routine-for-baby.md,2
+pt,how-much-sleep-does-a-baby-need,NEW,https://yorix-app.com/pt/how-much-sleep-does-a-baby-need,Quantas horas o bebê dorme? Tabela de sono por idade,pt/articles/how-much-sleep-does-a-baby-need.md,2
+pt,when-do-babies-sleep-through-the-night,NEW,https://yorix-app.com/pt/when-do-babies-sleep-through-the-night,Quando o bebê dorme a noite toda? O que “noite toda” significa de verdade,pt/articles/when-do-babies-sleep-through-the-night.md,2
+pt,safe-sleep-for-babies,NEW,https://yorix-app.com/pt/safe-sleep-for-babies,Sono seguro do bebê: como reduzir o risco de morte súbita,pt/articles/safe-sleep-for-babies.md,2
+pt,bed-sharing-and-co-sleeping,NEW,https://yorix-app.com/pt/bed-sharing-and-co-sleeping,"Cama compartilhada com o bebê: riscos, regras e o que os pediatras dizem",pt/articles/bed-sharing-and-co-sleeping.md,2
+pt,baby-sleeping-on-stomach,NEW,https://yorix-app.com/pt/baby-sleeping-on-stomach,Bebê pode dormir de bruços ou de lado? O que dizem os pediatras,pt/articles/baby-sleeping-on-stomach.md,2
+pt,colic,NEW,https://yorix-app.com/pt/colic,"Cólica do bebê e sono: quando começa, quanto dura e o que ajuda",pt/articles/colic.md,2
+pt,why-does-my-baby-fight-sleep,NEW,https://yorix-app.com/pt/why-does-my-baby-fight-sleep,Bebê briga com o sono: por que acontece e o que fazer,pt/articles/why-does-my-baby-fight-sleep.md,2
+pt,baby-sleep-cues,NEW,https://yorix-app.com/pt/baby-sleep-cues,Sinais de sono do bebê: como reconhecer antes do choro,pt/articles/baby-sleep-cues.md,2
+pt,what-time-should-baby-go-to-bed,NEW,https://yorix-app.com/pt/what-time-should-baby-go-to-bed,Que horas o bebê deve dormir? Horário de dormir por idade,pt/articles/what-time-should-baby-go-to-bed.md,2
+pt,how-to-swaddle-a-baby,NEW,https://yorix-app.com/pt/how-to-swaddle-a-baby,Charutinho no bebê: pode? Como fazer e até quando,pt/articles/how-to-swaddle-a-baby.md,2
+pt,bebe-dormir-na-rede,LANG-ONLY,https://yorix-app.com/pt/bebe-dormir-na-rede,"Bebê pode dormir na rede? O que dizem SBP, Ministério da Saúde e especialistas",pt/articles/bebe-dormir-na-rede.md,2
+pt,temperatura-quarto-bebe,LANG-ONLY,https://yorix-app.com/pt/temperatura-quarto-bebe,"Temperatura ideal do quarto do bebê: calor, ventilador e ar-condicionado",pt/articles/temperatura-quarto-bebe.md,2
+pt,cha-para-bebe-dormir,LANG-ONLY,https://yorix-app.com/pt/cha-para-bebe-dormir,Chá para bebê dormir: pode dar? O que dizem o Ministério da Saúde e a SBP,pt/articles/cha-para-bebe-dormir.md,2
+pt,consultas-puericultura-sono,LANG-ONLY,https://yorix-app.com/pt/consultas-puericultura-sono,Consultas de puericultura e sono: o que levar e perguntar em cada idade,pt/articles/consultas-puericultura-sono.md,2
