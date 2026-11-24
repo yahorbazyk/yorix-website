@@ -21,7 +21,7 @@ type LocalizedArticleRouteProps = {
 };
 
 export function generateStaticParams() {
-  return [...pilots.map(p => ({ locale: p.locale, slug: p.slug })), ...translatedArticleSlugs.filter((slug) => !isRetiredArticle(slug)).flatMap((slug) =>
+  return [...pilots.filter(p => !p.slug.includes('/')).map(p => ({ locale: p.locale, slug: p.slug })), ...translatedArticleSlugs.filter((slug) => !isRetiredArticle(slug)).flatMap((slug) =>
     getTranslatedLocalesForArticle(slug).filter(locale => !getPilot(locale, slug)).map((locale) => ({ locale, slug })),
   )];
 }

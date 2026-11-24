@@ -1,7 +1,8 @@
-import urllib.request,json,xml.etree.ElementTree as ET,concurrent.futures
+import argparse,urllib.request,json,xml.etree.ElementTree as ET,concurrent.futures
 from html.parser import HTMLParser
 from pathlib import Path
 root=Path(__file__).resolve().parents[1]
+parser=argparse.ArgumentParser();parser.add_argument('--base',default='http://localhost:3004');args=parser.parse_args()
 tree=ET.parse(root/'public/sitemap.xml');expected={u.find('{*}loc').text:{l.get('hreflang'):l.get('href') for l in u.findall('{http://www.w3.org/1999/xhtml}link')} for u in tree.getroot()}
 class P(HTMLParser):
  def __init__(self):super().__init__();self.links={};self.schema=[];self.active=False
@@ -15,7 +16,7 @@ class P(HTMLParser):
   if t=='script':self.active=False
 urls=list(expected)
 def check(url):
- req=urllib.request.Request(url.replace('https://yorix-app.com','http://localhost:3004'),headers={'User-Agent':'Mozilla/5.0','Accept-Language':'de','Cookie':'yorix-lang=ru'})
+ req=urllib.request.Request(url.replace('https://yorix-app.com',args.base),headers={'User-Agent':'Mozilla/5.0','Accept-Language':'de','Cookie':'yorix-lang=ru'})
  with urllib.request.urlopen(req,timeout=40) as r:s=r.read().decode()
  p=P();p.feed(s);actual={k:('https://yorix-app.com'+v if v.startswith('/') else v) for k,v in p.links.items()}
  assert {k:v.rstrip('/') for k,v in actual.items()}=={k:v.rstrip('/') for k,v in expected[url].items()},(url,actual,expected[url])
