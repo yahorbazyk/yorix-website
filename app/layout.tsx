@@ -68,7 +68,7 @@ export default async function RootLayout({
   const value = (await headers()).get(DOCUMENT_LOCALE_HEADER) ?? 'en';
   const locale = isLocale(value) ? value : 'en';
   return (
-    <html lang={locale} dir={locale === 'ar' || locale === 'he' ? 'rtl' : 'ltr'}>
+    <html lang={locale === 'pt' ? 'pt-BR' : locale} dir={locale === 'ar' || locale === 'he' ? 'rtl' : 'ltr'}>
       <body>
         <SmoothScroll />
         <Spotlight />
