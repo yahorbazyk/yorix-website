@@ -1,0 +1,51 @@
+lang,slug,type,url,H1,file,phase
+ar,newborn-sleep-schedule,REPLACE,https://yorix-app.com/ar/newborn-sleep-schedule,نوم حديث الولادة: كم ساعة ينام المولود وما الطبيعي في الأسابيع الأولى؟,newborn-sleep-schedule.md,pilot
+ar,3-month-old-sleep-schedule,REPLACE,https://yorix-app.com/ar/3-month-old-sleep-schedule,نوم الطفل في الشهر الثالث: عدد الساعات والقيلولات وبداية انتظام الليل,3-month-old-sleep-schedule.md,pilot
+ar,4-month-old-sleep-schedule,REPLACE,https://yorix-app.com/ar/4-month-old-sleep-schedule,نوم الطفل في الشهر الرابع: لماذا تتقطع الليالي وكيف تنظمين يومه؟,4-month-old-sleep-schedule.md,pilot
+ar,5-month-old-sleep-schedule,REPLACE,https://yorix-app.com/ar/5-month-old-sleep-schedule,نوم الطفل في الشهر الخامس: الساعات والقيلولات وصعوبة النوم,5-month-old-sleep-schedule.md,pilot
+ar,10-month-old-sleep-schedule,REPLACE,https://yorix-app.com/ar/10-month-old-sleep-schedule,نوم الطفل في الشهر العاشر: قيلولتان وليل أطول وقلق الانفصال,10-month-old-sleep-schedule.md,pilot
+ar,baby-feeding-schedule,REPLACE,https://yorix-app.com/ar/baby-feeding-schedule,جدول رضاعة الطفل حسب العمر: كم مرة يرضع وكيف تعرفين أنه شبع؟,baby-feeding-schedule.md,pilot
+ar,baby-nap-schedule-by-age,REPLACE,https://yorix-app.com/ar/baby-nap-schedule-by-age,قيلولة الرضيع حسب العمر: كم قيلولة يحتاج طفلك وكم تطول؟,baby-nap-schedule-by-age.md,pilot
+ar,ferber-method-baby-sleep,REPLACE,https://yorix-app.com/ar/ferber-method-baby-sleep,طريقة فيربر لتنظيم نوم الرضيع: الخطوات والفترات والانتقادات,ferber-method-baby-sleep.md,pilot
+ar,sleep-training-methods-explained,REPLACE,https://yorix-app.com/ar/sleep-training-methods-explained,تدريب الطفل على النوم: الطرق الأساسية ومن أي عمر وهل يضر؟,sleep-training-methods-explained.md,pilot
+ar,survive-night-wakings-new-parents,REPLACE,https://yorix-app.com/ar/survive-night-wakings-new-parents,استيقاظ الرضيع ليلًا: ما الطبيعي وكيف تصمدين أنتِ وزوجك؟,survive-night-wakings-new-parents.md,pilot
+ar,wake-windows-by-age,REPLACE,https://yorix-app.com/ar/wake-windows-by-age,فترات استيقاظ الرضيع حسب العمر: جدول وعلامات النعاس,wake-windows-by-age.md,pilot
+ar,white-noise-for-baby-sleep,REPLACE,https://yorix-app.com/ar/white-noise-for-baby-sleep,الصوت الأبيض لنوم الرضيع: هل يساعد وهل له أضرار؟,white-noise-for-baby-sleep.md,pilot
+ar,safe-sleep-for-babies,NEW,https://yorix-app.com/ar/safe-sleep-for-babies,النوم الآمن للرضع: كيف تحمين طفلك من موت المهد؟,safe-sleep-for-babies.md,pilot
+ar,baby-sleeping-on-stomach,NEW,https://yorix-app.com/ar/baby-sleeping-on-stomach,نوم الرضيع على بطنه: متى يصبح آمنًا وماذا تفعلين إن انقلب؟,baby-sleeping-on-stomach.md,pilot
+ar,how-to-swaddle-a-baby,NEW,https://yorix-app.com/ar/how-to-swaddle-a-baby,لف الرضيع (القماط): الطريقة الصحيحة ومتى تتوقفين,how-to-swaddle-a-baby.md,pilot
+ar,colic,NEW,https://yorix-app.com/ar/colic,المغص عند الرضع: كيف تعرفينه وتهدئين طفلك ومتى تقلقين؟,colic.md,pilot
+ar,baby-crying-in-sleep,NEW,https://yorix-app.com/ar/baby-crying-in-sleep,الطفل يبكي وهو نائم: الأسباب وهل توقظينه؟,baby-crying-in-sleep.md,pilot
+ar,why-wont-my-baby-sleep,NEW,https://yorix-app.com/ar/why-wont-my-baby-sleep,طفلي لا ينام: الأسباب الشائعة حسب العمر وماذا تفعلين,why-wont-my-baby-sleep.md,pilot
+ar,bed-sharing-and-co-sleeping,NEW,https://yorix-app.com/ar/bed-sharing-and-co-sleeping,نوم الرضيع مع الأم في السرير: الفوائد والأضرار وأين ينام بأمان,bed-sharing-and-co-sleeping.md,pilot
+ar,2-month-old-sleep-schedule,NEW,https://yorix-app.com/ar/2-month-old-sleep-schedule,نوم الطفل في الشهر الثاني: عدد الساعات وبكاء المساء وأول ابتسامة,2-month-old-sleep-schedule.md,pilot
+ar,12-month-old-sleep-schedule,NEW,https://yorix-app.com/ar/12-month-old-sleep-schedule,نوم الطفل عمر سنة: عدد الساعات والقيلولة ومشكلات الليل,12-month-old-sleep-schedule.md,pilot
+ar,2-year-old-sleep-schedule,NEW,https://yorix-app.com/ar/2-year-old-sleep-schedule,نوم الطفل عمر سنتين: كم ساعة ينام ولماذا يرفض النوم؟,2-year-old-sleep-schedule.md,pilot
+ar,how-much-sleep-does-a-baby-need,NEW,https://yorix-app.com/ar/how-much-sleep-does-a-baby-need,عدد ساعات نوم الطفل حسب العمر: جدول من الولادة حتى 5 سنوات,how-much-sleep-does-a-baby-need.md,pilot
+ar,bedtime-routine-for-baby,NEW,https://yorix-app.com/ar/bedtime-routine-for-baby,روتين نوم الطفل: خطوات بسيطة لتنويم الطفل بسرعة وبهدوء,bedtime-routine-for-baby.md,pilot
+ar,teething-symptoms,NEW,https://yorix-app.com/ar/teething-symptoms,أعراض التسنين ونوم الطفل: ما الطبيعي وما ليس من التسنين؟,teething-symptoms.md,pilot
+ar,when-do-babies-sleep-through-the-night,NEW,https://yorix-app.com/ar/when-do-babies-sleep-through-the-night,متى ينام الرضيع طوال الليل؟ ما الطبيعي في كل عمر,when-do-babies-sleep-through-the-night.md,pilot
+ar,baby-sleep-in-ramadan,LANG-ONLY,https://yorix-app.com/ar/baby-sleep-in-ramadan,نوم الطفل في رمضان: كيف تحافظين على روتينه مع السحور والإفطار؟,baby-sleep-in-ramadan.md,pilot
+ar,baby-room-temperature,LANG-ONLY,https://yorix-app.com/ar/baby-room-temperature,درجة حرارة غرفة الرضيع والمكيف: كم تضبطين الحرارة وماذا يلبس؟,baby-room-temperature.md,pilot
+ar,herbal-drinks-for-baby-sleep,LANG-ONLY,https://yorix-app.com/ar/herbal-drinks-for-baby-sleep,اليانسون والأعشاب لنوم الرضيع: هل هي آمنة؟,herbal-drinks-for-baby-sleep.md,pilot
+ar,baby-sleep-after-vaccination,LANG-ONLY,https://yorix-app.com/ar/baby-sleep-after-vaccination,نوم الطفل بعد التطعيم: كثرة النوم أو البكاء، ما الطبيعي؟,baby-sleep-after-vaccination.md,pilot
+ar,fever-baby-at-night,LANG-ONLY,https://yorix-app.com/ar/fever-baby-at-night,حرارة الطفل بالليل: لماذا ترتفع ليلًا، وكيف تتصرفين، ومتى تذهبين إلى الطوارئ؟,fever-baby-at-night.md,wave2
+ar,weaning-breastfeeding,LANG-ONLY,https://yorix-app.com/ar/weaning-breastfeeding,فطام الطفل ونومه: متى تبدئين، وكيف تفطمينه تدريجيًا دون أن تنقلب لياليه؟,weaning-breastfeeding.md,wave2
+ar,baby-hammock-cradle,LANG-ONLY,https://yorix-app.com/ar/baby-hammock-cradle,مهد الطفل الهزاز والسرير الهزاز الكهربائي: هل هو آمن لنوم الرضيع؟,baby-hammock-cradle.md,wave2
+ar,gentle-sleep-training,NEW,https://yorix-app.com/ar/gentle-sleep-training,تعليم الطفل النوم بدون بكاء: طرق هادئة خطوة بخطوة ومتى تنجح,gentle-sleep-training.md,wave2
+ar,screens-and-toddler-sleep,NEW,https://yorix-app.com/ar/screens-and-toddler-sleep,الشاشات ونوم الأطفال: كم دقيقة مسموحة حسب العمر، ومتى تُطفأ قبل النوم؟,screens-and-toddler-sleep.md,wave2
+ar,what-time-should-baby-go-to-bed,NEW,https://yorix-app.com/ar/what-time-should-baby-go-to-bed,متى ينام الطفل ليلًا؟ أفضل موعد للنوم حسب العمر، ومع سهر البيت العربي,what-time-should-baby-go-to-bed.md,wave2
+ar,6-month-old-sleep-schedule,NEW,https://yorix-app.com/ar/6-month-old-sleep-schedule,نوم الطفل في الشهر السادس: الساعات والقيلولات وأثر بدء الطعام,6-month-old-sleep-schedule.md,wave2
+ar,8-month-old-sleep-schedule,NEW,https://yorix-app.com/ar/8-month-old-sleep-schedule,نوم الطفل في الشهر الثامن: قيلولتان، حبو، وبداية الخوف من ابتعادكِ,8-month-old-sleep-schedule.md,wave2
+ar,9-month-old-sleep-schedule,NEW,https://yorix-app.com/ar/9-month-old-sleep-schedule,نوم الطفل في الشهر التاسع: جدول يومي، وقوف في السرير، وصحوات ليلية,9-month-old-sleep-schedule.md,wave2
+ar,sleep-regression,NEW,https://yorix-app.com/ar/sleep-regression,تراجع النوم عند الأطفال (انتكاسة النوم): ما هو، ومتى يحدث، وكم يستمر؟,sleep-regression.md,wave2
+ar,separation-anxiety-and-sleep,NEW,https://yorix-app.com/ar/separation-anxiety-and-sleep,قلق الانفصال عند الأطفال والنوم: لماذا يبكي عندما تخرجين من الغرفة؟,separation-anxiety-and-sleep.md,wave2
+ar,baby-sweating-in-sleep,NEW,https://yorix-app.com/ar/baby-sweating-in-sleep,تعرق الطفل أثناء النوم: متى يكون طبيعيًا، ومتى يدل على حر زائد أو مرض؟,baby-sweating-in-sleep.md,wave2
+ar,pacifier-and-sleep,NEW,https://yorix-app.com/ar/pacifier-and-sleep,اللهاية (السكاتة) والنوم: فوائدها، أضرارها، ومتى تتوقفين عنها؟,pacifier-and-sleep.md,wave2
+ar,baby-sleep-and-travel,NEW,https://yorix-app.com/ar/baby-sleep-and-travel,نوم الطفل في السفر: الطائرة والسيارة ورحلة العمرة مع رضيع,baby-sleep-and-travel.md,wave2
+ar,night-terrors,NEW,https://yorix-app.com/ar/night-terrors,الفزع الليلي عند الأطفال: صراخ في أول الليل لا يتذكره طفلك في الصباح,night-terrors.md,wave2
+ar,reflux-and-baby-sleep,NEW,https://yorix-app.com/ar/reflux-and-baby-sleep,ارتجاع المريء عند الرضع والنوم: هل يرفع رأسه؟ وكيف ينام بأمان مع الترجيع؟,reflux-and-baby-sleep.md,wave2
+ar,sleep-sacks,NEW,https://yorix-app.com/ar/sleep-sacks,كيس النوم للرضيع: هل هو أفضل من البطانية؟ وكيف تختارين السماكة لبيت مكيف؟,sleep-sacks.md,wave2
+ar,dream-feed,NEW,https://yorix-app.com/ar/dream-feed,رضعة الحلم ورضاعة الطفل وهو نائم: هل تطيل نومه فعلًا؟,dream-feed.md,wave2
+ar,startle-reflex-and-sleep,NEW,https://yorix-app.com/ar/startle-reflex-and-sleep,منعكس مورو عند الرضع: لماذا يفزع طفلك من نومه ويرفع يديه فجأة؟,startle-reflex-and-sleep.md,wave2
+ar,teeth-grinding-in-sleep,NEW,https://yorix-app.com/ar/teeth-grinding-in-sleep,صرير الأسنان عند الأطفال أثناء النوم: الأسباب والعلاج ومتى تقلقين,teeth-grinding-in-sleep.md,wave2

@@ -1,0 +1,21 @@
+lang,slug,type,url,H1,file,phase
+tr,newborn-sleep-schedule,REPLACE,https://yorix-app.com/tr/newborn-sleep-schedule,"Yenidoğan uyku düzeni: ilk haftalarda bebek kaç saat uyur, düzen ne zaman oturur?",newborn-sleep-schedule.md,pilot
+tr,3-month-old-sleep-schedule,REPLACE,https://yorix-app.com/tr/3-month-old-sleep-schedule,"3 aylık bebek uyku düzeni: kaç saat uyur, gündüz kaç kez kestirir?",3-month-old-sleep-schedule.md,pilot
+tr,4-month-old-sleep-schedule,REPLACE,https://yorix-app.com/tr/4-month-old-sleep-schedule,"4 aylık bebek uyku düzeni: uykular neden bozulur, gün nasıl planlanır?",4-month-old-sleep-schedule.md,pilot
+tr,5-month-old-sleep-schedule,REPLACE,https://yorix-app.com/tr/5-month-old-sleep-schedule,"5 aylık bebek uyku düzeni: uyanıklık süreleri, gündüz uykuları ve örnek bir gün",5-month-old-sleep-schedule.md,pilot
+tr,10-month-old-sleep-schedule,REPLACE,https://yorix-app.com/tr/10-month-old-sleep-schedule,"10 aylık bebek uyku düzeni: iki gündüz uykusu, ayrılık kaygısı ve gece uyanmaları",10-month-old-sleep-schedule.md,pilot
+tr,baby-feeding-schedule,REPLACE,https://yorix-app.com/tr/baby-feeding-schedule,"Bebek beslenme saatleri: kaç saatte bir emmeli, gece kaç kez emer?",baby-feeding-schedule.md,pilot
+tr,baby-nap-schedule-by-age,REPLACE,https://yorix-app.com/tr/baby-nap-schedule-by-age,"Bebek gündüz uykusu: yaşa göre kaç uyku, ne kadar süre?",baby-nap-schedule-by-age.md,pilot
+tr,wake-windows-by-age,REPLACE,https://yorix-app.com/tr/wake-windows-by-age,Bebek uyanıklık süresi: aylara göre tablo ve uyku sinyalleri,wake-windows-by-age.md,pilot
+tr,survive-night-wakings-new-parents,REPLACE,https://yorix-app.com/tr/survive-night-wakings-new-parents,"Bebek gece sık uyanıyor: ne normal, anne baba nasıl dayanır?",survive-night-wakings-new-parents.md,pilot
+tr,white-noise-for-baby-sleep,REPLACE,https://yorix-app.com/tr/white-noise-for-baby-sleep,"Bebekler için beyaz gürültü: işe yarar mı, güvenli ses seviyesi ne?",white-noise-for-baby-sleep.md,pilot
+tr,ferber-method-baby-sleep,REPLACE,https://yorix-app.com/tr/ferber-method-baby-sleep,"Ferber yöntemi: nasıl uygulanır, kaç aylıkken, eleştiriler neler?",ferber-method-baby-sleep.md,pilot
+tr,sleep-training-methods-explained,REPLACE,https://yorix-app.com/tr/sleep-training-methods-explained,"Bebeklerde uyku eğitimi: yöntemler, doğru yaş ve ağlatmadan seçenekler",sleep-training-methods-explained.md,pilot
+tr,safe-sleep-for-babies,NEW,https://yorix-app.com/tr/safe-sleep-for-babies,Bebeklerde güvenli uyku: ani bebek ölümü riskini azaltan kurallar,safe-sleep-for-babies.md,pilot
+tr,how-to-swaddle-a-baby,NEW,https://yorix-app.com/tr/how-to-swaddle-a-baby,Kundak nasıl yapılır? Kalçaya zarar vermeyen gevşek kundak ve ne zaman bırakılır,how-to-swaddle-a-baby.md,pilot
+tr,colic,NEW,https://yorix-app.com/tr/colic,"Bebeklerde gaz sancısı (kolik): ne zaman başlar, ne zaman biter, geceleri ne yapılır?",colic.md,pilot
+tr,developmental-leaps-and-baby-sleep,NEW,https://yorix-app.com/tr/developmental-leaps-and-baby-sleep,"Bebeklerde atak dönemleri ve uyku: takvim gerçek mi, ne yapmalı?",developmental-leaps-and-baby-sleep.md,pilot
+tr,how-much-sleep-does-a-baby-need,NEW,https://yorix-app.com/tr/how-much-sleep-does-a-baby-need,Bebek kaç saat uyumalı? Aylara göre uyku süresi tablosu,how-much-sleep-does-a-baby-need.md,pilot
+tr,sleep-regression,NEW,https://yorix-app.com/tr/sleep-regression,"Uyku regresyonu (uyku gerilemesi): nedir, hangi aylarda olur, ne kadar sürer?",sleep-regression.md,pilot
+tr,bebek-odasi-sicakligi,LANG-ONLY,https://yorix-app.com/tr/bebek-odasi-sicakligi,"Bebek odası kaç derece olmalı? Sıcaklık, nem ve geceleri ne giydirmeli",bebek-odasi-sicakligi.md,pilot
+tr,lohusalik-bebek-uykusu,LANG-ONLY,https://yorix-app.com/tr/lohusalik-bebek-uykusu,"40 günlük bebek ve lohusalık: ilk 40 günde uyku, emzirme ve aile desteği",lohusalik-bebek-uykusu.md,pilot

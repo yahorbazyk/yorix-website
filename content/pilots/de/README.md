@@ -15,3 +15,6 @@ Validation: TypeScript, 14 existing content tests, production build, all
 cards, and all 529 HTML/XML alternate clusters. German regression routes
 are intentionally not published in this pilot. English article bodies are
 unchanged. Phase 0 was published separately in PR #11.
+
+Wave 2 (phase `wave2`, published November 25, 2026) is rebuilt with
+`python3 -B scripts/prepare-localized-batch.py --lang de --phase wave2 --date YYYY-MM-DD`.

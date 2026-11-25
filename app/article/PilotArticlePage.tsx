@@ -18,6 +18,8 @@ const copy = {
   de: { language: 'de', ogLocale: 'de_DE', sources: '## Quellen', nav: 'Brotkrumennavigation', home: 'Start', guides: 'Ratgeber', table: 'Übersichtstabelle', cta: 'Yorix im App Store ausprobieren' },
   pt: { language: 'pt-BR', ogLocale: 'pt_BR', sources: '## Fontes', nav: 'Navegação estrutural', home: 'Início', guides: 'Guias', table: 'Tabela informativa', cta: 'Experimentar o Yorix na App Store' },
   es: { language: 'es', ogLocale: 'es_ES', sources: '## Fuentes', nav: 'Migas de pan', home: 'Inicio', guides: 'Guías', table: 'Tabla informativa', cta: 'Probar Yorix en la App Store' },
+  ar: { language: 'ar', ogLocale: 'ar_AR', sources: '## المصادر', nav: 'مسار التنقل', home: 'الرئيسية', guides: 'الأدلة', table: 'جدول معلومات', cta: 'جرّبي Yorix على App Store' },
+  tr: { language: 'tr', ogLocale: 'tr_TR', sources: '## Kaynaklar', nav: 'Sayfa yolu', home: 'Ana sayfa', guides: 'Rehberler', table: 'Bilgi tablosu', cta: "Yorix'i App Store'da dene" },
 } as const;
 export function pilotMetadata(p: Pilot): Metadata {
   const ui = copy[p.locale as keyof typeof copy];
